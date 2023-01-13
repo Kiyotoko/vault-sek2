@@ -100,6 +100,8 @@ Mimimum, da:
 ~~~ad-important
 Ist $f$ in einem abgeschlossenen Intervall $[a, b]$ definiert, so ergeben sich die absoluten Extrema, indem man die relativen Extrema bestimmt und mit den Funktionswerten am Rand vergleicht (Randwerte).
 ~~~
+## Extremwertaufgaben
+
 # Wendepunkte / Wendestellen
 ~~~ad-important
 Ist $f$ im Intervall $]a,b[$ differenzierbar und geht der Graph $f$ beim Durchlaufen eines Punktes $W(x_W|y_W)$ von einer Rechtskurve in eine Linkskurve (oder umgekehrt) über, so heißt $W$ ein Wendepunkt und die Stelle $x_W$ eine Wendestelle von $f$.
