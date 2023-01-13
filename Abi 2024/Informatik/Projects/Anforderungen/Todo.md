@@ -1,0 +1,30 @@
+~~~ad-todo
+__Aufgabenstellung__: Anforderungen an die Informationssicherheit an konkreten Beispielen (Lebensweltbezug)
+- [x] Vertraulichkeit 
+- [x] Integrität 
+- [x] Authentizität 
+- [x] Verbindlichkeit/Anerkennung
+~~~
+
+- __Präsentationsmedium__
+	- PowerPoint
+- __Gliederung__
+	- Definition
+	- Schutzziele
+	- Bedrohungen
+	- Maßnahmen
+- __Quellen__
+	- [Brekom](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
+	- [Security Insider](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
+	- [Haufe](https://www.haufe.de/compliance/management-praxis/informationssicherheit/was-ist-informationssicherheit-eine-defintion_230130_483132.html)
+	- [Bundesamt für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Home/home_node.html)
+- __Aufgabenverteilung__
+	- Inhalte und Folien werden Abwechselnd aufgeteilt
+	- __Philip__
+		- Definition
+		- Bedrohungen
+	- __Karl__
+		- Schutzziele
+		- Maßnahmen
+- __Dauer__
+	- 30 min

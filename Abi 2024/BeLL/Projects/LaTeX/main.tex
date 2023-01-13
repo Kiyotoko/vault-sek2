@@ -1,0 +1,26 @@
+\documentclass[a4paper]{article}
+\usepackage[a4paper,left=2.5cm,right=3.5cm,top=2cm,bottom=2cm]{geometry}
+\usepackage[style=numeric]{biblatex}
+\usepackage[ngerman]{babel}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\counterwithin{figure}{section}
+\renewcommand{\refname}{Literaturverzeichnis}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+
+% \title{Content}
+\begin{document}
+    \parindent0.1cm
+
+    % Titelblatt
+    \include{chapter/cover.tex}
+
+    % Inhaltsverzeichnis
+    \tableofcontents
+
+    % Inhalt
+    \include{chapter/introduction.tex}
+    \include{chapter/content.tex}
+    \include{chapter/summary.tex}
+    \include{chapter/appendix.tex}
+\end{document}

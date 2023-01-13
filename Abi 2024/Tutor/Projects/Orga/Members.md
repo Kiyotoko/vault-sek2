@@ -1,0 +1,52 @@
+- **Abistreich**
+	- Liv
+	- Emma
+	- Matti
+	- Kora
+	- Vivian
+- **Abizeitung**
+	- Marie
+	- Lysann
+	- Anton
+	- (Kora)
+- **Abiball**
+	- Mette
+	- Anni
+	- Leticia
+	- Lara
+	- Cora
+	- Leonie
+- **Finanzen**
+	- *Sponsoren*
+		- Annelie
+		- Faye
+		- Louis
+		- Wilhelm
+		- Sebastian
+		- Richard
+	- *Beschaffung*
+		- Max
+		- Til
+		- Malte,
+		- Leo
+		- Titus
+		- Carl
+		- Paul
+		- Christoph
+		- Philip
+		- Christian
+- **Abifahrt**
+	- Leni
+	- Mailin
+	- Clara
+	- Julius
+	- Maximilian
+	- Lara
+	- Malte
+	- (Marie)
+- **Orga**
+	- Julia
+	- Erik
+	- Karl
+	- Hannah
+	- Ananda
