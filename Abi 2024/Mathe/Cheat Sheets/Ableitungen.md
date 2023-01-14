@@ -35,4 +35,3 @@ Die Ableitung ist definiert mit $\lim\limits_{h\to0}f'(x)=\frac{f(x)-f(x+h)}{h}$
 2.  Gegebene Bedingungen in Gleichungen für die unbekannten Koeffizienten übersetzen
 3.  Lineares Gleichungssystem Lösen
 ~~~
-/commi
