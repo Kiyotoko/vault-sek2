@@ -1219,3 +1219,7 @@ $R(-2|0)$
 
 $A=\frac{a*b}{2}=\frac{(u+2)*f(u)}{2}$
 $a(x)=\frac{(x+2)*f(x)}{2}=\frac{(x+2)*(2x+4)}{2*(3-x)}$
+
+~~~jupyter
+print("abs")
+~~~
