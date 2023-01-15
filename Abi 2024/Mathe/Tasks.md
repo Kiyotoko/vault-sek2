@@ -1,4 +1,4 @@
-## 06.09.2022
+## 2022-09-06
 $f(x) = \frac{2x}{2x+5}$
 $\lim\limits_{x\to\infty}\frac{2}{2+5/x}=\frac{2}{2+0}=1$
 
@@ -90,7 +90,7 @@ $\lim\limits_{x\to-\infty}\frac{2}{\sqrt{-\infty}}=n.d.$
 
 $f(x)=\frac{2\sqrt{x}+1}{x-3}$
 $\frac{\sqrt{x}(2+\frac{1}{\sqrt{x}})}{\sqrt{x}(\sqrt{x}-\frac{3}{\sqrt{x}})}=\lim\limits_{x\to\infty}\frac{2+0}{\sqrt{x}-0}=\lim\limits_{x\to\infty}0$
-## 13.09.2022
+## 2022-09-13
 $f(x)=\frac{5x+4}{x-2}$
 $\lim\limits_{x\to2^{(+)}}\infty$
 $\lim\limits_{x\to2^{(-)}}-\infty$
@@ -120,7 +120,7 @@ $\lim\limits_{x\to4}8$
 
 $\frac{x²(2x+3)}{x²(1)}=2x+3$
 $\lim\limits_{x\to0}=3$
-## 15.09.2022
+## 2022-09-15
 $f(x)=\frac{x²+3x}{x-3}$
 $\lim\limits_{x\to3^{(-)}}=-\infty$
 $\lim\limits_{x\to3^{(+)}}=\infty$
@@ -143,7 +143,7 @@ $f(x)=\frac{x²-6x+9}{x-3}$
 $\frac{(x-3)^2}{x-3}=x-3$
 $\lim\limits_{x\to3^{(-)}}0$
 $\lim\limits_{x\to3^{(+)}}0$
-## 16.09.2022
+## 2022-09-16
 $f(x)=3x²$
 $m=\lim\limits_{h\to0}\frac{f(x_0+h)-f(x_0)}{h}=\lim\limits_{h\to0}\frac{3(1+2h+h²)}{h}=\lim\limits_{h\to0}\frac{3h+6h+3h²-3}{h}=\lim\limits_{h\to0}6+3h=\lim\limits_{h\to0}6$
 $f(x)=3x²\to f'(x)=6x$'
@@ -155,7 +155,7 @@ $f(x)=1-x²\to f'(x)=-2x$
 $f(x)=\sqrt{x}$
 $f(x)=\lim\limits_{h\to0}\frac{\sqrt{x+h}-\sqrt{h}}{h}=\lim\limits_{h\to0}\frac{(\sqrt{3+h}-\sqrt{x})(\sqrt{3+h}+\sqrt{3})}{h(\sqrt{3+h}+\sqrt{3})}=\lim\limits_{h\to0}\frac{3+h-3}{h(\sqrt{3+h}+\sqrt{3})}$
 $f(x)=x^{\frac{1}{2}} f'(x)=\frac{1}{2}x^{-\frac{1}{2}}=\frac{1}{2x^{\frac{1}{2}}}$
-## 19.09.2022
+## 2022-09-19
 $\lim\limits_{x\to-1}(4*-1)-7=-11$
 
 $\lim\limits_{x\to\pi}-1$
@@ -205,15 +205,15 @@ $\lim\limits_{x\to-1^{(+)}}2$
 $\lim\limits_{x\to-1^{(-)}}2$
 $f(1)=2$
 Stetig!
-## 20.09.2022
+## 2022-09-20
 $f'(x)=15x^2+16x^7$
 $f'(x)=\frac{4}{3}x+30x^5$
 $f'(x)=1$
-## 22.09.2022
+## 2022-09-22
 $f'(x)=3x²-4x^{-3}$
 $f'(x)=\frac{7}{4}x^\frac{3}{4}-3x^{-4}$
 $f'(x)=\frac{1}{3}x^{-\frac{2}{3}}-\frac{1}{3}x^{-\frac{4}{3}}$
-## 27.09.2022
+## 2022-09-27
 $\log_{3}81=\frac{\lg81}{\lg3}=\frac{\ln81}{\ln3}$
 $\ln{a^b}=b*\ln{a}$
 
@@ -221,7 +221,7 @@ $\ln{a^b}=b*\ln{a}$
 1. Eine Pflanze ist zu Beobachtungsbeginn 0.5m hoch. In den ersten 8 Jahren wird von einem Höhenwachstam von 20% pro Jahr ausgegangen.
 	- $1.8=0.5*1.2^t\quad t=\log_{1.2}{3.6}=~7$
 	- $2=1*1.2^t\quad t=\log_{1.2}{2}=~3.8$
-## 29.09.2022
+## 2022-09-29
 $f(2)=2^3=8$
 $f'(x)=3x^2\quad m=3(2^2)=12$
 $8=12*2+n\quad n=-16$
@@ -1269,3 +1269,10 @@ t(x)=.75x+4.5
 ~~~
 ---
 $f(x)=-\frac{5}{4}x+5$
+
+$a(x)=2*x*f(x)=-2.5x^2+10x$
+$a'(x)=-5x+10$
+$a'(x)=0\to x=2$
+
+$a=4$
+$b=f(2)=2.5$
