@@ -13,7 +13,8 @@ $p'=mv'+m'v$
 Energie ist die Fähigkeit, mechanische Arbeit zu verrichten, Wärme abzugeben oder Licht auszustrahlen.
 ## Newton'sche Gesetze
 1. Trägheitsprinzip
-2. 
+2. Aktionsprinzip
+3. Reaktionsprinzip
 ## Energieformen
 ### Potenzielle Energie
 $E_{pot}=m*g*h$

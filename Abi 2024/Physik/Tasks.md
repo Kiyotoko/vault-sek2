@@ -444,3 +444,5 @@ $m_K*v_K=(m_K+m_H)v$
 $v=\sqrt{2*g*h}$
 $v_K=\frac{m_K+m_H}{m_K}v$
 $s=\sqrt{\frac{m_K}{D}}v_K=~~10.5m$ ==TODO==
+## 2023-01-15
+e
