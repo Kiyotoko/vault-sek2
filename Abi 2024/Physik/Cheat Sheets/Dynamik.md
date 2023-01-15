@@ -13,14 +13,17 @@ $p'=mv'+m'v$
 Energie ist die Fähigkeit, mechanische Arbeit zu verrichten, Wärme abzugeben oder Licht auszustrahlen.
 ## Energieformen
 ### Potenzielle Energie
-- $E_{pot}=m*g*h$
+$E_{pot}=m*g*h$
 ### Kinetische Energie
-- $E_{kin}=F*s=\frac{m}{2}v^2$
+$E_{kin}=F*s=\frac{m}{2}v^2$
 ### Spannenergie
-- $E_{spann}=\frac{1}{2}D*s^2$
+$E_{spann}=\frac{1}{2}D*s^2$
 # Arbeit
+$W=E_{End}-E_{Anfang}=\Delta E$
 # Leistung
+$P=\frac{\Delta E}{\Delta t}$ oder $P=\frac{W}{\Delta t}$
 # Wirkungsgrad
+$\eta=\frac{E_{nutz}}{E_{zu}}$ oder $\eta=\frac{E_{nutz}}{E_{zu}}$
 # Interpretation Diagramm
 1. Was ist bei den Achsen zu sehen?
 2. Wie verlaufen die Graphen?
