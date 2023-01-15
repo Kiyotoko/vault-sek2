@@ -1,5 +1,9 @@
 # Nullstellen
 ~~~ad-important
+f(x)=x^2+4x
+f(x)=x(x+4)
+
+
 Funktion $0$ setzen.
 $0=f(x)$
 ~~~
@@ -42,16 +46,30 @@ Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken ge
 $f(x)=\frac{2x^2-1}{x-1}$
 $0=x-1\quad x=1$
 ~~~
+
+~~~functionplot
+f(x)=(4+x)/(2x)
+~~~
 # Symmetrie
 ## Achsensymmetrie
 ~~~ad-important
 Achsensymmetrie zur $y$-Achse: $f(x)=f(-x)$
+
+$f(x)=x^4+x^2+4$
+~~~
+
+~~~functionplot
+f(x)=x^4+x^2+4
 ~~~
 ## Punktsymmetrie
 ~~~ad-important
 Punktsymmetrie zu einem Punkt, meist Koordinatenursprung.
 $f(x)=-f(-x)$
 $-f(x)=f(-x)$
+~~~
+
+~~~functionplot
+f(x)=x^5+x^3+x
 ~~~
 # Extrempunkte / Extremstellen
 ~~~ad-important
