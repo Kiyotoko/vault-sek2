@@ -59,3 +59,13 @@ Normale: $m=-\frac{1}{f'(x)}$
 ~~~ad-help
 $normalline(f(x),x,s)$
 ~~~
+
+$f(x):=x^2$
+$f1(x):=\frac{d}{dx}f(x)$
+$solve(f1(x)=\frac{f(x)-0}{x--2},x)$
+→ -4 → 0
+
+$tangentline(f(x), x, -4)$
+
+$y=mx+n$
+$y=-8x-16$
