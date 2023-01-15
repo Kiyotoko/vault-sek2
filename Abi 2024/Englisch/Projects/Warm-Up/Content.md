@@ -5,6 +5,7 @@
 - ****
 	- Über die Themen diskutieren lassen
 	- [Material](https://constitutioncenter.org/the-constitution/amendments/amendment-ii/interpretations/99)
+	- [Pro Guns](https://www.meetbloomberg.com/nanny-state/second-amendment)
 ## Linking Words
 ## Vergleich
 ## Abschluss
