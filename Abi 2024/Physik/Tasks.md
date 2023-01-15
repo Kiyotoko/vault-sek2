@@ -486,3 +486,39 @@ $E_{kin}=E_{pot}$
 $\frac{u'^2}{2}=g*h_2$
 $h_2=\frac{u'^2}{2g}=2.06m$
 ---
+$m_1=4800kg$
+$t_1=9s$
+$m_2=1200kg$
+$t_2=3s$
+$v=40\frac{km}{h}$
+
+$F=m_2*a=m_2*\frac{\Delta v}{\Delta t_1}=5925.93N$
+$F=m_2*a=m_2*\frac{\Delta v}{\Delta t_2}=4444.44N$
+---
+$m=0.5kg$
+$t=0.12s$
+$v=23\frac{m}{s}$
+
+$a=\frac{\Delta v}{\Delta t}=191.67\frac{m}{s^2}$
+$F=m*a=85.83N$
+
+$s=0.4m$
+$F=m*\frac{v^2}{2s}=330.63N$
+---
+$d=10m$
+$m=5kg$
+$h=10cm=0.1m$
+
+$\alpha=\arctan{\frac{\frac{d}{2}}{h}}=88.85°$
+$F=\frac{m*g}{2*\cos{\alpha}}=1226.5N$
+
+$\alpha=\arctan{\frac{\frac{d}{2}}{0.005}}=88.94°$
+$F=\frac{m*g}{2*\cos{\alpha}}=23419.65N$
+---
+$v=30\frac{km}{h}=8.33\frac{m}{s}$
+$St=8\%$
+$\alpha=\arctan{St}=4.57°$
+
+$E_{kin}={E_pot}$
+$\frac{m}{2}v^2=m*g*s*\sin{\alpha}$
+$s=\frac{v^2}{2g*\sin{\alpha}}=44.38m$
