@@ -69,3 +69,10 @@ $tangentline(f(x), x, -4)$
 
 $y=mx+n$
 $y=-8x-16$
+
+
+$\sqrt{x^2+y^2}=\sqrt{(-6-0)^2+(0-f(0))^2}$
+~~~functionplot
+f(x)=9*(x+3)/(x+6)
+t(x)=.75x+4.5
+~~~
