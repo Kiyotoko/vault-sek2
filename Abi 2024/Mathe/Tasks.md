@@ -892,7 +892,7 @@ $f''(\frac{3}{4})=3-2=1$ Minimum
 $f''(\frac{1}{4})=1-2=-1$ Maximum
 ---
 $f(x)=\frac{x^2}{9}+\frac{9}{x}=\frac{1}{9}x^2+9x^{-1}$
-$f'(x)=\frac{2}{9}x-9x^{-2}$ ==Fragen wegen Ableitung==
+$f'(x)=\frac{2}{9}x-9x^{-2}$
 $f''(x)=\frac{2}{9}+9x^{-3}$
 $DB:x\in\mathbb{R},x\neq0$
 $f(-x)=\frac{(-x)^2}{9}+\frac{9}{-x}=\frac{x^2}{9}-\frac{9}{x}$
@@ -1246,3 +1246,16 @@ $A=\frac{a*b}{2}=\frac{(u+1)*f(u)}{2}$
 $a(x)=\frac{(x+1)*f(x)}{2}=-0.2*(x+1)*(x^2-3x-4)$
 $a'(x)=-0.6x^2+0.8x+1.4$
 $a'(u)=0\to u=2.33$
+## 2023-01-15
+$f(x)=-\frac{1}{4}x^2+4$
+$u=]0;4[$
+$y=ux$
+$y=-ux$
+~~~functionplot
+f(x)=-1/4x^2+4
+a(x)=2x
+b(x)=-2x
+~~~
+$x_0=-4$
+$x_1=4$
+$P(0|4)$
