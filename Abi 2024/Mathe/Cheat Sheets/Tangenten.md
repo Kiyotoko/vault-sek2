@@ -59,20 +59,3 @@ Normale: $m=-\frac{1}{f'(x)}$
 ~~~ad-help
 $normalline(f(x),x,s)$
 ~~~
-
-$f(x):=x^2$
-$f1(x):=\frac{d}{dx}f(x)$
-$solve(f1(x)=\frac{f(x)-0}{x--2},x)$
-→ -4 → 0
-
-$tangentline(f(x), x, -4)$
-
-$y=mx+n$
-$y=-8x-16$
-
-
-$\sqrt{x^2+y^2}=\sqrt{(-6-0)^2+(0-f(0))^2}$
-~~~functionplot
-f(x)=9*(x+3)/(x+6)
-t(x)=.75x+4.5
-~~~
