@@ -368,17 +368,20 @@ $t=30s$
 $y=10\%$
 $s=500m$
 $\alpha=\arctan{.1}=5.71$
+
 $F_R=\mu mg\cos{\alpha}=293N$
 $W_R=268436Nm$
+
 $\Delta h=49.75m$
 $\Delta E_{pot}=536816.7378J$
+
 $P=\frac{mg(\sin{\alpha}+\mu\cos{\alpha})*s}{t}=26843.6W$
+
 $E_{kin}=E_{pot}+W_R$
 $\frac{m}{2}v^2=mgh+\mu mg\cos{\alpha}*s$
 $\frac{m}{2}v^2=mgs\sin{\alpha}+\mu mg\cos{\alpha}*s$
 $\frac{v^2}{2}=g(\sin{\alpha}+\mu\cos{\alpha})s$
 $s=\frac{v^2}{2 g(\sin{\alpha}+\mu\cos{\alpha})}=65.87m$
-
 ---
 $m_T=85kg$
 $m=J=60kg$
@@ -400,19 +403,18 @@ $h=\frac{v_2^2}{2*g}=2.06m$
 Tarzan und Jane erreichen eine Höhe von etwas mehr als 2 Metern. Das Rettungsmanöver glückt.
 
 ---
-$r=10m$
+$h=20m$
+$r=\frac{h}{2}=10m$
 $v=87\frac{km}{h}=24.16\frac{m}{s}$
 $a_r=\frac{v^2}{r}=58.4\frac{m}{s^2}$
 $\frac{a_r}{g}=5.953$
 
 $E_{kin,unten}=E_{pot}+E_{kin,oben}$
-$\vec{F_Z}+\vec{F_g}=\vec{F_r}$
-→ $\vec{F_Z}=0\to\vec{F_g}=\vec{F_r}$
+$\vec{F_Z}+\vec{F_g}=\vec{F_r}\to\vec{F_Z}=0\to\vec{F_g}=\vec{F_r}$
 $m*g=m*\frac{v^2}{r}$
-$g=\frac{v^2}{r}$
 $v^2=g*r$
 $\frac{v_0^2}{2}=\frac{g*r}{2}+g*h$
-$v_0=\sqrt{gr+2gh}=22.15\frac{m}{s}$
+$v_0=\sqrt{gr+2gh}=22.15\frac{m}{s}=79.73\frac{km}{h}$
 
 Da auch die Reibung berücksichtigt werden musste, sollte die Mindestgeschwindigkeit etwas über $80\frac{km}{h}$ liegen. Somit stimmt die Aussage.
 ## 2023-01-11
