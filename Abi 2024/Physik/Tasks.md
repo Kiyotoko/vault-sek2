@@ -402,7 +402,8 @@ Tarzan und Jane erreichen eine Höhe von etwas mehr als 2 Metern. Das Rettungsma
 ---
 $r=10m$
 $v=87\frac{km}{h}=24.16\frac{m}{s}$
-$\frac{v^2}{r}=3*9.81\frac{m}{s}58.4\frac{m}{s^2}=5.953$
+$a_r=\frac{v^2}{r}=58.4\frac{m}{s^2}$
+$\frac{a_r}{g}=5.953$
 
 $E_{kin,unten}=E_{pot}+E_{kin,oben}$
 $\vec{F_Z}+\vec{F_g}=\vec{F_r}$
@@ -445,4 +446,41 @@ $v=\sqrt{2*g*h}$
 $v_K=\frac{m_K+m_H}{m_K}v$
 $s=\sqrt{\frac{m_K}{D}}v_K=~~10.5m$ ==TODO==
 ## 2023-01-15
-e
+$m=1.1$
+$t=30s$
+$s=500m$
+$St=10\%$
+$\alpha=5.71$
+
+$F_R=\mu*m*g*\cos{\alpha}=536.87N$
+$W_R=F_R*s=268426Nm$
+
+$\Delta h=s*\sin{\alpha}=49.75m$
+$\Delta E_{pot}=m*g*\Delta h=536817J$
+
+$F_H=m*\sin{\alpha}*g$
+$P=\frac{(F_H+F_R)*s}{t}=\frac{m*g*(\mu\cos{\alpha}+\sin{\alpha})*s}{t}=26841.8W$
+
+$v=50\frac{km}{h}=13.88\frac{m}{s}$
+$E_{kin}=E_{pot}$
+$\frac{m}{2}v^2=m*g*\sin{alpha}*s+\mu*m*g*\cos{\alpha}*s$
+$\frac{v^2}{2gs}=\sin{alpha}+\mu\cos{\alpha}$
+$s=\frac{v^2}{2g(\sin{alpha}+\mu\cos{\alpha)}}=65.87m$
+---
+$m_1=85kg$
+$m_2=60kg$
+$m_{ges}=145kg$
+$h_1=6m$
+$h_2=2m$
+
+$E_{pot}=E_{kin}$
+$m_1*g*h_1=\frac{m_1}{2}v_1^2$
+$v_1=\sqrt{2*g*h_1}=10.85\frac{m}{s}$
+
+$m_1v_1'+m_2v_2'=(m_1+m_2)u'$
+$u'=\frac{m_1}{m_1+m_2}v_1=6.36\frac{m}{s}$
+
+$E_{kin}=E_{pot}$
+$\frac{u'^2}{2}=g*h_2$
+$h_2=\frac{u'^2}{2g}=2.06m$
+---

@@ -8,7 +8,8 @@ $F=m*a_r=m*\frac{v^2}{r}$
 $F_R=\mu*F_N$
 # Impuls
 $\vec{p}=m*\vec{v}$
-$p'=mv'+m'v$
+- Elastisch $m_1v_1'+m_2v_2'=m_1u_1'+m_2u_2'$
+- Unelastisch $m_1v_1'+m_2v_2'=(m_1+m_2)u'$
 # Energie
 Energie ist die Fähigkeit, mechanische Arbeit zu verrichten, Wärme abzugeben oder Licht auszustrahlen.
 ## Newton'sche Gesetze
@@ -19,11 +20,12 @@ Energie ist die Fähigkeit, mechanische Arbeit zu verrichten, Wärme abzugeben o
 ### Potenzielle Energie
 $E_{pot}=m*g*h$
 ### Kinetische Energie
-$E_{kin}=F*s=\frac{m}{2}v^2$
+$E_{kin}=\frac{m}{2}v^2$
 ### Spannenergie
 $E_{spann}=\frac{1}{2}D*s^2$
 # Arbeit
 $W=E_{End}-E_{Anfang}=\Delta E$
+$W=F*s*\cos{\alpha}$
 # Leistung
 $P=\frac{\Delta E}{\Delta t}$ oder $P=\frac{W}{\Delta t}$
 # Wirkungsgrad
