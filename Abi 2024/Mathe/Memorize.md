@@ -614,7 +614,7 @@ Ist $f$ in einem abgeschlossenen Intervall $[a, b]$ definiert, so ergeben sich d
 ~~~
 ### Wendepunkte / Wendestellen
 ~~~ad-important
-Ist $f$ im Intervall $]a,b[$ differenzierbar und geht der Graph $f$ beim Durchlaufen eines Punktes $W(x_W|y_W)$ von einer Rechtskurve in eine Linkskurve (oder umgekehrt) über, so heißt $W$ ein Wendepunkt und ide Stelle $x_W$ eine Wendestelle von $f$.
+Ist $f$ im Intervall $]a,b[$ differenzierbar und geht der Graph $f$ beim Durchlaufen eines Punktes $W(x_W|y_W)$ von einer Rechtskurve in eine Linkskurve (oder umgekehrt) über, so heißt $W$ ein Wendepunkt und die Stelle $x_W$ eine Wendestelle von $f$.
 
 Die Tangent in $W$ heißt Wendetangente. Ein Wendepunkt mit horizontaler Tangente heißt Sattelpunkt (Terassenpunkt).
 ~~~
