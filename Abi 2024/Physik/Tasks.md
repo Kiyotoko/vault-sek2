@@ -163,8 +163,8 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 2. Höhe einer Brücke mithilfe eines Steins bestimmen.
 	- Lässt man den Stein von dem höchsten Punkt der Brücke fallen, und misst gleichzeitig die Zeit, die er braucht, bis er auf dem Wasser aufschlägt, kann man so mithilfe der Fallbeschleunigung Rückschlüsse über die Höhe ziehen.
 3. Kugel werfen
-	- $t_s=\frac{v_0}{g}=\frac{6\frac{m}{s}}{9.81\frac{m}{s}²}=0.61s$
-	- $h(t_s)=-\frac{1}{2}g*t_s²+v_0*t_s=-\frac{1}{2}9.81\frac{m}{s}²*(0.61s)^2+6\frac{m}{s}*0.61s=1.83m$
+	- $t_s=\frac{v_0}{g}=\frac{6\frac{m}{s}}{9.81\frac{m}{s}^2}=0.61s$
+	- $h(t_s)=-\frac{1}{2}g*t_s²+v_0*t_s=-\frac{1}{2}9.81\frac{m}{s}^2*(0.61s)^2+6\frac{m}{s}*0.61s=1.83m$
 	- $5m=\frac{1}{2}\frac{v²}{g}$
 	- $v=\sqrt{5m*9.81\frac{m}{s^2}*2}=\sqrt{98.1\frac{m}{s}^2}=9.90\frac{m}{s}$
 	- $t=\frac{g}{v}=\frac{9.81\frac{m}{s}²}{9.90\frac{m}{s}}=0.99s$
@@ -175,8 +175,8 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 2. Fähre
 	- $t=\frac{90m}{4\frac{m}{s}}=22.5s$
 	- $s=1.5\frac{m}{s}*22.5s=33.75m$
-	- $\alpha=\frac{1.5\frac{m}{s}}{4\frac{m}{s}}*90°=33.75°$
-	- $v_{ges}=\sqrt{(1.5\frac{m}{s})²+(4\frac{m}{s})²+2(1.5\frac{m}{s})(4\frac{m}{s})\cos{33.75°}}=\sqrt{2.25(\frac{m}{s})²+16(\frac{m}{s})²+12(\frac{m}{s})²*0.83}=5.31\frac{m}{s}$
+	- $\alpha=\frac{1.5\frac{m}{s}}{4\frac{m}{s}}*90^\circ=33.75^\circ$
+	- $v_{ges}=\sqrt{(1.5\frac{m}{s})²+(4\frac{m}{s})²+2(1.5\frac{m}{s})(4\frac{m}{s})\cos{33.75^\circ}}=\sqrt{2.25(\frac{m}{s})²+16(\frac{m}{s})²+12(\frac{m}{s})²*0.83}=5.31\frac{m}{s}$
 	- $t=\frac{90m}{5.31\frac{m}{s}}=16.95s$
 ## 25.09.2022
 1. Kind
@@ -191,7 +191,7 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 7. Pkw
 	- $a_r=\frac{v^2}{r}=\frac{(\frac{40000m}{60*60s})^2}{75m}=0.016m/s^2$
 ---
-Die Radialbeschleunigung ist eine gleichmäßige, zum Zentrum hin beschleunigte Bewegung mit der Einheit $\frac{m}{s²}$. Währenddessen ist die Winkelbeschleunigung der überschrittene Winkel in Relation zum Zentrum über eine gewisse Zeit mit der Einheit $\frac{1}{s}$.
+Die Radialbeschleunigung ist eine gleichmäßige, zum Zentrum hin beschleunigte Bewegung mit der Einheit $\frac{m}{s^2}$. Währenddessen ist die Winkelbeschleunigung der überschrittene Winkel in Relation zum Zentrum über eine gewisse Zeit mit der Einheit $\frac{1}{s}$.
 ## 2022-10-10
 ~~~functionplot
 ---
@@ -446,7 +446,7 @@ $m_K*v_K=(m_K+m_H)v$
 
 $v=\sqrt{2*g*h}$
 $v_K=\frac{m_K+m_H}{m_K}v$
-$s=\sqrt{\frac{m_K}{D}}v_K=~~10.5m$ ==TODO==
+$s=\sqrt{\frac{m_K}{D}}v_K=~~10.5m$
 ## 2023-01-15
 $m=1.1$
 $t=30s$
@@ -485,7 +485,7 @@ $u'=\frac{m_1}{m_1+m_2}v_1=6.36\frac{m}{s}$
 $E_{kin}=E_{pot}$
 $\frac{u'^2}{2}=g*h_2$
 $h_2=\frac{u'^2}{2g}=2.06m$
----
+- - -
 $m_1=4800kg$
 $t_1=9s$
 $m_2=1200kg$
@@ -494,7 +494,7 @@ $v=40\frac{km}{h}$
 
 $F=m_2*a=m_2*\frac{\Delta v}{\Delta t_1}=5925.93N$
 $F=m_2*a=m_2*\frac{\Delta v}{\Delta t_2}=4444.44N$
----
+- - -
 $m=0.5kg$
 $t=0.12s$
 $v=23\frac{m}{s}$
@@ -504,20 +504,20 @@ $F=m*a=85.83N$
 
 $s=0.4m$
 $F=m*\frac{v^2}{2s}=330.63N$
----
+- - -
 $d=10m$
 $m=5kg$
 $h=10cm=0.1m$
 
-$\alpha=\arctan{\frac{\frac{d}{2}}{h}}=88.85°$
+$\alpha=\arctan{\frac{\frac{d}{2}}{h}}=88.85^\circ$
 $F=\frac{m*g}{2*\cos{\alpha}}=1226.5N$
 
-$\alpha=\arctan{\frac{\frac{d}{2}}{0.005}}=88.94°$
+$\alpha=\arctan{\frac{\frac{d}{2}}{0.005}}=88.94^\circ$
 $F=\frac{m*g}{2*\cos{\alpha}}=23419.65N$
----
+- - -
 $v=30\frac{km}{h}=8.33\frac{m}{s}$
 $St=8\%$
-$\alpha=\arctan{St}=4.57°$
+$\alpha=\arctan{St}=4.57^\circ$
 
 $E_{kin}={E_pot}$
 $\frac{m}{2}v^2=m*g*s*\sin{\alpha}$

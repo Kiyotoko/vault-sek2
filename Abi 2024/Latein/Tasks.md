@@ -172,3 +172,5 @@ HANNIBAL, Hamilcaris filius, Carthaginiensis. Si verum est, quod nemo dubitat, u
 
 ---
 HANNIBAL, Sohn des Hamilcar, Karthager. Wenn es wahr ist, was niemand bezweifelt, dass das römische Volk alle Völker durch Tugendhaftigkeit besiegt hat, so ist nicht zu leugnen, dass Hannibal alle anderen Feldherren an Weisheit übertraf, so wie das römische Volk alle anderen Völker an Tapferkeit übertrifft. Denn wann immer er in Italien in die Schlacht zog, ging er als Sieger hervor. Wäre er nicht durch den Neid seiner eigenen Bürger in der Heimat geschwächt worden, hätte er die Römer wohl besiegen können. Aber die Verleumdung vieler überwand die Tugend eines Einzelnen. Dieser Mann jedoch bewahrte den ererbten Hass seines Vaters gegen die Römer so stark, dass er lieber sterben wollte, als ihn aufzugeben, und in der Tat, als er aus seiner Heimat vertrieben wurde und auf fremde Ressourcen angewiesen war, hörte er nicht auf, im Geiste Krieg mit den Römern zu führen.
+## 2023-01-16
+- **Pontius Pilatus**

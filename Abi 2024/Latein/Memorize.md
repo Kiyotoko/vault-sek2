@@ -93,3 +93,8 @@ um zu
 |PFA|Partizip Futur Aktiv|
 |AcI|„Accusativus cum infinitivo“, Substantiv im 4. Fall, Substantiv, Kopfverb|riechen, schmecken, denken|
 |UpA|Unpersönlischer Ausdruck|
+# Pronomen
+## Personalpronomen
+## Reflexivpronomen
+## Interrogativpronomen
+## Indefinitpronomen
