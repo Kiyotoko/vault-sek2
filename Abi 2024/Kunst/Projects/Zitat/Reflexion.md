@@ -21,5 +21,3 @@ Im Prozess habe ich wesentlich mehr über den Kunstmarkt und die Kritik dazu erf
 Auch wenn die Kritik am Kunstmarkt zweifellos gerechtfertigt ist, und dort Kunst wohl kaum noch demokratisch ist, muss dies nicht bedeuten, das Kunst per se undemokratisch ist. Vor allem Street Art, einer Kunst, wo jeder mitmachen und nichts dem Kunstmarkt unterworfen ist, kann man wohl zurecht als demokratisch bezeichnen. 
 
 Ich bin mit meinem Ergebnis zufrieden, da es simpel und gleichzeitig ausdrucksstark das Ausdrück, was ich mit meiner Kritik beabsichtigen wollte. Dennoch hätte ich gerne auch einmal ausprobiert, wie das Zitat in der Form von Street Art aussehen würde. Leider konnte ich dies nicht mehr in die Tat umsetzen, da zu dem Zeitpunkt das Projekt bereits abgegeben werden musste.
-
-==TODO==
