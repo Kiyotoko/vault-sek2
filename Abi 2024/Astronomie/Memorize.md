@@ -97,3 +97,39 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 ### Strahlungsleistung der Sonne
 - Von der Energie, welche die Sonne abstrahlt, kommen Strahlen
 ## Temperaturen
+
+# Leben im Sonnensystem
+## Aufbau des Sonnensystems
+### Aufbau und grobe Struktur
+- Planeten
+	- Merkur
+	- Venus
+	- Erde
+	- Mars
+	- Jupiter
+	- Saturn
+	- Uranus
+	- Neptun
+- Zwergplaneten
+	- Pluto
+	- Ceres
+- Monde
+	- Mond
+	- Phobos
+	- Deimos
+	- Europa
+	- 
+- Stern
+- Asteroidengürtel
+### Planetenbeobachtung - Umlaufzeiten
+- 3 Keplersches Gesetz
+	- $\frac{T_1}{T_2}^2=\frac{a_1}{a_2}^3$
+	- Mit zunehmender „Entfernung“ vergrößert sich die Umlaufzeit
+	 - $T=c*\sqrt{a_1^3}=c*a_1^\frac{3}{2}$
+### Planetenbeobachtung - Siderische und synodische Umlaufdauer
+- Als **siderische** Umlaufdauer eines Himmelskörpers bezeichnet man die Zeitspanne für einen vollständigen Umlauf (Revolution) in Bezug auf den Fixsternhintergrund. Für einen Planeten entspricht das seiner Umlaufdauer aus Sicht eines fiktiven Beobachters auf der Sonne.
+- Die **synodische** Umlaufdauer eines Himmelskörpers ist die Zeitspanne zwischen den Zeitpunkten aufeinanderfolgender gleicher Stellungen bezüglich Erde und Sonne. Sie bestimmt sich also in Bezug auf die Blickrichtung Erde-Sonne.
+### Winkelgeschwindigkeit und Umlaufdauer der gleichförmigen Kreisbewegung
+$\omega=\frac{\varphi}{\Delta t}$
+$360^\circ=2\pi$
+$\omega=\frac{2\pi}{T}$

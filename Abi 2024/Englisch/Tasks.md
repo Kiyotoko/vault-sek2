@@ -68,23 +68,21 @@ Your healthy matters. In Germany you have a top health support available and hea
 
 Everyone should travel and come around in the world. But traveling to often brings problems that you should be aware of, like paying for your living costs. 
 ## 2022-11-02
-~~~md
-*Karl* May I help you?
-
-*Max* Yes, I am trying to get a new t-shirt from baba ganoush.
-
-*Karl* From baba ganoush? I am sorry, but I think we do not have a baba ganoush t-shirt in stock.
-
-*Max* Do you sell Gucci t-shirts? Or something else expensive? I am looking for a nice expensive shirt that fits my body.
-
-*Karl* Oh, there we have multiple brands in our sortiment. Do you have a special color or a design in mind?
-
-*Max* I have thought about it for a long time and I think, that a warm gold is a nice expensive-looking color. 
-
-*Karl* Than I have this t-shirt for you. It costs more than a Apple PC, and will perfectly fit your "good mass volume ratio" body. Of course, EVERY body is beautiful.
-
-*Max* What ...? No, thanks ... I guess I am just going to the baba ganoush shop.
-~~~
+	*Karl* May I help you?
+	
+	*Max* Yes, I am trying to get a new t-shirt from baba ganoush.
+	
+	*Karl* From baba ganoush? I am sorry, but I think we do not have a baba ganoush t-shirt in stock.
+	
+	*Max* Do you sell Gucci t-shirts? Or something else expensive? I am looking for a nice expensive shirt that fits my body.
+	
+	*Karl* Oh, there we have multiple brands in our sortiment. Do you have a special color or a design in mind?
+	
+	*Max* I have thought about it for a long time and I think, that a warm gold is a nice expensive-looking color. 
+	
+	*Karl* Than I have this t-shirt for you. It costs more than a Apple PC, and will perfectly fit your "good mass volume ratio" body. Of course, EVERY body is beautiful.
+	
+	*Max* What ...? No, thanks ... I guess I am just going to the baba ganoush shop.
 ## 2022-11-09
 - *Outline* focus on the main features
 - *Summarize* express the main points
@@ -135,12 +133,21 @@ In the end, I think that it would be easier if everyone would speak only English
 - to motivate
 - to entertain
 ---
-- Introduction
-	1. to establish contact with the audience
-	2. refer to topic of speech, audience, occasion
-- Body
-	3. orgnanise body of speech in chronological or topical order, according to cause and effect, problem and solution, advantage and disadvantage
- - Conclusion
-	4. repeat main points
-	5. refer to audience again
-	
+1. Introduction
+	- to establish contact with the audience
+	- refer to topic of speech, audience, occasion
+2. Body
+	- orgnanise body of speech in chronological or topical order, according to cause and effect, problem and solution, advantage and disadvantage
+ 3. Conclusion
+	- repeat main points
+	- refer to audience again
+## 2023-01-18
+- „cold grip of gun violence“ Line 5, Personification, humanization
+- „No one \[...\]“ Line 6 - 11, Anaphora, repetition
+- „\[...\] would never \[...\]“, Line 15 -23, Repetition, create emphasis
+---
+1. Explain how he addresses the audience and how he creates contact to them.
+	- He directly addresses the audience by using „You“, „us“ and „We“
+2. Describe his body language.
+	- His body language is very calm and open. He looks around at all audiences and not only in the camera.
+	- He underlines important words with his hands.
