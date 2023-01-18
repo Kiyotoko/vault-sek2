@@ -83,3 +83,5 @@ Das Glück der Fülle beschreibt die Haltung zum Leben.
 Das Leben als Wirken des rationalen Seelenteils ist dem Menschen eigen, da nur er bewusst denken kann, da alles andere, wie die Sinnesempfindung und das Leben an sich.
 ## 2023-01-18
 Aristoteles schränkt „Theorie der Mitte“ in sofern ein, dass die Mitte ein dynamischer Prozess ist, wo es keine direkte Mitte gibt, sondern sich diese Situationsabhängig heraus bildet. Die Theorie kann nicht auf Handlungen bezogen werden, die nicht abgestuft werden können oder schlecht per se sind, sowie irrationale Regungen.
+## 2023-01-18
+Der aristotelischen Weg zur Tugend beginnt mit dem Habitus. Der Habitus bezieht sich dabei auf die Erziehung und den Erfahrungen, die jemand dabei macht. Abhängig hiervon 
