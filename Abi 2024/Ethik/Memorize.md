@@ -166,7 +166,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 → Zwischenziele (niedere Güter) dienen einem höheren Gut
 - Höchstes Gut: die Glückseligkeit (eudaimonia)
 → Endziel / Selbstzweck / Selbstgenügsamkeit (wer sie besitzt ist zufriende / bedürfnislos)
-## Aristoteles - eudaimonia
+### Aristoteles - eudaimonia
 - eudaimonia = Glückseligkeit
 → ursprünglich „äußeres Glück“ (Schönheit, Macht usw.)
 → später: verinnerlichter Glücksbegriff
@@ -179,3 +179,18 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - dieses (eudaimonia) wird nur um seiner selbst willen gewählt → es ist Zweck an sich
 - ein solches Gut nennt man Glück → hier endet das Streben nach Zielen
 → jeder Mensch strebt nach Glück
+### Was sind Tugenden
+- Eigenschaften (keine Affekte oder Fähigkeiten) das heißt erlernbar / trainierbar
+- Die Mitte zwischen Übermaß und Mangel
+→ eine die Mitte erstrebende Kunst
+- Beispiel: Furcht - Tapferkeit - Tollkühnheit
+### Die Mesoteslehre
+- Weist den Weg zum „richtigen“ beziehungsweise „tugendhaftem“ Verhalten in einer Situation
+- Es soll die richtige Mitte zwischen Mangel und Übermaß gefunden werden
+~~~mermaid
+graph LR
+	Z((<b>Mitte</b><div>das Beste in uns</div>))
+	Z-->A[<i>Tugend</i> Tapferkeit]
+	Z-->B[<i>Mangel</i> Feigheit]
+	Z-->C[<i>Übermaß</i> Tollkühnheit]
+~~~
