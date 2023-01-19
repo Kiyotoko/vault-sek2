@@ -689,3 +689,33 @@ $\begin{pmatrix*}[l]
   e=0
  \end{pmatrix*}$
 ~~~
+## Ortskurven
+Kurven, die durch bestimmte Orte einer Funktionsschar gehen. (Maximum, Minimum, Wendepunkt).
+
+~~~ad-important
+1. Berechnung der x- und y-Koordinate in Abhängigkeit vom Parameter für die gesuchte Eigenschaft.
+2. Umstellen der x-Koordinate nach dem Parameter.
+3. Einsetzen des Parameters in die y-Koordinate und ggf. zusammenfassen.
+~~~
+
+~~~ad-example
+Für jeden Wert $k$ ($k\in\mathbb{R},k>0$) ist die Funkion $f_k$ gegeben mit $f_k(x)=(k-2x)*e^x (x\in\mathbb{R})$. Gesucht ist die Ortkurve die durch alle lokalen Extrempunkte geht.
+1. 
+$f_k'(x)=(k-2x)*e^x+-2e^x$
+$0=e^x(k-2x-2)$
+$0=-2+k-2x$
+$2x=-2+k$
+$x=-1+\frac{k}{2}$
+$y=(k-2x)e^x$
+2.
+$x=-1+\frac{k}{2}$
+$x+1=\frac{k}{2}$
+$2x+2=k$
+3.
+$y=2e^x$
+~~~
+# Matrizen
+Eine Matrix ist eine Anordnung von Zahlen in Tabellenform. Matritzen werden mit Großbuchstaben bezeichnet
+$\begin{pmatrix}a_{1,1}&a_{1,2}&\cdots&a_{1,n}\\a_{2,1}&a_{2,2}&\cdots&a_{1,n}\\ \vdots&\vdots&\ddots&\vdots \\ a_{m,1}&a_{m,2}&\cdots&a_{m,n}\end{pmatrix}$
+## Addition und Subtraction
+/obsidian

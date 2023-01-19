@@ -33,29 +33,11 @@
 |inferre|miteinbringen|
 |transferre|hinüberbringen|
 # Partizip
-~~~ad-important
-title:Partizip Perfekt Passiv
-- vorzeitig
-```ad-example
-als, nachdem
-```
-~~~
-
-~~~ad-important
-title:Partizip Präsens Aktiv
-- gleichzeitig
-```ad-example
-als, während
-```
-~~~
-
-~~~ad-important
-title:Partizip Futur Aktiv
-- nachzeitig
-```ad-example
-um zu
-```
-~~~
+|Partizip|Bedeutung|Beispiel|
+|-|-|-|
+|Partizip Perfekt Passiv|vorzeitig|als, nachdem|
+|Partizip Präsens Aktiv|gleichzeitig|als, während|
+|Partizip Futur Aktiv|nachzeitig|um zu|
 # Antike Briefliteratur
 ## Briefliteratur
 * __Briefarten:__

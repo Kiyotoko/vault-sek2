@@ -174,3 +174,37 @@ HANNIBAL, Hamilcaris filius, Carthaginiensis. Si verum est, quod nemo dubitat, u
 HANNIBAL, Sohn des Hamilcar, Karthager. Wenn es wahr ist, was niemand bezweifelt, dass das römische Volk alle Völker durch Tugendhaftigkeit besiegt hat, so ist nicht zu leugnen, dass Hannibal alle anderen Feldherren an Weisheit übertraf, so wie das römische Volk alle anderen Völker an Tapferkeit übertrifft. Denn wann immer er in Italien in die Schlacht zog, ging er als Sieger hervor. Wäre er nicht durch den Neid seiner eigenen Bürger in der Heimat geschwächt worden, hätte er die Römer wohl besiegen können. Aber die Verleumdung vieler überwand die Tugend eines Einzelnen. Dieser Mann jedoch bewahrte den ererbten Hass seines Vaters gegen die Römer so stark, dass er lieber sterben wollte, als ihn aufzugeben, und in der Tat, als er aus seiner Heimat vertrieben wurde und auf fremde Ressourcen angewiesen war, hörte er nicht auf, im Geiste Krieg mit den Römern zu führen.
 ## 2023-01-16
 - **Pontius Pilatus**
+	- Stadthalter von Palästina
+- Volksfront von Judäa
+- judäische 
+## 2023-01-19
+- laudas
+	- 2. Person Singular Präsens Indikativ Aktiv
+- dominus
+	- Dativ/Ablativ Plural Maskulin
+- tacete
+	- Plural Imperativ
+- cibum
+	- Singular Akkusativ Maskulin 
+- monumenta
+	- Singular Nominativ/Akkusativ Neutrum
+- belli
+	- Singular Genitiv Neutrum
+- monetis
+	- 2. Person Plural Präsens Indikativ Aktiv
+- apporte
+	- Plural Imperativ
+- possumus
+	- 1. Person Plural Präsens Indikativ Aktiv
+- eunt
+	- 3. Person Plural Präsens Indikativ Aktiv
+- sunt
+	- 3. Person Plural Präsens Indikativ Aktiv
+- mercatoris
+	- Plural Dativ Maskulin
+- pacis
+	- Plural Dativ Maskulin
+- voce
+	- Singular Ablativ Feminim
+- ambulo
+	- 1. Person Singular Präsens Indikativ Aktiv
