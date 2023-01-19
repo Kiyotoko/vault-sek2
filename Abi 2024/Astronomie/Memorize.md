@@ -133,3 +133,4 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 $\omega=\frac{\varphi}{\Delta t}$
 $360^\circ=2\pi$
 $\omega=\frac{2\pi}{T}$
+$\frac{1}{T_{sid,u}}=\frac{1}{T_{sid,E}}+\frac{1}{T_{sid}}$
