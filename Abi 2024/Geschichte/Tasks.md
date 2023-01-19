@@ -113,9 +113,7 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 2. Erklären Sie sowohl das Zitat Ludwig Rödigers (»alles ist anders gekommen, als wir erwartet haben [nach Leipzig]«) als auch die Bücherverbrennungen auf dem Wartburgfest (M2)! 
 	- Rödiger drückt mit seinem Zitat die Unzufriedenheit über die Zustände und Erfolge der metternichschen Reaktion zum Ausdruck. Bei der Bücherverbrennung werden die absolutistische Symbole, und somit das alte System verbrannt.  
 3. Ordnen Sie das erlassene Turnverbot (M4) in den geschichtlichen Zusammenhang ein! 5. Bewerten Sie die „Karlsbader Beschlüsse“ (M5)! 
-	- Das Turnverbot 1819 kam durch die Ereignisse bei Wartburgfest. Beim Wartburgfest kam es zu heftigen Auseinandersetzungen. Das Turnen wurde eingeführt, um Disziplinen bei zu bringen. Jetzt wurde es jedoch verboten, weil der Schrifsteller August von Kotzbue ermordet wurde und daraufhin der preußische König das Turnier verbieten ließ.  
-4. Hausaufgabe: Interpretieren Sie die Karikatur (M6)!
-5. Nennen Sie die unterschiedliche „Parteien“ und Strömungen sowie deren Forderungen (Vorstellungen) des „ewigen“ Friedens (m1)
+	- Das Turnverbot 1819 kam durch die Ereignisse bei Wartburgfest. Beim Wartburgfest kam es zu heftigen Auseinandersetzungen. Das Turnen wurde eingeführt, um Disziplinen bei zu bringen. Jetzt wurde es jedoch verboten, weil der Schrifsteller August von Kotzbue ermordet wurde und daraufhin der preußische König das Turnier verbieten ließ. 
 ## 2022-12-15
 1. Nennen Sie Kennzeichen, tragende Kräfte und Forderungen der Epoche des Vormärz (M1)! 
 	- Deutsche Epoche zwischen 1830 und 1848
@@ -134,7 +132,6 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 	- Friedrich Wilhelm war nicht nationalistisch
 	- Er glaubt an Gottesgnadentum
 	- Mit seiner Versöhnungspolitik versuchte er nur grundlegend die Bedürfnisse abzudecken.
-6. Hausaufgabe: Analysieren Sie die Forderungen des Volkes schriftlich (Recherchieren Sie hierbei nach Begriffen, die Ihnen nicht bekannt sind (M6)!
 ## 2023-01-05
 3. Erläutern Sie, warum Karl Marx und Friedrich Engels den Deutschen das das Zusammengehen mit der Bourgeoisie (M3) empfehlen! 
 4. Bewerten Sie die in M4 genannten Handlungen Friedrich Wilhelms
