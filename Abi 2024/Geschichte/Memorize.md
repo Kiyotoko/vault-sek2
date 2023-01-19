@@ -39,3 +39,12 @@
 
 ## Die „Soziale Frage“ an großstädtischen Ballungszentren
 ![[Mann der Arbeit aufgewacht - AB2 - Schüler.pdf]]
+## Wiener Kongress
+- **Ziele**
+	- Restauration
+	- Legitimität
+	- Solidarität
+- **Ergebnisse**
+	- Deutscher Bund
+	- Verstärkung der „Heiligen Allianz“
+	- Beharren auf der alten Ordnung → Enttäuchung der Hoffnungen → Gründung von Vereinen und Burchenschaften
