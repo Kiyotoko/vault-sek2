@@ -1,1 +1,1 @@
-![[Pasted image 20230120092506.png]]
+![[Gesteinskreislauf.png]]
