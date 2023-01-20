@@ -84,10 +84,5 @@ Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. A
 - Glimmerschiefer (Paragestein)
 - (Chemisches Sediment)
 - Basalt (Vulkanit)
----
-1. Tiefengesteine
-	- 
-1. Vulkanische Gesteine
-2. unverfestigte Sedimente
-3. verfestigte Gesteine
-4. methamorphe Gesteine
+- - -
+Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im Erdinneren sehr langsam ab, da es keine Wärme an die Oberfläche abgeben kann. Die lange Erstarrungszeit führt zu Kristallisation und zu einer großen Härte. Ein gutes Beispiel ist  
