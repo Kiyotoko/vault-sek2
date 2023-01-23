@@ -305,3 +305,4 @@ an, der in nutzbare Energie $E_{nutz}$umgewandelt bzw. übertragen wurde.
 - **Einheit:** \%
 - **Formel:** $\eta=\frac{E_{nutz}}{E_{zu}}$ oder $\eta=\frac{E_{nutz}}{E_{zu}}$
 Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
+# Modellierung
