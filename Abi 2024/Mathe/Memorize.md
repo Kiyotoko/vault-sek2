@@ -719,3 +719,4 @@ Eine Matrix ist eine Anordnung von Zahlen in Tabellenform. Matritzen werden mit 
 $\begin{pmatrix}a_{1,1}&a_{1,2}&\cdots&a_{1,n}\\a_{2,1}&a_{2,2}&\cdots&a_{1,n}\\ \vdots&\vdots&\ddots&\vdots \\ a_{m,1}&a_{m,2}&\cdots&a_{m,n}\end{pmatrix}$
 ## Addition und Subtraction
 Addition und Subtraktion von Matrizen ist nur möglich, wenn beide Matrizen denselben Rang haben. Man addiert beziehungsweise subtrahiert die einzelnen Elemente.
+# Vektoren
