@@ -308,3 +308,17 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 |pro|con|
 |-|-|
 |Umstrittene Persönlichkeiten wird ihre Relevanz und Reichweite weggenommen|Freiheit in Meinungsäußerung und Forschung wird beschnitten|
+## 2023-01-24
+- Paul Celan - Die Todesfuge
+	- Schwarze Milch
+	- Margarete
+	- Blaue Augen
+	- Ein Mann spielt 
+	- Wir trinken, wir trinken
+	- Der Tod ist ein Meister aus Deutschland
+- - -
+|„wir“|„er“|
+|-|-|
+|Schwarze Milch|Blaue Augen|
+|Wir trinken, wir trinken|Margarete|
+|Schaufeln ein |Der Tod ist ein Meister aus Deutschland|
