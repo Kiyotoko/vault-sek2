@@ -130,7 +130,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - die Folgen einer Handlung bestimmen den moralischen Wert
 → ich verfolge ein Ziel (z. B. persönlicher Nutzen, keine Strafe bekommen, usw.)
 ### Deontologische Ethik
-- moralisch wertvoll ist, was aus Pfleicht geschieht
+- moralisch wertvoll ist, was aus Pflicht geschieht
 → innere Verpflichtung
 → keine Betrachtung der Folgen
 ##  Glücks- und Strebensethik
