@@ -726,4 +726,6 @@ Man erhält die Transponierte zu einer Matrix, indem man Zeilen und Spalten vert
 $\begin{pmatrix}1&2&3\\4&5&6\end{pmatrix}^T=\begin{pmatrix}1&4\\2&5\\3&6\end{pmatrix}$
 ## Matrizenmultiplikation
 Matrizenmultiplikation ist nur dann möglich, wenn die 1 Matrix so viele Spalten hat, wie die 2. Matrix Zeilen hat.
+## Einheitsmatrix
+$\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 # Vektoren
