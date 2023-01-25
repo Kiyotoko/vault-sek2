@@ -134,3 +134,16 @@ $\omega=\frac{\varphi}{\Delta t}$
 $360^\circ=2\pi$
 $\omega=\frac{2\pi}{T}$
 $\frac{1}{T_{sid,u}}=\frac{1}{T_{sid,E}}+\frac{1}{T_{sid}}$
+## Voraussetzung für das Leben auf der Erde
+### Was ist Leben?
+Ein Lebewesen kennzeichnet Reproduktion, Selbstorganisation, Energieumwandlung und Wechselwirkung mit der Umgebung.
+#### Kohlenstoff-Chauvinismus
+Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
+### Merkmale des Lebens
+- Lebewesen stehen im Austauch mit ihrer Umwelt (**Stoffwechsel, Energieumwandlung und Energieübertragung**)
+- Lebewesen nehmen den Zustand ihrer Umwelt wahr (**Reizbarkeit**)
+- Lebewesen regulieren sich selbst und passen sich an ihrer Umwelt an (**Homöostase**)
+- Lebewesen können sich entwickeln (**Wachstum**)
+- Lebewesen können sich reproduzieren (**Fortpflanzung**)
+- Lebewesen geben Informationen an ihre Nachkommen weiter (**Vererbung**)
+- Lebewesen steuern ihre Prozesse mit Signale (**Kommuniktation**)

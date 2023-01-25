@@ -95,3 +95,21 @@ $T_{sid,V}=224.1d$
 
 $T_{sid,V}=84a$
 $T_{sid,V}=1.012a=369.7d$
+## 2023-01-25
+1. Was braucht eine Definition des Begriffs Leben und was nicht?
+	- Benötigt:
+		- selbstreplizierend
+		- selbstorganisierend
+		- Metabolismus
+	- Nicht benötigt:
+		- Sonnenlicht
+		- reduzieren auf Bestandteile
+2. Wie könnte eine Definition des Begriffs Leben aussehen?
+	- Eine Lebewesen ist selbstreplizierend, selbstorganisierend und betreibt Metabolismus.
+- - -
+- Begründe, warum man annimmt, die Bedingungen zur Entstehung des Lebens auf der Erde an schwarzen Rauchern vorzufinden.
+	- Schwarze Raucher sind sehr Energie- und Mineralreich
+	- Es wird Sauerstoff und Kohlenstoff-Dioxid verstoffwechselt
+	- Vor 4 Milliarden herrschten wahrscheinlich ähnliche Umstände, wie es bei einem schwarzen Raucher der Fall ist.
+- Nenne Bedingungen, unter denen vermutlich das Leben auf der Erde entstand.
+	- ohne Photosynthese und ohne sauerstoffproduzierendem Stoffwechsel
