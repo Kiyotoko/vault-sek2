@@ -151,3 +151,35 @@ In the end, I think that it would be easier if everyone would speak only English
 2. Describe his body language.
 	- His body language is very calm and open. He looks around at all audiences and not only in the camera.
 	- He underlines important words with his hands.
+## 2023-01-25
+- **Martin Sonneborn**
+	- he is a calm and satirical speeker
+	- remarkable words
+	- different breaks
+	- message
+- - -
+Ladies and gentlemen,
+
+Today 111 US Americans are shot dead by gun violence. To understand what this means, please look around the room. Look at the faces of your neighbors. and then imagine that all of them are dead. Then you will have an idea of what 111 people really means. The loss of life is devastating. These shootings leave behind a trail of broken families, traumatized survivors, and communities forever changed. This must finally stop.
+
+From 1966 to 2012, 90 mass shootings occurred in the United States, and 270 million firearms are distributed among the population. Upward trending.
+
+Perhaps you are now thinking: a familiar problem, another one like this, what does this problem have to do with me?
+
+But today I tell you that this is not just any old problem that doesn't even affect us, but one of the biggest in our society. What I am talking about is the gun lobby.
+
+The gun lobby or how they call it in the USA: NRA is one of the strongest lobbys in the USA. In fact, over 39\% of the weapon exports com from the USA.
+
+
+
+.....
+
+
+
+
+
+Thank you
+- - -
+- https://www.bradyunited.org/key-statistics
+- https://www.psychiatrictimes.com/view/psychiatric-care-in-the-us-are-we-facing-a-crisis
+- https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html

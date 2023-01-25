@@ -15,26 +15,6 @@ The Term „Lingua Franca“ describes that the communication is reduced on a ba
 * on the most places of earth you can speak English, because it is teached in schools
 * German was popular, bat has become stigmatized during WW2
 * 98% of the scientifix papers are written in English
-## writing a summary
-1. general:
-	1. short version $(\frac{1}{3})$ of the original text
-	2. contains the main idea of the author
-2. preparation:
-	1. find the thesis
-	2. highlight ideas, facts or arguments
-3. writing:
-	1. mention the source, text type and the main idea
-	2. write short paragraphs summing up the major arguments
-4. editing:
-	1. check and if necessary revise your summary
-5. useful:
-	1. according to the author, ...
-	2. the author says/writes, claims/states that ...
-	3. in addition/conclusion, the author argues that ...
-## writing a comment
-1. choose one side
-2. explain the arguments
-3. give examples
 # The political system
 ## The Constitution
 ### System of checks and balances
@@ -72,3 +52,29 @@ Diplomacy with oder nations
 - president nominates members
 ### Landmark cases
 Important Supreme Court cases; lasting impact on law and future cases
+# Writing a text
+## writing a summary
+1. general:
+	1. short version $(\frac{1}{3})$ of the original text
+	2. contains the main idea of the author
+2. preparation:
+	1. find the thesis
+	2. highlight ideas, facts or arguments
+3. writing:
+	1. mention the source, text type and the main idea
+	2. write short paragraphs summing up the major arguments
+4. editing:
+	1. check and if necessary revise your summary
+5. useful:
+	1. according to the author, ...
+	2. the author says/writes, claims/states that ...
+	3. in addition/conclusion, the author argues that ...
+## writing a comment
+1. choose one side
+2. explain the arguments
+3. give examples
+## writing a speech
+1. choose you purpose
+	- informative
+	- explanatory
+	- persuasive
