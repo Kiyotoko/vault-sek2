@@ -1,3 +1,17 @@
+# Deklination
+| |feminim|maskulin|neutrum|
+|-|-|-|-|
+|Nom.|a|us|um|
+|Gen.|ae|i|i|
+|Dat.|ae|o|o|
+|Akk.|am|um|um|
+|Abl.|a|o|o|
+|||
+|Nom.|ae|i|a|
+|Gen.|arum|orum|orum|
+|Dat.|is|is|is|
+|Akk.|as|os|a|
+|Abl.|is|is|is|
 # Konjugationen
 ## Regelmäßig
 |Person|a-Konjugation|e-Konjugation|i-Konjugation|
@@ -79,4 +93,4 @@
 ## Personalpronomen
 ## Reflexivpronomen
 ## Interrogativpronomen
-## Indefinitpronomen
+## Indefinitpronomen /comm
