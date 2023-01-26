@@ -135,4 +135,9 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 ## 2023-01-05
 3. Erläutern Sie, warum Karl Marx und Friedrich Engels den Deutschen das das Zusammengehen mit der Bourgeoisie (M3) empfehlen! 
 4. Bewerten Sie die in M4 genannten Handlungen Friedrich Wilhelms
-Nach Karl Marx und Friedrich Engels de
+## 2023-01-26
+1. Beschreiben Sie, wie sich das Vorparlament legitimierte (M1)!
+	- Das Vorparlament legitimierte sich durch ein privates Treffen von liberalen und demokratischen Politikern, die Heidelberger Versammlung, die am 5. März 1848 stattfand. Diese Versammlung wählte einen Siebener-Ausschuss, der eine zweite Versammlung einberufen sollte (das Vorparlament), das für die Wahl der Nationalversammlung eintrat. Das Vorparlament bestand aus ausgewählten Persönlichkeiten, sowohl aktuelle als auch frühere Mitglieder von gesetzgebenden Organen in deutschen Staaten, aber auch andere Personen wie Robert Blum. Es war nicht durch die bestehende legale Ordnung legitimiert, sondern durch die direkte Aktion, durch revolutionäre Handlungen. Das Vorparlament hatte Einfluss auf die Wahl der Nationalversammlung und den Verfassungsentwurf.
+2. Ordnen Sie den Vorwurf, das Parlament sei nur eine „Quatschbude“ ein (M2)!
+	- Der Vorwurf, das Parlament sei nur eine "Quatschbude", wird in dem Text als Kritik der Linken Abgeordneten beschrieben. Sie bemängeln, dass die Nationalversammlung, die hauptsächlich aus Akademikern und Beamten besteht, nicht auf wichtige Zukunftsfragen eingeht und sich stattdessen mit nebensächlichen Details aufhält. Spötter und Karikaturisten nutzen diese Kritik, um das Parlament zu verulken und so prägt sich das Vorurteil der "Frankfurter Quatschbude" bis heute.
+1. 
