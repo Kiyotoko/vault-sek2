@@ -93,4 +93,4 @@
 ## Personalpronomen
 ## Reflexivpronomen
 ## Interrogativpronomen
-## Indefinitpronomen /comm
+## Indefinitpronomen 

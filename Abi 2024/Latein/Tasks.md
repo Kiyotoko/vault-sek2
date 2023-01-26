@@ -208,3 +208,9 @@ HANNIBAL, Sohn des Hamilcar, Karthager. Wenn es wahr ist, was niemand bezweifelt
 	- Singular Ablativ Feminim
 - ambulo
 	- 1. Person Singular Präsens Indikativ Aktiv
+## 2023-01-26
+|v-Perfekt|u-Perfekt|s-Perfekt|Dehnungsperfekt|Reduplikationsperfekt|
+|-|-|-|-|-|
+|oppugnare||sedere|||
+|||sinere|||
+||||||
