@@ -322,3 +322,50 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 |Schwarze Milch|Blaue Augen|
 |Wir trinken, wir trinken|Margarete|
 |Schaufeln ein |Der Tod ist ein Meister aus Deutschland|
+## 2023-01-27
+1. Erklären Sie den Titel des Gedichts.
+	- Das Gedicht heist „Inventur“, weil das lyrische Ich von der Prüfung seines Inventars spricht.
+2. Geben Sie an, was das lyrische Ich als Kostbarkeiten aufzählt
+	- Bleistiftmine
+	- Nagel
+3. Versuchen Sie eine Wichtung der genannten Gegenstände vorzunehmen.
+	- Mütze, Mantel, Rasierzeug, Beutel, Konservierbüchse, Teller, Pappe, Notizbuch, Zeltbahn, Zwirn
+	- Beutel mit Socken, Becher
+	- Bleistift, Nagel
+4. Versuchen Sie die Funktion der Gegenstände zu beschreiben.
+	- Die Gegenstände dienen dazu, während der Nachkriegszeit sein überleben zu sichern. Sie wärmen das lyrische ich, 
+5. Versuchen Sie zu erklären, warum genau diese Gegenstände als besonders kostbar bezeichnet werden.
+	- Die Gegenstände sind für ihn besonders wichtig, weil sie sein Leben sichern.
+6. Beschreiben Sie die Rolle der Mitmenschen für das lyrische Ich indem Sie die Wahl der Pronomen analysieren.
+	- Die Mitmenschen spielen für ihn keine große Rolle, da für ihn mehr seine persönlichen Gegenstände eine Rolle spielen, als seine zwischenmenschlichen Beziehungen. Er besitzt nichts, was er teilen kann, da er selbst schon am minimum Lebt.
+- - -
+Teetasse, Federmappe
+Bücher, Mangas
+PC, Laptop, Handy und RasberryPi
+Trinkflasche
+Halbkaputter Rucksack
+Memes
+Pullover
+
+- - -
+**Karl Zschiebsch - Inventur**
+
+Dies sind meine Bücher,
+dies sind meine Mangas,
+hier ist sind meine Stifte,
+in meiner Federmappe.
+
+im diesem Rucksack sind,
+ein weiterer Rucksack, 
+und einiges, was ich
+niemand verrate.
+
+Die Teetasse
+lieb ich am meisten:
+Morgens trinke ich,
+abends trike ich.
+
+Dies ist mein PC,
+dies ist mein Laptop,
+dies ist mein Handy,
+dies ist meine RasberryPi.
