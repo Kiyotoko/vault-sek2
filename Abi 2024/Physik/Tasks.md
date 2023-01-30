@@ -522,3 +522,13 @@ $\alpha=\arctan{St}=4.57^\circ$
 $E_{kin}={E_pot}$
 $\frac{m}{2}v^2=m*g*s*\sin{\alpha}$
 $s=\frac{v^2}{2g*\sin{\alpha}}=44.38m$
+# Elektrisches Feld
+## 2023-01-30
+$N=\frac{Q}{e}=\frac{1C}{1.602*10^{-19}C}=6.24*10^{18}$
+
+$N=\frac{0.7C}{e}=4.36*10^{18}$
+
+Die Ladung ist Negativ.
+$Q=4.9662*10^{-09}C$
+- - -
+Durch Reibung lädt sich der Ballon elektrisch auf (negativ). Die Haare werden mit der entgegengesetzten Ladung aufgeladen (positiv). Da beide verschieden aufgeladen sind, ziehen sie sich gegenseitig an.

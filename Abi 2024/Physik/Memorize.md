@@ -306,3 +306,15 @@ an, der in nutzbare Energie $E_{nutz}$umgewandelt bzw. übertragen wurde.
 - **Formel:** $\eta=\frac{E_{nutz}}{E_{zu}}$ oder $\eta=\frac{E_{nutz}}{E_{zu}}$
 Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 # Modellierung
+# Elektrostatik und Elektrodynamik
+## Die Größe der elektrischen Ladung
+Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektronenüberschuss) oder positive (Elektronenmangel) Ladung ist.
+
+- Formelzeichen (Symbol): $Q$
+- Einheit: $[Q] = 1 C$ (ein Coulomb)
+- Formel $Q=N*e$
+
+Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
+## Nachweis elektrostatischer Ladungen
+Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
+![[Elektrometer.png]]
