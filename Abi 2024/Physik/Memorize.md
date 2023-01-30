@@ -318,3 +318,16 @@ Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird 
 ## Nachweis elektrostatischer Ladungen
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
 ![[Elektrometer.png]]
+### Influenz
+### Polarisation
+Ladungen können sich nicht bewegen. Ladungsschwerpunkte werden getrennt.
+### Kunststoffstab am Elektroskop
+ Kommt der geladene Körper in die Nähe des Elektroskops, dann werden Elektronen im Elektroskop abgestoßen. Diese wandern im „unteren“ Teil des Zeigers des Metallstabes. Es erfolgt eine Ladungstrennung durch Influenz. Da sich gleiche Ladungen abstoßen, schlägt der Zeiger aus.
+## Möglichkeiten der Ladungstrennung
+- Reibung
+- Dissoziation
+- Influenz
+- Polarisation
+- magnetische Induktion
+- thermoelektronische Vorgänge
+## Strom als bewegte Ladung
