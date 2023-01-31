@@ -17,6 +17,21 @@
 - Trochäus \[x X\]
 - Anapäst \[X x x\]
 - Daktylus \[x x X\]
+# Erörterung
+1. **Einleitung**
+	1. Eckdaten zum Text
+	2. Autor
+	3. Thema
+	4. dargestellte Problematik
+2. **Textanalyse**
+	1. Kernaussage formulieren
+	2. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen
+	3. gesellschaftlich-historischer Kontext
+	4. Überleitung der Erörterung
+3. **Erörterung**
+	1. These-Gegenthese-Modell oder Sanduhrmodell
+	2. die eigene Position  begründet mit Beispielen darlegen
+	3. schlüssiges Urteil bzw. einleuchtende, aus der Erörterung hervorgehende Schlussfolgerung
 # Epochen
 ## Epochenzuordnung
 - __Chancen__:

@@ -369,3 +369,35 @@ Dies ist mein PC,
 dies ist mein Laptop,
 dies ist mein Handy,
 dies ist meine RasberryPi.
+## 2023-01-31
+1. Text mehrfach lesen und Wesentliches farbig markieren
+2. Außentextanalyse
+3. Positionierung zu Thesen
+4. Gliederung aufstellen
+5. Schreiben der Einladung mit TATT
+6. Hinführung zur Problemfrage
+7. Erörterung schreiben
+8. Überarbeitung der Erörterung
+- - -
+1. Autorin
+2. Thematik
+3. Genre
+4. Figuren
+5. Externer Bezug
+6. Kritik
+- - -
+|These aus Rezension|Pro|Contra|
+|:-|-:|-:|
+|Gegenwartsbezug|Rauchverbot|Science Fiction|
+|politische Literatur|Zeh als aktive Gegnerin von Rauchverboten|Fiktionalität von Literatur|
+|Erweckunsliteratur im Sinne von Wachrütteln|Systemkritik||
+|Genrevielfalt|Science Fiction||
+|Geschwistermärchen|Bezug aud Bruder und Schwester|Tod von Bruder und Schwester|
+- - -
+|Einleitung|Hauptteil|Schluss|
+|-|-|-|
+|Autorin von „Copus Delicti“ - Rezension zu Roman von C. Schmidt - Buchkritik|These: Die Kunst der Autorin|Provokation und klare Linie - eine Autorin misch sich ein - Fazit|
+|Juli Zeh mischt sich ein - Briefe an die Bundskanzlerin|These: Genrevielfalt|
+||These: sterile Figuren|
+||These: Intention - Erweckunsliteratur?|
+||„Corpus Delicti - Ein Prozess“: meine Position zu Thesen|
