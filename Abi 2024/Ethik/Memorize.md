@@ -194,3 +194,5 @@ graph LR
 	Z-->B[<i>Mangel</i> Feigheit]
 	Z-->C[<i>Übermaß</i> Tollkühnheit]
 ~~~
+## Arthur Schopenhauer
+### Zum Begriff des Mitleids
