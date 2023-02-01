@@ -342,3 +342,4 @@ $Q=Q_1$
 ## Elektrostatisches Feld
 ## Das Feldlinienbild des elektrischen Feldes
 ### Homogenes Feld
+## Die elektrische Feldstärke
