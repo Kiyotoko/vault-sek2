@@ -158,28 +158,28 @@ In the end, I think that it would be easier if everyone would speak only English
 	- different breaks
 	- message
 - - -
-Ladies and gentlemen,
+Sehr geehrte Damen und Herren, 
 
-Today 111 US Americans are shot dead by gun violence. To understand what this means, please look around the room. Look at the faces of your neighbors. and then imagine that all of them are dead. Then you will have an idea of what 111 people really means. The loss of life is devastating. These shootings leave behind a trail of broken families, traumatized survivors, and communities forever changed. This must finally stop.
+heute versammeln wir uns hier, in Stuttgart, im Zentrum Europas. Europa, eine Festung des Handels. Eine Festung des Fortschritts. Eine Festung der Freiheit. 
 
-From 1966 to 2012, 90 mass shootings occurred in the United States, and 270 million firearms are distributed among the population. Upward trending.
+Doch die Fundamente dieser doch so unerschütterlichen Festung sind bedroht; bedroht von Habgier, Lobbyismus und Korruption. 
 
-Perhaps you are now thinking: a familiar problem, another one like this, what does this problem have to do with me?
+Allerdings ist dieses Problem weitaus komplexer. Hierbei kann man das Problem nicht nur an einer Person oder Partei festmachen, sondern es handelt sich um ein strukturelles Problem. Ein Problem Namens Lobbyismus. Also, was macht Lobbyismus so gefährlich für die EU, und wie können wir dieses Problem beheben? 
 
-But today I tell you that this is not just any old problem that doesn't even affect us, but one of the biggest in our society. What I am talking about is the gun lobby.
+Demokratie sollte stets das Wohl aller fördern, statt den Einzelnen zu bereichern. Doch Lobbyismus hat einen so starken Einfluss auf die Entscheidungen, wodurch das Allgemeinwohl nicht mehr Gewehrleistet werden kann. So wurde auch Artikel 13 durchgesetzt, der das Urheberrecht zu Gunsten weniger Firmen neu regelte. 
 
-The gun lobby or how they call it in the USA: NRA is one of the strongest lobbys in the USA. In fact, over 39\% of the weapon exports com from the USA.
+Ein weiteres Problem, was unsere Demokratie bedroht, ist die mangelnde Transparenz der Europa Abgeordneten. Hier gibt weitgehend kaum Regulierungen, die es schwer machen, zu verfolgen, wo welche Gesetze wie beeinflusst werden. Das dieses Problem nicht an Relevanz verliert, zeigen ständig neue Skandale über Lobby-Gruppen. 
 
+Auch sollte man bedenken, dass verschiedene Lobby-Gruppen auch verschiedene Interessen vertreten. Doch verschiedene Interessen führen auch immer zu Konflikten. Und genau diese Konflikte führen am Ende zu Gesetzen, die niemanden helfen und nur der Allgemeinheit schaden. 
 
+Hinzu kommt, dass Lobbyisten vor niemanden Rechenschaft für ihren Einfluss auf die EU ablegen müssen. Dieser Mangel ist hoch bedenklich 
 
-.....
+Zuletzt sollte in einer Demokratie jeder gleichermaßen abgebildet werden. Doch Lobby Systeme großer Konzerne machen es kleinen Gruppen schwer, ihre Stimmen in der Politik noch hören zu können. Die Agrarpolitik der EU ist ein Grab des Versagens in dieser Hinsicht, da dort in der Vergangenheit nur große Firmen an der Gesetzgebung beteiligt waren, und der lokale Farmer einfach im Stich gelassen wurde. 
 
+Und wann immer Sie sich denken; “Wo ist das mein Problem?”, sollten sie sich in Erinnerung rufen, dass es auch ihre Stimme ist, genau ihre, die in der Politik so wie viele andere einfach überhört wird. 
 
+Probleme hat jeder. Doch wie lösen wir sie? Hier kommt das Lobbyregister ins Spiel. Mit dem Lobbyregister kann man einfach öffentlich einsehen, welcher Lobbyist welche Gesetze beeinflusst. Leider ist ein Eintrag zurzeit hier in keiner Hinsicht verpflichtend; stattdessen sind die Daten häufig unvollständig oder manchmal schlichtweg falsch. 
 
+Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unterschreiben Sie Petitionen und helfen Sie freiwilligen und unabhängigen Organisationen, wie „lobbypedia“ oder „ abgeordnetenwatch“ 
 
-
-Thank you
-- - -
-- https://www.bradyunited.org/key-statistics
-- https://www.psychiatrictimes.com/view/psychiatric-care-in-the-us-are-we-facing-a-crisis
-- https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html
+Danke.
