@@ -160,7 +160,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 → Sprache soll gerechtes und ungerechtes verdeutlichen
 → nur Mensch kann sich Vorstellungen machen von Recht und Unrecht
 
-## Aristoteles - Arten von Zielen
+### Aristoteles - Arten von Zielen
 - Theorie (Lehre) und Praxis (Kunst) → Ziel
 → Handeln ist hierarchisch geordnet
 → Zwischenziele (niedere Güter) dienen einem höheren Gut
@@ -196,3 +196,11 @@ graph LR
 ~~~
 ## Arthur Schopenhauer
 ### Zum Begriff des Mitleids
+- **positiv**
+	- mit-leiden → Gefühl der Anteilnahme am Schmerz und Leid anerer
+	- ein mit-Gefühl → vergleich mit-freuen
+	- im christlichen Kontext Voraussetzung
+- negativ
+	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
+	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
+## Egoismus und Mitleid
