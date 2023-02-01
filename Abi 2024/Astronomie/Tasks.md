@@ -113,3 +113,11 @@ $T_{sid,V}=1.012a=369.7d$
 	- Vor 4 Milliarden herrschten wahrscheinlich ähnliche Umstände, wie es bei einem schwarzen Raucher der Fall ist.
 - Nenne Bedingungen, unter denen vermutlich das Leben auf der Erde entstand.
 	- ohne Photosynthese und ohne sauerstoffproduzierendem Stoffwechsel
+## 2023-02-01
+- richtige Position im Sonnensystem → befindet sich in der Lebenszone der Sonne
+- Atmosphäre → Größe des Planeten
+- Hilfe von Jupiter und Mond
+- - -
+Deutlich leichtere Planeten können meist ihre Atmosphäre nicht halten.
+- - -
+Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So haben Jupiter und Mond schon mehrere Asteroiden abgefangen.

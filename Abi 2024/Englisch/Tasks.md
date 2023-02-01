@@ -175,6 +175,6 @@ Und wann immer Sie sich denken; “Wo ist das mein Problem?”, sollten sie sich
 
 Probleme hat jeder. Doch wie lösen wir sie? Hier kommt das Lobbyregister ins Spiel. Mit dem Lobbyregister kann man einfach öffentlich einsehen, welcher Lobbyist welche Gesetze beeinflusst. Leider ist ein Eintrag zurzeit hier in keiner Hinsicht verpflichtend; stattdessen sind die Daten häufig unvollständig oder manchmal schlichtweg falsch. 
 
-Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unterschreiben Sie Petitionen und helfen Sie freiwilligen und unabhängigen Organisationen, wie „lobbypedia“ oder „ abgeordnetenwatch“ 
+Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unterschreiben Sie Petitionen und helfen Sie freiwilligen und unabhängigen Organisationen, wie „lobbypedia“ oder „ abgeordnetenwatch“ .
 
 Danke.
