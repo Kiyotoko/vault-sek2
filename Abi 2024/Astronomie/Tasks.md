@@ -120,4 +120,16 @@ $T_{sid,V}=1.012a=369.7d$
 - - -
 Deutlich leichtere Planeten können meist ihre Atmosphäre nicht halten. Die Atmosphäre wird dafür benötigt, um die Temperatur zu halten. Somit werden die Schwankungen zwischen Tag und Nacht gesenkt.
 - - -
-Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So haben Jupiter und Mond schon mehrere Asteroiden abgefangen.
+Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So besteht der Asteroidengürtel des Jupiters aus Asteroiden, die er mit seiner Schwerkraft abgefangen hat. Der Mond hingegen ist die Ursache für eine Neigung der Erde und stabilisiert diese.
+- - -
+- Venus
+- Mars
+- Europa
+- Titan
+- Enceladus
+- - -
+- Gefrorenes Wasser
+- Uterirdischer Ozean
+- Schalenbau mit Eisenkern
+- Habitable Zone
+- Atmosphäre
