@@ -146,4 +146,8 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Lebewesen können sich entwickeln (**Wachstum**)
 - Lebewesen können sich reproduzieren (**Fortpflanzung**)
 - Lebewesen geben Informationen an ihre Nachkommen weiter (**Vererbung**)
-- Lebewesen steuern ihre Prozesse mit Signale (**Kommuniktation**)
+- Lebewesen steuern ihre Prozesse mit Signale (**Kommunikation**)
+## Lebensfreundliche Bedingungen im Sonnensystem
+### Bedingungen
+- flüssiges Wasser
+- Kohlenwasserstoffverbindung
