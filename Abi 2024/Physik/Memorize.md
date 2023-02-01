@@ -340,3 +340,5 @@ $Q=Q_1$
 - Fernwirkungstheorie
 - Nahwirkungstheorie
 ## Elektrostatisches Feld
+## Das Feldlinienbild des elektrischen Feldes
+### Homogenes Feld
