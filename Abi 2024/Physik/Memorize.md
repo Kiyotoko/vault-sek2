@@ -336,3 +336,7 @@ $I=\frac{\Delta Q}{\Delta t}$
 ## Erhaltungssatz der Ladung
 In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
+## Nah- und Fernwirkungstheorie
+- Fernwirkungstheorie
+- Nahwirkungstheorie
+## Elektrostatisches Feld
