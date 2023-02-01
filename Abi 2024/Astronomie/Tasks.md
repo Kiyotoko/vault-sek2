@@ -118,6 +118,6 @@ $T_{sid,V}=1.012a=369.7d$
 - Atmosphäre → Größe des Planeten
 - Hilfe von Jupiter und Mond
 - - -
-Deutlich leichtere Planeten können meist ihre Atmosphäre nicht halten.
+Deutlich leichtere Planeten können meist ihre Atmosphäre nicht halten. Die Atmosphäre wird dafür benötigt, um die Temperatur zu halten. Somit werden die Schwankungen zwischen Tag und Nacht gesenkt.
 - - -
 Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So haben Jupiter und Mond schon mehrere Asteroiden abgefangen.
