@@ -331,3 +331,8 @@ Ladungen können sich nicht bewegen. Ladungsschwerpunkte werden getrennt.
 - magnetische Induktion
 - thermoelektronische Vorgänge
 ## Strom als bewegte Ladung
+Die elektrische Stromstärke I gibt an, wie viel Ladung $Q$ in einer bestimmten Zeit $t$ durch den Querschnitt eines Leiters fließt
+$I=\frac{\Delta Q}{\Delta t}$
+## Erhaltungssatz der Ladung
+In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
+$Q=Q_1$

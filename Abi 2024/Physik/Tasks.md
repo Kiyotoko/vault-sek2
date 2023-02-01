@@ -532,3 +532,22 @@ Die Ladung ist Negativ.
 $Q=4.9662*10^{-09}C$
 - - -
 Durch Reibung lädt sich der Ballon elektrisch auf (negativ). Die Haare werden mit der entgegengesetzten Ladung aufgeladen (positiv). Da beide verschieden aufgeladen sind, ziehen sie sich gegenseitig an.
+## 2023-02-01
+$I=0.34A$
+$\Delta t=1s$
+$I=\frac{\Delta Q}{\Delta t}=\frac{N*e}{\Delta t}$
+$N=\frac{I*\Delta t}{e}=\frac{0.34A*1s}{1.602*10^{-19}C}=2.12*10^{18}$
+- - -
+$3.7V$: Akku liefert eine von $3.7V$
+$1.65Ah$: Die Einheit Ampere-Stunde gibt die Ladung des Akkus an.
+Es gilt $Q=\frac{I}{t}\to1C\to1As$
+
+$I=2.7mA$
+$Q=1.65Ah$
+
+$\Delta t=\frac{Q}{I}=\frac{1.65Ah}{0.0027A}=611h$
+- - -
+$I=0.38A$
+$t=30s$
+$\Delta Q=\frac{\Delta t}{I}$
+$N=\frac{Q}{e}$
