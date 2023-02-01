@@ -204,3 +204,13 @@ graph LR
 	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
 	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
 ## Egoismus und Mitleid
+Die Handlungsziele des Menschen sind in der Regel egoistisch
+- direkt egoistisch → unmittelbarer Eigennutz
+- indirekt egoistisch → mittelbarer Eigennutz
+	- eigenen Status aufwerten
+	- religiöse Aspekte fördern / Leben nach dem Tod
+	- auf spätere Vorteile Hoffen
+→ unmoralisch
+- *Aber*: auch das Wohl und Wehe eines anderen kann meinen Willen bestimmen
+- Dies muss voll und ganz mein antrieb sein → Mitleid
+- sie handeln dann moralisch, wenn das Leiden sie so stark beschäftigt, dass sie es selbst abstellen möchten

@@ -113,6 +113,3 @@ Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzie
 „Mein Beileid.“
 „Mein Katze ist gestorben“
 „Und?“
-- - -
-Egoismus
-Mitleid
