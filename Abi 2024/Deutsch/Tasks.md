@@ -413,4 +413,8 @@ dies ist meine RasberryPi.
 - Heimkehr
 - Erfahrungen aus dem Krieg werden thematisiert
 - - -
-Beide Protagonisten sind miteinander Verheirate und älter.
+Beide Protagonisten sind miteinander Verheirate und älter. Die Beziehung ist im Gedicht getrübt.
+
+Ja, es kann der Trümmerliteratur zugeordnet werden, da es um die Erfahrungen und die Zerstörung nach dem Krieg geht.
+
+Mangelernährung führt auch nach Ende des Krieges zu Tod.
