@@ -412,3 +412,5 @@ dies ist meine RasberryPi.
 - Zerstörung
 - Heimkehr
 - Erfahrungen aus dem Krieg werden thematisiert
+- - -
+Beide 
