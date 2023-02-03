@@ -401,3 +401,14 @@ dies ist meine RasberryPi.
 ||These: sterile Figuren|
 ||These: Intention - Erweckunsliteratur?|
 ||„Corpus Delicti - Ein Prozess“: meine Position zu Thesen|
+## 2023-02-03
+1. Z. 1 - 22
+2. Z. 23 - 28
+3. Z. 29 - 47
+4. Z. 48 - 68 
+5. Z. 64 - 71
+- - -
+- Literatur, die nach 1945 publiziert wurde
+- Zerstörung
+- Heimkehr
+- Erfahrungen aus dem Krieg werden thematisiert
