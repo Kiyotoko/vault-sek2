@@ -413,4 +413,4 @@ dies ist meine RasberryPi.
 - Heimkehr
 - Erfahrungen aus dem Krieg werden thematisiert
 - - -
-Beide 
+Beide Protagonisten sind miteinander Verheirate und älter.
