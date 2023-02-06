@@ -344,3 +344,4 @@ $Q=Q_1$
 ### Homogenes Feld
 ## Die elektrische Feldstärke
 ![[Pasted image 20230206091729.png]]
+![[Pasted image 20230206102427.png]]
