@@ -343,3 +343,4 @@ $Q=Q_1$
 ## Das Feldlinienbild des elektrischen Feldes
 ### Homogenes Feld
 ## Die elektrische Feldstärke
+![[Pasted image 20230206091729.png]]
