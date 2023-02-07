@@ -418,3 +418,7 @@ Beide Protagonisten sind miteinander Verheirate und älter. Die Beziehung ist im
 Ja, es kann der Trümmerliteratur zugeordnet werden, da es um die Erfahrungen und die Zerstörung nach dem Krieg geht.
 
 Mangelernährung führt auch nach Ende des Krieges zu Tod.
+## 2023-02-07
+In der Kurzgeschichte werden die Zerstörung der Stadt als auch die Erfahrungen aus dem Krieg verarbeitet. Die Kurzgeschichte wurde 1950 veröffentlicht und gehört somit zur Literatur, die nach 1945 publiziert wurde.
+- - -
+Heinrich Bölls war selbst auf einer humanistischen Schule und 

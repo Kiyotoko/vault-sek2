@@ -144,3 +144,7 @@
 ## Das Organon Modell von Karl Bühler
 - Karl Bühler trug entscheidend zur Entwicklung zur Entwicklung der Psychologie in der ersten hälfte des 20. Jarhunderts bei.
 - Kommunikation ist der Austauch von Informationen
+
+# Nachkriegszeit
+## Heinrich Böll
+- Geboren am 17 Dezember 
