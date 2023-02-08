@@ -559,3 +559,6 @@ Interpretieren Sie dieses Feldlinienbild!
 $U=9V$
 $E=300\frac{V}{m}$
 $d=\frac{300\frac{V}{m}}{9V}=0.03m$
+- - - 
+$d=6cm$
+$m=2g$
