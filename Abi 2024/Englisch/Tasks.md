@@ -178,3 +178,6 @@ Probleme hat jeder. Doch wie lösen wir sie? Hier kommt das Lobbyregister ins Sp
 Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unterschreiben Sie Petitionen und helfen Sie freiwilligen und unabhängigen Organisationen, wie „lobbypedia“ oder „ abgeordnetenwatch“ .
 
 Danke.
+## 2023-02-08
+- „Despite all our differences ...“, line 11
+- „... that isn't ...“, line 17 following
