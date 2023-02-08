@@ -147,4 +147,5 @@
 
 # Nachkriegszeit
 ## Heinrich Böll
-- Geboren am 17 Dezember 
+- Geboren am 17 Dezember 1917 in Köln
+- Verstarb am 16 Juli 1985
