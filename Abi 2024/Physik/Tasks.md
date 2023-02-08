@@ -562,3 +562,4 @@ $d=\frac{300\frac{V}{m}}{9V}=0.03m$
 - - - 
 $d=6cm$
 $m=2g$
+![[Pasted image 20230208091441.png]]
