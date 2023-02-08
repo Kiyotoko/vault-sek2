@@ -555,3 +555,7 @@ $N=\frac{Q}{e}$
 Interpretieren Sie dieses Feldlinienbild!
 - Die Darstellung zeigt ein inhomogenes Feldlinienbild. Sie laufen von einer positiv geladenen  Spitzen zur einer negativ geladenen Platte. Die Feldlinien treten immer senkrecht zur Oberfläche der Körper aus und ein. Eine positive Ladung erfährt tangential zu den Feldlinien eine Kraft.
 - An der Spitze sind die Feldlinien am dichtesten dargestellt. Deshalb ist dort die elektrische Feldstärke m größten. Im Vergleich zur Spitze verlaufen die Feldlinien an der Plattenmitte weniger dicht, also ist dort die Stärke des elektrischen Feldes dort geringer. An den Plattenrändern ist die Stärke des elektrischen Feldes dort am geringsten, da dort die Feldliniendichte auch am kleinsten ist.
+## 2023-02-08
+$U=9V$
+$E=300\frac{V}{m}$
+$d=\frac{300\frac{V}{m}}{9V}=0.03m$
