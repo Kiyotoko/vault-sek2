@@ -181,3 +181,13 @@ Danke.
 ## 2023-02-08
 - „Despite all our differences ...“, line 11
 - „... that isn't ...“, line 17 following
+- - -
+- Yes, „Barack Obamas Victory Speech“
+- Barack Obama
+- In Chicago at the November 2012
+- He speaks to his supporters
+- election Day victory
+- his vision of the American people and the nations future
+- to thank his supporters, show his vision, for the next four years
+- - -
+Examine how President Obama sends a message of shared values to his supporters after being declared the winner in the election. Consider his line of the argument and use of rhetorical devices.
