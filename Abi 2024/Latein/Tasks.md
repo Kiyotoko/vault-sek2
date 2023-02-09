@@ -171,12 +171,12 @@ Volksfront von Jadäa
 HANNIBAL, Hamilcaris filius, Carthaginiensis. Si verum est, quod nemo dubitat, ut populus Romanus omnes gentes virtute superarit, non est infitiandum Hannibalem tanto praestitisse ceteros imperatores prudentia, quanto populus Romanus antecedat fortitudine cunctas nationes.Nam quotienscumque cum eo congressus est in Italia, semper discessit superior. Quod nisi domi civium suorum invidia debilitatus esset, Romanos videtur superare potuisse. Sed multorum obtrectatio devicit unius virtutem. Hic autem velut hereditate relictum odium paternum erga Romanos sic conservavit, ut prius animam quam id deposuerit, qui quidem, cum patria pulsus esset et alienarum opum indigeret, numquam destiterit animo bellare cum Romanis.
 
 ---
-HANNIBAL, Sohn des Hamilcar, Karthager. Wenn es wahr ist, was niemand bezweifelt, dass das römische Volk alle Völker durch Tugendhaftigkeit besiegt hat, so ist nicht zu leugnen, dass Hannibal alle anderen Feldherren an Weisheit übertraf, so wie das römische Volk alle anderen Völker an Tapferkeit übertrifft. Denn wann immer er in Italien in die Schlacht zog, ging er als Sieger hervor. Wäre er nicht durch den Neid seiner eigenen Bürger in der Heimat geschwächt worden, hätte er die Römer wohl besiegen können. Aber die Verleumdung vieler überwand die Tugend eines Einzelnen. Dieser Mann jedoch bewahrte den ererbten Hass seines Vaters gegen die Römer so stark, dass er lieber sterben wollte, als ihn aufzugeben, und in der Tat, als er aus seiner Heimat vertrieben wurde und auf fremde Ressourcen angewiesen war, hörte er nicht auf, im Geiste Krieg mit den Römern zu führen.
+HANNIBAL, Sohn des Hamilcar, ist ein Karthager. Wenn es wahr ist, was niemand bezweifelt, dass das römische Volk alle Völker durch Tugendhaftigkeit besiegt hat, so ist nicht zu leugnen, dass Hannibal alle anderen Feldherren an Weisheit übertraf, so wie das römische Volk alle anderen Völker an Tapferkeit übertrifft. Denn wann immer er in Italien in die Schlacht zog, ging er als Sieger hervor. Wäre er nicht durch den Neid seiner eigenen Bürger in der Heimat geschwächt worden, hätte er die Römer wohl besiegen können. Aber die Verleumdung vieler überwand die Tugend eines Einzelnen. Dieser Mann jedoch bewahrte den ererbten Hass seines Vaters gegen die Römer so stark, dass er lieber sterben wollte, als ihn aufzugeben, und in der Tat, als er aus seiner Heimat vertrieben wurde und auf fremde Ressourcen angewiesen war, hörte er nicht auf, im Geiste Krieg mit den Römern zu führen.
 ## 2023-01-16
 - **Pontius Pilatus**
 	- Stadthalter von Palästina
 - Volksfront von Judäa
-- judäische 
+- judäische Volksfront
 ## 2023-01-19
 - laudas
 	- 2. Person Singular Präsens Indikativ Aktiv
@@ -214,3 +214,24 @@ HANNIBAL, Sohn des Hamilcar, Karthager. Wenn es wahr ist, was niemand bezweifelt
 |oppugnare||sedere|||
 |||sinere|||
 ||||||
+## 2023-02-09
+| |1. Person Präsens|1. Person Perfekt|PPP|
+|-|-|-|-|
+|appropinquare|appropinquao|appropinquavi|appropinquatum||
+|mittere|mitto|missi|missum|
+|facere|facio|feci|factum|
+|agere|ago|agi|actum|
+|gerere|gero|gessi|gessum|
+|ducere|duco|duxi|ductum|
+- - -
+- Orator - Redner
+	- Orator
+	- Oratorus
+	- Oratori
+	- Oratorem
+	- Oratore
+	- Oratores
+	- Oratorum
+	- Oratoribus
+	- Oratores
+	- Oratoribus
