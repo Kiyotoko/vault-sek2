@@ -422,3 +422,11 @@ Mangelernährung führt auch nach Ende des Krieges zu Tod.
 In der Kurzgeschichte werden die Zerstörung der Stadt als auch die Erfahrungen aus dem Krieg verarbeitet. Die Kurzgeschichte wurde 1950 veröffentlicht und gehört somit zur Literatur, die nach 1945 publiziert wurde.
 - - -
 Heinrich Bölls war selbst auf einer humanistischen Schule und 
+## 2023-02-10
+- hölzerner Schaukel
+- winziger Sandkasten
+- schmaler Rasenstreifen
+- Blumen und Gemüsebeeten
+- hinter einem Reihenhaus
+- Geschwister saßen eng umschlungen auf dem Brett der Schaukel
+- wohnten in einem Stall mit Hühnern, Enten und Schweinen
