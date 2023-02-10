@@ -86,3 +86,18 @@ Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. A
 - Basalt (Vulkanit)
 - - -
 Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im Erdinneren sehr langsam ab, da es keine Wärme an die Oberfläche abgeben kann. Die lange Erstarrungszeit führt zu Kristallisation und zu einer großen Härte. Ein gutes Beispiel ist hierfür Granit. 
+## 2023-02-09
+1. Kleinstorganismen sterben ab
+2. Bei einer tiefe von über 200 metern kommt keine Luft an das tote Organische → Verwest nicht
+3. Ton und Sand mischen sich unter dem Organischen Material → es entsteht das Erdölmuttergestein
+4. Unter dem Gewicht weiterer Sedimente nimmt der Druck und die Hitze des Erdölmuttergesteins zu
+5. Bei 80 bis 100 Grad brechen die Moleküle auseinander und bilden neue Verbindungen → Öl entsteht
+6. Das Erdöl wandert nach oben → Erdöllagerstätte entsteht
+- - -
+- Laptop
+- T-Shirt
+- Ladekabel
+- Backpapier
+- Waschmittel
+- Bleistifte
+- Kosmetik
