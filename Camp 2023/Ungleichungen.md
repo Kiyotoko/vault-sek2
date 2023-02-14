@@ -1,0 +1,44 @@
+### Multiplizieren / Dividieren mit negativen Zahlen
+~~~ad-example
+$3x>5x+1|-5x$
+$-2x>1|*-\frac{1}{2}$
+$x<-\frac{1}{2}$
+~~~
+
+~~~ad-example
+$a^2+b^2+c^2\geq ab+bc+ca$
+
+$(a-b)^2=a^2+b^2-2ab$
+$(a-b)^2\geq 0$
+$a^2+b^2-2ab\geq 0$
+$a^2+b^2\geq 2ab$
+$\frac{a^2+b^2}{2}\geq ab$
+~~~
+
+~~~ad-example
+$\frac{x}{y}+\frac{y}{x}\geq 2$
+
+$(x-y)^2\geq 0$
+$x^2-2xy+y^2\geq 0$
+$x^2+y^2\geq2xy$
+$xy^{-1}+yx^{-1}\geq 2$
+~~~
+
+~~~ad-example
+Die Summe zweier positiver Zahlen deren Produkt 1 ist, ist mindestens 2.
+$xy=1$
+$x+y\geq2$
+$x=\frac{1}{y}$
+$\frac{1}{y}+\frac{y}{1}\geq2$
+~~~
+
+~~~ad-example
+Is das Produkt von n positiven Zahlen gleich 1, ist die Summe der der Zahlen mindestens 1
+$x_0*x_1*\dots*x_n=1$
+$x_0+x_1+\dots+x_n\geq n$
+
+$1*1=1$
+$1^n=1$
+$1+1\geq2$
+$x_0=x_1=n*1=n$
+~~~
