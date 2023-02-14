@@ -18,13 +18,13 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 		- $k|\frac{x}{d}$ und $k|\frac{y}{d}$ → $k|\frac{x}{ggT(x,y)}$ und $k|\frac{y}{ggT(x,y)}$
 		- $x=n_1k ggT(x,y)$ und $y=n_2k ggT(x,y)$
 - **Definition** Ein pythagoreisches Tripel $(x,y,z)\in\mathbb{N}^3$ heißt primitiv, wenn gilt $ggT(x,y)=1$.
-- **Lemma** Sei $(x,y,z)$ ein primitives pythagoreisches Tripel, dann ist entweder x oder y eine gerade Zahl
+- **Lemma** Sei $(x,y,z)$ ein primitives pythagoreisches Tripel, dann ist entweder $x$ oder $y$ eine gerade Zahl
 - **Beweis** 
 	1. Wenn $ggT(x,y)=1$ können x und y nicht beide durch 2 teilbar sein.
 		- Angenommen, $x=1\mod2$ und $y=1\mod2$. Dann $n_1,n_2\in\mathbb{N}$: $x=2n_1+1$ und $y=2n_1+1$
 		- $z^2=x^2+y^2=(2n_1+1)^2+(2n_2+1)^2=4n_1^2+4n_2^2+4n_1+4n_2+2=4(n_1^2+n_2^2+n_1+n_2)$
 ## Euklids Klassifikationssatz
-- **Satz** Die folgenden Aussagen sin äquivalent:
+- **Satz** Die folgenden Aussagen sind äquivalent:
 	1. $(x,y,z)\in\mathbb{N^3}$ ist ein primitives pythagoreisches Tripel mit $x=0\mod2$
 	2. mit $m>n,ggT(m,n)=1$ und $m\neq n\mod2$, sodass $x=2mn$ und $y=m^2-n^2$ und $z=m^2+n^2$
 - **Beweis**
@@ -53,4 +53,34 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 	- Die Gleichung $x^4+y^4=z^4$ besitzt keine nicht.triviale Lösung
 - **Beweis**
 	- Angenommen, $(x,y,z)$ ist eine nicht-triviale Lösung von $x^4+y^4+z^4$
-	1. Man zeigt: $(x,y,z)\in\mathbb{N}^3$ nicht-triviale Lösung von $x^4+y^4$ 
+	1. Man zeigt: $(x,y,z)\in\mathbb{N}^3$ nicht-triviale Lösung von $x^4+y^4=z^4$ mit $ggT(x,y)=1$
+		- Es gilt: $x',y',z'\neq0$ und $(|x'|,|y'|,|z'|)$ ist ebenfalls eine nicht-triviale Lösung. Deshalb reicht es anzunehmen, dass $x',y',z'\in\mathbb{N}$
+		- Sei $d=ggT(x',y')$. Dann folgt aus $d|x^2$
+		- Mit $x=\frac{x'}{d}$, $y=\frac{y'}{d}$ und $z=\frac{z'}{d}$ ist $(x,y,z)\in\mathbb{Z}^3$ eine nicht-triviale Lösung und wegen $z=\frac{z'}{d}\leq z'$ gilt $z^2\leq z'^2$. 
+		- $ggT(x,y)=ggT(\frac{x'}{d},\frac{y'}{d})=1$ folgt logisch.
+		- Schlussfolgerung: man kann annehmen, dass $(x,y,z)\in\mathbb{N}^3$ eine nicht-triviale Lösung ist mit $ggT(x,y)=1$
+	2. Man zeigt: Entweder $x$ oder $y$ ist gerade.
+		- Angenommen, $x=y=0\mod2$.
+		- $ggT(x,y)\geq2\neg ggT(x,y)=1$
+		- Angenommen, $x=y=1\mod2$
+			- $x^2=y^2=1\mod2$ → $1\mod2$.
+			- $x^2=2a+1$ oder $y^2=2b+1$
+			- $x^4+y^4=(2a+1)^2+(2b+1)^2=4(a^2+a+b^2+b)$
+	3. Man zeigt: $m,n\in\mathbb{N}$ mit $m>n$, $ggT(m,n)=1$ und $m\neq n\mod2$, sodass gilt: $x^2=2mn$, $y^2m^2-n^2$ und $z=m^2+n^2$
+		- Beweis: Wegen $(x^2)^2+(y^2)^2=z^2$ ist $(x^2,y^2,z)$ ein pythagoreisches Tripel, das wegen $ggT(x,y)=ggT(x^2,y^2)=1$ primitiv ist. Dann folgt die Behauptung aus Euklids Klassifikationssatz.
+	4. Man zeigt: $m=1\mod2$ und $n=0\mod2$
+		- Beweis: Angenommen; $n=1\mod2$ → $a\in\mathbb{N}$: $n=2a+1$ und $m=0\mod2$ → $b\in\mathbb{N}:m=2b$
+		- Da $y^2=1\mod2$, $c\in\mathbb{N}: y=2c+1$ und es folgt $y^2=(2x+1)^2=4c^2+4c+1$ → $4c^2+4c+2$ → $y^2=1\mod4$
+		- Aber $y^2=m^2-n^2=0-1=3\mod4$
+		- Schlussfolgerung: $r\in\mathbb{N}: n=2r$ → $x^2=2mn=4mr$ → $(\frac{x}{2})^2=mr$
+	5. Man zeigt: $m$ und $r$ sind Quadratzahlen.
+		- Beweis: $x=0\mod2\to(\frac{x}{2})^2$ eine Quadratzahlen in $\mathbb{N}$. Es reicht zu zeigen, dass $ggT(m,r)=1$. Angenommen, $d=ggT(m,r)>1$. Dann gilt: $d|m$ und $d|r$ → $d|2t=n$.
+		→ $ggT(m,n)\geq d\geq1\neq ggT(m,n)=1$
+		- Schlussfolgerung: $t,v\in\mathbb{N}: m=t^2$ und $r=v^2$
+	6. Man zeigt: $(2v^2)^2+y^2=(t^2)^2$
+		- Beweis: $r=v^2$ → $n=2r=2v^2$
+		- $y^2=m^2-n^2$ und $t^2=m$
+		→ $(2v^2)^2+y^2=m^2+n^2-n^2=m^2=(t^2)^2$
+	7. Man zeigt: $(2v^2,y,t^2)$ ist ein primitives pythagoreisches Tripel.
+		- Beweis: Aus Schritt 6 folgt, dass $(2v^2,y,t^2)$ ein primitives  pythagoreisches Tripel ist. Bleibt für die Primitivität noch $ggT(2v^2,y)=1$ zu zeigen.
+		- Angenommen: $d>1$. Dann sei $p|d\text{prim.}$ Es folgt: $p|2v^2=n$ und $p|y$ → $p|n^2$ und $p|y^2$ → $p|n^2+y^2$ $(n^2+y^2=n^2+m^2-n^2=m^2)$ → $p|m^2$ → $p|m$ und $p|n$
