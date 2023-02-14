@@ -38,3 +38,11 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 - **Aufgabe**
 	-  Konstuiere ein primitives pythagoreisches Tripel mit $m=3$ und $n=2$:
 		- $(x=12,y=5,z=13)$
+	- Da $x=0\mod2$: $e=2r$ → $x^2=4r^2$
+	- Weiter gilt $x^2+y^2=z^2$ → $4r^2=z^2-y^2=(z-y)(z+y)$
+	- Aufgrund dessen, dass $y=z\mod2$, gilt:
+	- $z-y=z+y=0\mod2$
+	- $y+z=2s$ und $z-y=2t$
+	- $2z=2z+y-y=(z+y)+(z-y)=2s+2t$ → $z=s+t$
+	- $2y=(y+z)+(y-z)=2s-2t$ → $y=s-t$
+	- Weiter gilt nun: $x^2+4r^2=z^2-y^2=(z-y)(z+y)=4st$ → $r^2=s*t$
