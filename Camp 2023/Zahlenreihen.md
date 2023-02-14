@@ -36,7 +36,7 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 	- Weiter gilt: $y+z=m^2-n^2+m^2+n^2=2m^2$ → $p|2m^2$ → $p|2n^2$
 	- Also folgt $ggT(x,y)=1$ und $(x,y,z)$ ist ein primitives pythagoreisches Tripel.
 - **Aufgabe**
-	-  Konstuiere ein primitives pythagoreisches Tripel mit $m=3$ und $n=2$:
+	-  Konstruiere ein primitives pythagoreisches Tripel mit $m=3$ und $n=2$:
 		- $(x=12,y=5,z=13)$
 	- Da $x=0\mod2$: $e=2r$ → $x^2=4r^2$
 	- Weiter gilt $x^2+y^2=z^2$ → $4r^2=z^2-y^2=(z-y)(z+y)$
@@ -46,3 +46,11 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 	- $2z=2z+y-y=(z+y)+(z-y)=2s+2t$ → $z=s+t$
 	- $2y=(y+z)+(y-z)=2s-2t$ → $y=s-t$
 	- Weiter gilt nun: $x^2+4r^2=z^2-y^2=(z-y)(z+y)=4st$ → $r^2=s*t$
+- **Definition**
+	- Für $n\in\mathbb{Z}^3$ von $x^n+y^n=z^n$ trivial, wenn gilt: $x=0$ oder $y=0$ oder $z=0$.
+	- Sie heißt nicht-trivial, wenn gilt: $x\neq0$ oder $y\neq0$ oder $z\neq0$.
+- **Satz**
+	- Die Gleichung $x^4+y^4=z^4$ besitzt keine nicht.triviale Lösung
+- **Beweis**
+	- Angenommen, $(x,y,z)$ ist eine nicht-triviale Lösung von $x^4+y^4+z^4$
+	1. Man zeigt: $(x,y,z)\in\mathbb{N}^3$ nicht-triviale Lösung von $x^4+y^4$ 
