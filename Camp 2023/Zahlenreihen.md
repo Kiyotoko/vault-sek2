@@ -108,5 +108,3 @@ Ist $n=0\mod4$, dann hat die Gleichung $x^n+y^n=z^n$ keine nicht-trivialen Lösu
 	1. $x^2-2y^2=1$ 3 und 2
 	2. $x^2-3y^2=1$ 2 und 1
 	3. $x^2-7y^2=1$ 8 und 3
-## Mittelunggleichungen
-- Harmonisches Mittel

@@ -66,3 +66,15 @@ Beweis für die Bernoulli-Ungleichung.
 	- $(1+x)^{n+1}\geq1+nx+x+nx^2$
 	- $(1+x)^{n+1}\geq1+x(n+1)+nx^2\geq1+x(n+1)$
 ~~~
+## Mittelunggleichungen
+~~~ad-important
+- Harmonisches Mittel $\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\dots+\frac{1}{x_n}}$
+- Geometrisches Mittel $\sqrt[n]{x_1+x_2+\dots+x_n}$
+- Arithmetrisches Mittel $\frac{x_1+x_2+\dots+x_n}{n}$
+- Quadratisches Mittel $\sqrt{\frac{x_1^2+x_2^2+\dots+x_n^2}{n}}$
+→ $HM \leq GM\leq AM\leq QM$
+~~~
+
+~~~ad-example
+$n!<(\frac{n+1}{2})^n\forall n\in\mathbb{N}_{\geq2}$
+~~~
