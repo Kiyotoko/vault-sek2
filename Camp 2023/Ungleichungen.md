@@ -25,7 +25,7 @@ $xy^{-1}+yx^{-1}\geq 2$
 ~~~
 
 ~~~ad-example
-Die Summe zweier positiver Zahlen deren Produkt 1 ist, ist mindestens 2.
+Die Summe zweier positiver Zahlen deren Produkt $1$ ist, ist mindestens $2$.
 $xy=1$
 $x+y\geq2$
 $x=\frac{1}{y}$
@@ -33,7 +33,7 @@ $\frac{1}{y}+\frac{y}{1}\geq2$
 ~~~
 
 ~~~ad-example
-Is das Produkt von n positiven Zahlen gleich 1, ist die Summe der der Zahlen mindestens 1
+Is das Produkt von $n$ positiven Zahlen gleich $1$, ist die Summe der der Zahlen mindestens $1$.
 $x_0*x_1*\dots*x_n=1$
 $x_0+x_1+\dots+x_n\geq n$
 
@@ -41,4 +41,28 @@ $1*1=1$
 $1^n=1$
 $1+1\geq2$
 $x_0=x_1=n*1=n$
+~~~
+
+~~~ad-example
+$\frac{x^2}{x^4+1}\leq\frac{1}{2}$
+$x^2\leq\frac{x^4+1}{2}$
+$0\leq x^4+1-2x^2$
+$0\leq (x^2-1)^2$
+~~~
+## Bernoulli-Ungleichung
+Für alle $x\in\mathbb{R}, x\geq -1$ und $\forall n\in\mathbb{N}$ gilt: $(1+x)^n\geq1+n*x$.
+~~~functionplot
+f(x)=(1+x)^3
+g(x)=1+3x
+~~~
+Beweis für die Bernoulli-Ungleichung.
+~~~ad-info
+- Indunktionsanfang: $n=1$
+	- $(1+x)^1\geq n+1x$
+	- $1+x\geq1+x$
+- Induktionsbehauptung: $(1+x)^{n+1}\geq1+(n+1)x$
+- Induktionsschritt
+	- $(1+x)^n\geq1+nx$
+	- $(1+x)^{n+1}\geq1+nx+x+nx^2$
+	- $(1+x)^{n+1}\geq1+x(n+1)+nx^2\geq1+x(n+1)$
 ~~~
