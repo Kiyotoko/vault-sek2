@@ -8,7 +8,6 @@
 		* 1.Fall: $m$ ist eine Primzahl
 		* 2.Fall: $m$ist keine Primzahl
 	* PI(x) > x / \log(x) V >= 17
-
 # Sheldon-Primzahlen
 * ### Beispiel 37:
 	* 73 ist die 21 Primzahl
