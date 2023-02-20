@@ -1,23 +1,12 @@
 # Nullstellen
-~~~ad-important
-f(x)=x^2+4x
-f(x)=x(x+4)
-
-
 Funktion $0$ setzen.
 $0=f(x)$
-~~~
 ## Vielfachheit von NSt
-~~~ad-important
 Anzahl der Nullstellen.
-~~~
 # Schnittpunkt mit der $y$-Achse
-~~~ad-important
 Bei der Funktion $0$ einsetzen.
 $y=f(0)$
-~~~
 # Definitionsbereich
-~~~ad-important
 Teilen durch $0$.
 $f(x)=\frac{n}{x}$
 Wurzeln mit Werten unter $0$.
@@ -26,17 +15,12 @@ Logarithmus mit Werten unter $0$
 $f(x)=\log{x}$
 Einschränkungen durch die Aufgabenstellung
 $i=[\dots]$
-~~~
 # Asymptoten
 ## Waagerechte Asymptoten
-~~~ad-important
 Berechnung über den Grenzwert im Unendlichen.
-~~~
 
-~~~ad-example
 $f(x)=\frac{2x^2-1}{x-x^2}$
 $\lim\limits_{x\to\pm\infty}f(x)=-2$
-~~~
 ## Senkrechte Asymptoten
 ~~~ad-important
 Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken gebrochen-rationaler Funktionen. Man ermittelt sie, indem man den Nenner gleich $0$ setzt.
