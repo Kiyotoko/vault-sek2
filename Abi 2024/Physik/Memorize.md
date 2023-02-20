@@ -315,33 +315,51 @@ Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektro
 - Formel $Q=N*e$
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
-## Nachweis elektrostatischer Ladungen
+### Kräfte zwischen elektrostatisch geladenen Körpern
+Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
+### Nachweis elektrostatischer Ladungen
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
 ![[Elektrometer.png]]
-### Influenz
-### Polarisation
-Ladungen können sich nicht bewegen. Ladungsschwerpunkte werden getrennt.
+### Ladungsausgleich
+Beim Ladungsausgleich fließen zuvor getrennt Ladungen zurück.
+#### Influenz
+Ist ein geladener Körper in der Nähe eines leitenden, ladungsneutralen Körpers, so tritt bei dem leitenden Körper eine Ladungsverschiebung und somit eine Ladungstrennung auf. Diese wird als Influenz bezeichnet.
+#### Polarisation
+Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung von elektrischen Ladungen über kurze Distanzen (Größenordnung eines Atomabstandes). Moleküle oder kleinste Teilchen werden zu elektrischen Dipolen.
 ### Kunststoffstab am Elektroskop
  Kommt der geladene Körper in die Nähe des Elektroskops, dann werden Elektronen im Elektroskop abgestoßen. Diese wandern im „unteren“ Teil des Zeigers des Metallstabes. Es erfolgt eine Ladungstrennung durch Influenz. Da sich gleiche Ladungen abstoßen, schlägt der Zeiger aus.
-## Möglichkeiten der Ladungstrennung
+### Möglichkeiten der Ladungstrennung
 - Reibung
 - Dissoziation
 - Influenz
 - Polarisation
 - magnetische Induktion
 - thermoelektronische Vorgänge
-## Strom als bewegte Ladung
+### Strom als bewegte Ladung
 Die elektrische Stromstärke I gibt an, wie viel Ladung $Q$ in einer bestimmten Zeit $t$ durch den Querschnitt eines Leiters fließt
 $I=\frac{\Delta Q}{\Delta t}$
-## Erhaltungssatz der Ladung
+### Erhaltungssatz der Ladung
 In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
 ## Nah- und Fernwirkungstheorie
-- Fernwirkungstheorie
-- Nahwirkungstheorie
+- **Fernwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt unmittelbar (instantan) und ohne „Vermittler“.
+- **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungs-geschwindigkeit) und durch einen „Vermittler“.
 ## Elektrostatisches Feld
-## Das Feldlinienbild des elektrischen Feldes
+In dem Raum (Wirkungsbereich) um einen elektrostatisch gela-denen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
+### Das Feldlinienbild des elektrischen Feldes
 ### Homogenes Feld
-## Die elektrische Feldstärke
-![[Pasted image 20230206091729.png]]
-![[Pasted image 20230206102427.png]]
+Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
+### Faradayscher Käfig
+### Die elektrische Feldstärke
+Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
+Formelzeichen (Symbol): 
+Einheit: [] = 1  
+Formel: 
+ – Kraft auf einen positiv geladenen Körper
+ – Ladung dieses Körpers
+![[Polarisation.png]]
+![[Potenzial.png]]
+## Coulombsches Gesetz
+### Relative Permittivität
+Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
+![[Relative Permittivität.png]]
