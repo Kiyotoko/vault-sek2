@@ -352,11 +352,13 @@ Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 ### Faradayscher Käfig
 ### Die elektrische Feldstärke
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
-Formelzeichen (Symbol): 
-Einheit: [] = 1  
-Formel: 
- – Kraft auf einen positiv geladenen Körper
- – Ladung dieses Körpers
+
+- Formelzeichen (Symbol): 
+- Einheit: \[\] = 1  
+- Formel: 
+
+Kraft auf einen positiv geladenen Körper
+Ladung dieses Körpers
 ![[Polarisation.png]]
 ![[Potenzial.png]]
 ## Coulombsches Gesetz
