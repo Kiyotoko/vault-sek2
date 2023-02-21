@@ -22,11 +22,13 @@ Berechnung über den Grenzwert im Unendlichen.
 $f(x)=\frac{2x^2-1}{x-x^2}$
 $\lim\limits_{x\to\pm\infty}f(x)=-2$
 ## Senkrechte Asymptoten
-<pre class="vault" style="background-color:#50C878;"><code class="vault" style="color:white;">Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken gebrochen-rationaler Funktionen. Man ermittelt sie, indem man den Nenner gleich <span class="math inline">0</span> setzt.</code></pre>
+<pre style="background-color:#50C878;"><code class="vault" style="color:white;">Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken gebrochen-rationaler Funktionen. 
+Man ermittelt sie, indem man den Nenner gleich <span class="math inline">0</span> setzt.</code></pre>
 
-<pre class="vault" style="background-color:#8800ff;"><code class="vault" style="color:white;"><span class="math inline">f(x)=\frac{2x^2-1}{x-1}</span>
+<pre style="background-color:#8800ff;"><code class="vault" style="color:white;"><span class="math inline">f(x)=\frac{2x^2-1}{x-1}</span>
 <span class="math inline">0=x-1\quad x=1</span>
 </code></pre>
+
 
 ~~~functionplot
 f(x)=(4+x)/(2x)
