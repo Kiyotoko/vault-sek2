@@ -1,8 +1,7 @@
 # Änderungsrate
-~~~ad-important
-- Durchschnittliche Änderungsrate: Differenzenquotient
-- Momentane Änderungsrate: Differentialquotient (Ableitung)
-~~~
+<pre style="background-color:#3CB371;"><code style="color:white;"><li>Durchschnittliche Änderungsrate: Differenzenquotient
+<li>Momentane Änderungsrate: Differentialquotient (Ableitung)
+</code></pre>
 # Tangenten
 ~~~ad-help
 1. Die Tangente ist eine Gerade ($y=mx+n$).
@@ -34,7 +33,7 @@ $$f(x)=x^2\quad x_0=2$$
 4. Tangentengleichung angeben
 ~~~
 
-~~~ad-help
+<pre style="background-color:#1E90FF;"><code style="color:white;">
 $f(x)=...$
 $f'(x)=...$
 
@@ -46,7 +45,7 @@ $m=f'(x_A)$
 
 $s=solve(\frac{y_Q-f(x_A)}{x_Q-x_A}=f'(x_A),x_A)$
 $t(x)=tangentline(f(x),x,s)$
-~~~
+</code></pre>
 # Normale
 ~~~ad-important
 Die Normale steht senkrecht auf der Tangente.
