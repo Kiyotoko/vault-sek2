@@ -1,5 +1,5 @@
 # Ableitungsregeln
-<pre style="background-color:#50C878;"><code style="color:white;">Die erste Ableitung ist der Anstieg einer Funktion.
+<pre class="vault" style="background-color:#50C878;"><code class="vault" style="color:white;">Die erste Ableitung ist der Anstieg einer Funktion.
 Die zweite Ableitung ist die Änderungsrate einer Funktion.</code></pre>
 
 Die Ableitung ist definiert mit $\lim\limits_{h\to0}f'(x)=\frac{f(x)-f(x+h)}{h}$.
