@@ -56,3 +56,22 @@ Die Diagonalverfahren wurden von Georg Cantor zum Beweis zweier spezieller Aussa
 Das erste Cantorsche Diagonalverfahren ist ein direkter Beweis für die Abzählbarkeit einer Menge. Es wird gezeigt, dass man jedem Element der zu untersuchenden Menge eine natürliche Zahl zuordnen kann.
 
 Das zweite Cantorsche Diagonalverfahren ist ein indirekter Beweis für die Überabzählbarkeit einer Menge. Es wird also das Gegenteil angenommen, nämlich dass die Menge abzählbar wäre. Dann wird aus dieser Annahme ein Widerspruch hergeleitet, sodass sie fallen gelassen werden muss. 
+# Ungleichungen
+## Formen von Ungleichungen
+$T_1<T_2$
+$T_2\leq T_2$
+$T_1>T_2$
+$T_1\geq T_2$
+$T_1\neq T_2$
+## Umformung von Ungleichungen
+### Umkehrbarkeit
+Ungleichungen können umgekehrt werden $(T_1\leq T_2)\Leftrightarrow(T_2\geq T_1)$
+### Monotoniegesetz
+#### Addition und Subtraktion
+- Es ist $T_1 < T_2$ genau dann, wenn $T_1+T_3 < T_2+T_3$.
+- Es ist $T_1 < T_2$ genau dann, wenn $T_1-T_3 < T_2-T_3$.
+#### Multiplikation und Division
+- Aus $T_1<T_2$ folgt $-T_1>-T_2$.
+- Aus $0<T_1<T_2$ folgt $0<1/T_2<1/T_1$.
+- Aus $T_3 > 0$ und $T_1<T_2$ folgt $T_1 T_3 < T_2 T_3$ und $T_1/T_3 < T_2/T_3$.
+- Aus $T_3 < 0$ und $T_1<T_2$ folgt $T_1 T_3 > T_2 T_3$ und $T_1 / T_3 > T_2/T_3$.
