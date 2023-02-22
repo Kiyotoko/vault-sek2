@@ -1,4 +1,5 @@
-# Primzahlen $\DeclareMathOperator\rev{rev}$
+# Primzahlen 
+$\DeclareMathOperator\rev{rev}$
 * Satz: $P$ ist eine unendliche Menge
 * Beweis: 
 	* Angenommen, $P$ ist eine endliche Menge. 

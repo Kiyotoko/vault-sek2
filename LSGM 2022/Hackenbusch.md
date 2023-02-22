@@ -1,14 +1,3 @@
-
-```txt
-	++       +++     +++    +++   +++
-	++      ++ ++   ++ ++   ++ + + ++
-	++      +       ++      ++  +  ++
-	++       +++    ++ ++   ++  +  ++
-	++          +   ++  +   ++  +  ++
-	++      ++ ++   ++ ++   ++  +  ++
-	+++++    +++     +++    ++  +  ++
-```
-
 # Hackenbusch
 * 2 Spieler
 * Jeder Spieler hat Hölzer in  seiner Farbe
@@ -33,7 +22,7 @@ Grün gewinnt immer
   |   |
 --------
 ```
-Zweiter Spieler gewinnt immer -> Symetrie
+Zweiter Spieler gewinnt immer → Symetrie
 
 ```
   |
@@ -48,7 +37,7 @@ Rot gewinnt immer
   |  |
 -------- 
 ```
-Zweiter Spieler gewinnt -> Symetrie
+Zweiter Spieler gewinnt → Symetrie
 
 ```
 	/\
@@ -70,14 +59,14 @@ Zweiter Spieler gewinnt immer
  |-|  |-|
 ----------
 ```
-Zweiter Spieler gwinnt immer -> Symetrie
+Zweiter Spieler gwinnt immer → Symetrie
 
 ## Nullspiel
 * Der Spieler der beginnt, verliert
 
 ## Stellungen
 * Definition: Eine Stellung wir beschrieben mit { Zugmöglichkeiten des linken Spielers | Zugmöglichkeiten des rechten Spielers }
-* Einer Stellung wird mit einer Zahl bewertet, welche angibt, wie viele Züge der linke Spieler im Vorteil ist -> wie viele einzelne Stäbe muss ich dem rechten Spieler geben, damit dies in ein Nullspiel endet?
+* Einer Stellung wird mit einer Zahl bewertet, welche angibt, wie viele Züge der linke Spieler im Vorteil ist → wie viele einzelne Stäbe muss ich dem rechten Spieler geben, damit dies in ein Nullspiel endet?
 * Beispiele:
 ```
 
@@ -107,7 +96,7 @@ $-4 = { | -3 }$
  |  |
 ------
 ```
---> x
+→ x
 
 $-1 < x < 0$
 
@@ -119,16 +108,14 @@ $-1 < x < 0$
 --> y
 
 $y + y -1 = 0 => y = 1/2$
-
-__AB NR 1-5__
-
+- - -
 ```
  |
  |
  |
 ---
 ```
-Grün gewinnt immer --> $1 = { 1 | }$
+Grün gewinnt immer → $1 = { 1 | }$
 ```
  |  |
  |  |  |
@@ -145,7 +132,7 @@ $x = 1/4$
  |
 ---
 ```
-Grün gewinnt immer --> $1 = { 1 | }$
+Grün gewinnt immer → $1 = { 1 | }$
 ```
  |  |
  |  |  |
@@ -159,7 +146,7 @@ Grün gewinnt immer --> $1 = { 1 | }$
   |
 -----
 ```
-Grün gewinnt immer --> $1 = { 1 | }$
+Grün gewinnt immer → $1 = { 1 | }$
 ```
  \ / \ /
   |   |
@@ -170,7 +157,7 @@ Grün gewinnt immer --> $1 = { 1 | }$
  |-|
 -----
 ```
-Grün gewinnt immer --> $1 = { 2 | -1 }$
+Grün gewinnt immer → $1 = { 2 | -1 }$
 ```
  |-| |-|
 ---------
@@ -181,9 +168,8 @@ Grün gewinnt immer --> $1 = { 2 | -1 }$
  |-|
 -----
 ```
-Zweiter gewinnt immer --> $0 = { 1 | -1 }$
-
-__M__
+Zweiter gewinnt immer → $0 = { 1 | -1 }$
+- - -
 ```
  | }
  | } n
@@ -191,4 +177,4 @@ __M__
  |
 ----
 ```
-=> $\frac{1}{2^n}$
+→ $\frac{1}{2^n}$
