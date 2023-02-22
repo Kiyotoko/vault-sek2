@@ -14,27 +14,27 @@ $\min(a,b)\leq\frac{2}{\frac{1}{a}+\frac{1}{b}}\leq\sqrt{a*b}\leq\frac{a+b}{2}\l
 $(abc)^\frac{1}{3}\leq\frac{a+b+c}{3}$
 $(abcd)^\frac{1}{4}\leq\frac{a+b+c+d}{4}$
 
-- $(a - b)² >= 0$
-- $a² + b² >= 2ab$
-- $2(a² + b²) >= (a + b)²$
-- $(a² + b²) / 2 >= (a + b)² / 4$
-- $sqrt((a² + b²) / 2) >= (a + b) / 2$
+- $(a-b)^2\geq0$
+- $a^2+b^2\geq2ab$
+- $2(a^2+b^2)\geq(a+b)^2$
+- $\frac{a^2+b^2}{2}\geq\frac{(a+b)^2}{4}$
+- $\sqrt{\frac{a^2+b^2}{2}}\geq\frac{a+b}{2}$
 
 - Beispiel:
-	- BAOBAB
-	- P = a²b³o
+	- $BAOBAB$
+	- $P = a²b³o$
 - Ziel:
-	- P = a²b³o
+	- $P = a²b³o$
 - Ungleichung:
-	- (2a + 3b + o) / 6 >= (a²b²o)^(1 / 6)
-	- (2a + 3b + o)  / 6 >= P^(1 / 6)
-	- (3a + 3b + 3o) / 6 >= P^(1 / 6)
-	- -> P^(1 / 6) <= 1 / 2
-	- P <= (1 / 2)⁶ = 1 / 64
+	- $\frac{2a+3b+o}{6}\geq (a^2b^2o)^\frac{1}{6}$
+	- $\frac{2a+3b+o}{6}\geq P^\frac{1}{6}$
+	- $\frac{3a+3b+3o}{6}\geq P^\frac{1}{6}$
+	- $P^\frac{1}{6}\leq\frac{1}{2}$
+	- $P\leq(\frac{1}{2})^\frac{1}{6}=\frac{1}{64}$
 
-$1/6 = (a+b+b)/6 = (c + b/3 + b/3 + b/3 + a/2 + a/2) / 6 >= ((b / 3)³ x c x (a / c)²)^(1/6)$
+$\frac{1}{6}=\frac{a+b+b}{6}=\frac{c + b/3 + b/3 + b/3 + a/2 + a/2}{6}\geq((b/3)^3*c*(a/c)^2)^{\frac{1}{6}}$
 - - -
-$(x² + 2) / sqrt(x² + 1) >= 2$
+$(x^2 + 2) / \sqrt{x^2 + 1}\geq 2$
 
 - $(a1 + a2 + a3+ a4) / 4 >= 1$
 - $(a1 + 1 + a2 + 1 + a3 + 1 + a4 + 1) / 4 >= 2$
@@ -49,7 +49,7 @@ $3a^3\geq2\sqrt{3}*a^2$
 $u=2(a+b)=\frac{4(a+b)}{2}\geq4\sqrt{ab}=\sqrt{A}$
 $u\geq4\sqrt{a}$
 - - -
-$A = a x b$
+$A = a*b$
 $u = 2a + b$
 $u = 2a + 1(2a)$
 $u >= 2$

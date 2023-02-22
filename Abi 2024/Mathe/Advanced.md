@@ -1,18 +1,18 @@
 # Zahlenbereiche
 ## Natürliche Zahlen 
-- beinhaltet alle positiv ganzen Zahlen
+- Beinhaltet alle positiv ganzen Zahlen
 - Symbol $\mathbb{N}$
 ## Gebrochene Zahlen
-- erweiterung der natürlichen Zahlen, erweitert durch Brüche
+- Erweiterung der natürlichen Zahlen, erweitert durch Brüche
 - Symbol $\mathbb{Q^+}$
 ## Reelle Zahlen
-- beinhalten auch $\sqrt{2}$ und $\pi$
+- Beinhalten auch $\sqrt{2}$ und $\pi$
 - Symbol $\mathbb{R}$
 ## Komplexe Zahlen
-- Erweiterung der reellen Zahlen um eine imaginäre Einheit $i$ mit $i²=-1$
+- Erweiterung der reellen Zahlen um eine imaginäre Einheit $i$ mit $i^2=-1$
 - Symbol $\mathbb{C}$
 # Tensoren
-- multidimensionale Arrays
+- Multidimensionale Arrays
 ## Vektoren
 - $\vec a$ Vektor $\begin{pmatrix}a_1\\ a_2\\a_3\end{pmatrix}$
 - Rechenoperatoren:
@@ -28,15 +28,15 @@
 ### Gauß-Verfahren
 Das gaußsche Eliminationsverfahren oder einfach Gauß-Verfahren ist ein Algorithmus aus den mathematischen Teilgebieten der linearen Algebra und der Numerik. Es ist ein wichtiges Verfahren zum Lösen von linearen Gleichungssystemen und beruht darauf, dass Äquivalenztransformationen zwar das Gleichungssystem ändern, aber die Lösung erhalten. Dies erlaubt es, jedes eindeutig lösbare Gleichungssystem auf Stufenform zu bringen, an der die Lösung durch sukzessive Elimination der Unbekannten leicht ermittelt oder die Lösungsmenge abgelesen werden kann. 
 
-Beispiel:
-$a+b+c=x\quad a+b+c=x$
-$a+b+c=x\quad b+c=x$
-$a+b+c=x\quad c=x$
+- **Beispiel**
+	- $a+b+c=x\quad a+b+c=x$
+	- $a+b+c=x\quad b+c=x$
+	- $a+b+c=x\quad c=x$
 # Differenzialrechnung
 Die Differential- oder Differenzialrechnung ist ein wesentlicher Bestandteil der Analysis und damit ein Gebiet der Mathematik. Zentrales Thema der Differentialrechnung ist die Berechnung lokaler Veränderungen von Funktionen. Während eine Funktion ihren Eingabewerten nach tabellarischem Prinzip gewisse Ausgangswerte zuordnet, wird durch die Differentialrechnung ermittelt, wie stark sich die Ausgabewerte nach sehr kleinen Veränderungen der Eingabewerte ändern. Sie ist eng verwandt mit der Integralrechnung, mit der sie gemeinsam unter der Bezeichnung Infinitesimalrechnung zusammengefasst wird. 
 
-- __Beispiel:__
-	- $f(x)=x²$
+- **Beispiel**
+	- $f(x)=x^2$
 	- $f'(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}{h}=\lim_{h\to 0}\frac{(x+h)^2-x^2}{h}=\lim_{h\to0}\frac{x^2+2xh+h^2-x^2}{h}=\lim_{h\to 0}(2x+h)$
 # Beweise
 Ein Beweis ist in der Mathematik die als fehlerfrei anerkannte Herleitung der Richtigkeit bzw. der Unrichtigkeit einer Aussage aus einer Menge von Axiomen, die als wahr vorausgesetzt werden, und anderen Aussagen, die bereits bewiesen sind. Man spricht daher auch von axiomatischen Beweisen.
