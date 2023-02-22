@@ -2,25 +2,25 @@
 Online Tafelwerk[ ](https://www.periodensystem-online.de/)
 ## Teilchen
 ### Elektron
-* negative geladene Elementarteilchen
-* Elektronenzahl entspricht gleich der Protronenzahl
+- negative geladene Elementarteilchen
+- Elektronenzahl entspricht gleich der Protronenzahl
 ### Neutron
-* neutral geladen
-* Elementarteilchen
+- neutral geladen
+- Elementarteilchen
 ### Proton
-* positiv geladen
+- positiv geladen
 ### Quark
-* Up- und Down-Quarks
-* Elementarteilchen, aus denen alle Materie besteht
-* Haben eine positive $\frac{2}{3}$ bzw. negative $\frac{1}{3}$ Ladung
-* Protonen bestehen aus zwei Up-Quarks und einem Down-Quark ($2\frac{2}{3}-\frac{1}{3}=+1$), während Protonen aus einem Up-Quark und zwei Down-Quarks bestehen ($\frac{2}{3}-2\frac{1}{3}=0$).
+- Up- und Down-Quarks
+- Elementarteilchen, aus denen alle Materie besteht
+- Haben eine positive $\frac{2}{3}$ bzw. negative $\frac{1}{3}$ Ladung
+- Protonen bestehen aus zwei Up-Quarks und einem Down-Quark ($2\frac{2}{3}-\frac{1}{3}=+1$), während Protonen aus einem Up-Quark und zwei Down-Quarks bestehen ($\frac{2}{3}-2\frac{1}{3}=0$).
 ## Bestandteile
 ### Atomkern
-* positiv geladen
-* besteht aus Proton und Neutrinos
+- positiv geladen
+- besteht aus Proton und Neutrinos
 ### Atomhülle
-* negativ geladen
-* besteht aus Elektronen
+- negativ geladen
+- besteht aus Elektronen
 ## Begriffe
 ### Kernbindungsenergie 
 Um einen Kern in seine Bestandteile zu zerlegen, wird Energie benötigt. Umgekehrt wird bei der Zusammensetzung der einzelnen Kernteile genau diese Menge an Energie freigesetzt.
@@ -41,17 +41,17 @@ Die spontane Umwandlung eines Atomkerns in einen anderen Kern wird als natürlic
 # Aufbau und Energie der Sonne
 ## Unsere Sonne
 ### Energie
-* Energie wird durch Kernfusion freigesetzt
-	* Mit Wasserstoff und Helium
-	* Zwei Atome, werden zu einem neuen Atom verschmolzen
-	* Beim verschmelzen wird Energie freigesetzt
+- Energie wird durch Kernfusion freigesetzt
+	- Mit Wasserstoff und Helium
+	- Zwei Atome, werden zu einem neuen Atom verschmolzen
+	- Beim verschmelzen wird Energie freigesetzt
 ### Aufbau
-* Kern
-* Strahlungszone
-* Konvektionszone
-* Photosphäre
-* Chromosphäre
-* Korona
+- Kern
+- Strahlungszone
+- Konvektionszone
+- Photosphäre
+- Chromosphäre
+- Korona
 
 Sonnenkern
 Strahlungszone
@@ -66,16 +66,16 @@ Die im Kern freigesetzte Energie wird in der Strahlungszone in einer fortlaufend
 
 In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen wieder ihre Hüllenelektronen anlegen können. Dabei wird Energie frei. 
 ### Aktivitäten
-* Sonnenwinde
-	* Plasma wird von der Sonne weggeschleudert
-* Sonnenflecken
+- Sonnenwinde
+	- Plasma wird von der Sonne weggeschleudert
+- Sonnenflecken
 ### Entstehung
-* Gaswolke entsteht
-* Dichte nimmt zu
-* Die Hülle Expansiert
+- Gaswolke entsteht
+- Dichte nimmt zu
+- Die Hülle Expansiert
 ### Gefahren
-* Strahlung
-* Tot
+- Strahlung
+- Tot
 ## Licht
 ### Arten von Spektren
 - **Kontinuierliches Spektrum**
@@ -127,8 +127,8 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 	- Mit zunehmender „Entfernung“ vergrößert sich die Umlaufzeit
 	 - $T=c*\sqrt{a_1^3}=c*a_1^\frac{3}{2}$
 ### Planetenbeobachtung - Siderische und synodische Umlaufdauer
-- Als **siderische** Umlaufdauer eines Himmelskörpers bezeichnet man die Zeitspanne für einen vollständigen Umlauf (Revolution) in Bezug auf den Fixsternhintergrund. Für einen Planeten entspricht das seiner Umlaufdauer aus Sicht eines fiktiven Beobachters auf der Sonne.
-- Die **synodische** Umlaufdauer eines Himmelskörpers ist die Zeitspanne zwischen den Zeitpunkten aufeinanderfolgender gleicher Stellungen bezüglich Erde und Sonne. Sie bestimmt sich also in Bezug auf die Blickrichtung Erde-Sonne.
+- Als **siderische*- Umlaufdauer eines Himmelskörpers bezeichnet man die Zeitspanne für einen vollständigen Umlauf (Revolution) in Bezug auf den Fixsternhintergrund. Für einen Planeten entspricht das seiner Umlaufdauer aus Sicht eines fiktiven Beobachters auf der Sonne.
+- Die **synodische*- Umlaufdauer eines Himmelskörpers ist die Zeitspanne zwischen den Zeitpunkten aufeinanderfolgender gleicher Stellungen bezüglich Erde und Sonne. Sie bestimmt sich also in Bezug auf die Blickrichtung Erde-Sonne.
 ### Winkelgeschwindigkeit und Umlaufdauer der gleichförmigen Kreisbewegung
 $\omega=\frac{\varphi}{\Delta t}$
 $360^\circ=2\pi$

@@ -87,10 +87,8 @@ Das Menschenbild des Homo Sociologicus beschreibt einen Menschen, der sich selbs
 	- bewusst sich in der Zukunft entwerfen
 - sich zu verändern
 ### Essenz vor Existenz & Existenz vor Essenz
-~~~ad-important
-- Existenz ist das reine Sein
-- Essens ist die Vorstellung
-~~~
+<pre style="background-color:#3CB371;"><code class="vault" style="color:white;"><li>Existenz ist das reine Sein
+<li>Essens ist die Vorstellung</code></pre>
 Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bevor jenes Existiert. Geht aber die Existenz vor der Essen, existiert zunächst das Objekt, bevor es geprägt wird.
 
 - ohne vorrausgehende Essenz kein fester Plan für Mensch

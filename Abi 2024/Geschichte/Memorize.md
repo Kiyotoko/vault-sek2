@@ -1,8 +1,6 @@
 # Grundlegung einer Modernen Gesellschaft
 ## Industrialisierung in England
-~~~ad-important
-*Pauperismus* Massenarmut des 19. Jahrhunderts, die zu Verelendung und sozialen Unruhen führt
-~~~
+<pre class="vault" style="background-color:#3CB371;"><code class="vault" style="color:white;"><em>Pauperismus</em> Massenarmut des 19. Jahrhunderts, die zu Verelendung und sozialen Unruhen führt</code></pre>
 - __Voraussetzungen__
 	- Hohe Befölkerungszahl
 	- Ablösung des Feudalismus
