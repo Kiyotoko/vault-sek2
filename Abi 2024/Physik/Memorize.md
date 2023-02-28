@@ -1,7 +1,6 @@
 # Kinematik
-<div style="">
-Lehre von der Beschreibung von Bewegungen aller Art
-</div>
+<pre style="background-color:#3CB371;"><code style="color:white;">Lehre von der Beschreibung von Bewegungen aller Art
+</code></pre>
 ## Bewegungsarten
 - geradlinig
 - krummlinig
