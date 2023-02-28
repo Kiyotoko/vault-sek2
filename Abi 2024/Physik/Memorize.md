@@ -1,7 +1,7 @@
 # Kinematik
-~~~ad-abstract
+<div style="">
 Lehre von der Beschreibung von Bewegungen aller Art
-~~~
+</div>
 ## Bewegungsarten
 - geradlinig
 - krummlinig
