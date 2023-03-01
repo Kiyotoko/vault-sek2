@@ -364,3 +364,5 @@ Ladung dieses Körpers
 ### Relative Permittivität
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
 ![[Relative Permittivität.png]]
+## Kondensatoren
+## Energie im Plattenkondensator
