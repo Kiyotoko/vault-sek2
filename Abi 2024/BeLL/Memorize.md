@@ -1,15 +1,18 @@
 # BeLL
 **Thema** Vergleich von privaten Kommunikationsnetzen Tor, Mixnet und VPN anhand einer Simulationsumgebung.
 ## Inhalte
-### Systeme
-- Mixes^[https://www.inforsec.org/wp/?p=960]
+### Systeme^[https://www.inforsec.org/wp/?p=960]
+- Mixes
 - DC-Net
 - Anonymizer
 - Crowds
 - Onion Routing
 - Mixminion
 - Tor
-### Aspekte
+### Simulation^[https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-simulation]
+- Diskrete Simulation: Modelling a system as it progresses through time,
+- Dynamik Simulation: Modelling a system as it progresses through space
+- Process Simulation: Modelling physical interactions between two or more systems
 ## Graphiken
 ### Schlüssel
 ```mermaid
@@ -52,6 +55,3 @@ graph LR;
   3 --> B
   4 --> B
 ```
-## Praktischer Teil
-### Diskrete Simulation
-https://users.cs.northwestern.edu/~agupta/_projects/networking/QueueSimulation/mm1.html 
