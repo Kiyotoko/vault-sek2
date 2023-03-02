@@ -1,7 +1,6 @@
-# BeLL
-**Thema** Vergleich von privaten Kommunikationsnetzen Tor, Mixnet und VPN anhand einer Simulationsumgebung.
-## Inhalte
-### Systeme^[https://www.inforsec.org/wp/?p=960]
+<pre style="background-color:#3CB371;"><code style="color:white;">Vergleich von privaten Kommunikationsnetzen Tor, Mixnet und VPN anhand einer Simulationsumgebung.</code></pre>
+# Inhalte
+## Systeme^[https://www.inforsec.org/wp/?p=960]
 - Mixes
 - DC-Net
 - Anonymizer
@@ -9,12 +8,14 @@
 - Onion Routing
 - Mixminion
 - Tor
-### Simulation^[https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-simulation]
+## Simulation^[https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-simulation]
 - Diskrete Simulation: Modelling a system as it progresses through time,
 - Dynamik Simulation: Modelling a system as it progresses through space
 - Process Simulation: Modelling physical interactions between two or more systems
-## Diagramme
-### Schlüssel
+### AnoA^[https://eprint.iacr.org/2014/087.pdf]
+
+# Diagramme
+## Schlüssel
 ```mermaid
 sequenceDiagram
     critical Share Public Key
@@ -26,13 +27,13 @@ sequenceDiagram
         B->>B: Encode Message with Private Key
     end
 ```
-### Tor
+## Tor
 ```mermaid
 graph LR;
   classDef default fill:#00AAAA,stroke:#333,stroke-width:4px;
   A(Alice) --> 1[Guard] --> 2 --> 3 --> B(Bob)
 ```
-### Mixnet
+## Mixnet
 ```mermaid
 graph LR;
   A(Alice)
