@@ -13,7 +13,7 @@
 - Diskrete Simulation: Modelling a system as it progresses through time,
 - Dynamik Simulation: Modelling a system as it progresses through space
 - Process Simulation: Modelling physical interactions between two or more systems
-## Graphiken
+## Diagramme
 ### Schlüssel
 ```mermaid
 sequenceDiagram
