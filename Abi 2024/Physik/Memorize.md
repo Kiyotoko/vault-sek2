@@ -384,4 +384,7 @@ Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Konde
 - Idealer Plattenkondensator $C=$
 ### Speicherung elektrischer Energie
 Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken
->$W=\frac{1}{2}$
+>$W=\frac{1}{2}\varepsilon_0*\varepsilon_r*A*d*E^2$
+
+Die Kapazität und damit das Speichervermögen eines Kondensators ist umso größer,
+- je größer die Flächen der Platten ist
