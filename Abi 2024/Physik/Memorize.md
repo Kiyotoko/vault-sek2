@@ -379,7 +379,8 @@ Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und s
 ### Kapazität und gespeicherte Energie
 Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von $1 V$ speichern kann.
 - Formelzeichen $C$
-- Einheit $F$
+- Einheit $F=\frac{C}{V}$
 - Formel $C=\frac{Q}{U}$
+- Idealer Plattenkondensator $C=$
 ### Die elektrische Feldstärke in homogenen Feldern
 ### Energie im Plattenkondensator
