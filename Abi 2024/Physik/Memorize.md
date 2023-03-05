@@ -352,7 +352,7 @@ Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 ### Die elektrische Feldstärke
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
 - Formelzeichen (Symbol): 
-- Einheit: \[\] = 1  
+- Einheit: [] = 1  
 - Formel: 
 
 Kraft auf einen positiv geladenen Körper
@@ -363,7 +363,7 @@ Ladung dieses Körpers
 ### Relative Permittivität
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
 ![[Relative Permittivität.png]]
-### Elektrisches Potential
+## Elektrisches Potential
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
 - Formelzeichen (Symbol): 
 - Einheit: [] = 1  
@@ -380,9 +380,9 @@ Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und s
 ![[Plattenkondensator.png]]
 ### Kapazität und gespeicherte Energie
 Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von 1 V speichern kann.
-- Formelzeichen (Symbol): 
+- Formelzeichen (Symbol): $C$
 - Einheit: [] = 1 F (ein Farad)
-- Formel: 
+- Formel: $C=\frac{Q}{U}$
 - gespeicherte Energie: 
 ### Die elektrische Feldstärke in homogenen Feldern
 ### Energie im Plattenkondensator
