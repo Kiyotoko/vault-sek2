@@ -376,11 +376,12 @@ Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines e
 ## Kondensatoren
 Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und somit elektrischer Energie. Er besteht aus sich gegenüberliegenden leitenden Schichten, die durch einen Isolator (Di-elektrikum) getrennt sind. 
 ![[Plattenkondensator.png]]
-### Kapazität und gespeicherte Energie
+### Kapazität
 Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von $1 V$ speichern kann.
 - Formelzeichen $C$
 - Einheit $F=\frac{C}{V}$
 - Formel $C=\frac{Q}{U}$
 - Idealer Plattenkondensator $C=$
-### Die elektrische Feldstärke in homogenen Feldern
-### Energie im Plattenkondensator
+### Speicherung elektrischer Energie
+Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken
+>$W=\frac{1}{2}$
