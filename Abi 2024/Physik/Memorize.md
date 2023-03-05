@@ -381,10 +381,23 @@ Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Konde
 - Formelzeichen $C$
 - Einheit $F=\frac{C}{V}$
 - Formel $C=\frac{Q}{U}$
-- Idealer Plattenkondensator $C=$
+- Idealer Plattenkondensator $C=\varepsilon_0*\varepsilon_r*\frac{A}{d}$
 ### Speicherung elektrischer Energie
-Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken
->$W=\frac{1}{2}\varepsilon_0*\varepsilon_r*A*d*E^2$
+Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken.
+
+$W=\frac{1}{2}\varepsilon_0*\varepsilon_r*A*d*E^2$
 
 Die Kapazität und damit das Speichervermögen eines Kondensators ist umso größer,
-- je größer die Flächen der Platten ist
+- je größer die Flächen der Platten ist,
+- je kleiner der Abstand der Platten ist,
+- je größer die Permittivität des Dialektrikums ist.
+
+#### Parallelschaltung
+$C_{ges}=C_1+C_2+C_3+\dots+C_n$
+#### Reihenschaltung
+$\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}+\dots+\frac{1}{C_n}$
+### Auf und Entladen eines Kondensators
+#### Aufladungsvorgang
+$U_0=U_R+U_C=R*I+\frac{Q}{C}$
+#### Entladungsvorgang
+$I(t)=\frac{\Delta Q}{\Delta t}$

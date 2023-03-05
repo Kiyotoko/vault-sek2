@@ -563,3 +563,12 @@ $d=\frac{300\frac{V}{m}}{9V}=0.03m$
 $d=6cm$
 $m=2g$
 ![[Kräftegleichgewicht.png]]
+## 2023-03-05
+1. 1 bis 3 in Reihenschaltung $3\mu F$
+2. 1 und 2 in Reihenschaltung, 2 und 3 in Parallelschaltung $3\mu F$
+3. 1 und 2 in Parallelschaltung, 2 und 3 in Reihenschaltung $3\mu F$
+4. 1 bis 3 in Parallelschaltung $3\mu F$
+- - -
+$C_1=22\mu F$
+$C_2=47\mu F$
+$C_{ges}=C_1+C_2=22\mu F+47\mu F=69\mu F$
