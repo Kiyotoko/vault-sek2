@@ -309,8 +309,8 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 ## Die Größe der elektrischen Ladung
 Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektronenüberschuss) oder positive (Elektronenmangel) Ladung ist.
 
-- Formelzeichen (Symbol): $Q$
-- Einheit: $[Q] = 1 C$ (ein Coulomb)
+- Formelzeichen $Q$
+- Einheit $[Q] = 1 C$ (ein Coulomb)
 - Formel $Q=N*e$
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
@@ -342,21 +342,19 @@ In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
 ## Nah- und Fernwirkungstheorie
 - **Fernwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt unmittelbar (instantan) und ohne „Vermittler“.
-- **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungs-geschwindigkeit) und durch einen „Vermittler“.
+- **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungsgeschwindigkeit) und durch einen „Vermittler“.
 ## Elektrostatisches Feld
-In dem Raum (Wirkungsbereich) um einen elektrostatisch gela-denen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
+In dem Raum (Wirkungsbereich) um einen elektrostatisch geladenen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
 ### Das Feldlinienbild des elektrischen Feldes
 ### Homogenes Feld
 Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 ### Faradayscher Käfig
-### Die elektrische Feldstärke
+## Die elektrische Feldstärke
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1  
-- Formel: 
+- Formelzeichen $E$
+- Einheit $N$
+- Formel $\vec{E}=\frac{\vec{F}}{q}$
 
-Kraft auf einen positiv geladenen Körper
-Ladung dieses Körpers
 ![[Polarisation.png]]
 ![[Potenzial.png]]
 ## Coulombsches Gesetz
@@ -365,24 +363,23 @@ Die relative Permittivität ist ein Maß für die Feldabschwächung des elektris
 ![[Relative Permittivität.png]]
 ## Elektrisches Potential
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1  
-- Formel:
+- Formelzeichen $\varphi$
+- Einheit $V$
+- Formel
 ### Äuipotentialflächen
 Die Flächen, die das gleiche Potential besitzen, heißen Äquipotentialflächen
-## Elektische Spannung
+## Elektrische Spannung
 Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines elektrischen Feldes verschoben, ändert sich das Potential  für die Ladung . Diese Änderung des Potentials  wird als Spannung bezeichnet.
-- Formelzeichen (Symbol): 
-- Einheit: [] = 1  
-- Formel: 
+- Formelzeichen $U$
+- Einheit $V$
+- Formel $U=E*d$ 
 ## Kondensatoren
 Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und somit elektrischer Energie. Er besteht aus sich gegenüberliegenden leitenden Schichten, die durch einen Isolator (Di-elektrikum) getrennt sind. 
 ![[Plattenkondensator.png]]
 ### Kapazität und gespeicherte Energie
-Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von 1 V speichern kann.
-- Formelzeichen (Symbol): $C$
-- Einheit: [] = 1 F (ein Farad)
-- Formel: $C=\frac{Q}{U}$
-- gespeicherte Energie: 
+Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von $1 V$ speichern kann.
+- Formelzeichen $C$
+- Einheit $F$
+- Formel $C=\frac{Q}{U}$
 ### Die elektrische Feldstärke in homogenen Feldern
 ### Energie im Plattenkondensator
