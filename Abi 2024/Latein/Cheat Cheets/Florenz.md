@@ -13,14 +13,7 @@
 	- Gemeinsamkeiten
 	- Unterschiede
 ## Beispiel
-[![The Birth of Venus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/300px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg)](https://de.wikipedia.org/wiki/Die_Geburt_der_Venus_(Botticelli))
+![The Birth of Venus](../Working%20Materials/The%20Birth%20of%20Venus.png)
 
-„Die Geburt der Venus“ ist ein Gemälde  von Sandro Botticelli, welches um 1485 entstand. Im Zentrum ist eine nackte Frau mit langen Haaren zu sehen. Sie steht auf einer Muschel im Meer. Links sieht man einen Mann und eine Frau mit Flügeln. Diese sind von Blumen umgeben. Diese pusten in Richtung der Frau. Rechts kann man eine Frau erkennen, die an einer Küste zu stehen scheint.
-# Grammatik
-|Abkürzungen|Bedeutung|Anwendung|
-|-|-|-|
-|PPA|Partizip Perfekt Aktiv|schwimmend, laufend|
-|PPP|Partizip Perfekt Passiv|geschowmmen, gelaufen|
-|PFA|Partizip Futur Aktiv|
-|AcI|„Accusativus cum infinitivo“, Substantiv im 4. Fall, Substantiv, Kopfverb|riechen, schmecken, denken|
-|UpA|Unpersönlischer Ausdruck|
+„Die Geburt der Venus“ ist ein Gemälde  von Sandro Botticelli, welches um 1485 entstand.
+Entgegen dem Bildtitel ist nicht die Geburt der Venus, sondern ihre Anlandung am Strand von Zypern nach Hesiod dargestellt. Die Venus steht leichtfüßig auf einer Muschelschale, die vom Westwind Zephyr durch eine idealisierte Landschaft getrieben wird, die auch mögliche italienische Bezüge aufweist. Die Frauengestalt in der Umarmung Zephirs wird als Aura, die Göttin der sanften Morgenbrise oder als Nymphe Chloris gesehen, die sich nach der Vorlage von Ovids Fasten erst nach der Umarmung durch Zephyr in „Flora“, die Göttin der Frühlingsblüte, verwandelt. Von rechts reicht der Venus eine der Horen, Göttinnen der Jahreszeiten, einen Mantel. 
