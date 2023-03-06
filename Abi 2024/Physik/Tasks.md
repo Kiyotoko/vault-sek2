@@ -562,7 +562,7 @@ $d=\frac{300\frac{V}{m}}{9V}=0.03m$
 - - - 
 $d=6cm$
 $m=2g$
-![[Kräftegleichgewicht.png]]
+![Kräftegleichgewicht](Working%20Materials/Elektrisches%20Feld/Kräftegleichgewicht.png)
 ## 2023-03-05
 1. 1 bis 3 in Reihenschaltung $0.33\mu F$
 2. 1 und 2 in Reihenschaltung, 2 und 3 in Parallelschaltung $3\mu F$
@@ -576,4 +576,8 @@ $C_{ges}=C_1+C_2=22\mu F+47\mu F=69\mu F$
 $Q=C*U$
 $Q_1=C_1*U=220\mu C$
 $Q_2=C_2*U=470\mu C$
+- - -
+$U_0=U_1+U_2$ ==Nacharbeiten==
+- - -
+$I=I_0*e^{-\frac{t}{\tau}}$ ==Nacharbeiten==
 - - -
