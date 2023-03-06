@@ -410,3 +410,5 @@ Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor 
 ### Permanentmagnet
 Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
 ### Kräfte zwischen Magneten
+### Elektromagnete
+- je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
