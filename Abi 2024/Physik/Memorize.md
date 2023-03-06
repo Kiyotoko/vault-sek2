@@ -318,7 +318,7 @@ Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
 ### Nachweis elektrostatischer Ladungen
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
-![[Elektrometer.png]]
+![Elektrometer](Working%20Materials/Elektrisches%20Feld/Elektrometer.png)
 ### Ladungsausgleich
 Beim Ladungsausgleich fließen zuvor getrennt Ladungen zurück.
 #### Influenz
@@ -355,12 +355,12 @@ Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem 
 - Einheit $N$
 - Formel $\vec{E}=\frac{\vec{F}}{q}$
 
-![[Polarisation.png]]
-![[Potenzial.png]]
+![Polarisation](Working%20Materials/Elektrisches%20Feld/Polarisation.png)
+![Potenzial](Working%20Materials/Elektrisches%20Feld/Potenzial.png)
 ## Coulombsches Gesetz
 ### Relative Permittivität
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
-![[Relative Permittivität.png]]
+![Relative Permittivität](Working%20Materials/Elektrisches%20Feld/Relative%20Permittivität.png)
 ## Elektrisches Potential
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
 - Formelzeichen $\varphi$
@@ -375,7 +375,7 @@ Wir eine Probeladung  von einem Anfangspunkt zu einem Endpunkt innerhalb eines e
 - Formel $U=E*d$ 
 ## Kondensatoren
 Ein Kondensator ist ein Bauelement zur Speicherung von elektrischer Ladung und somit elektrischer Energie. Er besteht aus sich gegenüberliegenden leitenden Schichten, die durch einen Isolator (Di-elektrikum) getrennt sind. 
-![[Plattenkondensator.png]]
+![Plattenkondensator](Working%20Materials/Elektrisches%20Feld/Plattenkondensator.png)
 ### Kapazität
 Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Kondensator bei einer Spannung von $1 V$ speichern kann.
 - Formelzeichen $C$

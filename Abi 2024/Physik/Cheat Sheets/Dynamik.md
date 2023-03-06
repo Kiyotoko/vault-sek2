@@ -1,6 +1,6 @@
 # Kraft
 ## Schiefe Ebene
-![[Schiefe Ebene.png]]
+![[../Working Materials/Dynamik/Schiefe Ebene.png]]
 ## Radialkraft und Radialbeschleunigung
 $a_r=\frac{v^2}{r}$
 $F=m*a_r=m*\frac{v^2}{r}$
