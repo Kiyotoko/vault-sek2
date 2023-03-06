@@ -402,3 +402,9 @@ $U_0=U_R+U_C=R*I+\frac{Q}{C}$
 #### Entladungsvorgang
 $I(t)=\frac{\Delta Q}{\Delta t}$
 ## Magnete und magnetische Felder
+### Magnetische Körper
+Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor und bestimmten keramischen Werkstoffen (so genannte Ferrite) oder stromdurchflossenen Leitern wirken magnetische Kräfte
+![](Working%20Materials/Elektrisches%20Feld/Cobalt.png) ![](Working%20Materials/Elektrisches%20Feld/Eisen.png) ![](Working%20Materials/Elektrisches%20Feld/Ferrit.png)
+### Permanentmagnet
+Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
+### Kräfte zwischen Magneten
