@@ -401,3 +401,4 @@ $\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}+\dots+\frac{1}{C_n}
 $U_0=U_R+U_C=R*I+\frac{Q}{C}$
 #### Entladungsvorgang
 $I(t)=\frac{\Delta Q}{\Delta t}$
+## Magnete und magnetische Felder
