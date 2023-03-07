@@ -431,4 +431,8 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 - Geschwister saßen eng umschlungen auf dem Brett der Schaukel
 - wohnten in einem Stall mit Hühnern, Enten und Schweinen
 ## 2023-03-07
-Autonomie ist die Selbständigkeit und Unabhängigkeit von anderen, 
+[Autonomie](Working%20Materials/Nachkriegszeit/Autonomie.pdf)
+
+Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden
+
+Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, hat er sich Radikalisiert. Er hat sich vom staatstreuen Weltbild seiner Eltern getrennt.
