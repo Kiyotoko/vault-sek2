@@ -59,19 +59,14 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	4. Die Handlung darf nie fantastisch, sondern immer gebunden an die Wirklichkeit, sein.
 ---
 1. Aussagen zuordnen.
-	- __Lessing:__
-		~~~ad-quote
-		title:Lessig
-		Die beste Person muss die unglücklichste sein.
+	- **Lessing**
+		>Die beste Person muss die unglücklichste sein.
 		Tugend entsteht nur, wenn wir Mitleid empfinden.
-		Das Theater kann in der Aufklärung nur eine Sittenschule sein, wenn an die _Empfindsamkeit_ appelliert wird.
-		~~~
-	- __Gottsched:__
-		~~~ad-quote
-		Die Handlung im Drama muss natürlich, klar und nachvollziehbar sein, sodass sie genau so passieren könnte.
+		Das Theater kann in der Aufklärung nur eine Sittenschule sein, wenn an die *Empfindsamkeit* appelliert wird.
+	- **Gottsched**
+		>Die Handlung im Drama muss natürlich, klar und nachvollziehbar sein, sodass sie genau so passieren könnte.
 		Der Schauspieler soll in seinem Beruf anerkannt werden.
 		Es soll im Drama nur ein Stil erkennbar sein.
-		~~~
 2. Reflektiere „prodesse et declare“ (nutzen und belehren) im Zusammenhang mit Digitalen Medien.
 	- Digitale Medien können durch ihre Interaktivität gleichzeitig unterhalten und belehrend sein. Durch das Schauen eines Videos oder das Spielen eines Videospiels ist er prinzipiell möglich, gleichzeitig unterhalten zu werden und selbst zu lernen. Allerdings denke ich, dass dies nur auf einen kleinen Teil auch tatsächlich zutrifft, da aufgrund der Algorithmen Videos zum Beispiel immer kürzer werden und somit folglich weniger Platz für Lerninhalte im selben Video noch bleibt.
 	- Ich halte das Theater für unersetzlich. Dies liegt schlichtweg daran, das ein Theater ein Event ist, welches nicht einfach von etwas Digitalem ersetzt werden kann. Ein Theaterstück braucht sehr lange, von der Planung bis zur Umsetzungen, und ist dadurch auch mit viel Aufwand verbunden. Auf Plattformen wie YouTube™, wo man für den Algorithmus jede Woche ein Video hochladen muss, ist es schlichtweg nicht möglich, sich die Zeit zu nehmen, um etwas von dem Aufwand eines Theaterstücks zu produzieren.
@@ -436,5 +431,3 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden
 
 Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, hat er sich Radikalisiert. Er hat sich vom staatstreuen Weltbild seiner Eltern getrennt.
-- - -
-- 
