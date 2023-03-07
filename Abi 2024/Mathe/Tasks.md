@@ -1,3 +1,4 @@
+# Analysis
 ## 2022-09-06
 $f(x) = \frac{2x}{2x+5}$
 $\lim\limits_{x\to\infty}\frac{2}{2+5/x}=\frac{2}{2+0}=1$
@@ -1330,5 +1331,13 @@ $f_k'(x)=-x+k$
 2. $y=-\frac{1}{2}x^2+kx+k$
 $y=-\frac{1}{2}x^2+x^2+x$
 3. $y=\frac{1}{2}x^2+x$
-- - -
+# Matritxen
 $\begin{pmatrix}1&2&4\\2&4&3\\5&4&3\end{pmatrix}$
+# Storastik
+## 2023-03-07
+2 rote, 4 blaue und 6 grüne Kugeln (3 ziehen mit zurücklegen)
+Gesucht ist die Wahrscheinlichkeit für folgende Ereignisse:
+1. Alle gezogenen Kugeln sind grün $\frac{6}{12}^3=\frac{1}{2}^3=\frac{1}{8}$
+2. Zwei Kugeln sind blau, eine Kugel ist grün $\frac{4}{12}*\frac{4}{12}*\frac{6}{12}*3=\frac{1}{3}*\frac{1}{3}*\frac{1}{2}*3=\frac{1}{6}$
+3. Die zweite gezogene Kugel ist rot $\frac{2}{12}=\frac{1}{6}$
+4. Mindestens eine gezogene Kugel ist blau $1-\frac{8}{12}^3=1-\frac{2}{3}^3=\frac{19}{27}$

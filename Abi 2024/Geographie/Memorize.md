@@ -17,7 +17,7 @@
 - **Plattenzug**
 	- Der Plattenzug ist der Zug, den alte, kalte Lithosphäre erzeugt, wenn sie an Subduktionszonen in den konvektiven Erdmantel eintaucht. Durch Gesteinsumwandlungen subduzierter ozeanischer Kruste in größerer Manteltiefe erhöht sich die Dichte des Krustengesteins und bleibt höher als die Dichte des sie umgebenden Mantelmaterials. Dadurch kann der Zug auf den noch nicht subduzierten Teil der entsprechenden Lithosphärenplatte aufrechterhalten werden.
 ## Plattentektonsiche Profilskizze
-![[Profilskizze.png]]
+![Profilskizze](Working%20Materials/Vulkanismus/Profilskizze.png)
 ## Wilson Zyklus
-![[Wilson Zyklus.png]]
+![Wilson Zyklus](Working%20Materials/Vulkanismus/Wilson%20Zyklus.png)
 ## Die Entstehung der Alpen

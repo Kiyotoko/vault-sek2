@@ -132,12 +132,10 @@ Gibt an, wie viel Weg ein Körper auf seiner Kreisbahn in einer bestimmten Zeit 
 - Einheit $\frac{m}{s}$
 - Formel $v=\frac{s}{t}=\frac{2\pi r}{T}=\omega r$
 ### Radialbeschleunigung
-~~~ad-important
 Da sich die Richtung der Geschwindigkeit ändert, wirkt auf den Körper ständig eine Beschleunigung. Sie ist stets zum Kreismittelpunkt gerichtet.
 - Formelzeichen $a_r$
 - Einheit $\frac{m}{s^2}$
 - Formel $a_r=\frac{v^2}{r}=\omega^2r$
-~~~
 # Dynamik
 ## Die Newton'schen Axiome
 ### 1. Axiom (Trägheitsprinzip)

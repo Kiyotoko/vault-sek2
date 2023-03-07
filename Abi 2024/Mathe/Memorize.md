@@ -1,15 +1,11 @@
-# Differentialrechnung
+# Analysis
 ## Grenzwerte
 ### Grenzwerte im Unendlichen $\lim\to\infty$
-~~~ad-example
 - $f(x)=\frac{1}{x²+1}$
 	- $x$-Werte werden sehr klein $\to$ $y$-Werte nähern sich der $x$-Achse an
 	- $x$-Werte werden sehr sehr groß $\to$ $y$-Werte nähern sich der $x$-Achse an
-~~~
 
-~~~ad-important
 Nähern sich die Funktionswerte einer Funktion $f(x)$ für unbeschränkt wachsende oder fallende  $x$-Werte einer Zahl $g$ den Grenzwert der Funktion $f(x)$ für $x \to ∞$ bzw. $x\to-∞$. Die Gerade mit der Gleichung $y=g$ nennt man waagerechte Asymtote.
-~~~
 
 ~~~functionplot
 ---
@@ -19,9 +15,7 @@ f(x)=1/x+2
 g(x)=2
 ~~~
 
-~~~ad-note
 Falls $\lim\limits_{x \to +- ∞} = +∞ || -∞$ besitzt die Funktion keinen GW. Mann spricht dann dort vom Verhalten im Unendlichen.
-~~~
 
 ~~~functionplot
 ---
@@ -30,10 +24,9 @@ disableZoom: true
 f(x)=2x
 ~~~
 ### Potenzfunktionen (Polynomfunktionen)
-~~~ad-important
 Potenzfunktionen können mehrere lokale Extrempunkte haben. Dass Verhalten im Unendlichen bezeichnet man als Globalverlauf. (Ermittlung durch Ausklammern der höchsten Potenz.
-~~~
-~~~ad-example
+
+**Beispiele**
 $f(x)=3x³-5x²+2x+8$
 $x³(3-5/x+2/x²+8/x³)=\lim\limits_{x\to∞}=x³(3-0+0+0)=3x³=∞$
 
@@ -42,9 +35,9 @@ $x³(-7+8/x+2/x²-5/x³)=\lim\limits_{x\to∞} x³(-7 - 0 - 0 - 0) = -7x³ = -�
 
 $f(x) = x⁴ + 7x³ - 2x² + 3x + 1$
 $f(x) = x⁴(1 + 7/x - 2/x² + 3/x³ + 1/x⁴)=\lim\limits_{x\to∞} x⁴(1 + 0 - 0 + 0 + 0) = x⁴ = ∞$
-~~~
+
 ### Gebrochen Rationale Funktionen
-~~~ad-example
+**Beispiele**
 $f(x) = (2x² + x - 3) / (3x² - 2x)$
 $\frac{x²(2 + 1/x - 3/x²}{x²(3 - 2/x)} =\lim\limits_{x \to ∞} \frac{1(2 + 0 - 0)}{1(3 - 0)} = \frac{2}{3}$
 
@@ -72,7 +65,7 @@ $\frac{6x²+4}{2x+2}-\frac{6x²+6x}{2x+2}=\frac{4-6x}{2x+2}=\frac{x(4/x-6)}{x(2+
 $f(x)=\frac{2}{\sqrt{x}}$
 $\lim\limits_{x\to\infty}\frac{2}{\infty}=0$
 $\lim\limits_{x\to-\infty}=n.d.$
-~~~
+
 ### $e$-Funktionen
 ~~~functionplot
 ---
@@ -81,11 +74,9 @@ disableZoom: true
 f(x)=exp(x)
 ~~~
 
-~~~ad-important
 - schneidet die $y$-Achse immer bei $1$
 - $\lim\limits_{x\to-\infty}e^x=0$
 - $\lim\limits_{x\to\infty}e^x=\infty$
-~~~
 
 ~~~functionplot
 ---
@@ -94,10 +85,8 @@ disableZoom: true
 f(x)=exp(x*(x^2-4))
 ~~~
 
-~~~ad-example
 - $\lim\limits_{x\to-\infty}f(x)=0$
 - $\lim\limits_{x\to\infty}f(x)=\infty$
-~~~
 
 ~~~functionplot
 ---
@@ -106,10 +95,8 @@ disableZoom: true
 f(x)=exp(-x)
 ~~~
 
-~~~ad-example
 - $\lim\limits_{x\to-\infty}f(x)=\infty$
 - $\lim\limits_{x\to\infty}f(x)=0$
-~~~
 
 ~~~functionplot
 ---
@@ -118,12 +105,10 @@ disableZoom: true
 f(x)=-2.71828182846^x
 ~~~
 
-~~~ad-example
+**Beispiele**
 - $\lim\limits_{x\to-\infty}f(x)=0$
 - $\lim\limits_{x\to\infty}f(x)=\infty$
-~~~
 
-~~~ad-example
 $f(x)=5^x$
 $\lim\limits_{x\to-\infty}0$
 $\lim\limits_{x\to\infty}\infty$
@@ -135,7 +120,6 @@ $\lim\limits_{x\to\infty}0$
 $f(x)=\frac{2}{3}^x$
 $\lim\limits_{x\to-\infty}=\infty$
 $\lim\limits_{x\to\infty}=0$
-~~~
 
 ~~~functionplot
 ---
@@ -144,13 +128,10 @@ disableZoom: true
 f(x)=(2/3)^x
 ~~~
 
-~~~ad-example
 $f(x)=3^x*2^{-x}$
 $3^x*2^{-x}=3^x=\frac{1}{2^x}$
 $\lim\limits_{x\to-\infty}0$
 $\lim\limits_{x\to\infty}\infty$
-~~~
-
 ### $\sin$-Funktionen
 ~~~functionplot
 ---
@@ -729,3 +710,48 @@ Matrizenmultiplikation ist nur dann möglich, wenn die 1 Matrix so viele Spalten
 ## Einheitsmatrix
 $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 # Vektoren
+# Stochastik
+Auch Binomialverteilte Zufallsgrößen (BV ZG)
+## Klassische Wahrscheinlichkeit
+**Beispiel**
+Idealer Würfel $P(X=6)=\frac{1}{6}$
+## Pfadregeln
+Mehrstufiges Zufallsexperiment
+
+**Beispiel**
+4 rote und 8 blaue Kugeln
+~~~mermaid
+graph TB;
+	A[ ]
+	A-->A0[rot]
+	A-->A1[blau]
+	A0-->A00[rot]
+	A0-->A01[blau]
+	A1-->A10[rot]
+	A1-->A11[blau]
+~~~
+$X$ Anzahl der roten Kugeln
+### Pfadmultiplikatiosregel
+Bei mehrstufigen ZV ist die Wahrscheinlichkeit eines Ereignisses gleich dem Produkt der Wahrscheinlichkeit längs des zugehörigen Pfades.
+
+**Beispiel**
+$P(X=2)=\frac{4}{12}*\frac{4}{12}$
+### Pfadadditionsregel
+Setzt sich bei einem mehrstufigen Zufallsexperiment ein Ereignis aus verschiedenen Pfaden zusammen, erhält man die Wahrscheinlichkeit., durch Addition der einzelnen Pfad-Wahrscheinlichkeit
+
+**Beispiel**
+$P(X=1)=\frac{4}{12}*\frac{8}{12}+\frac{8}{12}*\frac{4}{12}=\frac{4}{9}$
+### Ziehen ohne Zurücklegen
+Beim ziehen ohne Zurücklegen ändern sich in den folgenden Stufen des Zufallsexperimentes die Wahrscheinlichkeiten.
+### Komplementärregel
+Ereignis + Gegenergeignis = 1 $P(A)+P(\bar{A})=1$
+
+**Beispiel**
+$P(X\geq1)\geq1-P(X=0)$
+$1-P(X=0)=1-\frac{8}{12}*\frac{8}{12}=1-\frac{2}{3}*\frac{2}{3}=1-\frac{4}{9}=\frac{5}{9}$
+## Fakultät
+$n!=n*(n-1)*(n-2)*\dots*1$
+
+**Beispiel**
+$5!=5*4*3*2*1=120$
+$4!=4*3*2*1=24$

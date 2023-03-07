@@ -22,45 +22,49 @@ Berechnung über den Grenzwert im Unendlichen.
 $f(x)=\frac{2x^2-1}{x-x^2}$
 $\lim\limits_{x\to\pm\infty}f(x)=-2$
 ## Senkrechte Asymptoten
-<pre style="background-color:#3CB371;"><code style="color:white;">Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken gebrochen-rationaler Funktionen. 
-Man ermittelt sie, indem man den Nenner gleich <span class="math inline">0</span> setzt.</code></pre>
+Senkrechte Asymptoten sind Polstellen. Polstellen sind die Definitionslücken gebrochen-rationaler Funktionen.
+Man ermittelt sie, indem man den Nenner gleich $0$ setzt.
 
-<pre style="background-color:#8800ff;"><code style="color:white;"><span class="math inline">f(x)=\frac{2x^2-1}{x-1}</span>
-<span class="math inline">0=x-1\quad x=1</span></code></pre>
+$f(x)=\frac{2x^2-1}{x-1}$
+$0=x-1\quad x=1$
 
 ~~~functionplot
 f(x)=(4+x)/(2x)
 ~~~
 # Symmetrie
 ## Achsensymmetrie
-<pre style="background-color:#3CB371;"><code style="color:white;">Achsensymmetrie zur <span class="math inline">y</span>-Achse: <span class="math inline">f(x)=f(-x)</span>
-<span class="math inline">f(x)=x^4+x^2+4</span></code></pre>
+Achsensymmetrie zur $y$-Achse: $f(x)=f(-x)$
+$f(x)=x^4+x^2+4$
 
 ~~~functionplot
 f(x)=x^4+x^2+4
 ~~~
 ## Punktsymmetrie
-<pre style="background-color:#3CB371;"><code style="color:white;">Punktsymmetrie zu einem Punkt, meist Koordinatenursprung.
-<span class="math inline">f(x)=-f(-x)</span>
-<span class="math inline">-f(x)=f(-x)</span>
-</code></pre>
+Punktsymmetrie zu einem Punkt, meist Koordinatenursprung.
+$f(x)=-f(-x)$
+$-f(x)=f(-x)$
 
 ~~~functionplot
 f(x)=x^5+x^3+x
 ~~~
 # Extrempunkte / Extremstellen
-<pre style="background-color:#3CB371;"><code style="color:white;">An Extremstellen gilt:<li><span class="math inline">f'(x)=0</span><em> (notwendig)</em><li><span class="math inline">f''(x)\neq0</span><em> (hinreichend)</em></code></pre>
+An Extremstellen gilt:
+- $f'(x)=0$ (notwendig)
+- $f''(x)\neq0$ (hinreichend)
 
-<pre style="background-color:#8800ff;"><code style="color:white;"><span class="math inline">f(x)=x^2-2x+1</span>
-<span class="math inline">f'(x)=2x-2</span>
-<span class="math inline">f''(x)=2</span>
+**Beispiel:**
+$f(x)=x^2-2x+1$
+$f'(x)=2x-2$
+$f''(x)=2$
 
-<span class="math inline">0=2x-2\to x=1</span>
-<span class="math inline">0\neq2</span>
-</code></pre>
+$0=2x-2\to x=1$
+$0\neq2$
 ## Nachweis der Art des Extrems
-<pre style="background-color:#3CB371;"><code style="color:white;"><li>Minimum: <span class="math inline">f''(x_E)>0</span></li><li>Maximum: <span class="math inline">f''(x_E)<0</span></li>oder
-<li>Minimum: <span class="math inline">f'(x)=-\to f'(x)=+</span></li><li>Maximum: <span class="math inline">f'(x)=+\to f'(x)=-</span></li></code></pre>
+- Minimum: $f''(x_E)>0$
+- Maximum:$f''(x_E)<0$
+  oder
+- Minimum: $f'(x)=-\to f'(x)=+$
+- Maximum: $f'(x)=+\to f'(x)=-$
 
 ~~~functionplot
 ---
