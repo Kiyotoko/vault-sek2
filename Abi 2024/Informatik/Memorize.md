@@ -18,4 +18,4 @@
 „**A**lle **d**eutschen **S**tudenten **t**rinken **v**erschiedene **S**orten **B**ier“
 ~~~
 ## TCP
-![[OSI vs TCP.png]]
+![[Working Materials/Netzwerke/OSI vs TCP.png]]
