@@ -191,3 +191,13 @@ Danke.
 - to thank his supporters, show his vision, for the next four years
 - - -
 Examine how President Obama sends a message of shared values to his supporters after being declared the winner in the election. Consider his line of the argument and use of rhetorical devices.
+
+„President Obama's victory speech after the 2008 election was a masterclass in rhetorical devices and messaging. In his speech, he aimed to connect with his supporters by emphasizing shared values, while also extending an olive branch to those who had not supported him.
+
+One of the most prominent rhetorical devices used in Obama's speech was anaphora, the repetition of a phrase at the beginning of successive clauses. He used this device to great effect in the opening of his speech, saying "If there is anyone out there who still doubts that America is a place where all things are possible; who still wonders if the dream of our founders is alive in our time; who still questions the power of our democracy, tonight is your answer." By repeating "if there is anyone out there" three times, Obama emphasized that his message was for everyone, not just his supporters.
+
+Another rhetorical device that Obama used was parallelism, the repetition of grammatical structures. For example, he said, "It's the answer spoken by young and old, rich and poor, Democrat and Republican, black, white, Hispanic, Asian, Native American, gay, straight, disabled and not disabled. Americans who sent a message to the world that we have never been just a collection of individuals or a collection of red states and blue states. We are and always will be the United States of America." By using parallelism, Obama showed that his message of unity applied to everyone, regardless of their background or political affiliation.
+
+Throughout his speech, Obama emphasized the importance of shared values, such as hard work, responsibility, and sacrifice. He said, "This victory alone is not the change we seek. It is only the chance for us to make that change. And that cannot happen if we go back to the way things were. It cannot happen without you." By emphasizing that the change he sought could only happen with the help of his supporters, Obama showed that they shared a commitment to creating a better future for everyone.
+
+Overall, Obama's victory speech was a masterful display of rhetorical devices and messaging. By emphasizing shared values and reaching out to those who had not supported him, he was able to unite the country and inspire hope for a better future.“
