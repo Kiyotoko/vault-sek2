@@ -1,5 +1,5 @@
 ## 2022-09-09
-- __Abschnitte:__
+- **Abschnitte**
 	- „Wahlspruch der Aufklärung“ Z. 1 - 10
 	- „Unmündigkeit“ Z. 11 - 35
 	- „Unausweichlichkeit der Aufklärung“ Z. 36 - 44
@@ -430,3 +430,5 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 - hinter einem Reihenhaus
 - Geschwister saßen eng umschlungen auf dem Brett der Schaukel
 - wohnten in einem Stall mit Hühnern, Enten und Schweinen
+## 2023-03-07
+Autonomie ist die Selbständigkeit und Unabhängigkeit von anderen, 
