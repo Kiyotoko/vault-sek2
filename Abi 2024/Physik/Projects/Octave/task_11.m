@@ -18,10 +18,10 @@ for k=0:dt:5        # Zeitintervall in Schrittweite dt
   du = -u/(R*C)*dt; # Berechnung der Spannungsänderung
   u = u + du;       # Berechnung der neuen Spannung
 
-  di = (-C*du)/dt;    # Berechnung der Stromstärkeänderung
+  di = du/R;    # Ber~~~echnung der Stromstärkeänderung
   i = i + di;
 
-  I(n) = i;         # Zeilenvektor für Stromstärke
+  I(n) = -i;         # Zeilenvektor für Stromstärke
   U(n) = u;         # Zeilenvektor für Spannung
   t(n) = k;         # Zeilenvektor für Zeit
 

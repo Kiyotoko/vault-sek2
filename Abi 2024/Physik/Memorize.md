@@ -178,10 +178,9 @@ Ein vollkommen unelastischer Stoß liegt vor, wenn beide Körper nach dem Stoß 
 Berechnung der Geschwindigkeit:
 - $v'=\frac{m_1*v_1+m_2*v_2}{m_1+m_2}$
 ## Schiefe Ebene
-~~~ad-important
 $F_H=mg\cos{\alpha}$
 $F_N=mg\sin{\alpha}$
-~~~
+
 Normalkraft $F_N$ und Hangabtriebskraft $F_g$ sind keine neuen Kräfte, sondern $F_N$ ist der Anteil von $F_g$, der senkrecht zur schiefen Ebene wirkt und $F_H$ ist der Anteil von $F_g$, der parrallel zur schiefen Ebene wirkt.
 ## Reibungskraft
 $F_R=\mu*F_N$
@@ -244,11 +243,10 @@ Energie kann weder erzeugt noch verbraucht werden. Es ist lediglich möglich, ve
 	- Ist die in den Feldern gespeicherte Energie.
 	- Spannkraft $F=D*s$
 	- Spannenergie $E_{spann}=\frac{1}{2}D*s^2$
-~~~ad-example
+- - -
 - **Fadenpendel**
 	- Die potenzielle Energie wird in kinetische Energie beim loslassen des Pendels umgewandelt.
 	- Die potenzielle Energie entspricht der Höhe des Pendels beim loslassen.
-~~~
 ### Energieübertragung
 Die Übertragung von Energie von einem System auf ein anderes kann in verschiedener Weiser erfolgen. Energie kann in Form von Wärme übertragen werden, Dabei ist zwischen Wärmeleitung, Wärmeströmung und Wärmestrahlung zu unterscheiden.
 ### Energieumwandlung
@@ -378,5 +376,44 @@ Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor 
 ### Permanentmagnet
 Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
 ### Kräfte zwischen Magneten
+Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. Ungleichnahmige Pole ziehen sich an, gleichnamige Polen stoßen sich ab.
 ### Elektromagnete
 - je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
+## $U(t)$ und $I(t)$ Diagramme: Kondensator
+![Kondensator](Working%20Materials/Elektrisches%20Feld/Kondensator.png)
+### Aufladungsvorgang
+Die obere Platte wurde positiv, und die untere negativ aufgeladen.
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+ylabel: U(t)
+---
+U(x)=sqrt(x*10)
+~~~
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+---
+I(x)=-sqrt(x*10)+10
+~~~
+### Endladungsvorgang
+Der Kondensator wird entladen. Der Strom fließt nun entgegengesetzt.
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,0,10]
+---
+U(x)=-sqrt(x*10)+10
+~~~
+
+~~~functionplot
+---
+disableZoom: true
+bounds: [0,10,-10,0]
+---
+I(x)=sqrt(x*10)-10
+~~~
