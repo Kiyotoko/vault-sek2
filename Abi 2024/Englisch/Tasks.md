@@ -209,3 +209,8 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 - Occasion: She have won the „Visionary Award“
 - Topics: COVID, her first album, her fans and supporters
 - Main aim: giving thanks to her fans
+- - -
+1. State what the "American Dream" means to the four people on your worksheet.
+	- The American Deam means that you can reach anything and fulfill their dreams.
+2. State the similarities and differences of their concept of "The American Dream"
+	- They think different about the way to fulfill their dreams. For example, Tyra Banks think that the american dream can be fulfilled with hard work and determination. In opposite, 
