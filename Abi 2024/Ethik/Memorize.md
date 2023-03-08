@@ -187,10 +187,10 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - Es soll die richtige Mitte zwischen Mangel und Übermaß gefunden werden
 ~~~mermaid
 graph LR
-	Z((<b>Mitte</b><div>das Beste in uns</div>))
-	Z-->A[<i>Tugend</i> Tapferkeit]
-	Z-->B[<i>Mangel</i> Feigheit]
-	Z-->C[<i>Übermaß</i> Tollkühnheit]
+	Z((<h2>Mitte</h2>Das Beste in uns))
+	Z-->A[<h4>Tugend</h4>Tapferkeit]
+	Z-->B[<h4>Mangel</h4>Feigheit]
+	Z-->C[<h4>Übermaß</h4>Tollkühnheit]
 ~~~
 ## Arthur Schopenhauer
 ### Zum Begriff des Mitleids

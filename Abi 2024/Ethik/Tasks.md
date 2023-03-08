@@ -96,11 +96,11 @@ Der aristotelischen Weg zur Tugend beginnt mit dem Habitus. Der Habitus bezieht 
 - - -
 ~~~mermaid
 graph LR
-	Z((<b>Mitleid<b>))
-	Z-->A[<i>Mitgefühl<i>]
-	Z-->B[<i>Leiden<i>]
-	Z-->C[<i>Einfühlen<i>]
-	Z-->D[<i>Empathie<i>]
+	Z((<h2>Mitleid<h2>))
+	Z-->A[Mitgefühl]
+	Z-->B[Leiden]
+	Z-->C[Einfühlen]
+	Z-->D[Empathie]
 ~~~
 - - -
 Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzieht.
