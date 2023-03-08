@@ -389,7 +389,7 @@ disableZoom: true
 bounds: [0,10,0,10]
 ylabel: U(t)
 ---
-U(x)=sqrt(x*10)
+U(x)=(x/10)^2*10
 ~~~
 
 ~~~functionplot
@@ -397,7 +397,7 @@ U(x)=sqrt(x*10)
 disableZoom: true
 bounds: [0,10,0,10]
 ---
-I(x)=-sqrt(x*10)+10
+I(x)=-(x/10)^2*10+10
 ~~~
 ### Endladungsvorgang
 Der Kondensator wird entladen. Der Strom fließt nun entgegengesetzt.
@@ -407,7 +407,7 @@ Der Kondensator wird entladen. Der Strom fließt nun entgegengesetzt.
 disableZoom: true
 bounds: [0,10,0,10]
 ---
-U(x)=-sqrt(x*10)+10
+U(x)=-(x/10)^2*10+10
 ~~~
 
 ~~~functionplot
@@ -415,5 +415,5 @@ U(x)=-sqrt(x*10)+10
 disableZoom: true
 bounds: [0,10,-10,0]
 ---
-I(x)=sqrt(x*10)-10
+I(x)=(x/10)^2*10-10
 ~~~

@@ -580,4 +580,14 @@ $Q_2=C_2*U=470\mu C$
 $U_0=U_1+U_2$ ==Nacharbeiten==
 - - -
 $I=I_0*e^{-\frac{t}{\tau}}$ ==Nacharbeiten==
+## 2023-03-08
+**Informationsgehalt des Feldlinienbildes**
+- Aus einem Feldlinienbild kann man entnehmen, ab sich die Magneten abstoßen und oder anziehen, und somit, ob beide Magnete gleich oder unterschiedlich gepolt sind
+- Die Stärke der Kraftwirkung wird quantitativ dargestellt
+- Die Richtung der Feldlinien gibt die Richtung der Kraftwirkung auf einen Magnetischen Körper an
+
+**Grenzen des Modells**
+- Keine quantitative Aussage über die Beträge der Wirkenden Kräfte
+- Feldlinien suggerieren ein zweidimensionales Feld, es handelt sich aber um ein dreidimensionales Feld
 - - -
+- Der Fahrraddynamo besteht aus einem Magnet, der in 8 verschiedene, sich abwechselnde Pole besteht. 
