@@ -198,7 +198,7 @@ graph LR
 	- mit-leiden → Gefühl der Anteilnahme am Schmerz und Leid anerer
 	- ein mit-Gefühl → vergleich mit-freuen
 	- im christlichen Kontext Voraussetzung
-- negativ
+- **negativ**
 	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
 	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
 ## Egoismus und Mitleid
@@ -212,3 +212,11 @@ Die Handlungsziele des Menschen sind in der Regel egoistisch
 - *Aber*: auch das Wohl und Wehe eines anderen kann meinen Willen bestimmen
 - Dies muss voll und ganz mein antrieb sein → Mitleid
 - sie handeln dann moralisch, wenn das Leiden sie so stark beschäftigt, dass sie es selbst abstellen möchten
+## Der Wille
+- Der Wille ist Grund allen Leidens
+→ der Wille will immer etwas
+→ das heißt ihm fehlt etwas
+
+- Leiden ist unvermeidlich, da der Wille nie zufrieden ist
+→ der Mensch ist zum Leiden bestimme, da durch Wille bestimme
+## Bosheit
