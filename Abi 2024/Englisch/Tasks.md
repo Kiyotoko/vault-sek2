@@ -202,3 +202,10 @@ Another rhetorical device that Obama used was parallelism, the repetition of gra
 Throughout his speech, Obama emphasized the importance of shared values, such as hard work, responsibility, and sacrifice. He said, "[...] with your help and God's grace, we will continue our journey forward [...]" By emphasizing that the change he sought could only happen with the help of his supporters, Obama showed that they shared a commitment to creating a better future for everyone.
 
 Overall, Obama's victory speech was a masterful display of rhetorical devices and messaging. By emphasizing shared values and reaching out to those who had not supported him, he was able to unite the country and inspire hope for a better future.“
+## 2023-03-08
+- Title: Lana del Rey's Speech at the "Billboard Women in Music" event
+- Speaker: Lana del Rey's 
+- Where and when: at the "Billboard Women in Music" event in Los Angeles, March 1st 2023
+- Occasion: She have won the „Visionary Award“
+- Topics: COVID, her first album, her fans and supporters
+- Main aim: giving thanks to her fans
