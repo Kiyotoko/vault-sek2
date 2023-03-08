@@ -111,9 +111,23 @@ Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzie
 	- Antipathie
 - - -
 „Mein Beileid.“
-„Mein Katze ist gestorben“
+„Meine Katze ist gestorben“
 „Und?“
 ## 2023-03-08
 Erläutere, was Schopenhauer unter Bosheit versteht.
 
-Bosheit ist, wenn ich selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich. Wenn jemand also ein Tier lebendig ausweidet und sich an dessen Leiden ergötzt, so ist dies Bosheit, da das Leiden nicht der Mittel zum Zweck ist, wie zum Beispiel möglichst einfach am Fleisch herran zu kommen, sondern der Zweck selbst.
+Bosheit ist, wenn ich selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich. Wenn jemand also ein Tier lebendig ausweidet und sich an dessen Leiden ergötzt, so ist dies Bosheit, da das Leiden nicht der Mittel zum Zweck ist, wie zum Beispiel möglichst einfach am Fleisch heran zu kommen, sondern der Zweck selbst.
+- - -
+Stelle Schopenhauers Erklärung über die Entstehung der Bosheit dar.
+
+Durch das unerfüllte Wollen leidet man. Viel starkes Wollen führt auch zu viele starken Leiden. Dieser innere Wille führt zu der inneren Qual. Da wir das Leiden anderer sehen können, können wir es mit ihnen vergleichen. Verstärken wir ihr Leiden, so ist unser Leiden im Verhältnis gering.
+- - -
+Erstellen Sie eine Übersicht zu den drei „Triebfedern“ des menschlichen Handelns
+
+~~~mermaid
+graph TB
+	A(<h2>Triebfeder</h2>)---A0(<h4>Mitleid</h4>) & A1(<h4>Egoismus</h4>) & A2(<h4>Bosheit</h4>)
+	A0---A00[Lindern eigenen Leidens<br>durch lindern<br>anderen Leidens]
+	A1---A10[Lindern eigenen Leidens<br>durch Bereicherung<br>einer selbst]
+	A2---A20[Lindern eigenen Leidens<br>durch verursachung<br>von Leid]
+~~~
