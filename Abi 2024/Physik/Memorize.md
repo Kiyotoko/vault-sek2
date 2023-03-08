@@ -417,3 +417,4 @@ bounds: [0,10,-10,0]
 ---
 I(x)=(x/10)^2*10-10
 ~~~
+## Hysterese von lemomagnetischen Stoffen
