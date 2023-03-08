@@ -78,3 +78,14 @@ Important Supreme Court cases; lasting impact on law and future cases
 	- informative
 	- explanatory
 	- persuasive
+## analysing a speech
+When examining a speech, there are several key elements to consider:
+1.  Purpose: What is the main goal of the speech? Is it to inform, persuade, entertain, or inspire the audience?
+2.  Audience: Who is the intended audience? What are their values, beliefs, and attitudes? How does the speaker engage with and address the audience?
+3.  Context: What is the historical, political, or cultural context of the speech? How does the speaker use this context to reinforce or challenge certain ideas?
+4.  Structure: How is the speech organized? What is the main argument or message? What are the supporting points or examples?
+5.  Language: How does the speaker use language to convey meaning and create an emotional response in the audience? What rhetorical devices, such as metaphors or repetition, are used to enhance the message?
+6.  Delivery: How does the speaker use their voice, gestures, and body language to engage with the audience and reinforce the message?
+7.  Impact: What is the overall impact of the speech? Did it achieve its purpose? What was the audience's reaction to the speech?
+
+When examining a speech, it is important to consider all of these elements and analyze how they work together to create a powerful message. Additionally, it can be helpful to research the background and context of the speech to gain a deeper understanding of its significance.
