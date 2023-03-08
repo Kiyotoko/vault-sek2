@@ -197,7 +197,7 @@ Examine how President Obama sends a message of shared values to his supporters a
 
 One of the most prominent rhetorical devices used in Obama's speech was anaphora, the repetition of a phrase at the beginning of successive clauses. He used this device to great effect in the opening of his speech, saying "We want out kids to grow up (...). We want our children to live (...). We want to pass on a country (...)" By repeating "We want" three times, Obama emphasized that his message was for everyone, not just his supporters.
 
-Another rhetorical device that Obama used was parallelism, the repetition of grammatical structures. For example, he said, "That's the future we hope for. That's the vision we share. That's where we need to go – forward. That's where we need to go." By using parallelism, Obama showed that his message of unity applied to everyone.
+Another rhetorical device that Obama used was parallelism. For example, he said, "That's the future we hope for. That's the vision we share. That's where we need to go forward. That's where we need to go." By using parallelism, Obama showed that his message of unity applied to everyone.
 
 Throughout his speech, Obama emphasized the importance of shared values, such as hard work, responsibility, and sacrifice. He said, "[...] with your help and God's grace, we will continue our journey forward [...]" By emphasizing that the change he sought could only happen with the help of his supporters, Obama showed that they shared a commitment to creating a better future for everyone.
 
