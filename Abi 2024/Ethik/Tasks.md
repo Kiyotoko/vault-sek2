@@ -113,3 +113,7 @@ Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzie
 „Mein Beileid.“
 „Mein Katze ist gestorben“
 „Und?“
+## 2023-03-08
+Erläutere, was Schopenhauer unter Bosheit versteht.
+
+Bosheit ist, wenn ich selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich. Wenn jemand also ein Tier lebendig ausweidet und sich an dessen Leiden ergötzt, so ist dies Bosheit, da das Leiden nicht der Mittel zum Zweck ist, wie zum Beispiel möglichst einfach am Fleisch herran zu kommen, sondern der Zweck selbst.
