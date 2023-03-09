@@ -1332,6 +1332,7 @@ $f_k'(x)=-x+k$
 $y=-\frac{1}{2}x^2+x^2+x$
 3. $y=\frac{1}{2}x^2+x$
 # Matritxen
+
 $\begin{pmatrix}1&2&4\\2&4&3\\5&4&3\end{pmatrix}$
 # Storastik
 ## 2023-03-07
@@ -1341,3 +1342,8 @@ Gesucht ist die Wahrscheinlichkeit für folgende Ereignisse:
 2. Zwei Kugeln sind blau, eine Kugel ist grün $\frac{4}{12}*\frac{4}{12}*\frac{6}{12}*3=\frac{1}{3}*\frac{1}{3}*\frac{1}{2}*3=\frac{1}{6}$
 3. Die zweite gezogene Kugel ist rot $\frac{2}{12}=\frac{1}{6}$
 4. Mindestens eine gezogene Kugel ist blau $1-\frac{8}{12}^3=1-\frac{2}{3}^3=\frac{19}{27}$
+## 2023-03-09
+
+$0=-5*\frac{5}{8}+(y-5)*\frac{5}{16}-5*\frac{1}{16}$
+$0=-\frac{50}{16}+\frac{5}{16}*y-\frac{25}{16}-\frac{5}{16}$
+$\frac{80}{16}=\frac{5}{16}y\quad y=16$
