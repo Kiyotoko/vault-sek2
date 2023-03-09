@@ -749,9 +749,17 @@ Ereignis + Gegenergeignis = 1 $P(A)+P(\bar{A})=1$
 **Beispiel**
 $P(X\geq1)\geq1-P(X=0)$
 $1-P(X=0)=1-\frac{8}{12}*\frac{8}{12}=1-\frac{2}{3}*\frac{2}{3}=1-\frac{4}{9}=\frac{5}{9}$
+
 ## Fakultät
+
 $n!=n*(n-1)*(n-2)*\dots*1$
 
 **Beispiel**
 $5!=5*4*3*2*1=120$
 $4!=4*3*2*1=24$
+
+### Abzählverfahren
+
+**Beispiel**
+Pferderennen, 12 Pferde
+Einlauf  der ersten 3 Pferde soll vorausgesagt werden.
