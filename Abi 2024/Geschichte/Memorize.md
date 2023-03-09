@@ -46,3 +46,10 @@
 	- Deutscher Bund
 	- Verstärkung der „Heiligen Allianz“
 	- Beharren auf der alten Ordnung → Enttäuchung der Hoffnungen → Gründung von Vereinen und Burchenschaften
+## Paulskirch
+- Verfassung
+- Kleindeutsche Lösung
+- allgemeines deutsches Wahlrecht
+- Ende Feudalsystem
+- Fraktionen
+- Frage nach Territorium
