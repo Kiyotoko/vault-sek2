@@ -24,7 +24,7 @@
 	2. Eckdaten zum Text, Autor, Thema, dargestellte Problematik
 2. **Textanalyse**
 	1. Gedanklichen Aufbau
-	2. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen
+	2. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen (Sprachliche Mittel, Autoritätsargument, Normatives Argument)
 	3. Hauptaussage unter Zuhilfenahme konkreter Zitate
 	4. gesellschaftlich-historischer Kontext
 3. **Erörterung**
