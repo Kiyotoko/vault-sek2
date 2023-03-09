@@ -36,7 +36,7 @@
 	- These → Argumente → Plausibilisierung
 4. **Schluss**
 	1. Wichtige Erkenntnisse zusammenfassen
-	2. Position beziehen
+	2. Bezug auf Position
 ## Sprach, Ausdruck & Zitate
 - Schreiben sie sachlich und unter Verwendung der literaturwissenschaftlichen Fachtermini! (z.B. Grundkonflikte, Motive, Themen, Rahmenhandlung, Epeisodion, Held – Antiheld,…)
 - Genaue Benennung des vorliegenden Textes: z.B. Auszug aus Interview, Essay-Ausschnitt,...
