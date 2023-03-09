@@ -1347,3 +1347,18 @@ Gesucht ist die Wahrscheinlichkeit für folgende Ereignisse:
 $0=-5*\frac{5}{8}+(y-5)*\frac{5}{16}-5*\frac{1}{16}$
 $0=-\frac{50}{16}+\frac{5}{16}*y-\frac{25}{16}-\frac{5}{16}$
 $\frac{80}{16}=\frac{5}{16}y\quad y=16$
+
+- - -
+
+Mn erhält die Umkehrung des Baumdiagramms, indem man die Reihenfolge der Merkmale vertaucht.
+
+~~~mermaid
+graph TB;
+	A[ ]
+	A-->A0[Pünktlich]
+	A-->A1[Unpünktlich]
+	A0-->A00[Pünktlich]
+	A0-->A01[Unpünktlich]
+	A1-->A10[Pünktlich]
+	A1-->A11[Unpünktlich]
+~~~
