@@ -1,7 +1,7 @@
 # Grundlegung einer Modernen Gesellschaft
 ## Industrialisierung in England
 <pre class="vault" style="background-color:#3CB371;"><code class="vault" style="color:white;"><em>Pauperismus</em> Massenarmut des 19. Jahrhunderts, die zu Verelendung und sozialen Unruhen führt</code></pre>
-- __Voraussetzungen__
+- **Voraussetzungen**
 	- Hohe Befölkerungszahl
 	- Ablösung des Feudalismus
 	- Stellung als See und Koloniemacht Englands
@@ -9,19 +9,19 @@
 	- Die Aufklärung
 	- Aufhebung kollektivem Gemeindebesitz
 	- Veränderungen im Agrarwesen
-- __Auswirkungen__
+- **Auswirkungen**
 	- Maschinen, und nicht mehr Handwerker bestimmen das Arbeitstempo
 	- Pauperismus
 	- Umweltverschmutzung
 	- Städtewachstum
 	- Epidemien
-- __Leitsektoren__
+- **Leitsektoren**
 	- Textilindustrie
 	- Bergbau
 	- Eisenbahn
 	- Landwirtschaft
 ## Wirtschaschaftsliberalismus oder Merkantilismus
-- __Aufgaben des Staates__
+- **Aufgaben des Staates**
 	1. Angriffe von außerhalb Abwenden
 	2. Jedes Mitglied der Gesellschaft vor Unterdrückung schützen
 	3. Öffentliche Einrichtungen zu gründen und zu unterhalten
@@ -53,3 +53,9 @@
 - Ende Feudalsystem
 - Fraktionen
 - Frage nach Territorium
+## Einheit und Freiheit in der Revolution
+- **Äußere Problem**
+	- Druck der Straßen lässt nach
+	- Paulskirchenversammlung hat kein eigenes Militär
+	- Sieg der Gegenrevolution in Wien und Berlin
+	- Preußischer König lehnt Kaiserkrone ab
