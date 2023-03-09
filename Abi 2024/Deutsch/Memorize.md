@@ -22,6 +22,7 @@
 1. **Einleitung**
 	1. Hinführung
 	2. Eckdaten zum Text, Autor, Thema, dargestellte Problematik
+	3. Arbeitshypothese
 2. **Textanalyse**
 	1. Gedanklichen Aufbau
 	2. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen (Sprachliche Mittel, Autoritätsargument, Normatives Argument)
@@ -31,6 +32,7 @@
 	-  These-Gegenthese-Modell oder Sanduhrmodell
 	- die eigene Position  begründet mit Beispielen darlegen
 	- schlüssiges Urteil bzw. einleuchtende, aus der Erörterung hervorgehende Schlussfolgerung
+	- treffen Gründe auf den Roman zu oder nicht?
 	- These → Argumente → Plausibilisierung
 4. **Schluss**
 	1. Wichtige Erkenntnisse zusammenfassen
