@@ -1,6 +1,7 @@
 Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\mathbb{Z}^3$, für das $x^n+y^n=z^n$ gilt.
 
 ## Pythagoreische Tripel
+
 - Eine Lösung $(x,y,z)\in\mathbb{N}^3$ von $x^2+y^2=z^2$ wird pythagoreisches Tripel genannt.
 - Wie viele ganzzahlige Lösungen besitzt die Gleichung $x^2+y^2=25$?
 - **Bemerkung** Die ganzzahligen Lösungen von $x^2+y^2=z^2$ sind:
@@ -23,7 +24,9 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 	1. Wenn $ggT(x,y)=1$ können x und y nicht beide durch 2 teilbar sein.
 		- Angenommen, $x=1\mod2$ und $y=1\mod2$. Dann $n_1,n_2\in\mathbb{N}$: $x=2n_1+1$ und $y=2n_1+1$
 		- $z^2=x^2+y^2=(2n_1+1)^2+(2n_2+1)^2=4n_1^2+4n_2^2+4n_1+4n_2+2=4(n_1^2+n_2^2+n_1+n_2)$
+
 ## Euklids Klassifikationssatz
+
 - **Satz** Die folgenden Aussagen sind äquivalent:
 	1. $(x,y,z)\in\mathbb{N^3}$ ist ein primitives pythagoreisches Tripel mit $x=0\mod2$
 	2. mit $m>n,ggT(m,n)=1$ und $m\neq n\mod2$, sodass $x=2mn$ und $y=m^2-n^2$ und $z=m^2+n^2$
@@ -92,7 +95,9 @@ Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\
 		- Es folgt aus $t^2=M^2+N^2$: $t^2=u^4+w^4$
 		→ $(u,w,t)$ ist eine nicht-triviale Lösung von $x^4+y^4=z^2$
 		- Weiter gilt $t^2=m\leq m^2<m^2+n^2=z\leq z^2\leq z'^2$
+
 ## Großer Satz von Fermat
+
 Ist $n=0\mod4$, dann hat die Gleichung $x^n+y^n=z^n$ keine nicht-trivialen Lösungen.
  - **Beweis**
 	- $x^4+y^4=z^4$ besitzt keine Lösungen
@@ -101,7 +106,9 @@ Ist $n=0\mod4$, dann hat die Gleichung $x^n+y^n=z^n$ keine nicht-trivialen Lösu
 - **Satz**
 	- Für $n>2$ hat die Gleichung $x^n+y^n=z^n$  keine nicht-trivialen Lösungen.
 - Beweisidee; Sei $p>2 prim$. Wenn $x^P+y^P=z^P$ keine nicht-trivialen Lösungen besitzt, dann hat $x^n+y^n=z^n\forall n\in\mathbb{N}_{>z}$ auch keine nicht-trivialen Lösungen.
+
 ## Pell'sche Gleichung
+
 1. Sei $d\in\mathbb{N}$ keine Quadratzahl. Die Gleichung $X^2-dY^2=1$  wird Pell'sche Gleichung genannt.
 2. $(x,y)\in\mathbb{Z}^2$ mit $(x,y)\neq(\pm1,0)$ wird eine nicht-triviale Lösung der Pell'schen Gleichung genannt, wenn $x^2-dy^2=1$
 - Aufgabe
