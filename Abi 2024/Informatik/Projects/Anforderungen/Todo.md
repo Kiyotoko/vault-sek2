@@ -1,11 +1,8 @@
-~~~ad-todo
-__Aufgabenstellung__: Anforderungen an die Informationssicherheit an konkreten Beispielen (Lebensweltbezug)
-- [x] Vertraulichkeit 
-- [x] Integrität 
-- [x] Authentizität 
-- [x] Verbindlichkeit/Anerkennung
-~~~
-
+- __Aufgabenstellung__: Anforderungen an die Informationssicherheit an konkreten Beispielen (Lebensweltbezug)
+	- [x] Vertraulichkeit 
+	- [x] Integrität 
+	- [x] Authentizität 
+	- [x] Verbindlichkeit/Anerkennung
 - __Präsentationsmedium__
 	- PowerPoint
 - __Gliederung__

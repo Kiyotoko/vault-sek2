@@ -85,37 +85,20 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	- Briefromane
 	- Innerer Monolog
 ## 2022-09-23
+
 Im Gedicht „Prometheus“ von Johann Wolfgang von Goethe sieht das lyrische ich, hier Prometheus, die Götter als kümmerlich an, da sie es nicht Wert sind, geehrt zu werden. Er sieht die Götter als die Ärmsten an, da sie von den Opfersteuern und Gebetshauch der Menschen abhängig ist. Selbst hingegen sieht er sich als Schöpfer, da er Menschen nach *seinem* Bilde formt.
 
 ---
 Das Gedicht „Prometheus“ ist in sofern für Sturm & Drang typisch, da es den Schöpferischen Gedanken des Genies sowie die Kritik an den Göttern beinhaltet. Prometheus selbst ist hier der Schöpfer, alles was er braucht erschafft er sich selbst; während gleichzeitig die Götter für ihn nur unnütz und ärmlich sind.
-## 2022-09-27
-~~~mermaid
-graph LR
-	S((Stoffsammlung))---A(Einleitung) & B(Hauptteil) & C(Schluss)
-	
-	A-->A1[Willkommen und Abschied]
-	A-->A2[J. W. Goethe]
-	A-->A3[1785]
-	A-->A4[Gedicht]
-	A-->A5[%DEUTUNGSHYPOTHESE%]
-	A-->A6[Sturm und Drang]
-	
-	B-->B1[4 Strophen mit je 8 Versen]
-	B-->B2[%SPRACHLICHE ANALYSE%]
-	B-->B3[%INHALTLICHE ANALYSE%]
 
-	C-->C1[%RÜCKBEZUG%]
-~~~
-
-~~~ad-hint
-Textbelege nicht vergessen!
-~~~
 ## 2022-10-04
+
 - Goethe ist zuerst nach Weimar gekommen, wo er dort unterstützt wird
 - Haben zusammen gearbeitet und veröffentlicht
 - Möchten zu „Humanität und Vernunft“ erziehen
+
 ## 2022-10-05
+
 „Willkommen und Abschied“ ist einer der wenigen Gedichte, die in gleich zwei Versionen veröffentlicht wurden. Es ist ein Musterbeispiel des Sturm und Drang und wurde 1785 von J. W. Goethe geschrieben. Es handelt vom treffen und verabschieden der Geliebten.
 
 Inhaltlich geht es darum, wie ein Jüngling in der Nacht seine Liebe trifft, und sie doch wieder am nächsten morgen verabschieden muss. Ein prägender Unterschied hierbei Inhaltlich ist, das in der ersten Fassung das Mädchen ihn noch bis zum Pferd begleitet.  Es enthält viele autobiographische Bezüge zu Goethes Leben und seiner Beziehung, so sind zum Beispiel Parallelen zu seiner Liebe Friederike Brion zu erkennen.

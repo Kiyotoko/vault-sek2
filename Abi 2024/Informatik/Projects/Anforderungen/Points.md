@@ -1,6 +1,5 @@
-~~~ad-info
-Einstieg: Informationssicherheit in China
-~~~
+>Einstieg: Informationssicherheit in China
+
 # Definition
 Die Informationssicherheit dient der Sicherstellung von Vertraulichkeit, Integrität und Verfügbarkeit von Informationen. Die Informationen selbst können in unterschiedlichen Formen vorliegen und auf verschiedenen Systemen gespeichert sein. Informationen sind nicht auf digitale Daten beschränkt. Bei den speichernden oder aufnehmenden Systemen muss es sich nicht grundsätzlich um IT-Komponenten handeln. Es können sowohl technische als auch nicht-technische Systeme sein. Ziel ist es, vor Gefahren und Bedrohungen zu schützen und wirtschaftliche Schäden zu verhindern.
 ## Schutzziele
@@ -20,10 +19,10 @@ Eine Bedrohung für die Informationssicherheit ist eine potenzielle Gefahr, die 
 -   **Schwachstelle Mensch:** Fehler in der Verwendung, Missbrauch von Berechtigungen / Diensten und Software / Rechten, nicht autorisierte Benutzung der Geräte und Software, Leugnung von Handlungen, Verletzung der personellen Verfügbarkeit, Verletzung der Wartbarkeit von Informationssystemen, Verwendung von gefälschter oder kopierter Software, Informationen oder Produkte aus unzuverlässigen Quellen
 # Maßnahmen
 ## Als Firma
-~~~ad-info
-Video abspielen:
-- [Tom Scott](https://www.youtube.com/watch?v=yoMOAIzBSpY)
-~~~
+
+>Video abspielen:
+>- [Tom Scott](https://www.youtube.com/watch?v=yoMOAIzBSpY)
+
 ### Nutzung eines Information Security Management System (ISMS)
 - Ein Information Security Management System ist eine zusammenhängende Aufstellung von Vorgaben und Regelungen, um die Informationssicherheit dauerhaft zu definieren, zu steuern, aufrechtzuerhalten, zu kontrollieren und fortlaufend zu verbessern. Der Begriff wird im Standard ISO/IEC 27002 definiert. ISO/IEC 27001 definiert ein ISMS.
 ### Einhaltund des ISO 27001 Standarts
@@ -31,9 +30,9 @@ Video abspielen:
 - [Statistik, Seite 6](file:///home/karlz/Documents/Obsidian/Abi%202024/Informatik/Projects/Anforderungen/Digitalbarometer-ProPK-BSI_2022.pdf)
 - Zwei Faktor-Authentifizierung
 - Passwörter nicht wiederverwenden
-~~~ad-info
-Zwischenfrage: Wer nutzt alles einen VPN?
-~~~
+
+>Zwischenfrage: Wer nutzt alles einen VPN?
+
 - Keinen VPN verwenden
 # Quellen
 ## Textquellen

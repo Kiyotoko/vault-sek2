@@ -14,8 +14,8 @@
 5. Schicht / **Sitzung**: Steuerung der Verbindungen und des Datenaustauschs.
 6. Schicht / **Darstellung**: Umwandlung der systemabhängigen Daten in ein unabhängiges Format.
 7. Schicht / **Anwendung**: Funktionen für Anwendungen sowie die Dateneingabe und -ausgabe.
-~~~ad-note
+
 „**A**lle **d**eutschen **S**tudenten **t**rinken **v**erschiedene **S**orten **B**ier“
-~~~
+
 ## TCP
 ![[Working Materials/Netzwerke/OSI vs TCP.png]]
