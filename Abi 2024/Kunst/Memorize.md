@@ -1,6 +1,6 @@
 # Schriftgestaltung
 
-## Entwicklung der Schrift
+## Entwicklung Der Schrift
 
 - Ägyptische Hieroglyphen
 	- Zeichen in Form von schematischen Bildern
@@ -56,9 +56,9 @@
 	- Sütterlin
 	- Englische Schreibschrift
 
-# Was ist Kunst
+# Was Ist Kunst
 
-## Unterschiedliche Auffassungen zu Funktionen
+## Unterschiedliche Auffassungen Zu Funktionen
 
 - dient der Erkenntnis von Menschen und Welt
 - Kritik und utopische Konzepte
@@ -86,7 +86,7 @@
 - Punkt
 - Linie
 
-## Funktionen der Linie
+## Funktionen Der Linie
 
 - Kontur bzw Umrisse
 - Offene Linie
@@ -98,7 +98,7 @@
 
 - Bleistift, Feder, Kohle, Tusche, Tinte, Kreide
 
-## Funktion einer Grafik
+## Funktion Einer Grafik
 
 - Skizze (grobe Planung)
 - Studie (zeichnerische Untersuchung eines Objektes)

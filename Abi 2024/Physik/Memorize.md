@@ -22,7 +22,7 @@ Modell eines ausgedehnten Körpers. Er beschreibt den jeweiligen Ort des Körper
 
 Ein gedachtes raum-zeitliches Gebilde, das erforderlich ist, um das Verhalten ortsabhängiger Größen eindeutig und vollständig zu beschreiben. Insbesondere kann die Lage und Bewegung von physikalischen Körpern nur relativ zu einem Bezugssystem angegeben werden.
 
-## Ort und Weg
+## Ort Und Weg
 
 Beschreibt die Position eines Körpers zu einem bestimmten Zeitpunkt $t$.
 - Formelzeichen $r$ bzw. $r(t)$ o. $x$ bzw. $x(t)$
@@ -81,7 +81,7 @@ Bei der Gleichförmigen Bewegung ist die Geschwindigkeit konstant. Die Fläche b
 	- $v(t)=v=konst.$
 	- $s(t)=v*t+s_0$
 
-## Gleichmäßig beschleunigte Bewegung
+## Gleichmäßig Beschleunigte Bewegung
 
 Bei der Gleichmäßig beschleunigten Bewegung ist die Beschleunigung konstant.
 - Formeln
@@ -111,18 +111,18 @@ Die Bewegung startet mit einer Geschwindigkeit von $v_0$. Senkrechte Würfe sind
 
 Zwei Teilbewegungen können sich zu einer zusammengesetzten Bewegung überlagern. Die Teilbewegungen können:
 1. in gleicher Richtung
-2. in entgegengesetzter Richtung
-3. senkrecht zueinander
-4. schräg zueinander
+1. in entgegengesetzter Richtung
+1. senkrecht zueinander
+1. schräg zueinander
 
 erfolgen.
 
-### Geschwindigkeit als vektorielle (gerichtete) Größe
+### Geschwindigkeit Als Vektorielle (gerichtete) Größe
 
 - sie ist entlang der Bewegungsrichtung orientiert → wir als Vektor (Pfeil) dargestellt $\vec{v}$-beschreibt den Vector(-pfeil)
 - Betrag des Vektors (Länge des Pfeils) gibt die Geschwindigkeit an $v$-Zahlenwert mit Einheit
 
-### Addition von Geschwindigkeitsvektoren
+### Addition Von Geschwindigkeitsvektoren
 
 Vektoren werden addiert, indem man sie aneinander legt. Der Gesamtvektor zeigt dann von Anfang des ersten bis zum Ende des letzten Vektors.
 - Formel $v_{ges}=\sqrt{v_0²+2v_0v_1\cos{\alpha}+v_1²}$
@@ -167,7 +167,7 @@ f(x)=-0.1x^2+9
 |Umlaufdauer $T$|Gibt die Dauer für eine vollständige Umdrehung an.|$T=\frac{t}{N}$|
 |Drehzahl $f$|Gibt die Anzahl der Umdrehungen pro Zeiteinheit an.|$f=\frac{N}{t}=\frac{1}{T}$|
 
-### Winkel- und Bahngeschwindigkeit
+### Winkel- Und Bahngeschwindigkeit
 
 Gibt den Winkel auf einer Kreisbahn an, den ein Körper in einer bestimmten Zeit überstreicht.
 - Formelzeichen $\omega$
@@ -230,7 +230,7 @@ Die Vektorsumme der Impulse eines geschlossenen Systems bleibt bei allen Stöße
 
 ## Stöße
 
-### Zentraler elastischer Stoß
+### Zentraler Elastischer Stoß
 
 Beim zentral elastischen Stoß treffe zwei Körper auf einer Geraden aufeinander. Für die Berechnung der Geschwindigkeiten der Körper vor dem Stoß $v_1$ und nach dem Stoß $v_1'$ und $v_2'$ gilt die Energieerhaltung:
 - $\frac{1}{2}m_1*v_1^2+\frac{1}{2}m_2*v_2^2=\frac{1}{2}m_1*v_1'^2+\frac{1}{2}m_2*v_2'^2$
@@ -242,7 +242,7 @@ Berechnung der Geschwindigkeiten:
 - $v_1'=\frac{(m_1-m_2)*v_1+2m_2*v_2}{m_1+m_2}$
 - $v_2'=\frac{(m_2-m_1)*v_2+2m_1*v_1}{m_1+m_2}$
 
-### Vollkommen unelastischer Stoß
+### Vollkommen Unelastischer Stoß
 
 Ein vollkommen unelastischer Stoß liegt vor, wenn beide Körper nach dem Stoß aneinander haften bleiben, also dann die gleiche Geschwindigkeit $v'$ haben:
 - $m_1*v_1+m_2*v_2=(m_1+m_2)*v'$
@@ -280,7 +280,7 @@ Kraft ist eine vektorielle Größe mit Stärke und Richtung.
 
 Die Normalkraft $\vec{F}_N$ ist die Kraft, mit der ein Körper auf seine Unterlage wirkt.
 
-### Radialkraft und Radialbeschleunigung
+### Radialkraft Und Radialbeschleunigung
 
 Da sich die Richtung der Geschwindigkeit ändert, wirt auf den Körper ständig eine Kraft (Radialkraft). Diese Kraft hält den Körper auf seiner Kreisbahn. Sie ist stets zum Kreismittelpunkt gerichtet.
 $a=\frac{v^2}{r}$
@@ -293,7 +293,7 @@ Reibungskräfte sind bewegungshemmende Kräfte, die an den Grenzflächen zweier 
 - Gleitreibung
 - Rollreibung
 
-#### Zusammenhang zwischen Haft- und Gleitreibung
+#### Zusammenhang Zwischen Haft- Und Gleitreibung
 
 - die Haftreibung hindert einen Körper daran sich in Bewegung zu versetzen
 - die Haftreibungskraft 𝐹Ԧ hr ist immer so groß wie die Zugkraft 𝐹Ԧ Z mit der an einem Körper gezogen wird
@@ -382,9 +382,9 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 
 # Modellierung
 
-# Elektrostatik und Elektrodynamik
+# Elektrostatik Und Elektrodynamik
 
-## Die Größe der elektrischen Ladung
+## Die Größe Der Elektrischen Ladung
 
 Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektronenüberschuss) oder positive (Elektronenmangel) Ladung ist.
 
@@ -394,11 +394,11 @@ Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektro
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
 
-### Kräfte zwischen elektrostatisch geladenen Körpern
+### Kräfte Zwischen Elektrostatisch Geladenen Körpern
 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
 
-### Nachweis elektrostatischer Ladungen
+### Nachweis Elektrostatischer Ladungen
 
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
 ![Elektrometer](Working%20Materials/Elektrisches%20Feld/Elektrometer.png)
@@ -415,11 +415,11 @@ Ist ein geladener Körper in der Nähe eines leitenden, ladungsneutralen Körper
 
 Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung von elektrischen Ladungen über kurze Distanzen (Größenordnung eines Atomabstandes). Moleküle oder kleinste Teilchen werden zu elektrischen Dipolen.
 
-### Kunststoffstab am Elektroskop
+### Kunststoffstab Am Elektroskop
 
  Kommt der geladene Körper in die Nähe des Elektroskops, dann werden Elektronen im Elektroskop abgestoßen. Diese wandern im „unteren“ Teil des Zeigers des Metallstabes. Es erfolgt eine Ladungstrennung durch Influenz. Da sich gleiche Ladungen abstoßen, schlägt der Zeiger aus.
 
-### Möglichkeiten der Ladungstrennung
+### Möglichkeiten Der Ladungstrennung
 
 - Reibung
 - Dissoziation
@@ -428,17 +428,17 @@ Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung
 - magnetische Induktion
 - thermoelektronische Vorgänge
 
-### Strom als bewegte Ladung
+### Strom Als Bewegte Ladung
 
 Die elektrische Stromstärke I gibt an, wie viel Ladung $Q$ in einer bestimmten Zeit $t$ durch den Querschnitt eines Leiters fließt
 $I=\frac{\Delta Q}{\Delta t}$
 
-### Erhaltungssatz der Ladung
+### Erhaltungssatz Der Ladung
 
 In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
 
-## Nah- und Fernwirkungstheorie
+## Nah- Und Fernwirkungstheorie
 
 - **Fernwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt unmittelbar (instantan) und ohne „Vermittler“.
 - **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungsgeschwindigkeit) und durch einen „Vermittler“.
@@ -447,7 +447,7 @@ $Q=Q_1$
 
 In dem Raum (Wirkungsbereich) um einen elektrostatisch geladenen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
 
-### Das Feldlinienbild des elektrischen Feldes
+### Das Feldlinienbild Des Elektrischen Feldes
 
 ### Homogenes Feld
 
@@ -455,7 +455,7 @@ Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
 
 ### Faradayscher Käfig
 
-## Die elektrische Feldstärke
+## Die Elektrische Feldstärke
 
 Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem bestimmten Ort ist.
 - Formelzeichen $E$
@@ -508,7 +508,7 @@ Die Kapazität eines Kondensators gibt an, wie viel elektrische Ladung der Konde
 - Formel $C=\frac{Q}{U}$
 - Idealer Plattenkondensator $C=\varepsilon_0*\varepsilon_r*\frac{A}{d}$
 
-### Speicherung elektrischer Energie
+### Speicherung Elektrischer Energie
 
 Die elektrische Energie lässt sich auch mithilfe der Feldstärke $E=\frac{U}{d}$ ausdrücken.
 
@@ -527,7 +527,7 @@ $C_{ges}=C_1+C_2+C_3+\dots+C_n$
 
 $\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}+\dots+\frac{1}{C_n}$
 
-### Auf und Entladen eines Kondensators
+### Auf Und Entladen Eines Kondensators
 
 #### Aufladungsvorgang
 
@@ -537,7 +537,7 @@ $U_0=U_R+U_C=R*I+\frac{Q}{C}$
 
 $I(t)=\frac{\Delta Q}{\Delta t}$
 
-## Magnete und magnetische Felder
+## Magnete Und Magnetische Felder
 
 ### Magnetische Körper
 
@@ -550,7 +550,7 @@ Zwischen einem Magneten und Körpern aus Eisen, Nickel, Cobalt Neodym-Eisen-Bor 
 
 Permanentmagneten besitzen einen dauerhaften Magnetismus. Sie werden auch als Dauermagneten bezeichnet.
 
-### Kräfte zwischen Magneten
+### Kräfte Zwischen Magneten
 
 Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. Ungleichnahmige Pole ziehen sich an, gleichnamige Polen stoßen sich ab.
 
@@ -558,7 +558,7 @@ Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. 
 
 - je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
 
-## $U(t)$ und $I(t)$ Diagramme: Kondensator
+## $U(t)$ Und $I(t)$ Diagramme: Kondensator
 
 ![Kondensator](Working%20Materials/Elektrisches%20Feld/Kondensator.png)
 
@@ -602,11 +602,11 @@ bounds: [0,10,-10,0]
 I(x)=(x/10)^2*10-10
 ~~~
 
-## Hysterese von ferromagnetischen Stoffen
+## Hysterese Von Ferromagnetischen Stoffen
 
 Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die Energie, die Für das Ummagnetisieren benötigt wird.
 
-## Magnetfeld von Elektromagneten
+## Magnetfeld Von Elektromagneten
 
 ![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
 

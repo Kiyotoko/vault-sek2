@@ -4,7 +4,7 @@
 
 ![Schiefe Ebene](../Working%20Materials/Dynamik/Schiefe%20Ebene.png)
 
-## Radialkraft und Radialbeschleunigung
+## Radialkraft Und Radialbeschleunigung
 
 $a_r=\frac{v^2}{r}$
 $F=m*a_r=m*\frac{v^2}{r}$
@@ -26,8 +26,8 @@ Energie ist die Fähigkeit, mechanische Arbeit zu verrichten, Wärme abzugeben o
 ## Newton'sche Gesetze
 
 1. Trägheitsprinzip
-2. Aktionsprinzip
-3. Reaktionsprinzip
+1. Aktionsprinzip
+1. Reaktionsprinzip
 
 ## Energieformen
 
@@ -59,6 +59,6 @@ $\eta=\frac{E_{nutz}}{E_{zu}}$ oder $\eta=\frac{E_{nutz}}{E_{zu}}$
 # Interpretation Diagramm
 
 1. Was ist bei den Achsen zu sehen?
-2. Wie verlaufen die Graphen?
-3. Was beschreibt der Anstieg/die Fläche der Graphen?
-4. Welche Schnittpunkte/Zusammenhänge werden gezeigt?
+1. Wie verlaufen die Graphen?
+1. Was beschreibt der Anstieg/die Fläche der Graphen?
+1. Welche Schnittpunkte/Zusammenhänge werden gezeigt?

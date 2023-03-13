@@ -7,14 +7,14 @@ Die Informationssicherheit dient der Sicherstellung von Vertraulichkeit, Integri
 ## Schutzziele
 
 1.  **Vertraulichkeit** bedeutet, dass die Daten bzw. Informationen nur von solchen Personen eingesehen, bearbeitet und verwaltet werden dürfen, die dazu befugt sind. Zum Beispiel: Der Personenkreis für den Einblick in Personalakten wird eingeschränkt.
-2.  **Integrität** bedeutet, dass die unerkannte Veränderung von Daten nicht möglich sein darf. Die Korrektheit der Daten bzw. Informationen muss sichergestellt sein. Zum Beispiel: Ein Eintrag in die Personalakte darf durch die Mitarbeiter\*innen nicht verändert werden.
-3.  **Verfügbarkeit** bedeutet, dass die Daten bzw. Informationen nicht verloren gehen und für befugte Personen zugänglich sein sollten. Zum Beispiel: Ein Eintrag in die Personalakte darf durch die Mitarbeiter\*innen nicht herausgenommen bzw. gelöscht werden
+1.  **Integrität** bedeutet, dass die unerkannte Veränderung von Daten nicht möglich sein darf. Die Korrektheit der Daten bzw. Informationen muss sichergestellt sein. Zum Beispiel: Ein Eintrag in die Personalakte darf durch die Mitarbeiter\*innen nicht verändert werden.
+1.  **Verfügbarkeit** bedeutet, dass die Daten bzw. Informationen nicht verloren gehen und für befugte Personen zugänglich sein sollten. Zum Beispiel: Ein Eintrag in die Personalakte darf durch die Mitarbeiter\*innen nicht herausgenommen bzw. gelöscht werden
 
-## Abgrenzung zum Datenschutz
+## Abgrenzung Zum Datenschutz
 
 Beim Datenschutz geht es um den Schutz der Privatsphäre eines jeden Menschen. Datenschutz garantiert allen Bürger\*innen ein Recht auf informationelle Selbstbestimmung und schützt sie vor missbräuchlicher Verwendung ihrer Daten. Entsprechend sind geeignete technische und organisatorische Maßnahmen zu gewährleisten, die der Datensicherheit dienen. Die Datensicherheit wird als ein Teil der Informationssicherheit angesehen, da Letzteres umfassender ist. Die Informationssicherheit dient darüber hinaus der Vermeidung von wirtschaftlichen Schäden und der Minimierung von Risiken.
 
-## Abgrenzung zur Cybersicherheit
+## Abgrenzung Zur Cybersicherheit
 
 Cyber ist von Cybernetics abzuleiten, also der Wissenschaft zur Steuerung und Regelung von Maschinen und deren Analogie zur Handlungsweise von lebenden Organismen und sozialen Organisationen. Die Cybersicherheit nimmt somit konkret Bezug auf Bedrohungen aus dem Internet, einer elektronisch vernetzten Welt von Menschen und Maschinen.
 
@@ -34,11 +34,11 @@ Eine Bedrohung für die Informationssicherheit ist eine potenzielle Gefahr, die 
 >Video abspielen:
 >- [Tom Scott](https://www.youtube.com/watch?v=yoMOAIzBSpY)
 
-### Nutzung eines Information Security Management System (ISMS)
+### Nutzung Eines Information Security Management System (ISMS)
 
 - Ein Information Security Management System ist eine zusammenhängende Aufstellung von Vorgaben und Regelungen, um die Informationssicherheit dauerhaft zu definieren, zu steuern, aufrechtzuerhalten, zu kontrollieren und fortlaufend zu verbessern. Der Begriff wird im Standard ISO/IEC 27002 definiert. ISO/IEC 27001 definiert ein ISMS.
 
-### Einhaltund des ISO 27001 Standarts
+### Einhaltund Des ISO 27001 Standarts
 
 ## Als Nutzer
 

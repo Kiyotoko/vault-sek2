@@ -1,6 +1,6 @@
 # Zahlenbereiche
 
-## Natürliche Zahlen 
+## Natürliche Zahlen
 
 - Beinhaltet alle positiv ganzen Zahlen
 - Symbol $\mathbb{N}$
@@ -91,7 +91,7 @@ Das zweite Cantorsche Diagonalverfahren ist ein indirekter Beweis für die Über
 
 # Ungleichungen
 
-## Formen von Ungleichungen
+## Formen Von Ungleichungen
 
 $T_1<T_2$
 $T_2\leq T_2$
@@ -99,7 +99,7 @@ $T_1>T_2$
 $T_1\geq T_2$
 $T_1\neq T_2$
 
-## Umformung von Ungleichungen
+## Umformung Von Ungleichungen
 
 ### Umkehrbarkeit
 
@@ -107,12 +107,12 @@ Ungleichungen können umgekehrt werden $(T_1\leq T_2)\Leftrightarrow(T_2\geq T_1
 
 ### Monotoniegesetz
 
-#### Addition und Subtraktion
+#### Addition Und Subtraktion
 
 - Es ist $T_1 < T_2$ genau dann, wenn $T_1+T_3 < T_2+T_3$.
 - Es ist $T_1 < T_2$ genau dann, wenn $T_1-T_3 < T_2-T_3$.
 
-#### Multiplikation und Division
+#### Multiplikation Und Division
 
 - Aus $T_1<T_2$ folgt $-T_1>-T_2$.
 - Aus $0<T_1<T_2$ folgt $0<1/T_2<1/T_1$.

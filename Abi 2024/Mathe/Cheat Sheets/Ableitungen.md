@@ -25,15 +25,15 @@ Die Ableitung ist definiert mit $\lim\limits_{h\to0}f'(x)=\frac{f(x)-f(x+h)}{h}$
 ## Extremwertaufgaben
 
 1. Aufstellen einer Gleichung für die Größe, die einen extremalen Wert annehmen soll. (Hauptbedingung)
-2. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
-3. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
-4. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
+1. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
+1. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
+1. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
 
 ## Steckbriefaufgaben
 
 1. Gesuchte Funktionsgleichung in allgemeiner Form aufschreiben und die Ableitungen bilden.
-2. Gegebene Bedingungen in Gleichungen für die unbekannten Koeffizienten übersetzen
-3. Lineares Gleichungssystem lösen
+1. Gegebene Bedingungen in Gleichungen für die unbekannten Koeffizienten übersetzen
+1. Lineares Gleichungssystem lösen
 
 - Abzissenachse: $x$-Achse
 - Ordinatenachse: $y$-Achse

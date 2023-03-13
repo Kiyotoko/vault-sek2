@@ -1,4 +1,4 @@
-## Quadratische Ungleichungen
+# Quadratische Ungleichungen
 
 Die wichtigste aller Ungleichungen ist $x^2\geq0$.
 - $\frac{a+b}{2}\geq\sqrt{a*b}$
@@ -6,7 +6,7 @@ Die wichtigste aller Ungleichungen ist $x^2\geq0$.
 - $a^2+b^2\geq 2ab$
 - $\frac{a^2+b^2}{2}\geq ab$
 
-## Harmonische Ungleichungen
+# Harmonische Ungleichungen
 
 $\min(a,b)\leq\frac{2}{\frac{1}{a}+\frac{1}{b}}\leq\sqrt{a*b}\leq\frac{a+b}{2}\leq\frac{\sqrt{a^2+b^2}}{2}\leq\max(a, b)$
 

@@ -1,4 +1,4 @@
-## Aufbau
+# Aufbau
 
 - Kern
 - Strahlungszone
@@ -7,7 +7,7 @@
 - Chromosphäre
 - Korona
 
-## Energietransport der Schalen
+# Energietransport Der Schalen
 
 In der innersten Zone herrscht extremer Druck. Dort findet die Kernspaltung und Energiegewinnung statt.
 
@@ -15,7 +15,7 @@ Die im Kern freigesetzte Energie wird in der Strahlungszone in einer fortlaufend
 
 In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen wieder ihre Hüllenelektronen anlegen können. Dabei wird Energie frei.
 
-## Massendefekt
+# Massendefekt
 
 -   Der Massendefekt der Sonne bezieht sich auf den Umstand, dass bei der Kernfusion von Wasserstoffatomen in der Sonne zu Helium ein Teil der Masse verloren geht.
 -   Dieser verlorene Massteil wandelt sich in Energie um, die in Form von Licht und Wärme von der Sonne abgestrahlt wird.
@@ -23,11 +23,11 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 -   Die Energie, die durch den Massendefekt freigesetzt wird, treibt die Kernfusion in der Sonne an und ermöglicht es ihr, über einen langen Zeitraum von Milliarden von Jahren Licht und Wärme abzustrahlen.
 -   Der Massendefekt ist ein wichtiger Bestandteil der Theorie der Sterne und erklärt, wie Sterne über lange Zeiträume Energie produzieren können.
 
-## Spektralklassen
+# Spektralklassen
 
 ![Spektralklassen](../Working%20Materials/Sonne/Spektralklassen.png)
 
-## Leuchtkraftklassen
+# Leuchtkraftklassen
 
 ~~~
 	  3 2 1 7 6 4 3	  K 10E3	
@@ -55,7 +55,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 	- 9: Besetzungsgebiet *Weiße Zwergsterne*
 	- 10: Besetzungsgebiet *Rote Riesensterne*
 
-## Strahlunge (Spektren)
+# Strahlunge (Spektren)
 
 ![Wellenlänge](../Working%20Materials/Sonne/Wellenlänge.png)
 

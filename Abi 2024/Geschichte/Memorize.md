@@ -1,4 +1,4 @@
-# Grundlegung einer Modernen Gesellschaft
+# Grundlegung Einer Modernen Gesellschaft
 
 ## Industrialisierung in England
 
@@ -24,12 +24,12 @@
 	- Eisenbahn
 	- Landwirtschaft
 
-## Wirtschaschaftsliberalismus oder Merkantilismus
+## Wirtschaschaftsliberalismus Oder Merkantilismus
 
 - **Aufgaben des Staates**
 	1. Angriffe von außerhalb Abwenden
-	2. Jedes Mitglied der Gesellschaft vor Unterdrückung schützen
-	3. Öffentliche Einrichtungen zu gründen und zu unterhalten
+	1. Jedes Mitglied der Gesellschaft vor Unterdrückung schützen
+	1. Öffentliche Einrichtungen zu gründen und zu unterhalten
 
 |                                  | Wirtschaftsliberalismus                            | Merkantilismus                                                                    |
 | -------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@
 
 ## Industrialisierung in Deutschland
 
-## Die „Soziale Frage“ an großstädtischen Ballungszentren
+## Die „Soziale Frage“ an Großstädtischen Ballungszentren
 
 ![Mann der Arbeit aufgewacht - AB2 - Schüler](Working%20Materials/Industiraliesierung/Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.pdf)
 
@@ -65,7 +65,7 @@
 - Fraktionen
 - Frage nach Territorium
 
-## Einheit und Freiheit in der Revolution
+## Einheit Und Freiheit in Der Revolution
 
 - **Äußere Problem**
 	- Druck der Straßen lässt nach

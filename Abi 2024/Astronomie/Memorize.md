@@ -39,7 +39,7 @@
 
 ## Begriffe
 
-### Kernbindungsenergie 
+### Kernbindungsenergie
 
 Um einen Kern in seine Bestandteile zu zerlegen, wird Energie benötigt. Umgekehrt wird bei der Zusammensetzung der einzelnen Kernteile genau diese Menge an Energie freigesetzt.
 
@@ -64,11 +64,11 @@ Die spontane Umwandlung eines Atomkerns in einen anderen Kern wird als natürlic
 
 ### $\gamma$-Strahlung
 
-### Ablenkung im Magnetfeld
+### Ablenkung Im Magnetfeld
 
-### Ablenkung im elektrischen Feld
+### Ablenkung Im Elektrischen Feld
 
-# Aufbau und Energie der Sonne
+# Aufbau Und Energie Der Sonne
 
 ## Unsere Sonne
 
@@ -113,13 +113,13 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 
 ## Licht
 
-### Arten von Spektren
+### Arten Von Spektren
 
 - **Kontinuierliches Spektrum**
 - **Absorptionsspektrum**
 - **Emissionsspektrum**
 
-### Spektrum der Sonne
+### Spektrum Der Sonne
 
 Absorpionslinienspektrum (Frauenhofer-Linien)
 - Schwarzkörperstrahlung der Photosphäre enthält alle Wellenlängen
@@ -136,17 +136,17 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 	- Temperatur $T$
 - $\sigma=5.6704*10^{-8}$
 
-### Strahlungsleistung der Sonne
+### Strahlungsleistung Der Sonne
 
 - Von der Energie, welche die Sonne abstrahlt, kommen Strahlen
 
 ## Temperaturen
 
-# Leben im Sonnensystem
+# Leben Im Sonnensystem
 
-## Aufbau des Sonnensystems
+## Aufbau Des Sonnensystems
 
-### Aufbau und grobe Struktur
+### Aufbau Und Grobe Struktur
 
 | Sterne | Planeten | Zwergplaneten | Monde  | Asterioiden |
 | ------ | -------- | ------------- | ------ | ----------- |
@@ -166,21 +166,21 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 	- Mit zunehmender „Entfernung“ vergrößert sich die Umlaufzeit
 	 - $T=c*\sqrt{a_1^3}=c*a_1^\frac{3}{2}$
 
-### Planetenbeobachtung - Siderische und synodische Umlaufdauer
+### Planetenbeobachtung - Siderische Und Synodische Umlaufdauer
 
 - Als *siderische*- Umlaufdauer eines Himmelskörpers bezeichnet man die Zeitspanne für einen vollständigen Umlauf (Revolution) in Bezug auf den Fixsternhintergrund. Für einen Planeten entspricht das seiner Umlaufdauer aus Sicht eines fiktiven Beobachters auf der Sonne.
 - Die *synodische*- Umlaufdauer eines Himmelskörpers ist die Zeitspanne zwischen den Zeitpunkten aufeinanderfolgender gleicher Stellungen bezüglich Erde und Sonne. Sie bestimmt sich also in Bezug auf die Blickrichtung Erde-Sonne.
 
-### Winkelgeschwindigkeit und Umlaufdauer der gleichförmigen Kreisbewegung
+### Winkelgeschwindigkeit Und Umlaufdauer Der Gleichförmigen Kreisbewegung
 
 $\omega=\frac{\varphi}{\Delta t}$
 $360^\circ=2\pi$
 $\omega=\frac{2\pi}{T}$
 $\frac{1}{T_{sid,u}}=\frac{1}{T_{sid,E}}+\frac{1}{T_{sid}}$
 
-## Voraussetzung für das Leben auf der Erde
+## Voraussetzung Für Das Leben Auf Der Erde
 
-### Was ist Leben?
+### Was Ist Leben?
 
 Ein Lebewesen kennzeichnet Reproduktion, Selbstorganisation, Energieumwandlung und Wechselwirkung mit der Umgebung.
 
@@ -188,7 +188,7 @@ Ein Lebewesen kennzeichnet Reproduktion, Selbstorganisation, Energieumwandlung u
 
 Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 
-### Merkmale des Lebens
+### Merkmale Des Lebens
 
 - Lebewesen stehen im Austauch mit ihrer Umwelt *Stoffwechsel, Energieumwandlung und Energieübertragung*
 - Lebewesen nehmen den Zustand ihrer Umwelt wahr (*Reizbarkeit*)
@@ -198,7 +198,7 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Lebewesen geben Informationen an ihre Nachkommen weiter (*Vererbung*)
 - Lebewesen steuern ihre Prozesse mit Signale (*Kommunikation*)
 
-## Lebensfreundliche Bedingungen im Sonnensystem
+## Lebensfreundliche Bedingungen Im Sonnensystem
 
 ### Bedingungen
 

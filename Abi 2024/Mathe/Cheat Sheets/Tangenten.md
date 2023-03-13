@@ -6,16 +6,16 @@
 # Tangenten
 
 1. Die Tangente ist eine Gerade ($y=mx+n$).
-2. Die Tangente hat mit dem Funktionsgrahen den Berührungspunkt gemeinsam.
-3. Im Berührungspunkt ist der Anstig der Tangente gleich dem Anstieg des Funktionsgraphen.
+1. Die Tangente hat mit dem Funktionsgrahen den Berührungspunkt gemeinsam.
+1. Im Berührungspunkt ist der Anstig der Tangente gleich dem Anstieg des Funktionsgraphen.
 
-## Zu Punkten und Parallelen
+## Zu Punkten Und Parallelen
 
 1. Ableitung bilden
-2. Berührungspunkt bilden
-3. $m$ berechnen
-4. $n$ berechnen
-5. Tangentengleichung angeben
+1. Berührungspunkt bilden
+1. $m$ berechnen
+1. $n$ berechnen
+1. Tangentengleichung angeben
 
 
 **Beispiel**
@@ -26,12 +26,12 @@ $$f(x)=x^2\quad x_0=2$$
 - $4=4*2+n\to n=-4$
 - $t(x)=4x-4$
 
-## Von externen Punkten
+## Von Externen Punkten
 
 1. Ableitung bilden
-2. Gedachter Berührungspunkt $A$ bilden
-3. Schnittpunkte $s$ bilden
-4. Tangentengleichung angeben
+1. Gedachter Berührungspunkt $A$ bilden
+1. Schnittpunkte $s$ bilden
+1. Tangentengleichung angeben
 
 **Beispiel**
 $f(x)=\dots$

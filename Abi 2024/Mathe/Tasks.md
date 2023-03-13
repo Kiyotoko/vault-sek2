@@ -1209,10 +1209,10 @@ Gesucht ist eine gazrationale Funktion 4. Grades, deren Graph im Punkt $P(0|0)$ 
 - $f''(x)=12ax^2+6bx+2c$
 
 1. $f(0)=0$
-2. $f(3)=27$$
-3. $f'(0)=0$
-4. $f''(0)=0$
-5. $f'(3)=0$
+1. $f(3)=27$$
+1. $f'(0)=0$
+1. $f''(0)=0$
+1. $f'(3)=0$
 
 - - -
 

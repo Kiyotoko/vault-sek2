@@ -24,8 +24,8 @@ Menschenbilder bilden sich aus der Gestaltung unseres Daseins, Dienen unserem Le
 
 - __Kränkungen des Menschen:__
 	1. heliozentrische vs. geozentrisches Weltbild
-	2. Abstammung des Menschen vom Tier vs. „Mensch als Krone der Schöpfung“
-	3. Der _ICH_ ist laut Freud __„nicht einmal Herr im eigenen Haus“__, sondern durch sein unterbewusstes _ES_ gesteuert.
+	1. Abstammung des Menschen vom Tier vs. „Mensch als Krone der Schöpfung“
+	1. Der *ICH* ist laut Freud __„nicht einmal Herr im eigenen Haus“__, sondern durch sein unterbewusstes *ES* gesteuert.
 ---
 ~~~mermaid
 graph TB
@@ -83,7 +83,7 @@ Der Mensch ist ein unbeschriebenes Blatt, welches er selbst beschreibt. Er ist n
 ---
 Für Sartre liegt die Verantwortung im Existenzialismus darin, sich selbst zu schaffen. Dabei soll man selbst dass erschaffen, was man schaffen möchte.
 
-# Fragen nach dem guten Handeln
+# Fragen Nach Dem Guten Handeln
 
 ## 2022-12-14
 

@@ -1,4 +1,4 @@
-## Aufbau
+# Aufbau
 
 - **Bestandteile**
 	- Atomhülle
@@ -9,11 +9,11 @@
 - Massenzahl = Protonen + Neutronen
 - Kernladungszahl = Protonen im Kern
 
-## Plasma
+# Plasma
 
 Plasma ist ein gasförmiger Zustand von Materie, in dem ein Teil der Atome oder Moleküle ionisiert wurden und somit freie Elektronen enthalten.
 
-## Radioaktivität
+# Radioaktivität
 
 Die spontane Umwandlung eines Atomkern in einen anderen Kern wird als natürliche Radioaktivität bezeichnet. Die entstehenden Folgekerne sind oft auch wieder radioaktiv. Es kann einen Zerfalssreihe entstehen.
 - $\alpha$ Strahlung
@@ -25,7 +25,7 @@ Die spontane Umwandlung eines Atomkern in einen anderen Kern wird als natürlich
 - $\gamma$ Strahlung
 	- Photonen
 
-## Kernfusion
+# Kernfusion
 
 Voraussetzung für die Kernfusion sind die Extrembedingungen im Sterninneren: Temperaturen von rund 15 Millionen Grad und Drücke von bis zu 300 Milliarden Atmosphären. In diesem Höllenfeuer kommen sich die Atomkerne derart nahe, dass sie die elektrische Abstoßung überwinden und zu größeren Kernen verschmelzen.
 
@@ -33,7 +33,7 @@ $^1_1H+^1_1H\to^2_1H+e^++\upsilon_e+1.19MeV$
 $^2_1H+^1_1H\to^3_2He+\gamma+5.49MeV$
 $^3_2He+^3_2He\to^4_2He+^1_1H+^1_1H+12.85MeV$
 
-## Berechnungen
+# Berechnungen
 
 $r=149.6*10^9m$
 $S=1367\frac{W}{m^2}$

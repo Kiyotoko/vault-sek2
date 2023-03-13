@@ -2,7 +2,7 @@
 
 ## Grenzwerte
 
-### Grenzwerte im Unendlichen
+### Grenzwerte Im Unendlichen
 
 - $f(x)=\frac{1}{x²+1}$
 	- $x$-Werte werden sehr klein $\to$ $y$-Werte nähern sich der $x$-Achse an
@@ -152,7 +152,7 @@ f(x)=sin(x)
 
 Funktion hat keinen Grenzwert.
 
-### Grenzwert an einer Stelle
+### Grenzwert an Einer Stelle
 
 Eine Funktion $f$, die beiderseits einer Stelle $x_0$ definiert ist, hat für $x\to x_0$ den GW $a$, wenn gilt $\lim\limits_{h\to 0}f(x_0+h)=a$ mit $h>0$ und $\lim\limits_{h\to 0}f(x_0-h)=a$ mit $h>0$.
 
@@ -171,7 +171,7 @@ $f(x)=\frac{2x+1}{x+1}$
 $\lim\limits_{x\to-1^{(+)}}-\infty$
 $\lim\limits_{x\to-1^{(-)}}\infty$
 
-### Ermitteln des GW durch die $h$-Methode
+### Ermitteln Des GW Durch Die $h$-Methode
 
 $f(x)=\frac{x²-4}{x-2}$
 $\lim\limits_{x\to2h\to0}\frac{(x+h)²-4}{(x+h)-2}=\frac{(2+h)^2-4}{(2+h)-2}=\frac{h²+4h}{h}=\frac{h(h+4)}{h(1)}=4$
@@ -187,7 +187,7 @@ $\lim\limits_{x\to2h\to0}\frac{(x+h)²-4}{(x+h)-2}=\frac{(2+h)^2-4}{(2+h)-2}=\fr
 - Eine Funktion $f$ ist in einem offenen Interfall definiert und $a$ eine beliebiege Stelle im Intervall
 - Die Funktione $f$ heißt an der Stelle $a$ stetig, falls:
 	1. GW an der Stelle $a$ exestiert
-	2. GW an der Stelle $a$ stimmt mit Funktionswert an der Stelle a überein
+	1. GW an der Stelle $a$ stimmt mit Funktionswert an der Stelle a überein
 - Ist entweder (1) oder (2) oder beide nicht erfüllt, ist die Funktion unstetig an der Stelle a.
 - Eine Funktion heißt stetig, wenn sie an jeder Stelle ihres DB stetig ist.
 
@@ -199,13 +199,13 @@ $\lim\limits_{x\to2h\to0}\frac{(x+h)²-4}{(x+h)-2}=\frac{(2+h)^2-4}{(2+h)-2}=\fr
 
 ## Ableitungen
 
-### Ableitung einer Funktion an einer Stelle
+### Ableitung Einer Funktion an Einer Stelle
 
 - Sekante: Schneidet an zwei Punkten
 - Passante: Schneidet an keinem Punkt
 - Tangente: Schneidet an einem Punkt
 
-### Lage von Tangenten an Funktionsgraphen
+### Lage Von Tangenten an Funktionsgraphen
 
 - Tangenten und Funktionsgraph haben nur den einen Berührungspunkt gemeinsam.
 - Die Tangente geht durch den geht durch den Punkt hindurch.
@@ -246,7 +246,7 @@ $f(x)=\frac{1}{4}x²\quad f'(x)=\frac{1}{2}x$
 - Durchschnittliche Änderungsrate: Anstieg der Sekante
 - Momentane Änderungsrate: Anstiege der Tangente
 
-### Durchschnittliche und Momentane Änderungsrate
+### Durchschnittliche Und Momentane Änderungsrate
 
 - Durchschnittliche Änderungsrate: Differenzenquotient
 - Momentane Änderungsrate: Differentialquotient (Ableitung)
@@ -263,7 +263,7 @@ Momentane Änderungsrate $x_0=2$
 $f'(x)=3x²-12x+8$
 $f'(2)=-4$
 
-### Funktionen mit Stellen, an denen keine Ableitung existiert
+### Funktionen Mit Stellen, an Denen Keine Ableitung Existiert
 
 - Bsp.: $f(x)=|x^2-1|$
 ~~~functionplot
@@ -284,7 +284,7 @@ von links bei $x=1$: $m-2$
 	- Dieser GW ist die Ableitung $f'(a)$ der Funktion $f$ an der Stelle $a$.
 	- Existiert der GW nicht, so heißt die Funktion nicht differenzierbar an der Stelle $a$.
 
-### Herleitung der Ableitungsregel für Potenzfunktionen
+### Herleitung Der Ableitungsregel Für Potenzfunktionen
 
 - Bsp.: $f(x)=x²$
 	- $f'(x_0)=\lim\limits_{h\to0}\frac{f(x_0+h)-f(x_0)}{h}$
@@ -334,7 +334,7 @@ g(x)=log(x)
 ~~~
 $\text{DB }x\in\mathbb{R}\quad\text{NSt: }x_N=1$
 
-### Ableitungsfunktionen mithilfe der Differentialrechnung
+### Ableitungsfunktionen Mithilfe Der Differentialrechnung
 
 Unter der Ableitungsfunktion einer Funktion $f$ versteht man die Funktion $f'$, welche der Zahl $x$ die Steigung der Tangente im Punkt $P(x|f(x))$ des Graphen $f$ zuordned.
 
@@ -355,8 +355,8 @@ f'(x)=x^2-2x-3
 ### Tangenten an Funktionsgraphen
 
 1. Die Tangente ist eine Gerade ($y=mx+n$).
-2. Die Tangente hat mit dem Funktionsgrahen den Berührungspunkt gemeinsam.
-3. Im Berührungspunkt ist der Anstig der Tangente gleich dem Anstieg des Funktionsgraphen.
+1. Die Tangente hat mit dem Funktionsgrahen den Berührungspunkt gemeinsam.
+1. Im Berührungspunkt ist der Anstig der Tangente gleich dem Anstieg des Funktionsgraphen.
 
 **Beispiel**
 $f(x)=x^2$
@@ -365,11 +365,11 @@ Gleichung der Tangente an $f(x)$ in $P(1|f(1))$
 
 1. y-Koordinate berechnen durch einsetzen der x-Koordinate in die Funktionsgleichung.
 	- $f(1)=1$ $\to$ $P(1|1)$
-2. Anstieg berechnen (1. Ableitung der Funktion)
+1. Anstieg berechnen (1. Ableitung der Funktion)
 	- $m$ berechnen: $f'(x)=x^2$, x in $f'(1)=2*1=2$
-3. $y=mx+n$
+1. $y=mx+n$
 	- $n$ berechnen: $1+2*1+n\quad n=-1$
-4. Tangentengleichung angeben
+1. Tangentengleichung angeben
 	- $y=2x-1$
 
 ~~~functionplot
@@ -380,14 +380,14 @@ f(x)=x^2
 g(x)=2x-1
 ~~~
 
-### Tangenten zur Parrallele
+### Tangenten Zur Parrallele
 
 Beispiel $f(x)=-x^2+x+4$. Parallel zur Geraden $g(x)=-x+1$ verläuft eine Tangente an die Funktion f. Ermittle eine Gleichung dieser Tangente.
 1. Ableitung von $f$: $f'(x)=-2x+1$
-2. $m=-1$ einsetzen: $-1=-2x+1\quad x=1$
-3. $y$ berechnen: $y=-(1)^2+1+4=4$
-4. $n$ berechnen: $4=-1*1+n\quad n=5$
-5. Tangentengleichung angeben
+1. $m=-1$ einsetzen: $-1=-2x+1\quad x=1$
+1. $y$ berechnen: $y=-(1)^2+1+4=4$
+1. $n$ berechnen: $4=-1*1+n\quad n=5$
+1. Tangentengleichung angeben
 	- $y=-x+5$
 
 
@@ -403,7 +403,7 @@ solve(...)
 tangentline(f(x), x, 3))
 ~~~
 
-### Tangenten zum Punkt
+### Tangenten Zum Punkt
 
 Beispiel $f(x)-\frac{1}{4}x^2$. Vom Punkt $Q(0|2)$ werden Tangenten an $f$ gelegt. Ermittle die Gleichung der Tangenten.
 
@@ -435,14 +435,14 @@ Gegeben ist die Funktion $f(x)=x^2-4$. Gesucht ist die Gleichung der Normalen am
 
 1. Ermittlung der y-Koordinate durch einsetzen der x-Koordinate in $f(x)$
 	- $f(1)=1²-4=-3$ => $P(1|-3)$
-2. Ermittlung des Anstiegs der Tangente im Punkt $P$.
+1. Ermittlung des Anstiegs der Tangente im Punkt $P$.
 	- $f'(x)=2x$
 	- $m_n=-\frac{1}{f'(x)}=-\frac{1}{2}$
-3. Einsetzen des Punktes und des Anstiegs in die allgemeine Geradengleichung.
+1. Einsetzen des Punktes und des Anstiegs in die allgemeine Geradengleichung.
 	- $y=mx+n$
 	- $-3=-\frac{1}{2}*1+n$
 	- $n=-2.5$
-4. Normalgleichung aufschreiben
+1. Normalgleichung aufschreiben
 	- $y=-\frac{1}{2}x-2.5$
 
 
@@ -455,7 +455,7 @@ graph LR
 normalline(f, x, s)
 ~~~
 
-## Eigenschaften von Funktionen
+## Eigenschaften Von Funktionen
 
 ### Achsen
 
@@ -468,7 +468,7 @@ normalline(f, x, s)
 Funktion $0$ setzen.
 $0=f(x)$
 
-#### Vielfachheit von NSt
+#### Vielfachheit Von NSt
 
 $f(x)=x^2-4$
 $0=x^2-4$
@@ -487,7 +487,7 @@ $x_1=1$
 Funktionsgraph berührt die $x$-Achse bei $x=1$. 
 → Extremstelle
 
-### Schnittpunkt mit der $Y$-Achse
+### Schnittpunkt Mit Der $Y$-Achse
 
 Bei der Funktion $0$ einsetzen.
 $y=f(0)$
@@ -591,7 +591,7 @@ $f''(x)=2$
 
 $0=2x-2\to x=1$
 
-#### Nachweis der Art des Extremus
+#### Nachweis Der Art Des Extremus
 
 - Minimum: $f''(x_E)>0$
 - Maximum: $f''(x_E)<0$
@@ -647,9 +647,9 @@ $f'''(\frac{1}{2})=6$
 
 Muster für die Lösung von Extremwertaufgaben
 1. Aufstellen einer Gleichung für die Größe, die einen extremalen Wert annehmen soll. (Hauptbedingung)
-2. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
-3. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
-4. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
+1. Formulieren der Nebenbedingungen (Gleichungen, die berücksichtigt werden müssen)
+1. Aufstellen der Zielfunktion durch Einsetzen der Nebenbedingung in die Hauptbedingung
+1. Ermitteln der Stelle, für die die Zielfunktion maximal oder minimal wird
 
 ## Steckbriefaufgaben
 
@@ -657,8 +657,8 @@ Bestimmen von ganzrationalen Funktionen anhand gegebener Eigenschaften
 = Umkehrung der Kurvendiskussion
 
 1. Gesuchte Funktionsgleichung in allgemeiner Form aufschreiben und die 1. und 2. Ableitung bilden.
-2. Gegebene Bedingungen in Gleichungen für die unbekannten Koeffizienten übersetzen
-3. Lineares Gleichungssystem Lösen
+1. Gegebene Bedingungen in Gleichungen für die unbekannten Koeffizienten übersetzen
+1. Lineares Gleichungssystem Lösen
 
 **Beispiel**
 Gesucht ist die Gleichung einer ganzrationalen Funktion 4. Grades, deren Graph im Nullpunkt des Koordinatensystems die Wendetangente mit der Gleichung y=x hat und in Punkt $P(2|4)$ die Steigung 0 hat.
@@ -667,10 +667,10 @@ Gesucht ist die Gleichung einer ganzrationalen Funktion 4. Grades, deren Graph i
 - $f''(x)=12ax^2+6bx+2c$
 
 1. $f''(x)=0$
-2. $f(0)=0$
-3. $f(2)=4$
-4. $f'(2)=0$
-5. $f'(0)=1$
+1. $f(0)=0$
+1. $f(2)=4$
+1. $f'(2)=0$
+1. $f'(0)=1$
 
 $$\begin{pmatrix*}[l]
   0=e \\
@@ -716,7 +716,7 @@ Eine Matrix ist eine Anordnung von Zahlen in Tabellenform. Matritzen werden mit 
 
 $\begin{pmatrix}a_{1,1}&a_{1,2}&\cdots&a_{1,n}\\a_{2,1}&a_{2,2}&\cdots&a_{1,n}\\ \vdots&\vdots&\ddots&\vdots \\ a_{m,1}&a_{m,2}&\cdots&a_{m,n}\end{pmatrix}$
 
-## Addition und Subtraction
+## Addition Und Subtraction
 
 Addition und Subtraktion von Matrizen ist nur möglich, wenn beide Matrizen denselben Rang haben. Man addiert beziehungsweise subtrahiert die einzelnen Elemente.
 
@@ -782,7 +782,7 @@ Setzt sich bei einem mehrstufigen Zufallsexperiment ein Ereignis aus verschieden
 **Beispiel**
 $P(X=1)=\frac{4}{12}*\frac{8}{12}+\frac{8}{12}*\frac{4}{12}=\frac{4}{9}$
 
-### Ziehen ohne Zurücklegen
+### Ziehen Ohne Zurücklegen
 
 Beim ziehen ohne Zurücklegen ändern sich in den folgenden Stufen des Zufallsexperimentes die Wahrscheinlichkeiten.
 

@@ -6,11 +6,11 @@ Wahlfreihei bedeutet, aus einer Menge von Optionen zu wählen. So das Beispiel H
 
 Freier Wille bedeutet etwas aus eigener Kraft und eigenem Antrieb ohne äußere Einflüsse selbst zu wollen. Wenn Herr Kauf lust hat, sich ein Eis zu holen, kann er sich ein Eis kaufen, oder es lassen.
 
-### Prüfen, ob eine Entscheidung „frei“ ist
+### Prüfen, Ob Eine Entscheidung „frei“ Ist
 
 1. Alternativen zur Wahl stehen
-2. Man selbst der Urheber der Entscheidung ist
-3. Wenn die Entscheidung autonom gefällt wird, durch anführen von Grübnden Prinzipen der Autonomie <-> Willkür oder Fremdbestimmung
+1. Man selbst der Urheber der Entscheidung ist
+1. Wenn die Entscheidung autonom gefällt wird, durch anführen von Grübnden Prinzipen der Autonomie <-> Willkür oder Fremdbestimmung
 
 ### Handlungsfreiheit and Willensfreiheit
 
@@ -18,7 +18,7 @@ Freier Wille bedeutet etwas aus eigener Kraft und eigenem Antrieb ohne äußere 
 - Willensfreiheit ist die Fähigkeit, selbst eine Entscheidung zu treffen.
 - Wahlfreiheit ist die Möglichkeit, zwichen verschiedenen Option wählen zu können.
 
-### Gibt es Willensfreiheit?
+### Gibt Es Willensfreiheit?
 
 - In einer Welt ohne freien Willen:
 	- Keine Freiheit führt zu keine Verantwortung
@@ -26,7 +26,7 @@ Freier Wille bedeutet etwas aus eigener Kraft und eigenem Antrieb ohne äußere 
 	- Niemand könnte verurteilt werden
 	- Es würde sich nichts ändern
 
-### Der freier Wille - eine Illusion?
+### Der Freier Wille - Eine Illusion?
 
 Da jeder Gene, Neuronen und Hormone habe, kann es folglich keine unabhängige Freiheit geben.
 Der Mensch glaubt, er hat einen freien Willen, der aber durch äußere Faktoren eingeschränkt ist. 
@@ -39,13 +39,13 @@ Hier kommt es zu einem Widerspruch, da ein Wille kaum frei als auch eingeschrän
 - __Schopenhauer:__
 	- Der Mensch unterliegt den Kausalgesetzen und besitzt somit keinen freien Willen.
 
-### Formen des Determinismus
+### Formen Des Determinismus
 
 - Determinierung durch Gott, alles ist durch Gott vorbestimmt, er weiß alles und alles ist durch ihn vorherbestimmt
 - Determinierung durch Naturgesetze, alles ist durch Naturgesetze geregelt, man kann nicht gegen sie verstoßen
 - Determinierung durch Kausalität, wenn man alle Variablen in der Vergangenheit bestimmen kann, ist auch die Zukunft determinierbar
 
-### Faktoren menschlichen Handelns
+### Faktoren Menschlichen Handelns
 
 - Die Antwort auf die Frage der rechtlichen und moralischen Schuld hängt von der Schuldfähigkeit ab. Also davon, ob die Willensfreiheit eingeschränkt ist oder nicht*
 - __Mögliche Determinanten:__
@@ -59,13 +59,13 @@ Hier kommt es zu einem Widerspruch, da ein Wille kaum frei als auch eingeschrän
 - (idealisierte) Konstruktion eines „neuen Menschen“ zum Vergleich bzw. Kritik in der Gesellschaft vorherrschender Menschenbilder
 - dienen zur eigenen Identitätsbildung
 
-### Der Mensch als Triebwesen
+### Der Mensch Als Triebwesen
 
 - Menschliche Rationalität hat Grenzen
 - Bewusstes > Bewusstes
 - Unbewusstes erhält mehr Bedeutung für kognitive Prozesse
 
-### Verhalten vs Handeln
+### Verhalten Vs Handeln
 
 |Verhalten|Handeln|
 |-|-|
@@ -74,7 +74,7 @@ Hier kommt es zu einem Widerspruch, da ein Wille kaum frei als auch eingeschrän
 |kommt bei Menschen, Tieren und Objekten vor|nur bei Menschen|
 |teilweise angeboren|vom Subjekt ausgehend, „Ich-Leistung“|
 
-### Der Mensch als Gehirnwesen
+### Der Mensch Als Gehirnwesen
 
 Die Wissenschaft kann nur materielle Korrelate zu den kognitiven Prozessen nachweisen, also Grundlagen zur Klärung zentraler philosophischer und psychologischer Fragen.
 - __„Social Brain“:__
@@ -85,15 +85,15 @@ Die Wissenschaft kann nur materielle Korrelate zu den kognitiven Prozessen nachw
 	- füllt die Lücke mit Kultur, und nimmt auch Opfer in Kauf, um Soziale Akzeptanz zu erlangen
 Das „Social Brain“ ist stets auf der Suche nach sozialer Akzeptanz, welches die Verweigerung dieser genau so wahrnimmt wie körperlichen Schmerz. 
 
-### Der Mensch als soziales Wesen
+### Der Mensch Als Soziales Wesen
 
 - Eine soziale Rolle ist ein Erwartungsbild, welches ein Individuum erfüllen soll.
 - Soziale Rollen besitzen den Vorteil, dass ein Erwartungsbild auch als Leitbild dienen kann. Stimmt dieses Leitbild nicht aber mit den eigenen Zielvorstellungen überein, kommt es zur Unzufriedenheit.
 Das Menschenbild des Homo Sociologicus beschreibt einen Menschen, der sich selbst mehreren verschiedenen Erwartungsbildern gegenüber sieht. Diese kann er und soll er bis zu einem gewissen Punkt erfüllen. Er kann selbst fließend zwischen mehreren Rollen wechseln. Diese Menschen sind spezialisiert 
 
-## Existenzialismus nach Jean-Paul Sartre
+## Existenzialismus Nach Jean-Paul Sartre
 
-### Grundlagen des Existenzialismus
+### Grundlagen Des Existenzialismus
 
 - behandelt Fragen der menschlichen Existenz
 - kongrete Existenz des Individuums und die daraus resultierende Problematik
@@ -118,7 +118,7 @@ Das Menschenbild des Homo Sociologicus beschreibt einen Menschen, der sich selbs
 	- bewusst sich in der Zukunft entwerfen
 - sich zu verändern
 
-### Essenz vor Existenz & Existenz vor Essenz
+### Essenz Vor Existenz & Existenz Vor Essenz
 
 <pre style="background-color:#3CB371;"><code class="vault" style="color:white;"><li>Existenz ist das reine Sein
 <li>Essens ist die Vorstellung</code></pre>
@@ -136,9 +136,9 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 	- Verantwortung betrifft alle Menschen
 	- Ich muss mir bewusst sein, dass mein Entwurf vom Menschen für alle Menschen gilt
 
-# Fragen nach dem guten Handeln
+# Fragen Nach Dem Guten Handeln
 
-## Wieso brauchen wir Normen?
+## Wieso Brauchen Wir Normen?
 
 ### Normen
 
@@ -164,7 +164,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 
 - Die Summe aller Handlungsanweisungen und Werte einer Gesellschaft. Moral wird allgemein als für die Gesellschaft förderlich anerkannt.
 
-## Warum wir moralisch handeln?
+## Warum Wir Moralisch Handeln?
 
 - Angst vor Strafe
 - ein „guter Mensch“ sein wollen
@@ -181,9 +181,9 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 → innere Verpflichtung
 → keine Betrachtung der Folgen
 
-##  Glücks- und Strebensethik
+## Glücks- Und Strebensethik
 
-### Glück ist nicht gleich Glück
+### Glück Ist Nicht Gleich Glück
 
 - **Zufallsglück**
 	- früher für positive und negative Ereignisse
@@ -195,7 +195,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 	- gute Stimmung / zufriedener Zustand
 	→ bedarf Leidensdruck und „Lebensklugheit“
 
-## Aristoteles - Das Wesen der Dinge
+## Aristoteles - Das Wesen Der Dinge
 
 - **Etelechie**
 	- die Kraft in einem Organismus, die seine Entwicklung lenkt
@@ -208,11 +208,11 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 1. Nur der Mensch besitzt Geist / Vernunft / Logos
 → dies muss er entwickel, dass der Logos sein wahres Wesen ist (vgl. entelechie)
 → laut Aristoteles ist seine Aufgabe mit seiner Vernunft die Welt zu erkennen
-2. Mensch einziges Wesen mit Sprache (durch den Logos)
+1. Mensch einziges Wesen mit Sprache (durch den Logos)
 → Sprache soll gerechtes und ungerechtes verdeutlichen
 → nur Mensch kann sich Vorstellungen machen von Recht und Unrecht
 
-### Aristoteles - Arten von Zielen
+### Aristoteles - Arten Von Zielen
 
 - Theorie (Lehre) und Praxis (Kunst) → Ziel
 → Handeln ist hierarchisch geordnet
@@ -220,7 +220,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - Höchstes Gut: die Glückseligkeit (eudaimonia)
 → Endziel / Selbstzweck / Selbstgenügsamkeit (wer sie besitzt ist zufriende / bedürfnislos)
 
-### Aristoteles - eudaimonia
+### Aristoteles - Eudaimonia
 
 - eudaimonia = Glückseligkeit
 → ursprünglich „äußeres Glück“ (Schönheit, Macht usw.)
@@ -235,7 +235,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 - ein solches Gut nennt man Glück → hier endet das Streben nach Zielen
 → jeder Mensch strebt nach Glück
 
-### Was sind Tugenden
+### Was Sind Tugenden
 
 - Eigenschaften (keine Affekte oder Fähigkeiten) das heißt erlernbar / trainierbar
 - Die Mitte zwischen Übermaß und Mangel
@@ -256,7 +256,7 @@ graph LR
 
 ## Arthur Schopenhauer
 
-### Zum Begriff des Mitleids
+### Zum Begriff Des Mitleids
 
 - **positiv**
 	- mit-leiden → Gefühl der Anteilnahme am Schmerz und Leid anerer
@@ -266,7 +266,7 @@ graph LR
 	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
 	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
 
-### Egoismus und Mitleid
+### Egoismus Und Mitleid
 
 Die Handlungsziele des Menschen sind in der Regel egoistisch
 - direkt egoistisch → unmittelbarer Eigennutz

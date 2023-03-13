@@ -1,6 +1,6 @@
-# Erwärmung und Cool-down
+# Erwärmung Und Cool-down
 
-## Sinn der Erwärmung
+## Sinn Der Erwärmung
 
 - Reduzierung von Verletzungen
 - Bessere Voraussetzung für einen optimale motorische Leistung
@@ -21,7 +21,7 @@
 	- Vorbereitung spezieller Muskulatur und Nervensystem
 - sportartenspezifisch
 
-## Psychologische Veränderungen im Erwärmungsprozess
+## Psychologische Veränderungen Im Erwärmungsprozess
 
 - Erhöhung der Puls- und Atemfrequenz
 - Verbesserte Durchblutung führt zur Erhöhung der Körpertemperatur
@@ -62,16 +62,16 @@
 Modell zum Ablauf und zur Regulation der Energiestoffwechselprozesse in der Muskulatur in Abhängigkeit von der Belastungsintensität
 1. __Anaerobe Schwelle__
 	* maximale Laktatgleichgewicht -> maximales Laktat-Steady-State
-2. __Aerob-anaerober Übergangsbereich__
+1. __Aerob-anaerober Übergangsbereich__
 	* zwischen den Stellen: Laktatbildung und Laktatabbau im Gleichgewicht
-3. __Aerobe Schwelle__
+1. __Aerobe Schwelle__
 	* an oder unterhalb: Energiegewinnung fast ausschließlich aerob
 
 *Optimaler Trainingspulz* 220 - Alter
 
-## Belastungsgrößen zur Trainingsgestaltung
+## Belastungsgrößen Zur Trainingsgestaltung
 
-## Arten von Ausdauer
+## Arten Von Ausdauer
 
 | Allgemeine Ausdauerfähigkeiten | Spezielle Ausdauerfähigkeiten          |
 | ------------------------------ | -------------------------------------- |
@@ -109,34 +109,34 @@ Modell zum Ablauf und zur Regulation der Energiestoffwechselprozesse in der Musk
 - Exzentrische Arbeit: Widerstände entgegenzuwirken
 - Isometrische  Arbeit: Widerstände in einer Position halten
 
-## Arten von Kraft
+## Arten Von Kraft
 
-1) Maximalkraft
+1. Maximalkraft
 	* größtmögliche Kontraktion
-2) Schnellkraft
+1. Schnellkraft
 	* in kurzer Zeit eine möglichst hohe Kraft zu erzeugen
-3) Kraftausdauer
+1. Kraftausdauer
 	* Arbeit über einen längeren Zeitraum zu verrichten
-4) Schnellkraftausdauer
+1. Schnellkraftausdauer
 	* Ermüdungswiderstand gegen unregelmäßig wiederkehrenden, kurze, schnelle Bewegung
-5) Relativkraft
+1. Relativkraft
 	* Verhältnis zwischen der Maximalkraft und dem Körpergewicht
 
-## Aufbau der Muskeln
+## Aufbau Der Muskeln
 
 1. Herzmuskelgewebe
-2. glatte Muskulatur
-3. quergestreifte Skelettmuskulatur
+1. glatte Muskulatur
+1. quergestreifte Skelettmuskulatur
 * __Skelettmuskulatur:__
 	* Nur die quergestreifte Skelettmuskulatur kann willkürlich durch das Zentralnervensystem angesteuert werden.
 	* Skelettmuskel bestehen aus vielen Muskelfaserbündeln
 	* Muskelfaserbündel bestehen aus vielen einzelnen Muskelfasern, die durch eine Gewebehülle zusammen gehalten werden
 * __Bestandteile:__
 	1. Muskel
-	2. Muskelfaserbündel
-	3. Muskelfaser
-	4. Myofibrille
-	5. Sarkomer
+	1. Muskelfaserbündel
+	1. Muskelfaser
+	1. Myofibrille
+	1. Sarkomer
 
 ## Hypertrophie
 
@@ -151,10 +151,10 @@ Ist der grundlegender Prozess des Muskelwachstums und damit auch der langfristig
 	- grundlegende Methode für das Krafttraining
 	- Verwendung eines submaximalen Gewichts (ca. 8-10 Wiederholung pro Satz )
 	- „meistens“ 3 Sätze einer Übung mit 90-120 sec Pause dazwischen
-2. __Supersätze__
+1. __Supersätze__
 	- Können zur Zeitersparnis dienen oder um das Training intensiver zu gestalten.
 	- Es werden zwei Übungen hintereinander durchgeführt. Anschließend erfolgt erst die Pause. (z.B. 3 Durchgänge mit jeweils 90-120 sec Pause)
 	- Es werden zwei Übungen kombiniert, die eine oder mehrere gemeinsame Muskelgruppen Trainieren
-3. __Pyramidentraining__
+1. __Pyramidentraining__
 	- Das Gewicht für die Übungen wird zwischen den Sätzen variiert, sodass in einer Trainingseinheit in verschiedenen Intensitätsbereichen trainiert wird.
 	- Durch ein Pyramidentraining entstehen durch die verschiedenen Belastungsintensitäten vielfältige Reize auf das neuro-muskuläre System.

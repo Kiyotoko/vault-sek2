@@ -7,7 +7,7 @@
 	-   Einige geologische Strukturen Europas setzen sich jenseits des Atlantiks nahezu unverändert fort (Bsp. Schottisches Gebirge – Appalachen).
 	-   Fossilien von wärmeliebenden Farnen wurden auf allen Südkontinenten, sogar in der Antarktis, entdeckt. Diese Gebiete müssen einst in wärmeren Regionen, näher am Äquator, gelegen haben.
 
-## Bewegung der Lithosphärenplatten
+## Bewegung Der Lithosphärenplatten
 
 | Divergente Plattenbewegung  | Konvergente Plattenbewegung  | Konservierende Plattenbewegung   |
 | --------------------------- | ---------------------------- | -------------------------------- |
@@ -30,4 +30,4 @@
 
 ![Wilson Zyklus](Working%20Materials/Vulkanismus/Wilson%20Zyklus.png)
 
-## Die Entstehung der Alpen
+## Die Entstehung Der Alpen

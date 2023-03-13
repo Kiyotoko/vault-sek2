@@ -102,13 +102,13 @@ $t_{1,2}= -\frac{v+-\sqrt{v² - 2sa}}{a}$
 ## 05.09.2022
 
 1. ${9cm, 9cm}$
-2. ${7cm, 7cm}$
-3. ${0cm, 12.5cm}$
-4. ${9cm, 13cm}$
+1. ${7cm, 7cm}$
+1. ${0cm, 12.5cm}$
+1. ${9cm, 13cm}$
 Der Ort ist die Strecke zum Zeitpunkt $t$, wohingegen der Weg die Differenzen der einzelnen Orte bis zum Zeitpunkt $t$ entspricht.
 ---
 1. ${20 \frac{km}{h}, 40 \frac{km}{h}}$
-2. ${26.66 \frac{km}{h}}$
+1. ${26.66 \frac{km}{h}}$
 ---
 
 ```functionplot
@@ -121,8 +121,8 @@ h(x)= x 10/60
 ```
 
 1. $17\frac{km}{h}$
-2. $20\frac{km}{h}$
-3. $5\frac{km}{h}$
+1. $20\frac{km}{h}$
+1. $5\frac{km}{h}$
 
 |Bezugsystem|Bahnhof|Zug|Fahrgast|Kind|
 |:-:|-|-|-|-|
@@ -132,15 +132,15 @@ h(x)= x 10/60
 |Kind|$-118\frac{km}{h}$|$7\frac{km}{h}$|$10\frac{km}{h}$|x|
 
 ---
-3. $a=\frac{\Delta v}{\Delta t}=\frac{130\frac{km}{h}-85\frac{km}{h}}{6s}=7.5\frac{\frac{km}{h}}{s}$
-4. $13.88\frac{m}{s^2} > 9.81\frac{m}{s^2}$
-5. 
+1. $a=\frac{\Delta v}{\Delta t}=\frac{130\frac{km}{h}-85\frac{km}{h}}{6s}=7.5\frac{\frac{km}{h}}{s}$
+1. $13.88\frac{m}{s^2} > 9.81\frac{m}{s^2}$
+1. 
 	1. Stillstand, schneller
-	2. vorwärts, schneller
-	3. rückwärts, konstant
-	4. rückwärts, schneller
-	5. vorwärts, langsamer
-	6. Stillstand, langsamer
+	1. vorwärts, schneller
+	1. rückwärts, konstant
+	1. rückwärts, schneller
+	1. vorwärts, langsamer
+	1. Stillstand, langsamer
 
 ## 19.09.2022
 
@@ -173,9 +173,9 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 	- $v=g*t=9.81\frac{m}{s}²*2,47s=24,23\frac{m}{s}$
 	- $t=\sqrt{\frac{2s/2}{g}}=\sqrt{\frac{30m}{9.81\frac{m}{s}²}}=\sqrt{3.06s²}=1.75s$
 	- $v=g*t=9.81\frac{m}{s}²*1,75s=17,17\frac{m}{s}$
-2. Höhe einer Brücke mithilfe eines Steins bestimmen.
+1. Höhe einer Brücke mithilfe eines Steins bestimmen.
 	- Lässt man den Stein von dem höchsten Punkt der Brücke fallen, und misst gleichzeitig die Zeit, die er braucht, bis er auf dem Wasser aufschlägt, kann man so mithilfe der Fallbeschleunigung Rückschlüsse über die Höhe ziehen.
-3. Kugel werfen
+1. Kugel werfen
 	- $t_s=\frac{v_0}{g}=\frac{6\frac{m}{s}}{9.81\frac{m}{s}^2}=0.61s$
 	- $h(t_s)=-\frac{1}{2}g*t_s²+v_0*t_s=-\frac{1}{2}9.81\frac{m}{s}^2*(0.61s)^2+6\frac{m}{s}*0.61s=1.83m$
 	- $5m=\frac{1}{2}\frac{v²}{g}$
@@ -187,7 +187,7 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 1. Freizeitsportler
 	- $t=\frac{10.4km}{0.8\frac{m}{s}+2.5\frac{m}{s}}=\frac{10400m}{3.3\frac{m}{s}}=3151.52s$
 	- $t=\frac{10.4km}{-0.8\frac{m}{s}+2.5\frac{m}{s}}=\frac{10400m}{1.7\frac{m}{s}}=6117.65s$
-2. Fähre
+1. Fähre
 	- $t=\frac{90m}{4\frac{m}{s}}=22.5s$
 	- $s=1.5\frac{m}{s}*22.5s=33.75m$
 	- $\alpha=\frac{1.5\frac{m}{s}}{4\frac{m}{s}}*90^\circ=33.75^\circ$
@@ -203,11 +203,11 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 ## 01.10.2022
 
 1. $v=\frac{2\pi r}{T}=\frac{2\pi 9m}{6.3s}=8.98m/s$
-2. $12000/min*125mm/2=720000*0.0000625km/h=45km/h\quad250km/h$
-5. Umlaufgeschwindigkeit Erde-Mond
+1. $12000/min*125mm/2=720000*0.0000625km/h=45km/h\quad250km/h$
+1. Umlaufgeschwindigkeit Erde-Mond
 	- $\omega=\frac{2\pi}{T}=\frac{2\pi}{27.32*24*60*60s}=2.66^{-6}\frac{1}{s}$
 	- $T=\omega*r=\omega*3.85*10^8m=1022.9m/s$
-7. Pkw
+1. Pkw
 	- $a_r=\frac{v^2}{r}=\frac{(\frac{40000m}{60*60s})^2}{75m}=0.016m/s^2$
 ---
 Die Radialbeschleunigung ist eine gleichmäßige, zum Zentrum hin beschleunigte Bewegung mit der Einheit $\frac{m}{s^2}$. Währenddessen ist die Winkelbeschleunigung der überschrittene Winkel in Relation zum Zentrum über eine gewisse Zeit mit der Einheit $\frac{1}{s}$.
@@ -366,7 +366,7 @@ $P=\frac{F*s*\cos{\alpha}}{t}=F*\frac{s}{t}*\cos{\alpha}=F*v*\cos{\alpha}$
 ---
 $1kWh=1000Wh=1000W*3600s=3.6e6J$
 
-### Schülerexperiment: Heben einer Masse
+### Schülerexperiment: Heben Einer Masse
 
 - **Aufgabe**
 	- Bestimme die Hebeleistung und den Wirkungsgrad des Aufzugs.
@@ -620,9 +620,9 @@ $m=2g$
 ## 2023-03-05
 
 1. 1 bis 3 in Reihenschaltung $0.33\mu F$
-2. 1 und 2 in Reihenschaltung, 2 und 3 in Parallelschaltung $3\mu F$
-3. 1 und 2 in Parallelschaltung, 2 und 3 in Reihenschaltung $1.5\mu F$
-4. 1 bis 3 in Parallelschaltung $0.67\mu F$
+1. 1 und 2 in Reihenschaltung, 2 und 3 in Parallelschaltung $3\mu F$
+1. 1 und 2 in Parallelschaltung, 2 und 3 in Reihenschaltung $1.5\mu F$
+1. 1 bis 3 in Parallelschaltung $0.67\mu F$
 - - -
 $C_1=22\mu F$
 $C_2=47\mu F$

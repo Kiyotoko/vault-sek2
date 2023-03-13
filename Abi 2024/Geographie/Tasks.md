@@ -1,4 +1,4 @@
-## 2022-09-09
+# 2022-09-09
 
 - **Sichere Gebiete:**
 	- Europa
@@ -15,7 +15,7 @@
 	- Äußerer Kern
 	- Innerer Kern
 
-## 2022-09-16
+# 2022-09-16
 
 - **direkte Methoden:**
 	- Tiefenbohrungen
@@ -35,12 +35,12 @@
 - **Diskontinuität:**
 	- Grenzfläche zwischen einzelnen Schichten der Erde, an der sich die Ausbreitungsgeschwindigkeit von Erdbebenwellen sprunghaft ändert
 
-## 2022-09-23
+# 2022-09-23
 
 Erklären Sie den geodynamischen Prozess der Isostasie und seine Wirkung auf das Verhalten der Lithosphäre. Überlegen Sie sich - gern in Partner oder Gruppenarbeit - ein ganz vereinfachtes Experiment zur Demonstration dieses Prozesses. Bringen Sie alle Utensilien am kommenden Freitag mit in den Unterricht.
 - Die Isostasie ist der geologische Gleichgewichtszustand zwischen den Massen der Erdkruste und dem darunter befindlichen Erdmantel.
 
-## 2022-09-30
+# 2022-09-30
 
 - **Sumatra** 
 	- liegt zwischen der Indisch-Australischen Platte und der Chinesichen Platte
@@ -58,15 +58,15 @@ Die Platten treiben dabei durch den Plattenzug aufeinander zu. An der Subduktion
 
 Allerdings haben die beiden Platten sich ineinander verhakt sodass sie gestoppt werden, dennoch schieben die Platten kontinuierlich weiter. Folglich baut sich an den blockierten Stellen im Laufe der Jahre eine enorme Spannung auf, bis der Untergrund reißt und die verhinderte Bewegung nachgeholt wird. Die Entladung erfolgt schlagartig in Form eines Erdbebens.
 
-## 2022-11-04
+# 2022-11-04
 
 Die Atlantische Platte ist zurzeit Divergent und dehnt sich weiter aus. Sie wird weiter wachsen, wird schwerer, bis sie zu schwer wird und einsinkt.
 
-## 2022-11-17
+# 2022-11-17
 
 Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. Aufgrund von *Konvektionsströmen* im Erdinneren, die große Gesteinsumwälzungen darstellen, bewegen sich die *Arabische* und die *Afrikanische* Lithosphärenplatte angetrieben durch *Plattenschleppung* mit ca 1 cm pro Jahr voneinander weg. Dieser Prozess, der zum Öffnungsstadium des Wilson-Zyklus zuzuordnen ist, wird auch als *seafloor spreading* bezeichnet. Hierbei dringt durch die Druckentlastung entstehendes *Magma nach oben*, durchbricht die bereits vorhandene *ozeanische Kruste*, erstarrt und bildet somit neuen Ozeanboden. Das Rote Meer wird demnach immer *breiter*. Die kontinentale Lithosphäre entfernt sich deshalb immer weiter voneinander weg. Das Magma bahnt sich seinen Weg durch Risse und gelangt aufgrund seiner leichteren Dicht an die Oberfläche und bildet auf der Arabischen Platte vereinzelt *Vulkane*. Zudem sorgt die Divergenz für *Erdbeben*.
 
-## 2022-12-09
+# 2022-12-09
 
 - Magma steigt auf
 - Verwitterung
@@ -88,7 +88,7 @@ Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. A
 	- Chemische Sedimente, Salzgestein
 	- Biogene Sedimente, Torf
 
-## 2022-12-16
+# 2022-12-16
 
 - Granit (Plotonit)
 - Steinkohle (Biogene Sedimente)
@@ -106,14 +106,14 @@ Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. A
 
 Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im Erdinneren sehr langsam ab, da es keine Wärme an die Oberfläche abgeben kann. Die lange Erstarrungszeit führt zu Kristallisation und zu einer großen Härte. Ein gutes Beispiel ist hierfür Granit.
 
-## 2023-02-09
+# 2023-02-09
 
 1. Kleinstorganismen sterben ab
-2. Bei einer tiefe von über 200 metern kommt keine Luft an das tote Organische → Verwest nicht
-3. Ton und Sand mischen sich unter dem Organischen Material → es entsteht das Erdölmuttergestein
-4. Unter dem Gewicht weiterer Sedimente nimmt der Druck und die Hitze des Erdölmuttergesteins zu
-5. Bei 80 bis 100 Grad brechen die Moleküle auseinander und bilden neue Verbindungen → Öl entsteht
-6. Das Erdöl wandert nach oben → Erdöllagerstätte entsteht
+1. Bei einer tiefe von über 200 metern kommt keine Luft an das tote Organische → Verwest nicht
+1. Ton und Sand mischen sich unter dem Organischen Material → es entsteht das Erdölmuttergestein
+1. Unter dem Gewicht weiterer Sedimente nimmt der Druck und die Hitze des Erdölmuttergesteins zu
+1. Bei 80 bis 100 Grad brechen die Moleküle auseinander und bilden neue Verbindungen → Öl entsteht
+1. Das Erdöl wandert nach oben → Erdöllagerstätte entsteht
 
 - - -
 

@@ -1,4 +1,4 @@
-## The Constitution
+# The Constitution
 
 - **System of checks and balances**
 	- each of 3 branches serves to control each other; power equally divided; all branches same amount of power
@@ -9,7 +9,7 @@
 	- 1791 to state the rights against governmental power
 	→ model for free world, helps together people that are known for diversity
 
-## Legislative Branch
+# Legislative Branch
 
 - **Bicameral legislature**
 	- congress → Senate and House of Representatives (balance of powers)
@@ -23,12 +23,12 @@
 
 - Process of making a law
 	1. write a bill
-	2. bill goes to a committee of experts
-	3. congress will have to discuss bill
-	4. congress votes
-	5. president must sign the bill or veto it
+	1. bill goes to a committee of experts
+	1. congress will have to discuss bill
+	1. congress votes
+	1. president must sign the bill or veto it
 
-## The president
+# The President
 
 - **Main Tasks**
 	- enforce and implement laws
@@ -42,7 +42,7 @@
 - **Cabinet**
 	- consists of 15 different departments, advises President
 
-## Judicial Branch
+# Judicial Branch
 
 - **Consists of judges and courts**
 	- Federal courts → decides cases concerning the US as a whole

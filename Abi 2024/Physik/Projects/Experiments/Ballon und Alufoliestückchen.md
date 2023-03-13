@@ -1,6 +1,6 @@
 - **Durchführung**
 	1. Reiben des Ballons an einem Stück Stoff,
-	2. Aluminiumkugeln auf die Ballonoberfläche gelegt.
+	1. Aluminiumkugeln auf die Ballonoberfläche gelegt.
 - **Beobachtung**
 	- Aluminiumkugeln bewegen sich vom Ballon weg.
 - **Erklärung**

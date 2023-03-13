@@ -1,21 +1,21 @@
 # Interpretation
 
-## Interpretation eines lyrischen Textes
+## Interpretation Eines Lyrischen Textes
 
 1. **Einleitung**
 	1. Einleitung mit Hinführung
-2. **Hauptteil**
+1. **Hauptteil**
 	1. Inhalt
-	2. Aufbau
-	3. Sprachliche Gestaltung
-	4. Lyrische Ich
-	5. Thema und Motive
-	6. Externe Deutungsaspekte
-3. **Schluss**
+	1. Aufbau
+	1. Sprachliche Gestaltung
+	1. Lyrische Ich
+	1. Thema und Motive
+	1. Externe Deutungsaspekte
+1. **Schluss**
 	1. Zusammenfassung
-	2. Fazit
+	1. Fazit
 
-## Metrum und Rhythmus
+## Metrum Und Rhythmus
 
 - Jambus \[X x\]
 - Trochäus \[x X\]
@@ -24,26 +24,26 @@
 
 # Erörterung
 
-## Erörterung eines literarischen Textes
+## Erörterung Eines Literarischen Textes
 
 1. **Einleitung**
 	1. Hinführung
-	2. Eckdaten zum Text, Autor, Thema, dargestellte Problematik
-	3. Arbeitshypothese
-2. **Textanalyse**
+	1. Eckdaten zum Text, Autor, Thema, dargestellte Problematik
+	1. Arbeitshypothese
+1. **Textanalyse**
 	1. Gedanklichen Aufbau
-	2. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen (Sprachliche Mittel, Autoritätsargument, Normatives Argument)
-	3. Hauptaussage unter Zuhilfenahme konkreter Zitate
-	4. gesellschaftlich-historischer Kontext
-3. **Erörterung**
+	1. Argumentationsstruktur darstellen, dabei auch Sprache und Stil untersuchen (Sprachliche Mittel, Autoritätsargument, Normatives Argument)
+	1. Hauptaussage unter Zuhilfenahme konkreter Zitate
+	1. gesellschaftlich-historischer Kontext
+1. **Erörterung**
 	-  These-Gegenthese-Modell oder Sanduhrmodell
 	- die eigene Position  begründet mit Beispielen darlegen
 	- schlüssiges Urteil bzw. einleuchtende, aus der Erörterung hervorgehende Schlussfolgerung
 	- treffen Gründe auf den Roman zu oder nicht?
 	- These → Argumente → Plausibilisierung
-4. **Schluss**
+1. **Schluss**
 	1. Wichtige Erkenntnisse zusammenfassen
-	2. Bezug auf Position
+	1. Bezug auf Position
 
 ## Sprach, Ausdruck & Zitate
 
@@ -89,7 +89,7 @@
 	- Mediationes de prima philosophia
 	- Candide, ou l'optimisme
 
-## Sturm und Drang
+## Sturm Und Drang
 
 - **Zeitliche Einordnung**
 	- 1765 bis 1790
@@ -178,7 +178,7 @@
 
 - Vereinfachte Darstellung komplexer Zusammenhänge
 
-## Das Organon Modell von Karl Bühler
+## Das Organon Modell Von Karl Bühler
 
 - Karl Bühler trug entscheidend zur Entwicklung zur Entwicklung der Psychologie in der ersten hälfte des 20. Jarhunderts bei.
 - Kommunikation ist der Austauch von Informationen

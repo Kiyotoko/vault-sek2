@@ -81,11 +81,11 @@
 * „Papyrusbrief“ ist ebenso Mitteulung einen eigens adressierten Empfänger mit einem bestimmten Inhalt des Textes (was), zu dem die Gestaltung des Textes (wie) hinzutritt, wie acuh der Absender (von wem) und der Adressat (für wen)
 * Daraus ergeben sich Fragestellungen an den Brieftext und der Aufbau von privaten Papyrusbriefen:
 	1. Wo beginnt und wo endet der Text? (Abgrenzungen, Gliederungshinweise, Präskript -> Adressaten, Grußformel, Postskript -> Grüße an Personen, Datum)
-	2. Wie hängt der Text zusammen? (Textstruktur)
-	3. Worum geht es? (Textinhalt, Themen, Textsorten)
-	4. Was wird bezweckt? (Funktionsweise)
+	1. Wie hängt der Text zusammen? (Textstruktur)
+	1. Worum geht es? (Textinhalt, Themen, Textsorten)
+	1. Was wird bezweckt? (Funktionsweise)
 
-## Dimensionen der Briefliteratur
+## Dimensionen Der Briefliteratur
 
 * Privat <-> Öffentlich
 * Informell <-> Formell
@@ -96,7 +96,7 @@
 * Im Praskript genannte Person als Primäradressat/explizite Nennung
 * Implizuerter Adressat aufgrund der Veröffentlichung der Öffentlichkeit
 
-## Autor Ich und Literarisches Ich
+## Autor Ich Und Literarisches Ich
 
 * __Plinusbriefe als Beispiel:__
 	* Vesuvaausbruch
@@ -123,4 +123,4 @@
 
 ## Interrogativpronomen
 
-## Indefinitpronomen 
+## Indefinitpronomen

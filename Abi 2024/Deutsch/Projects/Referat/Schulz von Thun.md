@@ -3,20 +3,20 @@
 ## Biografie
 
 1. Friedemann Schulz von Thun wurde 1944 geboren
-2. Er studierte in Hamburg Psychologie, Pädagogik und Philosophie
-3. machte sein Diplom 1971
-4. Promovierte 1973 bei Reinhard Tausch und Inghad Langer über Verständlichkeit bei der Wissensvermittlung
-5. Er machte 1975 eine Habilitation, welche ihn zu seiner Professsur für Pädagogische Psychologie in Hamburg von 1976 bis 2009 führte
-6. Gleichzeitig führ er Kommunikationstrainigs für Lehrer und Führungskräfte von 1971 bis heute durch
+1. Er studierte in Hamburg Psychologie, Pädagogik und Philosophie
+1. machte sein Diplom 1971
+1. Promovierte 1973 bei Reinhard Tausch und Inghad Langer über Verständlichkeit bei der Wissensvermittlung
+1. Er machte 1975 eine Habilitation, welche ihn zu seiner Professsur für Pädagogische Psychologie in Hamburg von 1976 bis 2009 führte
+1. Gleichzeitig führ er Kommunikationstrainigs für Lehrer und Führungskräfte von 1971 bis heute durch
 
 ### Preise
 
 1. 2001: Integrationspreis für die Verbindung von Wissenschaft und Alltagspraxis
-2. 2001: Großen Georg-Gottlob-Preis in Würdigung für sein Lebenswert
-3. 2005: Preis des Fachbereiches Psychologie der Universität Hamburg für herausragende Lehre
-4. 2009: Live Achievement Award der Deutschen Weiterbildungsbranche für sein Lebenswerk
+1. 2001: Großen Georg-Gottlob-Preis in Würdigung für sein Lebenswert
+1. 2005: Preis des Fachbereiches Psychologie der Universität Hamburg für herausragende Lehre
+1. 2009: Live Achievement Award der Deutschen Weiterbildungsbranche für sein Lebenswerk
 
-## Kommunikationsquadrat: Erläuterung an einem Beispiel
+## Kommunikationsquadrat: Erläuterung an Einem Beispiel
 
 - besteht aus Sender (mit vier Schnäbeln) und Empfänger (mit vier Ohren)
 - __Ebenen der Kommunikation:__
@@ -62,7 +62,7 @@
 	-   Wird fantasievoll und kreativ erlebt 
 	-   Unterhaltungen gestalten sich eher als Monolog
 
-## Stärken und Schwächen des Modells
+## Stärken Und Schwächen Des Modells
 
 Das Kommunikationsquadrat zeigt verschiedene Interpretationsmöglichkeiten vereinfachter verbaler Kommunikation. Da allerdings nur etwa 7% unserer Kommunikation verbal stattfindet, ist es unvollständig und nicht allgemein anwendbar.
 

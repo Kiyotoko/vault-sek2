@@ -3,11 +3,11 @@
 Funktion $0$ setzen.
 $0=f(x)$
 
-## Vielfachheit von NSt
+## Vielfachheit Von NSt
 
 Anzahl der Nullstellen.
 
-# Schnittpunkt mit der $y$-Achse
+# Schnittpunkt Mit Der $y$-Achse
 
 Bei der Funktion $0$ einsetzen.
 $y=f(0)$
@@ -79,7 +79,7 @@ $f''(x)=2$
 $0=2x-2\to x=1$
 $0\neq2$
 
-## Nachweis der Art des Extrems
+## Nachweis Der Art Des Extrems
 
 - Minimum: $f''(x_E)>0$
 - Maximum:$f''(x_E)<0$

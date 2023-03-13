@@ -1,6 +1,6 @@
-## Aktuelle Probleme
+# Aktuelle Probleme
 
 1. mangelhafte bis keine Erklärung
-2. kaum Fachkenntnisse
-3. Test sind unzureichend durchdacht
-4. unrealistische Zeitplanung
+1. kaum Fachkenntnisse
+1. Test sind unzureichend durchdacht
+1. unrealistische Zeitplanung

@@ -1,10 +1,10 @@
-## Bedeutung/Herkunft
+# Bedeutung/Herkunft
 
 - Mars wurde Mamars, Marspiter, latinisch Mavors und etruskisch Maris genannt
 - In den Nordeuropäischen Regionen: **Tyr → Tiw → Tuesday → Diestag**
 - Mars Silvanus war ursprünglich ein Vegetationsgott
 
-## Geschichte
+# Geschichte
 
 - war bekannt als **Kriegsgott**
 - galt auch als **Agrargottheit**
@@ -21,14 +21,14 @@
 - zu seinem Ehren errichtete Kaiser Augustus (**Gaius Octavius)** dem Mars Ultor einen Tempel für den Rächer des Mordes an Caesar
 - ![Mars Fresko](Mars%20Fresko.jpg)
 
-## Griechisch
+# Griechisch
 
 - das griechische Äquivalent war **Ares**
 - ![Ares](Ares.jpg)
 - die Geschichte des Gottes ist fast komplett an ihm angelegt
 - ![Stammbaum](Stammbaum.jpg)
 
-## Heutzutage
+# Heutzutage
 
 - der rote Planet **Mars** ist nach ihm benannt
 - wenn etwas einen eindeutig kriegerischen Zusammenhang hat, spricht man heute noch von „**martialisch**“

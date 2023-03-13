@@ -1,4 +1,4 @@
-# Handout 
+# Handout
 
 ## Schicht 2: Internetschicht
 

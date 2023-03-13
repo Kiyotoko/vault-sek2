@@ -6,11 +6,11 @@
 	- Titel bzw. Thema
 	- Historischer Kontext (Epochen)
 	- Einzelbild oder Bildreihe
-2. Erläuterung
+1. Erläuterung
 	- Funktion (religiös, aufklärend, propagandistisch, etc.)
 	- Eindruck
 	- Aussagen
-3. Vergleich
+1. Vergleich
 	- Gemeinsamkeiten
 	- Unterschiede
 

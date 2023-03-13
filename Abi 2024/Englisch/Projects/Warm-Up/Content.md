@@ -1,9 +1,9 @@
-## Introduction
+# Introduction
 
 - **Second Amendment**
 	- A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
 
-## Task
+# Task
 
 - **Material**
 	- Über die Themen diskutieren lassen
@@ -12,8 +12,8 @@
 	- [Con Guns](https://everytownlaw.org/report/nysrpa-v-bruen-founders-and-firearms/)
 	- [Statistics](https://www.bradyunited.org/key-statistics)
 
-## Linking Words
+# Linking Words
 
-## Vergleich
+# Vergleich
 
-## Abschluss
+# Abschluss

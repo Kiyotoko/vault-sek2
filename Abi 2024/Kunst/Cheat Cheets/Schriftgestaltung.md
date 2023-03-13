@@ -1,4 +1,4 @@
-## Schriftgestaltung
+# Schriftgestaltung
 
 - **Angewandte Kunst**
 	- Erklärung: Als angewandte Kunst bezeichnet man die Disziplinen der Kunst, die sich mit der Gestaltung von Alltagsgegenständen beschäftigen.
@@ -7,7 +7,7 @@
 	- Erklärung: Als freie Kunst bezeichnet man eine Disziplin, die keinerlei Regeln unterworfen ist.
 	- Beispiele: Grafitti
 
-## Grafik
+# Grafik
 
 - Definition: Grafik (von altgriechisch graphiké, „zeichnende/malende “), auch Graphik, ist im weitesten Sinn der Sammelbegriff für alle künstlerischen oder technischen Zeichnungen einschließlich Typografie und Computergrafik sowie deren manuelle drucktechnische Vervielfältigung. 
 - **Gestaltungsmittel**
@@ -31,4 +31,4 @@
 	- „Der Ritter vom Turn“ von Albrecht Dürer
 	- Albrecht Dürer: Selbstporträt
 
-## Künstlerselbstverständnis
+# Künstlerselbstverständnis
