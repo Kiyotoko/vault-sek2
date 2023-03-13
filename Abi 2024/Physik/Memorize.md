@@ -430,21 +430,37 @@ I(x)=(x/10)^2*10-10
 
 Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die Energie, die Für das Ummagnetisieren benötigt wird.
 
+## Magnetfeld von Elektromagneten
+
+![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
+
+Das Magnetfeld einer stromdurchflossenen Spule gleicht dem eines Stabmagneten. Im Inneren der Spule herrscht annähernd ein homogenes Magnetfeld.
+
 ## Magnetische Flussdichte
 
 Die magnetische Flussdichte einer Spule ist direkt proportional zur fließenden Stromstärke und der Windungszahl.
+- Formelzeichen $B$
+- Einheit $T=\frac{N}{Am}$
+
+Zusammenhang zwischen magnetischer Feldstärke $H$ und magnetischer Flussdichte $B=\mu_0\mu_rH$
 
 Die magnetische Flussdichte einer Spule ist indirekt proportional zur Länge der Spule.
 
+$B\sim\frac{1}{B}$
+
 Für die magnetische Flussdichte im Inneren einer langen, dünnen Spule gilt:
-$\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}$
+
+$B=\mu_0\mu_r\frac{N*I}{l}$
+- $N$ Windungszahl
+- $I$ Stromstärke
+- $l$ Spulenlänge
+- $\mu_r$ relative Permeabilität
+- $\mu_0$ magnetische Feldkonstante 
+
+$\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}=4\pi*10^{-7}\frac{Vs}{Am}$
 
 ## Helmholtz-Spulen-Paar
 
 Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
 
 ![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
-
-## Magnetfeld von Elektromagneten
-
-![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
