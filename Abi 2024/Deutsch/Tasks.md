@@ -1,4 +1,5 @@
 ## 2022-09-09
+
 - **Abschnitte**
 	- „Wahlspruch der Aufklärung“ Z. 1 - 10
 	- „Unmündigkeit“ Z. 11 - 35
@@ -11,7 +12,9 @@
 - Zwischen dem „öffentlichen Gebrauch“ und dem „Privatgebrauch“ besteht der Unterschied, das der öffentliche Gebrauch der Vernunft 
 - Ein aufgeklärtes Zeitalter ist bereits Aufgeklärt, währen ein Zeitalter der Aufklärung den Beginn und die Transformation der Aufklärung bedeutet.
 - Wir leben in einer Grauzone. Aufgeklärt sind wir, doch Aufklären tuen wir.- Wir leben in einer Grauzone. Aufgeklärt sind wir, doch Aufklären tuen wir.
+
 ## 2022-09-12
+
 - Neues Frauenbild
 - Wissenschaft statt Religion
 - Literatur und Bildung nimmt einen neuen Platz ein
@@ -21,7 +24,9 @@
 ---
 Die erste Deutungsmöglichkeit geht von einem Traum der Aufklärung aus, sodass sie durch den Traum Ungeheuer gebiert. Durch 
 Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Aufklärung den Ungeheuern Freiraum gegeben wird.
+
 ## 2022-09-20
+
 3. Beschreibe, wer sich während der Aufklärung gegen wen auflehnte und warum.
 	- Die Bauern lehnen sich gegen den Adel auf (Vgl. Z. 7 f.)
 	- Sie stellten Souveränitätsanspruch an und bildeten die neuen Grundsätze Vernunft und Freiheit (Vgl. Z. 10 f.)
@@ -84,6 +89,7 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	- Drama
 	- Briefromane
 	- Innerer Monolog
+
 ## 2022-09-23
 
 Im Gedicht „Prometheus“ von Johann Wolfgang von Goethe sieht das lyrische ich, hier Prometheus, die Götter als kümmerlich an, da sie es nicht Wert sind, geehrt zu werden. Er sieht die Götter als die Ärmsten an, da sie von den Opfersteuern und Gebetshauch der Menschen abhängig ist. Selbst hingegen sieht er sich als Schöpfer, da er Menschen nach *seinem* Bilde formt.
@@ -104,7 +110,9 @@ Das Gedicht „Prometheus“ ist in sofern für Sturm & Drang typisch, da es den
 Inhaltlich geht es darum, wie ein Jüngling in der Nacht seine Liebe trifft, und sie doch wieder am nächsten morgen verabschieden muss. Ein prägender Unterschied hierbei Inhaltlich ist, das in der ersten Fassung das Mädchen ihn noch bis zum Pferd begleitet.  Es enthält viele autobiographische Bezüge zu Goethes Leben und seiner Beziehung, so sind zum Beispiel Parallelen zu seiner Liebe Friederike Brion zu erkennen.
 Das Gedicht ist gegliedert in 4 Strophen mit jeweils 8 Versen. Dadurch bestimmen Gleichmaß und Klarheit den Aufbau und die äußere Form. Dieser entspricht auch die inhaltliche Gliederung: Dem Aufbruch in der Dämmerung folgen die Schilderung der bedrohlichen Natur bei Nacht und der frohen Erwartung. Ankunft und Liebesglück werden von Abschiedsschmerz und Dankbarkeit abgelöst, die die Trennung erleichtert. Auch das Reimschema ist durch Regelmäßigkeit gekennzeichnet, da die Verse durchweg mit Kreuzreimen enden, bei denen sich weibliche und männliche Endungen abwechseln.
 Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend wiegt schon die Erde“ (V. 3) oder „an den Bergen hing die Nacht“, die dem Leser das Geschehene besonders anschaulich und lebendig vermitteln sollen.
+
 ## 2022-11-01
+
 |Formulierung|Reihung|Steigerung|Gegensatz|
 |-|-|-|-|
 |Ein weiterer wichtiger Aspekt ist ...|\[x\]|||
@@ -115,6 +123,7 @@ Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend w
 |Besonders wichtig erscheint||\[x\]||
 
 ---
+
 |Erstes Signalwort|Zweites Signalwort|
 |-|-|
 |im Allgemeinen|im Besonderen|
@@ -128,6 +137,7 @@ Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend w
 |sowohl|als auch|
 
 ---
+
 |Formulierungsbastein|These|Argument|Gegenargument|Schlussfolgerung|
 |-|-|-|-|-|
 |Dagegen lässt sich aber einwenden, dass ...|||\[x\]||
@@ -149,6 +159,7 @@ Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend w
 Franz Kafka setzt mit seinen individuellen Eindrücken an. Es folgt die Argumentation, wieso Offenherzigkeit dem Schreiben sehr zuträglich ist. Er begründet den Gedanken des Kellerbewohners, der von allem isoliert ist, um besser einsam zu schreiben. Inhaltlich schließt er den Brief mit einer rethorischen Frage und einem Appel ab.
 
 ---
+
 |Jambus|Trochäus|Daktylus|Anapäst|
 |-|-|-|-|
 |verbot|Liebe|Daktylus|Paradies|
@@ -161,7 +172,9 @@ Trochäus
 Anapäst
 Daktylus
 Jambus
+
 ## 2022-11-15
+
 Als ich da
 Im Schatten sah,
 Ein Monster lag,
@@ -181,7 +194,9 @@ Nein, ich möcht' kein Schimmel sein.
 „Wir sperren Erik in den Schrank!“
 Doch, nein, nein, das fand Erik gar nicht fein,
 Nein, ich möcht' in keinem Schrank nicht sein.
+
 ## 2022-11-18
+
 1. Beschreiben Sie, warum die Schwarze Romantik auch als „Schauerromantik“ bezeichnet wird.
 	- Die Schwarze Romantik soll so unheimlich sein, dass dem Leser ein Schauer über den Rücken läuft.
 2. Beschreiben Sie, wodurch die „Mehrdeutigkeit der Welt“ in Hoffmanns *Sandmann* deutlich wird. Belegen Sie ihre Überlegungen an passenden Textstellen.
@@ -191,7 +206,9 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 	- Das Doppelgängermotiv
 	- Phantastik und Okkultus
 	- Leid, Tod und Gewalt
+
 ## 2022-11-28
+
 - erzählte Zeit
 	- Zeitspanne über die Berichtet wird
 - Erzählzeit
@@ -203,7 +220,9 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 	- erzählte Zeit > Erzählzeit
 - Zeitdehnung
 	- erzählte Zeit < Erzählzeit
+
 ## 2022-12-02
+
 |Figur|Zitatnummer|Funktion des Augenmotives|
 |-|-|-|
 |Clara|17,8,1|Erfreuend|
@@ -212,12 +231,16 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 |Coppelius|4,|Bedrohlich|
 |Coppola|16,11|Negativ|
 |Nathanael|5,12|Negativ|
+
 ## 2022-12-06
+
 Fassen wir die charakteristischen Merkmale der Sprache zusammen: 
 1. Sie ist genau umschriebenes Objekt in der Gesamtheit der verschieden gearteten Tatsachen der menschlichen Rede. Man kann sie lokalisieren in demjenigen Teil des Kreislauts, wo ein Lautbild Sich einer Vorstellung assoziiert. Sie ist der soziale Teil der menschlichen Rede und ist unabhänig Vom Einzelnen, welcher für sich allein sie weder schaffen noch umgestalten kann; sie besteht nur kraft einer Art Kontakt zwischen den Gliedern der Sprachwissenschaft. Andererseits muss das Individuum sie erst lernen, um das Ineinandergreifen ihrer Regeln zu kennen; das Kind eignet sie sich nur allmählich an. Sie ist so sehr eine Sache für sich, dass ein Mensch, der die Sprechfähigkeit verloren hat, die Sprache noch besitzt, sofern er die Lautzeichen versteht, die er vernimmt. 
 2. Die Sprache, vom Sprechen unterschieden, ist ein Objekt, das man gesondert ertforschen kann. Wir sprechen die toten Sprachen nicht mehr, aber wir können uns sehr wohl ihren sprachlichen Organismus aneignen. Die Wissenschaft von der Sprache kann nicht nur der andern Elemente der menschlichen Rede entraten, sondern sie ist überhaupt nur möglich, wenn diese andern 15 Elemente nicht damit verquickt werden. 
 3. Während die menschliche Rede in sich verschiedenartig ist, ist die Sprache, wenn man sie so abgrenzt, ihrer Natur nach in sich gleichartig: sie bildet ein System von Zeichen, in dem einzig die Verbindung von Sinn und Lautzeichen wesentlich ist und in dem die beiden Seiten des Zeichens gleichermaßen psychisch sind. [...]
+
 ## 2022-12-12
+
 - Hund
 - Tier
 - Lebewesen
@@ -243,7 +266,9 @@ Fassen wir die charakteristischen Merkmale der Sprache zusammen:
 ---
 2. „Die Verschiedenheit der Sprachen ist also aus einer kommunikativen Sicht heraus dysfunktional.“ Diskutieren Sie diese These auf Grundlage der Theorie Whorfs.
 - Sie ist nicht dysfunktional, da sie auch das Weltbild, die Geschichte und die Wichtigkeit vermittelt.
+
 ## 2022-12-16
+
 E.T.A. Hoffmann (1776-1822) war ein deutscher Autor, Komponist und Anwalt, der für seine Fantasy- und Horrorgeschichten sowie seine Beiträge zur Musik bekannt war. Er wurde in Königsberg, Preußen (heute Kaliningrad, Russland) geboren und studierte Rechtswissenschaften an der Universität Königsberg, bevor er als Referendar und schließlich als Richter tätig war.
 
 Hoffmann ist vor allem für seine Geschichten über das Übernatürliche und das Groteske bekannt, die oft Elemente von Satire und Ironie enthielten. Zu seinen berühmtesten Werken zählen „Der Sandmann“, „Der goldene Topf“ und „Der Nussknacker und der Mäusekönig“, die die Grundlage für das berühmte Ballett bildeten. Er war auch ein produktiver Komponist, und seine Musik wird noch heute aufgeführt.
@@ -276,17 +301,23 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 3. Einordnung in die Romantik
 4. Aufnahme der Oberstufe
 5. Ungenau
+
 ## 2023-01-06
+
 |Zeitperspektive|Maßnahmen|
 |-|-|
 |Kurzfristig|Vorbildfunktion von Politiker, Medien und allen Menschen von eminenter Bedeutung|
 |Mittelfristig|behutsame gesetzliche Regelungen|
 |Langfristig|humane politische Bildung|
+
 ## 2023-01-10
+
 |pro|con|
 |-|-|
 |Umstrittene Persönlichkeiten wird ihre Relevanz und Reichweite weggenommen|Freiheit in Meinungsäußerung und Forschung wird beschnitten|
+
 ## 2023-01-24
+
 - Paul Celan - Die Todesfuge
 	- Schwarze Milch
 	- Margarete
@@ -295,12 +326,15 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 	- Wir trinken, wir trinken
 	- Der Tod ist ein Meister aus Deutschland
 - - -
+
 |„wir“|„er“|
 |-|-|
 |Schwarze Milch|Blaue Augen|
 |Wir trinken, wir trinken|Margarete|
 |Schaufeln ein |Der Tod ist ein Meister aus Deutschland|
+
 ## 2023-01-27
+
 1. Erklären Sie den Titel des Gedichts.
 	- Das Gedicht heist „Inventur“, weil das lyrische Ich von der Prüfung seines Inventars spricht.
 2. Geben Sie an, was das lyrische Ich als Kostbarkeiten aufzählt
@@ -347,7 +381,9 @@ Dies ist mein PC,
 dies ist mein Laptop,
 dies ist mein Handy,
 dies ist meine RasberryPi.
+
 ## 2023-01-31
+
 1. Text mehrfach lesen und Wesentliches farbig markieren
 2. Außentextanalyse
 3. Positionierung zu Thesen
@@ -364,6 +400,7 @@ dies ist meine RasberryPi.
 5. Externer Bezug
 6. Kritik
 - - -
+
 |These aus Rezension|Pro|Contra|
 |:-|-:|-:|
 |Gegenwartsbezug|Rauchverbot|Science Fiction|
@@ -371,7 +408,9 @@ dies ist meine RasberryPi.
 |Erweckunsliteratur im Sinne von Wachrütteln|Systemkritik||
 |Genrevielfalt|Science Fiction||
 |Geschwistermärchen|Bezug aud Bruder und Schwester|Tod von Bruder und Schwester|
+
 - - -
+
 |Einleitung|Hauptteil|Schluss|
 |-|-|-|
 |Autorin von „Copus Delicti“ - Rezension zu Roman von C. Schmidt - Buchkritik|These: Die Kunst der Autorin|Provokation und klare Linie - eine Autorin misch sich ein - Fazit|
@@ -379,7 +418,9 @@ dies ist meine RasberryPi.
 ||These: sterile Figuren|
 ||These: Intention - Erweckunsliteratur?|
 ||„Corpus Delicti - Ein Prozess“: meine Position zu Thesen|
+
 ## 2023-02-03
+
 1. Z. 1 - 22
 2. Z. 23 - 28
 3. Z. 29 - 47
@@ -396,11 +437,15 @@ Beide Protagonisten sind miteinander Verheirate und älter. Die Beziehung ist im
 Ja, es kann der Trümmerliteratur zugeordnet werden, da es um die Erfahrungen und die Zerstörung nach dem Krieg geht.
 
 Mangelernährung führt auch nach Ende des Krieges zu Tod.
+
 ## 2023-02-07
+
 In der Kurzgeschichte werden die Zerstörung der Stadt als auch die Erfahrungen aus dem Krieg verarbeitet. Die Kurzgeschichte wurde 1950 veröffentlicht und gehört somit zur Literatur, die nach 1945 publiziert wurde.
 - - -
 Heinrich Bölls war selbst auf einer humanistischen Schule und 
+
 ## 2023-02-10
+
 - hölzerner Schaukel
 - winziger Sandkasten
 - schmaler Rasenstreifen
@@ -408,7 +453,9 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 - hinter einem Reihenhaus
 - Geschwister saßen eng umschlungen auf dem Brett der Schaukel
 - wohnten in einem Stall mit Hühnern, Enten und Schweinen
+
 ## 2023-03-07
+
 [Autonomie](Working%20Materials/Nachkriegszeit/Autonomie.pdf)
 
 Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden

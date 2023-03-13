@@ -1,5 +1,7 @@
 # Kinematik
+
 ## 31.08.2022
+
 $78*10^3kg$
 $23*10^{-4}m$
 $145*10^6s$
@@ -12,6 +14,7 @@ $145Ms$
 $79.2\mu A$
 $430MV$
 ---
+
 |Zahl|Zehn|Präfix|
 |:-|-|-:|
 ||$21*10^5$|$2.1MJ$|
@@ -27,11 +30,13 @@ $430MV$
 |$0.0000012m$|$12*10^{-7}$||
 
 ---
+
 |82000 g|0.0036 N|0.0000026 s|0.000000704 m|4800000000 J|
 |-|-|-|-|-|
 |82 kg|3.6 mN|2.6 \mus|704 nm|4.8 GJ|
 
 ---
+
 |F in $\mu N$|F in $mN$|F in $N$|F in $kN$|F in $MN$|
 |:-|-|-|-|-:|
 |1 000 000|1 000|1|0.001|0.000 001|
@@ -93,7 +98,9 @@ $0=t²+\frac{2tv}{a}+\frac{2s}{a}$
 $t_{1,2}= -\frac{v}{a} +- \sqrt{\frac{v}{a}² - \frac{2s}{a}}$
 $t_{1,2}= -\frac{v}{a} +- \sqrt{\frac{v²}{a²} - \frac{2sa}{a²}}$
 $t_{1,2}= -\frac{v+-\sqrt{v² - 2sa}}{a}$
+
 ## 05.09.2022
+
 1. ${9cm, 9cm}$
 2. ${7cm, 7cm}$
 3. ${0cm, 12.5cm}$
@@ -103,6 +110,7 @@ Der Ort ist die Strecke zum Zeitpunkt $t$, wohingegen der Weg die Differenzen de
 1. ${20 \frac{km}{h}, 40 \frac{km}{h}}$
 2. ${26.66 \frac{km}{h}}$
 ---
+
 ```functionplot
 ---
 disableZoom: true
@@ -111,6 +119,7 @@ f(x)= x 22/60
 g(x)= x 25/60
 h(x)= x 10/60
 ```
+
 1. $17\frac{km}{h}$
 2. $20\frac{km}{h}$
 3. $5\frac{km}{h}$
@@ -132,7 +141,9 @@ h(x)= x 10/60
 	4. rückwärts, schneller
 	5. vorwärts, langsamer
 	6. Stillstand, langsamer
+
 ## 19.09.2022
+
 $\frac{0.45\frac{m}{s}+0.75\frac{m}{s}}{2}=0.6\frac{m}{s}$
 $\frac{2.35\frac{m}{s}+2.75\frac{m}{s}}{2}=2.55\frac{m}{s}$
 ---
@@ -154,7 +165,9 @@ $-21\frac{m}{s}=-2.5\frac{m}{s²}*t$
 $t=\frac{-21\frac{m}{s}}{-2.5\frac{m}{s²}}=8.4s$
 ---
 $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
+
 ## 21.09.2022
+
 1. Sprung senkrecht nach unten.
 	- $t=\sqrt{\frac{2s}{g}}=\sqrt{\frac{60m}{9.81\frac{m}{s}²}}=\sqrt{6.12s²}=2,47s$
 	- $v=g*t=9.81\frac{m}{s}²*2,47s=24,23\frac{m}{s}$
@@ -168,7 +181,9 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 	- $5m=\frac{1}{2}\frac{v²}{g}$
 	- $v=\sqrt{5m*9.81\frac{m}{s^2}*2}=\sqrt{98.1\frac{m}{s}^2}=9.90\frac{m}{s}$
 	- $t=\frac{g}{v}=\frac{9.81\frac{m}{s}²}{9.90\frac{m}{s}}=0.99s$
+
 ## 22.09.2022
+
 1. Freizeitsportler
 	- $t=\frac{10.4km}{0.8\frac{m}{s}+2.5\frac{m}{s}}=\frac{10400m}{3.3\frac{m}{s}}=3151.52s$
 	- $t=\frac{10.4km}{-0.8\frac{m}{s}+2.5\frac{m}{s}}=\frac{10400m}{1.7\frac{m}{s}}=6117.65s$
@@ -178,11 +193,15 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 	- $\alpha=\frac{1.5\frac{m}{s}}{4\frac{m}{s}}*90^\circ=33.75^\circ$
 	- $v_{ges}=\sqrt{(1.5\frac{m}{s})²+(4\frac{m}{s})²+2(1.5\frac{m}{s})(4\frac{m}{s})\cos{33.75^\circ}}=\sqrt{2.25(\frac{m}{s})²+16(\frac{m}{s})²+12(\frac{m}{s})²*0.83}=5.31\frac{m}{s}$
 	- $t=\frac{90m}{5.31\frac{m}{s}}=16.95s$
+
 ## 25.09.2022
+
 1. Kind
 	- $t=\sqrt{\frac{2s}{g}}=\sqrt{\frac{5m}{9.81m/s²}}=0.73s$
 	- $v_0=\frac{s_x}{t}=\frac{6m}{0.73s}=8.22m/s$
+
 ## 01.10.2022
+
 1. $v=\frac{2\pi r}{T}=\frac{2\pi 9m}{6.3s}=8.98m/s$
 2. $12000/min*125mm/2=720000*0.0000625km/h=45km/h\quad250km/h$
 5. Umlaufgeschwindigkeit Erde-Mond
@@ -192,7 +211,9 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 	- $a_r=\frac{v^2}{r}=\frac{(\frac{40000m}{60*60s})^2}{75m}=0.016m/s^2$
 ---
 Die Radialbeschleunigung ist eine gleichmäßige, zum Zentrum hin beschleunigte Bewegung mit der Einheit $\frac{m}{s^2}$. Währenddessen ist die Winkelbeschleunigung der überschrittene Winkel in Relation zum Zentrum über eine gewisse Zeit mit der Einheit $\frac{1}{s}$.
+
 ## 2022-10-10
+
 ~~~functionplot
 ---
 bounds: [0,10,0,30]
@@ -202,8 +223,11 @@ f(x)=3x
 g(x)=2x+5.5
 h(x)=16.5
 ~~~
+
 # Dynamik
+
 ## 2022-11-14
+
 $\vec{p}=m*\vec{v}=150kg*1.2\frac{m}{s}=180\frac{kgm}{s}$
 $\vec{v}=\frac{m_1}{m_2}*v=\frac{150kg}{2500kgs}*1.2\frac{m}{s}*=0.072\frac{m}{s}$
 ---
@@ -219,7 +243,9 @@ $\vec{v}=\frac{\vec{p}}{m}=\frac{2.69kgm}{5972*10^{21}kgs}=4.52^{-25}\frac{m}{s}
 $m_0=12t$
 $v_0=25\frac{km}{h}$
 $\vec{p_0}=m_0*v_0=300\frac{tkm}{h}$
+
 ## 2022-11-19
+
 $m_1=2500kg$
 $v_1=50\frac{km}{h}$
 $m_2=800kg$
@@ -246,11 +272,15 @@ $v_1=3.1\frac{m}{s}$
 $v_2=-2.5\frac{m}{s}$
 $(m_1+5kg)*v_1=-(m_2+5kg)*v_2$
 $m_2=-(m_1+5kg)*\frac{v_1}{v_2}-5kg=-(78.8+5)*\frac{-2.5}{3.1}-5kg=62.58kg$
+
 ## 2022-11-28
+
 $m=1.1t$
 $l=500m$
 $s=10\%$
+
 ## 2022-12-10
+
 $d=20m$
 $v=30\frac{km}{h}=8.333\frac{m}{s}$
 $m=60kg$
@@ -264,7 +294,9 @@ $v=100\frac{km}{h}=27.777\frac{m}{s}$
 $r=2.5m$
 $a=\frac{v^2}{r}=\frac{(27.777\frac{m}{s})^2}{2.5m}=308.64\frac{m}{s^2}$
 $F=a*m=308.64\frac{m}{s^2}*7kg=\frac{2160.49kgm}{s^2}=2160.49N$
+
 ## 2022-12-14
+
 $m=5600kg$
 $g=9.81\frac{m}{s^2}$
 $h=250m$
@@ -281,7 +313,9 @@ $E_{pot}=E_{kin}*0.8$
 $m*g*h=\frac{m}{2}v^2*0.8$
 $2*g*h=v^2*0.8$
 $h=\frac{v^2*0.8}{2*g}=\frac{(30\frac{km}{h})^2*0.8}{2*9.81\frac{m}{s^2}}=\frac{(8.333\frac{km}{h})^2*0.8}{2*9.81\frac{m}{s^2}}=2.83m$
+
 ## 2022-12-19
+
 $m=50g=0.05kg$
 $s=10cm=0.1m$
 $D=100\frac{N}{m}$
@@ -316,7 +350,9 @@ Auf dem Diagramm ist die Kraft $F$ in Abhängigkeit von der Dehnung der Feder $s
 Der Graph der Feder 1 ist linear steigend, wohingegend Graph 2 nicht linear steigt. Beide Graphen beginnen im Koordinatenursprung. 
 Die Fläche unter dem Graphen beschreibt die Arbeit. Der Anstieg der Graphen beschreibt die Federkonstante $D$. Diese gibt an, wie viel Kraft aufgewendet wird, um die Feder um 1 cm zu dehnen (Beispiel Feder 1: $0.75\frac{N}{cm}$)
 Bei ca. 6.2 cm ist die Kraft, die von beiden Federn aufgewendet werden muss, gleich groß.
+
 ## 2023-01-04
+
 $h=40cm$
 $s=0.26m$
 $m=70kg$
@@ -329,7 +365,9 @@ $P=\frac{F*s*\cos{\alpha}}{t}=F*\frac{s}{t}*\cos{\alpha}=F*v*\cos{\alpha}$
 
 ---
 $1kWh=1000Wh=1000W*3600s=3.6e6J$
+
 ### Schülerexperiment: Heben einer Masse
+
 - **Aufgabe**
 	- Bestimme die Hebeleistung und den Wirkungsgrad des Aufzugs.
 - **Skizze**
@@ -354,7 +392,9 @@ $P=\frac{m*g*h}{s}=\frac{50kg*15m*8.81\frac{m}{s^2}}{25s}=294.3W$
 $F=1200N$
 $v=72\frac{km}{h}=20\frac{m}{s}$
 $P=\frac{1200N}{2}*20^2=24kW$
+
 ## 2023-01-08
+
 $s = m$
 $v = m/s$
 $a = m/s^2$
@@ -362,7 +402,9 @@ $a = m/s^2$
 $F = kg m/s^2$
 $E = kg m^2/s^2 \to W$
 $P = kg m^2 /s^3$
+
 ## 2023-01-09
+
 $\mu=0.05$
 $t=30s$
 $y=10\%$
@@ -417,7 +459,9 @@ $\frac{v_0^2}{2}=\frac{g*r}{2}+g*h$
 $v_0=\sqrt{gr+2gh}=22.15\frac{m}{s}=79.73\frac{km}{h}$
 
 Da auch die Reibung berücksichtigt werden musste, sollte die Mindestgeschwindigkeit etwas über $80\frac{km}{h}$ liegen. Somit stimmt die Aussage.
+
 ## 2023-01-11
+
 $a=-v^2/2s$
 $v=\sqrt{2*s*a}=\sqrt{2*s*\mu g}=8.71\frac{m}{s}$
 
@@ -447,7 +491,9 @@ $m_K*v_K=(m_K+m_H)v$
 $v=\sqrt{2*g*h}$
 $v_K=\frac{m_K+m_H}{m_K}v$
 $s=\sqrt{\frac{m_K}{D}}v_K=~~10.5m$
+
 ## 2023-01-15
+
 $m=1.1$
 $t=30s$
 $s=500m$
@@ -522,8 +568,11 @@ $\alpha=\arctan{St}=4.57^\circ$
 $E_{kin}={E_pot}$
 $\frac{m}{2}v^2=m*g*s*\sin{\alpha}$
 $s=\frac{v^2}{2g*\sin{\alpha}}=44.38m$
+
 # Elektrisches Feld
+
 ## 2023-01-30
+
 $N=\frac{Q}{e}=\frac{1C}{1.602*10^{-19}C}=6.24*10^{18}$
 
 $N=\frac{0.7C}{e}=4.36*10^{18}$
@@ -532,7 +581,9 @@ Die Ladung ist Negativ.
 $Q=4.9662*10^{-09}C$
 - - -
 Durch Reibung lädt sich der Ballon elektrisch auf (negativ). Die Haare werden mit der entgegengesetzten Ladung aufgeladen (positiv). Da beide verschieden aufgeladen sind, ziehen sie sich gegenseitig an.
+
 ## 2023-02-01
+
 $I=0.34A$
 $\Delta t=1s$
 $I=\frac{\Delta Q}{\Delta t}=\frac{N*e}{\Delta t}$
@@ -555,7 +606,9 @@ $N=\frac{Q}{e}$
 Interpretieren Sie dieses Feldlinienbild!
 - Die Darstellung zeigt ein inhomogenes Feldlinienbild. Sie laufen von einer positiv geladenen  Spitzen zur einer negativ geladenen Platte. Die Feldlinien treten immer senkrecht zur Oberfläche der Körper aus und ein. Eine positive Ladung erfährt tangential zu den Feldlinien eine Kraft.
 - An der Spitze sind die Feldlinien am dichtesten dargestellt. Deshalb ist dort die elektrische Feldstärke m größten. Im Vergleich zur Spitze verlaufen die Feldlinien an der Plattenmitte weniger dicht, also ist dort die Stärke des elektrischen Feldes dort geringer. An den Plattenrändern ist die Stärke des elektrischen Feldes dort am geringsten, da dort die Feldliniendichte auch am kleinsten ist.
+
 ## 2023-02-08
+
 $U=9V$
 $E=300\frac{V}{m}$
 $d=\frac{300\frac{V}{m}}{9V}=0.03m$
@@ -563,7 +616,9 @@ $d=\frac{300\frac{V}{m}}{9V}=0.03m$
 $d=6cm$
 $m=2g$
 ![Kräftegleichgewicht](Working%20Materials/Elektrisches%20Feld/Kräftegleichgewicht.png)
+
 ## 2023-03-05
+
 1. 1 bis 3 in Reihenschaltung $0.33\mu F$
 2. 1 und 2 in Reihenschaltung, 2 und 3 in Parallelschaltung $3\mu F$
 3. 1 und 2 in Parallelschaltung, 2 und 3 in Reihenschaltung $1.5\mu F$
@@ -580,7 +635,9 @@ $Q_2=C_2*U=470\mu C$
 $U_0=U_1+U_2$ ==Nacharbeiten==
 - - -
 $I=I_0*e^{-\frac{t}{\tau}}$ ==Nacharbeiten==
+
 ## 2023-03-08
+
 **Informationsgehalt des Feldlinienbildes**
 - Aus einem Feldlinienbild kann man entnehmen, ab sich die Magneten abstoßen und oder anziehen, und somit, ob beide Magnete gleich oder unterschiedlich gepolt sind
 - Die Stärke der Kraftwirkung wird quantitativ dargestellt

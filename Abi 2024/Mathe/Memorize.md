@@ -245,6 +245,7 @@ $m=\lim\limits_{h\to0}\frac{1/4(x+h)^2-1/4}{h}=\lim\limits_{h\to0}\frac{1/4(1+2h
 $f(x)=\frac{1}{4}x²\quad f'(x)=\frac{1}{2}x$
 - Durchschnittliche Änderungsrate: Anstieg der Sekante
 - Momentane Änderungsrate: Anstiege der Tangente
+
 ### Durchschnittliche und Momentane Änderungsrate
 
 - Durchschnittliche Änderungsrate: Differenzenquotient
@@ -282,6 +283,7 @@ von links bei $x=1$: $m-2$
 	- Eine Funktion heißt differenzierbar, an der Stelle a, falls der GW $\lim\limits_{x\to a}\frac{f(x)-f(a)}{x-a}$ existiert.
 	- Dieser GW ist die Ableitung $f'(a)$ der Funktion $f$ an der Stelle $a$.
 	- Existiert der GW nicht, so heißt die Funktion nicht differenzierbar an der Stelle $a$.
+
 ### Herleitung der Ableitungsregel für Potenzfunktionen
 
 - Bsp.: $f(x)=x²$
@@ -349,6 +351,7 @@ f'(x)=x^2-2x-3
 ~~~
 - Extremstellen von $f$ sind $\text{NSt}$ von $f'$
 - Ist $f$ monoton steigend/fallend, verläuft $f'$ oberhalb/unterhalb der $x$-Achse
+
 ### Tangenten an Funktionsgraphen
 
 1. Die Tangente ist eine Gerade ($y=mx+n$).
@@ -402,7 +405,6 @@ tangentline(f(x), x, 3))
 
 ### Tangenten zum Punkt
 
-
 Beispiel $f(x)-\frac{1}{4}x^2$. Vom Punkt $Q(0|2)$ werden Tangenten an $f$ gelegt. Ermittle die Gleichung der Tangenten.
 
 $m=f'(x_B)$
@@ -416,6 +418,7 @@ solve(f1(x)=(2-f(x))/(-x), x)
 tangentline(f(x), x, 2 sqrt(2))
 tangentline(f(x), x, -2 sqrt(2))
 ~~~
+
 ### Normale
 
 Die Normale steht senkrecht auf der Tangente. Damit gilt: $m_n=-\frac{1}{m_t}$.
@@ -451,6 +454,7 @@ graph LR
 ~~~js
 normalline(f, x, s)
 ~~~
+
 ## Eigenschaften von Funktionen
 
 ### Achsen
@@ -568,6 +572,7 @@ Für ganzrationale Funktionen gilt:
 - nur ungeradzahlige Exponenten: punktsymmetrisch zum Koordinatenursprung
 
 ### Extrempunkte / Extremstellen
+
 ~~~functionplot
 ---
 bounds: [-4, 4, -2, 2]

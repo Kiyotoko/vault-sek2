@@ -1,5 +1,7 @@
 Karl Zschiebsch
+
 ## Geschichtsausarbeitung
+
 1. Beschreiben Sie, wie sich das Vorparlament legitimierte (M1)!
 	- Die Heidelberger Versammlung, zu der 51 Demokraten und Liberale dazu gehörten, wählte deinen Siebener-Ausschuss. Der Siebene-Ausschluss lud ausgesuchte Persönlichkeiten zum Vorparlament ein. Das Vorparlament kam also durch eben dieses Siebener-Ausschusses zustande. Somit war das Vorparlament nicht durch die bestehende legale Ordnung, sondern allein durch die direkte Aktion, durch revolutionäre Handlung legitimiert.
 2. Ordnen Sie den Vorwurf, das Parlament sei nur eine „Quatschbude“ ein!

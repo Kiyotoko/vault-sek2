@@ -64,6 +64,7 @@ $-f(x)=f(-x)$
 ~~~functionplot
 f(x)=x^5+x^3+x
 ~~~
+
 # Extrempunkte / Extremstellen
 
 An Extremstellen gilt:

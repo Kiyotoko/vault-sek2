@@ -1,4 +1,5 @@
 # Funktionalgleichungen
+
 Finde alle Funktionen $f: R\in\mathbb{R}$ mit $a*f(ab)= f(b)$
 - $b=1$
 - $a - f(a) = f(1)$
@@ -34,8 +35,11 @@ Probe:
 - $a+2(-a)+-(-b-a)=b$
 - $a-2a+b+a=b$
 - $b=b$
+
 ## Involutionen
+
 <pre class="vault" style="background-color:#3CB371;"><code class="vault" style="color:white;">Funktionen mit $g(g(x)) = x$ heißen Involutionen</code></pre>
+
 |Beispiele|
 |-|
 |$g(x)=\frac{1}{x}$|

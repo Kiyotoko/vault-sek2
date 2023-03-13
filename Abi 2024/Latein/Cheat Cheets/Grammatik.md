@@ -1,4 +1,5 @@
 # Abkürzungen
+
 |Abkürzungen|Bedeutung|Anwendung|
 |-|-|-|
 |PPA|Partizip Perfekt Aktiv|schwimmend, laufend|

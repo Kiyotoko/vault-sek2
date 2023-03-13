@@ -28,6 +28,7 @@
 - ![Vier-Seiten-Modell](Vier-Seiten-Modell.png)
 
 ## Kommunikationsstile
+
 -   Der bedürftig-abhängige Stil 
 	-   „Dir gelingt alles immer viel besser ...“ 
 	-   Können Hilfe annehmen 

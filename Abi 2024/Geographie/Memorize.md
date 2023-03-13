@@ -1,4 +1,5 @@
 # Vulkanismus
+
 ## Plattentektonik
 
 - **Beweise für die Blattentektonik**:

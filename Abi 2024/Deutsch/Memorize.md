@@ -1,5 +1,7 @@
 # Interpretation
+
 ## Interpretation eines lyrischen Textes
+
 1. **Einleitung**
 	1. Einleitung mit Hinführung
 2. **Hauptteil**
@@ -12,13 +14,18 @@
 3. **Schluss**
 	1. Zusammenfassung
 	2. Fazit
+
 ## Metrum und Rhythmus
+
 - Jambus \[X x\]
 - Trochäus \[x X\]
 - Anapäst \[X x x\]
 - Daktylus \[x x X\]
+
 # Erörterung
+
 ## Erörterung eines literarischen Textes
+
 1. **Einleitung**
 	1. Hinführung
 	2. Eckdaten zum Text, Autor, Thema, dargestellte Problematik
@@ -37,13 +44,18 @@
 4. **Schluss**
 	1. Wichtige Erkenntnisse zusammenfassen
 	2. Bezug auf Position
+
 ## Sprach, Ausdruck & Zitate
+
 - Schreiben sie sachlich und unter Verwendung der literaturwissenschaftlichen Fachtermini! (z.B. Grundkonflikte, Motive, Themen, Rahmenhandlung, Epeisodion, Held – Antiheld,…)
 - Genaue Benennung des vorliegenden Textes: z.B. Auszug aus Interview, Essay-Ausschnitt,...
 - Vermeiden Sie im erörternden Hauptteil die Verwendung der 1.P.Sgl. (Ich bin der Meinung…), sondern formulieren Sie im unpersönlichen Stil (So ist anzunehmen…, Dafür spricht auch, dass…)
 - Verwenden Sie zu inhaltlichen Erläuterungen der literarischen Grundlage das Präsens! Bauen Sie wörtliche Übernahmen des vorliegenden Textauszugs oder Zitat in Ihren Satzbau ein. (Inhaltswissen aus dem zugrundeliegenden literarischen Werk können Sie nicht zitieren, da Ihnen dieses nicht vorliegt.)
+
 # Epochen
+
 ## Epochenzuordnung
+
 - **Chancen**
 	- Literatur ist an Entstehungsbedingungen geknüpft, deren Zeitraum man bestimmen kann, wobei Autoren mit verschiedenen Ansichten in literarichen Epochen und Strömungen einsortiert werden
 	- besonderes geprägte historische Zeiträume werden unter einer Periode zusammengafasst
@@ -53,7 +65,9 @@
 	- Personen lassen sich zu Epochen zuordnen, schon lange bevor die Epoche enstand, und wiederum andere, lassen sich gar keiner Epoche zuordnen
 	- Die Epochen der Literatur decken sich nicht mit den bürgerlichen oder musikalischen Epochen
 	- Literarische Geschichte ist die Geschichte eines Landes, und ist nicht international vergleichbar
+
 ## Aufklärung
+
 - **Zeitliche Einordnung**
 	- 1720 bis 1800
 - **Themen und Motive**
@@ -74,7 +88,9 @@
 	- Nathan der Weise
 	- Mediationes de prima philosophia
 	- Candide, ou l'optimisme
+
 ## Sturm und Drang
+
 - **Zeitliche Einordnung**
 	- 1765 bis 1790
 - **Themen und Motive**
@@ -92,7 +108,9 @@
 	- Urfaust
 	- Prometheus
 	- Sturm und Drang
+
 ## Weimarer Klassik
+
 - Zeitliche Einordnung
 	- 1786 bis 1832
 - Themen und Motive
@@ -112,7 +130,9 @@
 - Werke
 	- Faust I
 	- Maria Stuart
+
 ## Romantik
+
 - Zeitliche Einordnung
 	- 1793 - 1848
 - Zeitgeschichtliche Hintergründe
@@ -140,22 +160,32 @@
 	- „Hymnen an die Nacht” Novalis
 	- „Der Sandmann” E.T.A. Hoffmann
 	- „Frankenstein” Mary Shelley
+
 # Sprachwissenschaftliche Modelle
+
 - Verständnis Erhalten
 - Text untersuchen
 - Eigene Position entwickeln
 - Gliederung Erstellen
 - Klausur erstellen
 - Klausur überarbeiten
+
 ## Kommunikation
+
 - Austausch von Informationen
+
 ## Modell
+
 - Vereinfachte Darstellung komplexer Zusammenhänge
+
 ## Das Organon Modell von Karl Bühler
+
 - Karl Bühler trug entscheidend zur Entwicklung zur Entwicklung der Psychologie in der ersten hälfte des 20. Jarhunderts bei.
 - Kommunikation ist der Austauch von Informationen
 
 # Nachkriegszeit
+
 ## Heinrich Böll
+
 - Geboren am 17 Dezember 1917 in Köln
 - Verstarb am 16 Juli 1985

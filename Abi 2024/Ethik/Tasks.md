@@ -1,5 +1,7 @@
 # Freiheit
+
 ## 2022-09-14
+
 Dietrich Dörner sieht den Menschen als komplexe Maschine an, die Entscheidungen aufgrund von Variablen trifft. Auch wenn der Mensch zugegebenermaßen seine Entscheidungen nicht aufgrund von 4 oder 5, sonder auf 1 000 oder 1 000 000 Variablen begründet ist, ändert dies nicht daran, dass alles, was man scheinbar frei tut, errechenbar ist.
 
 Schopenhauer vergleicht den Menschen mit einem leblosen Objekt. Natürlich kann man sagen, dass man etwas machen könnte, doch am Ende kommt es nur dann dazu, wenn die Vorraussetzungen erfüllt sind.
@@ -7,7 +9,9 @@ Schopenhauer vergleicht den Menschen mit einem leblosen Objekt. Natürlich kann 
 ---
 Wir sind nicht determiniert -> Also haben wir einen Freien Willen -> Kein Logischer Wille
 Wir sind determiniert -> Also sind wir determiniert zu denken
+
 ## 2022-09-21
+
 Der Kriminelle ist weder schuldig noch frei von schuld. Er ist durch seine Jugend beeinflusst, doch hatte er auch die Chance, das Ergebnis abzuwenden.
 
 ---
@@ -15,7 +19,9 @@ Nida-Rümelings Freiheitsbegriff geht von einer konstitutiven und bedingten Frei
 
 ---
 Menschenbilder bilden sich aus der Gestaltung unseres Daseins, Dienen unserem Leitbild und werden in unserer Lebensführung integriert.
+
 ## 2022-10-05
+
 - __Kränkungen des Menschen:__
 	1. heliozentrische vs. geozentrisches Weltbild
 	2. Abstammung des Menschen vom Tier vs. „Mensch als Krone der Schöpfung“
@@ -37,10 +43,14 @@ graph TB
 - __Über-Ich__
 	- Werte, Normen
 	- moralische Instanz
+
 ## 2022-10-12
+
 Das Beispiel hier ist exakt durch „Psycho Pass“ beschrieben: es werden Gewalttaten verhindert, bevor sie passieren können. Effektiv gesehen sorgt dies für die Ultimative Problemlösung: Probleme beheben, bevor sie aufkommen. Der Nachteil sind selbsterfüllende Prophezeiungen. Nur weil man bereit zu etwas ist, muss das Subjekt dies nicht auch durchführen.
 > „Wer Freiheit über seine Sicherheit stellt, ist ein Sklave.“
+
 ## 2022-11-02
+
 - Eine soziale Rolle ist ein Erwartungsbild, welches ein Individuum erfüllen soll.
 - Soziale Rollen besitzen den Vorteil, dass ein Erwartungsbild auch als Leitbild dienen kann. Stimmt dieses Leitbild nicht aber mit den eigenen Zielvorstellungen überein, kommt es zur Unzufriedenheit.
 ~~~mermaid
@@ -65,27 +75,42 @@ Das Menschenbild des Homo Sociologicus beschreibt einen Menschen, der sich selbs
 - Indoktrination
 - Lernen am Modell
 - Rollenwidriges Verhalten wird durch Sanktionen bestraft
+
 ## 2022-11-09
+
 Der Mensch ist ein unbeschriebenes Blatt, welches er selbst beschreibt. Er ist nicht durch die menschliche Natur oder eine Gott vorbeschrieben.
 
 ---
 Für Sartre liegt die Verantwortung im Existenzialismus darin, sich selbst zu schaffen. Dabei soll man selbst dass erschaffen, was man schaffen möchte.
+
 # Fragen nach dem guten Handeln
+
 ## 2022-12-14
+
 - Normen bilden sich im Leben
 - durch unsere Erziehung unterscheiden wir in gebotenem („du sollst“), erlaubten („du darfst“) und verbotenem („du darfst nicht“, „du sollst nicht“)
 - Normen beziehen wir mit der Zeit in unser eigenes Handeln mit ein und nutzen sie, um das Handeln anderer zu bewerten
+
 ## 2023-01-04
+
 Das Zufallsglück ist der Zufällig glückliche Ausgang aus einer Handlung. Die Vorraussetzung ist, eine Handlung getan zu haben.
 Das Wohlfühlglück beschreibt, wie viel Spaß wir haben, ob wir gesund sind. Die Vorraussetzung hierfür ist, mehr als Pflicht zu kennen und zu leben.
 Das Glück der Fülle beschreibt die Haltung zum Leben.
+
 ## 2023-01-04
+
 Das Leben als Wirken des rationalen Seelenteils ist dem Menschen eigen, da nur er bewusst denken kann, da alles andere, wie die Sinnesempfindung und das Leben an sich.
+
 ## 2023-01-18
+
 Aristoteles schränkt „Theorie der Mitte“ in sofern ein, dass die Mitte ein dynamischer Prozess ist, wo es keine direkte Mitte gibt, sondern sich diese Situationsabhängig heraus bildet. Die Theorie kann nicht auf Handlungen bezogen werden, die nicht abgestuft werden können oder schlecht per se sind, sowie irrationale Regungen.
+
 ## 2023-01-18
+
 Der aristotelischen Weg zur Tugend beginnt mit dem Habitus. Der Habitus bezieht sich dabei auf die Erziehung und den Erfahrungen, die jemand dabei macht. Abhängig hiervon 
+
 ## 2023-02-01
+
 - **Synonyme Mitleid**
 	- Anteilnahme
 	- Bedauern
@@ -113,7 +138,9 @@ Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzie
 „Mein Beileid.“
 „Meine Katze ist gestorben“
 „Und?“
+
 ## 2023-03-08
+
 Erläutere, was Schopenhauer unter Bosheit versteht.
 
 Bosheit ist, wenn ich selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich. Wenn jemand also ein Tier lebendig ausweidet und sich an dessen Leiden ergötzt, so ist dies Bosheit, da das Leiden nicht der Mittel zum Zweck ist, wie zum Beispiel möglichst einfach am Fleisch heran zu kommen, sondern der Zweck selbst.

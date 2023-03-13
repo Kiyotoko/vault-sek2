@@ -50,6 +50,7 @@
 	Bastarda
 
 ### Schreibschriften
+
 - wirken geschwungen
 - Beispiele
 	- Sütterlin

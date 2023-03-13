@@ -1,9 +1,12 @@
 ## 2022-09-07
+
 The pros of a lingua franca are, that people around the world can communacate with each other and learn new cultures with it. Because of the new ways of communication, a lingua fraca has become more important, for reading sientific papers that was published around the world, for example.
 cons: when you understand everyone, you can also understand Max, sometimes you don't want to understand Max, it can also
 
 The reasons for a Lingua Franca are, that the pop culture of the language spreads and more persons what to understand it. Another reason is colonization and wars. With the rise and fall of a nation, also the number of speakers increases.
+
 ## 2022-09-14
+
 |Lingua Franca|Time|Reasons for the spread of the language|
 |:-|-|-:|
 |French|Modern times|Nobility and Diplomacy|
@@ -23,7 +26,9 @@ But on the other hand, because of English, every two weeks a language dies. Engl
 Another point is, that we only learn traditional languages like French or German (l. 35 f.) rather then one of the most popular languages Chinese, Hindi or Urdu. 
 
 In conclusion, the author compares English with Latin; If the people speaking it don't start learning another language, the language will end up dying.
+
 ## 2022-09-21
+
 - Introduction (Basic Ideas: Author)
 - Should contain only the important information
 ---
@@ -42,7 +47,9 @@ In conclusion, the author compares English with Latin; If the people speaking it
 - Manfred
 	- had a dinner in a traditional chines restaurant
 	- was on sightseeing in china
+
 ## 2022-10-05
+
 1. Explain whether it makes sense to you to compare a future Venice to Machu Picchu.
 It makes sense, because Machu Picchu is a city without any citisens, and the citisens of Venice is going down each year. (From 120 000 to 50 000)
 2. State the problems mentioned in the video.
@@ -50,7 +57,9 @@ local services have transformed to tourist shops
 the cruising ships are a symbol of mass tourism
 3. Name the questions the Venetian woman was shocked by and think of a reason .
 tourist expects local buildings as museums
+
 ## 2022-10-12
+
 - __pros:__
 	- learn other cultures - japan
 	- brings a great experience - traveling alone in a country you never have heard before can give you completely new impressions
@@ -67,7 +76,9 @@ Learning the culture of other countries can be a great experience, if you can pa
 Your healthy matters. In Germany you have a top health support available and health insurance, but when you travel to another country,  the health care system is not always as developed or cheap as in Germany. For example, if you get food poisoned and are in Germany, you can easily get health support, which is paid by your health insurance. But if you are in the USA, you mast self pay for the health care .
 
 Everyone should travel and come around in the world. But traveling to often brings problems that you should be aware of, like paying for your living costs. 
+
 ## 2022-11-02
+
 	*Karl* May I help you?
 	
 	*Max* Yes, I am trying to get a new t-shirt from baba ganoush.
@@ -83,7 +94,9 @@ Everyone should travel and come around in the world. But traveling to often brin
 	*Karl* Than I have this t-shirt for you. It costs more than a Apple PC, and will perfectly fit your "good mass volume ratio" body. Of course, EVERY body is beautiful.
 	
 	*Max* What ...? No, thanks ... I guess I am just going to the baba ganoush shop.
+
 ## 2022-11-09
+
 - *Outline* focus on the main features
 - *Summarize* express the main points
 
@@ -93,7 +106,9 @@ Everyone should travel and come around in the world. But traveling to often brin
 - explain the revolutionary aspect of shopping
 - explain why people do not return there goods
 	- most do not return it, because it is so cheap that they think that it is easier to just keep it than return it
+
 ## 2022-12-14
+
 - German language is perfect language
 	- Schadensfreude
 	- Ohrwurm
@@ -108,7 +123,9 @@ Nearly 1 billion people can now speak English. Even if now 5 billion don't speak
 English is the most important language in the internet. If you already speak the most important language, why should you waste time on learning something less useful?
 
 In the end, I think that it would be easier if everyone would speak only English.
+
 ## 2023-01-11
+
 1. Give one or two examples of mass shootings in the U.S. (M1)
 	- In October, 2nd, 2017, opened a gunman fire on an open air festival from the 32nd floor of the Mandalay Bay hotel. 60 people were killed and more than 500 injured.
 2. State, which kind of people often carry out mass shootings. In your eyes, what could be done to prevent that? (M2)
@@ -141,7 +158,9 @@ In the end, I think that it would be easier if everyone would speak only English
  3. Conclusion
 	- repeat main points
 	- refer to audience again
+
 ## 2023-01-18
+
 - „cold grip of gun violence“ Line 5, Personification, humanization
 - „No one \[...\]“ Line 6 - 11, Anaphora, repetition
 - „\[...\] would never \[...\]“, Line 15 -23, Repetition, create emphasis
@@ -151,7 +170,9 @@ In the end, I think that it would be easier if everyone would speak only English
 2. Describe his body language.
 	- His body language is very calm and open. He looks around at all audiences and not only in the camera.
 	- He underlines important words with his hands.
+
 ## 2023-01-25
+
 - **Martin Sonneborn**
 	- he is a calm and satirical speeker
 	- remarkable words
@@ -178,7 +199,9 @@ Probleme hat jeder. Doch wie lösen wir sie? Hier kommt das Lobbyregister ins Sp
 Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unterschreiben Sie Petitionen und helfen Sie freiwilligen und unabhängigen Organisationen, wie „lobbypedia“ oder „ abgeordnetenwatch“ .
 
 Danke.
+
 ## 2023-02-08
+
 - „Despite all our differences ...“, line 11
 - „... that isn't ...“, line 17 following
 - - -
@@ -202,7 +225,9 @@ Another rhetorical device that Obama used was parallelism. For example, he said,
 Throughout his speech, Obama emphasized the importance of shared values, such as hard work, responsibility, and sacrifice. He said, "[...] with your help and God's grace, we will continue our journey forward [...]" By emphasizing that the change he sought could only happen with the help of his supporters, Obama showed that they shared a commitment to creating a better future for everyone.
 
 Overall, Obama's victory speech was a masterful display of rhetorical devices and messaging. By emphasizing shared values and reaching out to those who had not supported him, he was able to unite the country and inspire hope for a better future.“
+
 ## 2023-03-08
+
 - Title: Lana del Rey's Speech at the "Billboard Women in Music" event
 - Speaker: Lana del Rey's 
 - Where and when: at the "Billboard Women in Music" event in Los Angeles, March 1st 2023

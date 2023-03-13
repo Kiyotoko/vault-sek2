@@ -15,8 +15,8 @@ Sein Ziel ist es, modellhaft physikalische, biologische oder gesellschaftliche P
 	- [Bundestag](https://www.bundestag.de/besuche/kunst/kuenstler/haacke/haacke-198996)
 	- [Wiki](https://de.wikipedia.org/wiki/Der_Bev%C3%B6lkerung)
 
-
 ## 2022-11-15
+
 - __Der Künstler als Handwerker__
 	- Während des Mittelalters
 	- Der Künstler wurde nur als Handwerker gesehen

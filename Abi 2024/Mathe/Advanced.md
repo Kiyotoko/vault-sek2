@@ -48,6 +48,7 @@ Das gaußsche Eliminationsverfahren oder einfach Gauß-Verfahren ist ein Algorit
 	- $a+b+c=x\quad a+b+c=x$
 	- $a+b+c=x\quad b+c=x$
 	- $a+b+c=x\quad c=x$
+
 # Differenzialrechnung
 
 Die Differential- oder Differenzialrechnung ist ein wesentlicher Bestandteil der Analysis und damit ein Gebiet der Mathematik. Zentrales Thema der Differentialrechnung ist die Berechnung lokaler Veränderungen von Funktionen. Während eine Funktion ihren Eingabewerten nach tabellarischem Prinzip gewisse Ausgangswerte zuordnet, wird durch die Differentialrechnung ermittelt, wie stark sich die Ausgabewerte nach sehr kleinen Veränderungen der Eingabewerte ändern. Sie ist eng verwandt mit der Integralrechnung, mit der sie gemeinsam unter der Bezeichnung Infinitesimalrechnung zusammengefasst wird. 
@@ -110,6 +111,7 @@ Ungleichungen können umgekehrt werden $(T_1\leq T_2)\Leftrightarrow(T_2\geq T_1
 
 - Es ist $T_1 < T_2$ genau dann, wenn $T_1+T_3 < T_2+T_3$.
 - Es ist $T_1 < T_2$ genau dann, wenn $T_1-T_3 < T_2-T_3$.
+
 #### Multiplikation und Division
 
 - Aus $T_1<T_2$ folgt $-T_1>-T_2$.

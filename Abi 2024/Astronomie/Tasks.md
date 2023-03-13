@@ -63,6 +63,7 @@
 4. Die Photonen treffen immer auf Atomen, wobei sie Energie verlieren
 5. Konvektion ist ein Mechanismus zum Transport von thermischer Energie. Konvektion ist dadurch gekennzeichnet, dass die Wärmeübertragung durch den Transport von Teilchen bewerkstelligt wird, die thermische Energie mitführen. Die Granulation entsteht durch die Konvektion in einer der sichtbaren „Oberfläche“, der Photosphäre, untergelagerten Schicht. Dabei steigt heißes und damit hell leuchtendes Material aus dem Inneren des Sterns an die Oberfläche, dort erkaltet es und sinkt am Rand eines derartigen Stromes als dunkleres Material wieder zurück. Die Temperaturdifferenz beträgt 500 K. Damit ist die Granulation im Gegensatz zu den magnetischen Sonnenflecken ein rein thermisches Phänomen. Dabei zeigt sich die Granulation dadurch, dass die Oberfläche in viele kleine „Körner“ mit dunklen Abgrenzungsrändern unterteilt erscheint. Diese werden als Granulen bezeichnet. Die einzelnen Granulen haben Ausdehnungen von 500 bis 2000 km im Durchmesser und existieren für wenige Minuten.  
 6. Gravitation bezeichnet das physikalische Phänomen, dass Objekte mit Masse, also mit Gewicht, sich gegenseitig anziehen. Je größer die Masse, umso größer ist die Gravitation. Je weiter die Objekte voneinander entfernt sind, umso kleiner wird die Anziehungskraft. $F_G=G*\frac{m_1*m_2}{r^2}$
+
 ## 2022-12-14
 
 ![Spektralklassen](Working%20Materials/Sonne/Spektralklassen.png)

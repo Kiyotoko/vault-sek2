@@ -33,6 +33,7 @@
 - besteht aus Proton und Neutrinos
 
 ### Atomhülle
+
 - negativ geladen
 - besteht aus Elektronen
 
@@ -46,7 +47,9 @@ Um einen Kern in seine Bestandteile zu zerlegen, wird Energie benötigt. Umgekeh
 
 - Anzahl der Nukleonen, also der Protonen und der Neutronen eines Atoms
 - sie gibt damit annähernd die Atommasse in u(atomare Masseneinheit) an.
+
 ### Ordnungszahl
+
 - gibt die Anzahl Protonen im Atom an und bestimmt die Stellung des Elements im Periodensystem 
 Isotop:
 - Atome des gleichen Elements, die sich in ihrer Neutronenzahl unterscheiden
@@ -134,6 +137,7 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 - $\sigma=5.6704*10^{-8}$
 
 ### Strahlungsleistung der Sonne
+
 - Von der Energie, welche die Sonne abstrahlt, kommen Strahlen
 
 ## Temperaturen
@@ -197,5 +201,6 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 ## Lebensfreundliche Bedingungen im Sonnensystem
 
 ### Bedingungen
+
 - flüssiges Wasser
 - Kohlenwasserstoffverbindung

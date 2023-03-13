@@ -1,4 +1,5 @@
 # Deklination
+
 | |feminim|maskulin|neutrum|
 |-|-|-|-|
 |Nom.|a|us|um|
@@ -12,9 +13,13 @@
 |Dat.|is|is|is|
 |Akk.|as|os|a|
 |Abl.|is|is|is|
+
 ![Konsonantische Deklination](Working%20Materials/Konsonantische%20Deklination.png)
+
 # Konjugationen
+
 ## Regelmäßig
+
 |Person|a-Konjugation|e-Konjugation|i-Konjugation|
 |-|-|-|-|
 |1. PS. S.|Salut\[o\]|Gaude\[o\]|Veni\[o\]|
@@ -23,7 +28,9 @@
 |1. PS. P.|Saluta\[mos\]|Gaude\[mos\]|Veni\[mus\]|
 |2. PS. P.|Saluta\[tis\]|Gaude\[tis\]|Veni\[tis\]|
 |3. PS. P.|Saluta\[nt\]|Gaude\[nt\]|Veni\[nt\]|
+
 ## Unregelmäßig
+
 |Person|esse|ire|posse|
 |-|-|-|-|
 |1 PS. S.|sum|eo|possum|
@@ -32,14 +39,18 @@
 |1 PS. P.|sumus|imus|possumus|
 |2 PS. P.|estis|itis||
 |3 PS. P.|sunt|eunt|possunt|
+
 ## Kennzeichen
+
 |Tempuskennzeichen|Tempus|
 |:-|-:|
 |*-ba-*|Imperfekt|
 |*-v(i)-*|Perfekt|
 |*-era-*|Plusquamperfekt|
 |*-bi, bo, bu-*|Futur|
+
 ## *ferre* + Komposita
+
 |Verb|Bedeutung|
 |-|-|
 |afferre|herbeibringen|
@@ -47,14 +58,19 @@
 |auferre|wegbringen|
 |inferre|miteinbringen|
 |transferre|hinüberbringen|
+
 # Partizip
+
 |Partizip|Bedeutung|Beispiel|
 |-|-|-|
 |Partizip Perfekt Passiv|vorzeitig|als, nachdem|
 |Partizip Präsens Aktiv|gleichzeitig|als, während|
 |Partizip Futur Aktiv|nachzeitig|um zu|
+
 # Antike Briefliteratur
+
 ## Briefliteratur
+
 * __Briefarten:__
 	* Geschäftsbriefe
 	* Amtliche Briefe
@@ -68,21 +84,29 @@
 	2. Wie hängt der Text zusammen? (Textstruktur)
 	3. Worum geht es? (Textinhalt, Themen, Textsorten)
 	4. Was wird bezweckt? (Funktionsweise)
+
 ## Dimensionen der Briefliteratur
+
 * Privat <-> Öffentlich
 * Informell <-> Formell
 * Umgangssprachlich <-> poetisch-literarisch
+
 ## Adressaten - Plinusbriefe
+
 * Im Praskript genannte Person als Primäradressat/explizite Nennung
 * Implizuerter Adressat aufgrund der Veröffentlichung der Öffentlichkeit
+
 ## Autor Ich und Literarisches Ich
+
 * __Plinusbriefe als Beispiel:__
 	* Vesuvaausbruch
 	* Gespenster
 	* Sklavenhaltung
 	* Christenverfolgung
 	* Alltägliches
+
 # Abkürzungen
+
 |Abkürzungen|Bedeutung|Anwendung|
 |-|-|-|
 |PPA|Partizip Perfekt Aktiv|schwimmend, laufend|
@@ -90,8 +114,13 @@
 |PFA|Partizip Futur Aktiv|
 |AcI|„Accusativus cum infinitivo“, Substantiv im 4. Fall, Substantiv, Kopfverb|riechen, schmecken, denken|
 |UpA|Unpersönlischer Ausdruck|
+
 # Pronomen
+
 ## Personalpronomen
+
 ## Reflexivpronomen
+
 ## Interrogativpronomen
+
 ## Indefinitpronomen 

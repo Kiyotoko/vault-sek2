@@ -1,28 +1,40 @@
 # Erwärmung und Cool-down
+
 ## Sinn der Erwärmung
+
 - Reduzierung von Verletzungen
 - Bessere Voraussetzung für einen optimale motorische Leistung
+
 ## Aufbau
+
 ### Allgemeine Erwärmung
+
 - __Ziel:__
 	- Steigerung der Körpertemperatur
 	- Aktivierung des Herz-Kreislaufsystems
 	- psychische Einstimmung
 - sportartenunabhängig, aktive Bewegung großer Muskelgruppen
+
 ### Spezielle Erwärmung
+
 - __Ziel:__
 	- Vorbereitung spezieller Muskulatur und Nervensystem
 - sportartenspezifisch
+
 ## Psychologische Veränderungen im Erwärmungsprozess
+
 - Erhöhung der Puls- und Atemfrequenz
 - Verbesserte Durchblutung führt zur Erhöhung der Körpertemperatur
 - Verbesserte Beweglichkeit, Koordinations- und Reaktionsfähigkeit
+
 ## Der Cool-down
+
 - __Funktionen:__
 	- Kreislaufstabilisierung führt zur allmählichen Senkung der Herz-Frequenz und der Atmung
 	- Unterstützung der Regeneration und Abtransport von Stoffwechselprodukten
 	- Lockerung der Muskeln zur Vorbeugung von Muskelkater
 	- Mentale Entspannung
+
 # Ausdauer
 
 ## Energiebereitstellung
@@ -84,9 +96,11 @@ Modell zum Ablauf und zur Regulation der Energiestoffwechselprozesse in der Musk
 |     Dichte      | Art der Pause, Verhältnis von Belastung und Erholung |
 
 ## Ausdauertrainingsmethoden
+
 * Dauermethode, konstante Belastung, nicht über der anaeroben Schwelle
 * Intervallmethode, unvollständige Pausen, über der anaeroben Schwelle
 * Wiederholungsmethode, maximale Intensität, vollständige Pausen und viele Wiederholungen
+
 # Kraft
 
 ## Arbeit
@@ -107,7 +121,9 @@ Modell zum Ablauf und zur Regulation der Energiestoffwechselprozesse in der Musk
 	* Ermüdungswiderstand gegen unregelmäßig wiederkehrenden, kurze, schnelle Bewegung
 5) Relativkraft
 	* Verhältnis zwischen der Maximalkraft und dem Körpergewicht
+
 ## Aufbau der Muskeln
+
 1. Herzmuskelgewebe
 2. glatte Muskulatur
 3. quergestreifte Skelettmuskulatur
@@ -121,12 +137,16 @@ Modell zum Ablauf und zur Regulation der Energiestoffwechselprozesse in der Musk
 	3. Muskelfaser
 	4. Myofibrille
 	5. Sarkomer
+
 ## Hypertrophie
+
 Ist der grundlegender Prozess des Muskelwachstums und damit auch der langfristigen Kraftsteigerung, da die Kraftleistung eines Muskels maßgeblich von seinem Muskelquerschnitt abhängt.
 - Kalorienüberschuss
 - „ausreichend“ Protein / Eiweiß
 - Trainingsreize
+
 ## Trainingsmethoden
+
 1. __„Standard“ Hypertrophie Training__
 	- grundlegende Methode für das Krafttraining
 	- Verwendung eines submaximalen Gewichts (ca. 8-10 Wiederholung pro Satz )

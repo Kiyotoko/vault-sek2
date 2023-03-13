@@ -1,4 +1,5 @@
 # Primzahlen 
+
 $\DeclareMathOperator\rev{rev}$
 * Satz: $P$ ist eine unendliche Menge
 * Beweis: 
@@ -9,7 +10,9 @@ $\DeclareMathOperator\rev{rev}$
 		* 1.Fall: $m$ ist eine Primzahl
 		* 2.Fall: $m$ist keine Primzahl
 	* PI(x) > x / \log(x) V >= 17
+
 # Sheldon-Primzahlen
+
 * ### Beispiel 37:
 	* 73 ist die 21 Primzahl
 	* 37 ist die 12 Primzahl
@@ -36,6 +39,7 @@ $\DeclareMathOperator\rev{rev}$
 	* Für alle $k >= 46$ gilt aber $k x \log(10) < (10 / 9) ^ k-1$
 
 # Vollständige Induktion
+
 * Für alle $n \in N$:  $2^n > n²$
 * ### Induktionsanfang: n0 = 5
 	* $2^n0 = 2⁵ = 32 > n0² = 5² = 25$
@@ -47,6 +51,7 @@ $\DeclareMathOperator\rev{rev}$
 	* $(n+1)² = n² + 2n + 1 < 2^n + 2n + 1 < 2^n + 2^n = 2 x 2^n = 2^n+1$
 
 # Beweis durch vollständige Induktion nach $k \in \mathbb{N}$
+
 * ### Satz:
 	* $k x \log(10) > (10 / 9)^k-1$
 	* $k x \log(10) < (10 / 9)^k-1$

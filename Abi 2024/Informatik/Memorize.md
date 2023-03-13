@@ -1,5 +1,7 @@
 # Kommunikation in Netzen
+
 ## Internet Protokolle
+
 | IPv4                                                | IPv6                                          |
 | --------------------------------------------------- | --------------------------------------------- |
 | $32$-Bit-IP                                         | $128$-Bit-IP                                  |
@@ -7,6 +9,7 @@
 | Adressen müssen wiederverwendet und maskiert werden | Jedes Gerät kann eine eigene Adresse bekommen |
 
 ## OSI
+
 1. Schicht / **Bitübertragung**: Umwandlung der Bits in ein zum Medium passendes Signal und physikalische Übertragung.
 2. Schicht / **Sicherung**: Segmentierung der Pakete in Frames und Hinzufügen von Prüfsummen.
 3. Schicht / **Vermittlung**: Routing der Datenpakete zum nächsten Knoten.

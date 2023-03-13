@@ -1,6 +1,7 @@
 # Grundlegung einer Modernen Gesellschaft
 
 ## Industrialisierung in England
+
 *Pauperismus* Massenarmut des 19. Jahrhunderts, die zu Verelendung und sozialen Unruhen führt
 
 - **Voraussetzungen**
@@ -39,7 +40,6 @@
 | Arbeitsbeziehung                 | Lohnpreisbildung                                   | Staatliche Eingriffe                                                              |
 
 ## Industrialisierung in Deutschland
-
 
 ## Die „Soziale Frage“ an großstädtischen Ballungszentren
 
