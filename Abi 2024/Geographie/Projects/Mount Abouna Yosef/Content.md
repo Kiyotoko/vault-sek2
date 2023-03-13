@@ -1,1 +1,1 @@
-![[Gesteinskreislauf.png]]
+![Gesteinskreislauf](../../Working%20Materials/Vulkanismus/Gesteinskreislauf.png)

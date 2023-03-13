@@ -46,7 +46,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 	- 9: Besetzungsgebiet *Weiße Zwergsterne*
 	- 10: Besetzungsgebiet *Rote Riesensterne*
 ## Strahlunge (Spektren)
-![[Wellenlänge.png]]
+![[../Working Materials/Sonne/Wellenlänge.png]]
 
 - **Spektralarten**
 	- Kontinuierliches Spektrum

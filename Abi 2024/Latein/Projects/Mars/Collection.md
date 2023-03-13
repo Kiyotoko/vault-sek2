@@ -14,14 +14,14 @@
 - er ist der **Stammvater** und **Schutzherr** von Rom
 - mit dem römischen Hauptgott **Iuppiter** und **Quirinus** bildete er die alte patrizische Göttertrias.
 - Mars war auf dem **Campus Martius** (Marsfeld) geweiht, wo das Herr vor der Stadt aufmarschierten
-- ![[Marsfeld.png]]
+- ![Marsfeld](Marsfeld.png)
 - zu seinem Ehren errichtete Kaiser Augustus (**Gaius Octavius)** dem Mars Ultor einen Tempel für den Rächer des Mordes an Caesar
-- ![[Mars Fresko.jpg]]
+- ![Mars Fresko](Mars%20Fresko.jpg)
 ## Griechisch
 - das griechische Äquivalent war **Ares**
-- ![[Ares.jpg]]
+- ![Ares](Ares.jpg)
 - die Geschichte des Gottes ist fast komplett an ihm angelegt
-- ![[Stammbaum.jpg]]
+- ![Stammbaum](Stammbaum.jpg)
 ## Heutzutage
 - der rote Planet **Mars** ist nach ihm benannt
 - wenn etwas einen eindeutig kriegerischen Zusammenhang hat, spricht man heute noch von „**martialisch**“

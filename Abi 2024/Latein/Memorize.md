@@ -12,7 +12,7 @@
 |Dat.|is|is|is|
 |Akk.|as|os|a|
 |Abl.|is|is|is|
-![[Konsonantische Deklination.png]]
+![Konsonantische Deklination](Working%20Materials/Konsonantische%20Deklination.png)
 # Konjugationen
 ## Regelmäßig
 |Person|a-Konjugation|e-Konjugation|i-Konjugation|

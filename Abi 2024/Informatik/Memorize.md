@@ -1,10 +1,10 @@
 # Kommunikation in Netzen
 ## Internet Protokolle
-|IPv4|IPv6|
-|-|-|
-|$32$-Bit-IP|$128$-Bit-IP|
-|$2^{32}$ Adressen|$2^{128}$ Adressen|
-|Adressen müssen wiederverwendet und maskiert werden|Jedes Gerät kann eine eigene Adresse bekommen|
+| IPv4                                                | IPv6                                          |
+| --------------------------------------------------- | --------------------------------------------- |
+| $32$-Bit-IP                                         | $128$-Bit-IP                                  |
+| $2^{32}$ Adressen                                   | $2^{128}$ Adressen                            |
+| Adressen müssen wiederverwendet und maskiert werden | Jedes Gerät kann eine eigene Adresse bekommen |
 
 ## OSI
 1. Schicht / **Bitübertragung**: Umwandlung der Bits in ein zum Medium passendes Signal und physikalische Übertragung.
@@ -18,4 +18,5 @@
 „**A**lle **d**eutschen **S**tudenten **t**rinken **v**erschiedene **S**orten **B**ier“
 
 ## TCP
-![[Working Materials/Netzwerke/OSI vs TCP.png]]
+
+![OSI vs TCP](Working%20Materials/Netzwerke/OSI%20vs%20TCP.png)

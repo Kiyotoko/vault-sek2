@@ -50,10 +50,7 @@ $t(x)=tangentline(f(x),x,s)$
 
 Die Normale steht senkrecht auf der Tangente.
 
-
-
 Normale: $m=-\frac{1}{f'(x)}$
-
 
 ~~~js
 normalline(f(x),x,s)
