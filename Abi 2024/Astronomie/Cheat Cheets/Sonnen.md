@@ -18,7 +18,7 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 -   Die Energie, die durch den Massendefekt freigesetzt wird, treibt die Kernfusion in der Sonne an und ermöglicht es ihr, über einen langen Zeitraum von Milliarden von Jahren Licht und Wärme abzustrahlen.
 -   Der Massendefekt ist ein wichtiger Bestandteil der Theorie der Sterne und erklärt, wie Sterne über lange Zeiträume Energie produzieren können.
 ## Spektralklassen
-![[Spektralklassen.png]]
+![Spektralklassen](../Working%20Materials/Sonne/Spektralklassen.png)
 ## Leuchtkraftklassen
 ~~~
 	  3 2 1 7 6 4 3	  K 10E3	
@@ -46,7 +46,8 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 	- 9: Besetzungsgebiet *Weiße Zwergsterne*
 	- 10: Besetzungsgebiet *Rote Riesensterne*
 ## Strahlunge (Spektren)
-![[../Working Materials/Sonne/Wellenlänge.png]]
+
+![Wellenlänge](../Working%20Materials/Sonne/Wellenlänge.png)
 
 - **Spektralarten**
 	- Kontinuierliches Spektrum
@@ -58,7 +59,8 @@ In der Konvektionszone nimmt die Temperatur stark genug ab, damit die Protonen w
 		- Die Atome selbst senden elektromagnetische Strahlung aus
 		- Nur ein Paar streifen in jeweils einer Farbe
 
-![[Absorptions- und Emissions-Spektrum.png]]
+![Absorptions- und Emissions-Spektrum](../Working%20Materials/Sonne/Absorptions-%20und%20Emissions-Spektrum.png)
+
 - **Absorpionslinienspektrum (Frauenhofer-Linien)**
 	- Schwarzkörperstrahlung der Photosphäre enthält alle Wellenlängen
 	- Licht einzelner Wellenlängen wird an den Atomen der Photosphäre, Chromosphäre (und Erdatmosphäre) absorbiert → dunklen Linien
