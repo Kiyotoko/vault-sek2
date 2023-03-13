@@ -444,3 +444,7 @@ $\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}$
 Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
 
 ![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
+
+## Magnetfeld von Elektromagneten
+
+![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
