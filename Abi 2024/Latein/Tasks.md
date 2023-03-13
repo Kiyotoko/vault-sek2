@@ -1,32 +1,35 @@
 ## 2022-09-08
-|a-K|e-K|Kons-K|Kurz i-K|i-Konj|
-|:-:|:-:|:-:|:-:|:-:|
-|amare|movere|ponere|capere|audire|
-|rogare|monere|agere|
-|salutar|videre|petere|
-|laborare||
 
-|ponere|movere|capere|
-|-|-|-|
-|pono|movo| |
-|pones|moves| |
-|ponet|movet| |
-|ponemos|movemos| |
-|ponetis|movetis| |
-|ponent|movent| |
+|   a-K    |  e-K   | Kons-K | Kurz i-K | i-Konj |
+|:--------:|:------:|:------:|:--------:|:------:|
+|  amare   | movere | ponere |  capere  | audire |
+|  rogare  | monere | agere  |          |        |
+| salutar  | videre | petere |          |        |
+| laborare |        |        |          |        |
+
+| ponere  | movere  | capere |
+| ------- | ------- | ------ |
+| pono    | movo    |        |
+| pones   | moves   |        |
+| ponet   | movet   |        |
+| ponemos | movemos |        |
+| ponetis | movetis |        |
+| ponent  | movent  |        |
+
 ## 2022-09-12
-|Latein|Deutsch|
-|:-|-:|
-|discere|lernen|
-|docere|unterrichten|
-|portare|bringen|
-|ludere|spielen|
-|audire|hören|
-|narrare|erzählen|
-|moustare|zeigen|
-|stare|stehen|
-|tedire|zurück gehen|
-|videre|sehen|
+
+| Latein   |      Deutsch |
+|:-------- | ------------:|
+| discere  |       lernen |
+| docere   | unterrichten |
+| portare  |      bringen |
+| ludere   |      spielen |
+| audire   |        hören |
+| narrare  |     erzählen |
+| moustare |       zeigen |
+| stare    |       stehen |
+| tedire   | zurück gehen |
+| videre   |        sehen |
 |visitare|beobachten|
 
 ```mermaid
@@ -45,6 +48,7 @@ graph LR
 	A-->L[humanus]-->l[menschlich]
 	A-->M[libert]
 ```
+
  - **Wichtig:**
 	- hortus --> Ehre
 	- virtus --> Tapferkeit
@@ -52,7 +56,9 @@ graph LR
 	- fides --> Treue
 
 Durch viele Jahre war die Macht der römischen Bürgerschaft gewachsen; viele Stämme Italiens gehorrschten dem römischen Volk. Aber mächtige Stadtstaaten Groß-Griechenlands, wie zum Beispiel Tarentum, Messana, Syracusae wollen der Römischen Befölkerung nicht gehorrschen; denn sie wollten lieber in Freiheit leben. Beonders Terentini wollten lieber mite den Römern Krieg führen, als in Freiheit zu leben.
+
 ## 2022-09-15
+
 1. expectare
 2. intrare
 3. cessare
@@ -64,35 +70,43 @@ Durch viele Jahre war die Macht der römischen Bürgerschaft gewachsen; viele St
 9. rogare
 10. portare
 11. narrare
+
 ## 2022-09-19
+
 Plinus grüßt seinen Sura
 
 Der Philosoph Athendorus kam nach Athen, las das Angebot, und nachdem er den Preis hörte, verdächtigte er ihn, weil er ihm verdächtig gering vorkam, er erfuhr alles und mietete es trotzdem. Es wird Abend, Athendorus bereitet sein Lager, für sich im ersten Teil des Hauses; Geist, Augen, Hände konzentrierten sich aufs schreiben, damit sein unbeschäftigtes Gehirn ihn nicht mit Trugbildern, von denen er gehört hatte, oder Schreckensbilder, vorgaukle.
 Am Anfang herrschte stille Nacht, nacheinander bewegte sich Eisen und Ketten. Jener hob die Augen nicht in die Höhe,  sondern raffte seinen Geist auf und hörte nicht hin. Als dann  das Getöse überhand nahm, kam es zur schwelle und war schon innerhalb des Hauses zu hören. Sich umblickend, sieht er erkennbar, das mit sich selbst sprechende Gespenst. Stehend und ihm mit einem Finger zuwinkend rufen. Dieser dagegen, deutete ihm mit der Hand, ein wenig zu warten und wandte sich wieder der Wachstafeln zum beschreiben zu.Jenes klirrte mit den Ketten über dem Haupt des Schreibenden. Er sah es wieder auf der selben Weiße wie vorher, er begleitet das Gespenst und hält das Licht hoch. Jenes ging langsam schweren Schrittes voran, mit klirrenden Ketten. Bald darauf bog es auf den Innenhof des Hauses ab, verschwand plötzlich und verließ den Begleiter. Der Verlassene stellte Kräuter und Blätter als Zeichen an diesen Ort.
 
 Man findet im laufe der Zeit ein gefesseltes Skelett. Sie begraben das Skelett öffentlich. Von da an ist das Haus von Geistererscheinungen befreit.
+
 ## 2022-09-29
-|Latein|Präsens|Deutsch|
-|-|-|-|
-|currere|mitto|eilen|
-|esse|sum|sein|
-|pugnare|pugno|kämpfen|
-|capere|capio|fangen|
-|petere|peto|erbitten|
-|cedere|cedo|töten|
-|sedere|sedeo|sitzen|
-|mittere|mi|senden|
-|intrare|intro|eintreten|
-|fugere|fugio|fliehen|
-|ducere|duco|führen, anführen|
-|rapere|rapeo|rauben|
-|facere|facio|tun, machen|
-|venire|venio|kommen|
-|ire|eo|gehen|
-|properare|properao||
+
+| Latein    | Präsens  | Deutsch          |
+| --------- | -------- | ---------------- |
+| currere   | mitto    | eilen            |
+| esse      | sum      | sein             |
+| pugnare   | pugno    | kämpfen          |
+| capere    | capio    | fangen           |
+| petere    | peto     | erbitten         |
+| cedere    | cedo     | töten            |
+| sedere    | sedeo    | sitzen           |
+| mittere   | mi       | senden           |
+| intrare   | intro    | eintreten        |
+| fugere    | fugio    | fliehen          |
+| ducere    | duco     | führen, anführen |
+| rapere    | rapeo    | rauben           |
+| facere    | facio    | tun, machen      |
+| venire    | venio    | kommen           |
+| ire       | eo       | gehen            |
+| properare | properao |                  |
+
 ## 2022-10-10
+
 Edingburg. Charles der Dritte ist neuer König Herrschaft Britanniens. Dessen Mutter, Königin Elizabeth die Zweite, ist im Alter von 96 Jahren am 6. September in der Nähe des Palastes in Schottland liegend verstorben. 
+
 ## 2022-10-13
+
 Davus und Eutychus gehen durch die Straßen Roms. Eutychus fragt: „Wohin gehen wir hin, Davus?“ Davus antwortet: „Bisher kennst du das Forum Romanum nicht. Dorthin eilen wir. Denn dort sind viele prunkvolle Gebäude.“
 Kurz darauf betreten die Sklaven den Markt. Eutychus betrachtet und staunt über die großen prunkvolle alten Tempel 
 
@@ -100,8 +114,11 @@ Eutychus gefällt es, die Krönungskirche zu betreten. Dort betrachtete er versc
 
 ==TODO S. 48==
 ## 2022-11-10
+
 Heute ist eine große Menge der Römer auf dem Marktplatz. Männer, Frauen, Jungen und Mädchen besuchen den Marktplatz. Davus und Eutychus gehen durch 
+
 ## 2022-11-21
+
 1. puelle
 2. puer
 3. frumentum
@@ -209,21 +226,24 @@ HANNIBAL, Sohn des Hamilcar, ist ein Karthager. Wenn es wahr ist, was niemand be
 - ambulo
 	- 1. Person Singular Präsens Indikativ Aktiv
 ## 2023-01-26
-|v-Perfekt|u-Perfekt|s-Perfekt|Dehnungsperfekt|Reduplikationsperfekt|
-|-|-|-|-|-|
-|oppugnare||sedere|||
-|||sinere|||
-||||||
+| v-Perfekt | u-Perfekt | s-Perfekt | Dehnungsperfekt | Reduplikationsperfekt |
+| --------- | --------- | --------- | --------------- | --------------------- |
+| oppugnare |           | sedere    |                 |                       |
+|           |           | sinere    |                 |                       |
+
 ## 2023-02-09
-| |1. Person Präsens|1. Person Perfekt|PPP|
-|-|-|-|-|
-|appropinquare|appropinquao|appropinquavi|appropinquatum||
-|mittere|mitto|missi|missum|
-|facere|facio|feci|factum|
-|agere|ago|agi|actum|
-|gerere|gero|gessi|gessum|
-|ducere|duco|duxi|ductum|
+
+|               | 1. Person Präsens | 1. Person Perfekt | PPP            |     |
+| ------------- | ----------------- | ----------------- | -------------- | --- |
+| appropinquare | appropinquao      | appropinquavi     | appropinquatum |     |
+| mittere       | mitto             | missi             | missum         |     |
+| facere        | facio             | feci              | factum         |     |
+| agere         | ago               | agi               | actum          |     |
+| gerere        | gero              | gessi             | gessum         |     |
+| ducere        | duco              | duxi              | ductum         |     |
+
 - - -
+
 - Orator - Redner
 	- Orator
 	- Oratorus
@@ -235,7 +255,9 @@ HANNIBAL, Sohn des Hamilcar, ist ein Karthager. Wenn es wahr ist, was niemand be
 	- Oratoribus
 	- Oratores
 	- Oratoribus
+
 ## 2023-03-09
+
 - sanctissimum
 - potentissimum
 - sapientissimum
@@ -243,3 +265,11 @@ HANNIBAL, Sohn des Hamilcar, ist ein Karthager. Wenn es wahr ist, was niemand be
 - iussit
 - piissimo
 - nobilissimorum
+
+## 2023-03-13
+
+Statiusque iudicavi eadem cum velut aliis velut communiter litteris mandata memoriae posterorum tradere quam regis excellentissimi et omnium sua aetate maximi clarissimam vitam et egregios atque moderni temporis hominibus vix imitabiles actus pate oblivionis tenebris aboleri.
+
+Vorwort
+
+Das öffentlich und das häusliche Leben und teilweise keine geringen Taten der Hausherren und Gönner des meinen Karls, der Erhabene und mit Recht großartige König, nachdem er beabsichtigte zu schreiben, wie viel ich in kürze schreiben kann, ich mich bemüht habe, unabhängig zu arbeiten, damit ich nichts von dem auslasse, was mir zu Ohren gekommen ist. Dennoch glaubte ich, dass ich von einer solchen Beschreibung nicht ablassen sollte, da ich mir bewusst war, dass niemand diese wahrheitsgetreuer schreiben konnte als ich selbst, der ich dabei war und das Geschehen mit eigenen Augen sah, wie man sagt, und ob ich es auch nicht verstehen konnte. Besser habe gehalten der selbe mit einem anderen 
