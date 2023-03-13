@@ -324,9 +324,17 @@ Die elektrische Feldstärke  gibt an, wie groß die Kraft  pro Ladung  an einem 
 ![Polarisation](Working%20Materials/Elektrisches%20Feld/Polarisation.png)
 ![Potenzial](Working%20Materials/Elektrisches%20Feld/Potenzial.png)
 ## Coulombsches Gesetz
+
 ### Relative Permittivität
+
 Die relative Permittivität ist ein Maß für die Feldabschwächung des elektrischen Feldes durch Polarisation eines Mediums.
+
 ![Relative Permittivität](Working%20Materials/Elektrisches%20Feld/Relative%20Permittivität.png)
+
+Befindet sich innerhalb der Spule ein ferro-magnetischer Stoff, dann vergrößert sich die magnetische Flussdichte der Spule:
+
+Die relative Permeabilitätszahl  ist eine Stoffkonstante. Sie gibt an, um wie viel sich die magnetisch Flussdichte im Vergleich zum Vakuum (näherungsweise auch Luft) vergrößert.
+
 ## Elektrisches Potential
 Das elektrische Potential in einem Punkt  des elektrischen Feldes bezieht sich auf die Arbeit , die benötigt wird, um eine Probeladung  von einem festen Bezugspunkt  zu einem Punkt  zu verschieben.
 - Formelzeichen $\varphi$
@@ -417,5 +425,22 @@ bounds: [0,10,-10,0]
 ---
 I(x)=(x/10)^2*10-10
 ~~~
+
 ## Hysterese von ferromagnetischen Stoffen
+
 Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die Energie, die Für das Ummagnetisieren benötigt wird.
+
+## Magnetische Flussdichte
+
+Die magnetische Flussdichte einer Spule ist direkt proportional zur fließenden Stromstärke und der Windungszahl.
+
+Die magnetische Flussdichte einer Spule ist indirekt proportional zur Länge der Spule.
+
+Für die magnetische Flussdichte im Inneren einer langen, dünnen Spule gilt:
+$\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}$
+
+## Helmholtz-Spulen-Paar
+
+Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
+
+![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
