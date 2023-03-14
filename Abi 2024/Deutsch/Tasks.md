@@ -483,3 +483,24 @@ A1-->A12[Dadaismus]
 A2-->A20[Visuelle Elemente]
 A2-->A21[Auditive Elemente]
 ~~~
+
+- - -
+
+**„Wolke und Blitz“ von Max Bense**
+
+~~~
+    wolke    wolke
+  wolkewolkewolkewolke
+wolkewolkewolkewole
+  wolkewolkewolkewolke
+   wolke     wolke
+	B         B
+   L           Lb
+    I          I l i t z
+   T            T i
+    Z          Z   tz
+~~~
+
+- Sprachliche Gestaltung
+- Visuelle Vorstellung
+- Es gehört zur konkreten Poesie
