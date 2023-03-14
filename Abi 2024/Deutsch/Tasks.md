@@ -466,3 +466,13 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigenständigkeit von dem vorherig abhängigem. Da Autonomie aber immer auch mit Sich-Unterscheidung und Trennung verbunden ist, ist dies auch mit Schuldgefühlen und Trennungsängsten verbunden
 
 Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, hat er sich Radikalisiert. Er hat sich vom staatstreuen Weltbild seiner Eltern getrennt.
+
+# 2023-03-14
+
+~~~mermaid
+graph TB
+A[Kongrete Poesie]
+A-->A0[Ziel]
+A-->A1[literarische Tradition]
+A-->A2[Merkmale]
+~~~
