@@ -819,10 +819,10 @@ $4!=4*3*2*1=24$
 Pferderennen, 12 Pferde
 Einlauf  der ersten 3 Pferde soll vorausgesagt werden.
 
-## Satz Über Die Total Wahrscheinlichkeit
+## Satz über die total Wahrscheinlichkeit
 
 Ereignisse $A$ und $B$.
-$P(B)=P(A)*P_A(B)+P(A)*P_A(B)$
+$P(B)=P(A)*P_{A}(B)+P(\bar{A})*P_{\bar{A}}(B)$
 
 ~~~mermaid
 graph TB;
@@ -834,3 +834,26 @@ graph TB;
 	A1-->A10[rot]
 	A1-->A11[blau]
 ~~~
+
+## Satz von Bayes
+
+$P_B(A)=\frac{P(A\cap B)}{P(A)*P_{A}(B)+B(\bar{A})*P_{\bar{A}}(B)}$
+
+## Darstellung bedingter Wahrscheinlichkeit mithilfe einer Vierfeldertafel
+
+**Beispiel**
+Ein Schüler fährt an $50\%$ der Schultage mit dem Bus. In $70\%$ dieser Fälle kommt er pünktlich. Durchschnittlich kommt er an $60\%$ der Tage pünktlich. Heute kommt der Bus Pünktlich. Mit welcher Wahrscheinlichkeit hat er den Bus benutzt?
+
+|           | $B$    | $\bar{B}$ | Total |
+| --------- | ------ | --------- | ----- |
+| $P$       | $0.35$ | $0.25$    | $0.6$ |
+| $\bar{P}$ | $0.15$ | $0.25$    | $0.4$ |
+| Total     | $0.5$  | $0.5$     | $1$   |
+
+$P_{P}(B)=\frac{0.35}{0.6}$
+
+Heute fährt er nicht mit dem Bus. Mit welcher Wahrscheinlichkeit kommt er zu spät?
+
+$P_\bar{B}(\bar{P})=\frac{0.25}{0.5}$
+
+$P(B\cap P)=0.35\quad P(B\cap\bar{P})=0.15$
