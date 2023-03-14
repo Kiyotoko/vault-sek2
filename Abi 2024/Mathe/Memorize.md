@@ -395,14 +395,13 @@ g(x)=2x-1
 ### Tangenten Zur Parrallele
 
 Beispiel $f(x)=-x^2+x+4$. Parallel zur Geraden $g(x)=-x+1$ verläuft eine Tangente an die Funktion f. Ermittle eine Gleichung dieser Tangente.
+
 1. Ableitung von $f$: $f'(x)=-2x+1$
-1. $m=-1$ einsetzen: $-1=-2x+1\quad x=1$
-1. $y$ berechnen: $y=-(1)^2+1+4=4$
-1. $n$ berechnen: $4=-1*1+n\quad n=5$
-1. Tangentengleichung angeben
+2. $m=-1$ einsetzen: $-1=-2x+1\quad x=1$
+3. $y$ berechnen: $y=-(1)^2+1+4=4$
+4. $n$ berechnen: $4=-1*1+n\quad n=5$
+5. Tangentengleichung angeben
 	- $y=-x+5$
-
-
 
 ~~~mermaid
 graph LR
@@ -819,3 +818,19 @@ $4!=4*3*2*1=24$
 **Beispiel**
 Pferderennen, 12 Pferde
 Einlauf  der ersten 3 Pferde soll vorausgesagt werden.
+
+## Satz Über Die Total Wahrscheinlichkeit
+
+Ereignisse $A$ und $B$.
+$P(B)=P(A)*P_A(B)+P(A)*P_A(B)$
+
+~~~mermaid
+graph TB;
+	A[ ]
+	A-->A0[rot]
+	A-->A1[blau]
+	A0-->A00[rot]
+	A0-->A01[blau]
+	A1-->A10[rot]
+	A1-->A11[blau]
+~~~

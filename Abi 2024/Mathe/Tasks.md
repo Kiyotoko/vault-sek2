@@ -1569,12 +1569,12 @@ $P(R;F)=0.97*0.05=0.0485$
 ~~~mermaid
 graph TB;
 	A[ ]
-	A-->A0[rot]
-	A-->A1[blau]
-	A0-->A00[rot]
-	A0-->A01[blau]
-	A1-->A10[rot]
-	A1-->A11[blau]
+	A-->A0[Einbruch]
+	A-->A1[Kein Einbruch]
+	A0-->A00[Alarm]
+	A0-->A01[Kein Alarm]
+	A1-->A10[Alarm]
+	A1-->A11[Kein Alarm]
 ~~~
 
 $P_{Alarm}(Einbruch)=\frac{0.001*0.98}{0.001*0.98+0.999*0.008}$
