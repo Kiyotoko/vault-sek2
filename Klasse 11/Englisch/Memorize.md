@@ -52,11 +52,11 @@ The Term „Lingua Franca“ describes that the communication is reduced on a ba
 
 congress→Senate and House of Representatives (balance of powers)
 
-| |Senate|House of Representatives|
-|-|-|-|
-|Members|100|435|
-|Become one|Be at least 30 years old|Be at least 25 years old and a US citizen for at least 7 years and a live in the state you represent|
-|Special|Chooses the justices|Selects vice president|
+|            | Senate                   | House of Representatives                                                                             |
+| ---------- | ------------------------ | ---------------------------------------------------------------------------------------------------- |
+| Members    | 100                      | 435                                                                                                  |
+| Become one | Be at least 30 years old | Be at least 25 years old and a US citizen for at least 7 years and a live in the state you represent |
+| Special    | Chooses the justices     | Selects vice president                                                                               |
 
 ## The President
 
@@ -88,42 +88,48 @@ Important Supreme Court cases; lasting impact on law and future cases
 
 1. general:
 	1. short version $(\frac{1}{3})$ of the original text
-	1. contains the main idea of the author
-1. preparation:
+	2. contains the main idea of the author
+2. preparation:
 	1. find the thesis
-	1. highlight ideas, facts or arguments
-1. writing:
+	2. highlight ideas, facts or arguments
+3. writing:
 	1. mention the source, text type and the main idea
-	1. write short paragraphs summing up the major arguments
-1. editing:
+	2. write short paragraphs summing up the major arguments
+4. editing:
 	1. check and if necessary revise your summary
-1. useful:
+5. useful:
 	1. according to the author, ...
-	1. the author says/writes, claims/states that ...
-	1. in addition/conclusion, the author argues that ...
+	2. the author says/writes, claims/states that ...
+	3. in addition/conclusion, the author argues that ...
 
 ## Writing a Comment
 
-1. choose one side
-1. explain the arguments
-1. give examples
+1. Choose one side
+2. Explain the arguments
+3. Give examples
 
 ## Writing a Speech
 
-1. choose you purpose
-	- informative
-	- explanatory
-	- persuasive
+1. Identify the purpose of your speech.
+2. Analyze your audience.
+3. Condense your message to the basics.
+4. Strike the right tone.
+5. Pull them in with your intro.
+6. Perfect the flow.
+7. End strong. 
 
 ## Analysing a Speech
 
-When examining a speech, there are several key elements to consider:
-1.  Purpose: What is the main goal of the speech? Is it to inform, persuade, entertain, or inspire the audience?
-1.  Audience: Who is the intended audience? What are their values, beliefs, and attitudes? How does the speaker engage with and address the audience?
-1.  Context: What is the historical, political, or cultural context of the speech? How does the speaker use this context to reinforce or challenge certain ideas?
-1.  Structure: How is the speech organized? What is the main argument or message? What are the supporting points or examples?
-1.  Language: How does the speaker use language to convey meaning and create an emotional response in the audience? What rhetorical devices, such as metaphors or repetition, are used to enhance the message?
-1.  Delivery: How does the speaker use their voice, gestures, and body language to engage with the audience and reinforce the message?
-1.  Impact: What is the overall impact of the speech? Did it achieve its purpose? What was the audience's reaction to the speech?
-
-When examining a speech, it is important to consider all of these elements and analyze how they work together to create a powerful message. Additionally, it can be helpful to research the background and context of the speech to gain a deeper understanding of its significance.
+1. Introduction
+	- Introductory phrase
+	- General information
+		1. Speaker
+		2. Occasion
+		3. Date
+		4. Place
+		5. Audience
+2. Main part
+	- Argument structure
+	- Rhetorical devices
+3. Conclusion
+	- Summary
