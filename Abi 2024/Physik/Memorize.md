@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/science
+---
+
 # Kinematik
 
 Lehre von der Beschreibung von Bewegungen aller Art

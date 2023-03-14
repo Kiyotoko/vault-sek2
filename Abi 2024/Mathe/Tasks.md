@@ -1,3 +1,8 @@
+---
+tags:
+- topic/math
+---
+
 # Analysis
 
 ## 2022-09-06

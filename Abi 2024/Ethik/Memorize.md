@@ -1,3 +1,8 @@
+---
+tags:
+- topic/phylosophy
+---
+
 # Freiheit
 
 ## Wahlfreiheit vs. Freier Wille

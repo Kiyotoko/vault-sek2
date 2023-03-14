@@ -1,3 +1,8 @@
+---
+tags:
+- topic/history
+---
+
 # 01.09.2022
 
 - Merkantilismus

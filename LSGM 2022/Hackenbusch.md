@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Hackenbusch
 
 * 2 Spieler

@@ -1,3 +1,8 @@
+---
+tags:
+- topic/language
+---
+
 # 2022-09-08
 
 |   a-K    |  e-K   | Kons-K | Kurz i-K | i-Konj |

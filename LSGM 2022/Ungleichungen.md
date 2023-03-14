@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Quadratische Ungleichungen
 
 Die wichtigste aller Ungleichungen ist $x^2\geq0$.

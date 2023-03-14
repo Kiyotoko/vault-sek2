@@ -1,3 +1,8 @@
+---
+tags:
+- topic/art
+---
+
 # 24.09.2022
 
 | Projektname | „$\mathtt{DER\text{ }BEVÖLKERUNG}$“ |

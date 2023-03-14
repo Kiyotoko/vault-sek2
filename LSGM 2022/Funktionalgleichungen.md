@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Funktionalgleichungen
 
 Finde alle Funktionen $f: R\in\mathbb{R}$ mit $a*f(ab)= f(b)$

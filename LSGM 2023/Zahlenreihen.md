@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 Eine ganzzahlige Lösung der Gleichung $x^n+y^n=z^n$ ist ein Tripel $(x,y,z)\in\mathbb{Z}^3$, für das $x^n+y^n=z^n$ gilt.
 
 # Pythagoreische Tripel

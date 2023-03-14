@@ -1,3 +1,8 @@
+---
+tags:
+- topic/language
+---
+
 # English around the World
 
 ## Why English?

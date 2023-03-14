@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Multiplizieren / Dividieren Negativer Zahlen
 
 $3x>5x+1|-5x$

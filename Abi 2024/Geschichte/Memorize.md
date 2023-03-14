@@ -1,3 +1,8 @@
+---
+tags:
+- topic/history
+---
+
 # Grundlegung Einer Modernen Gesellschaft
 
 ## Industrialisierung in England

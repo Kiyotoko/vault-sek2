@@ -1,3 +1,8 @@
+---
+tags:
+- topic/phylosophy
+---
+
 # Freiheit
 
 ## 2022-09-14

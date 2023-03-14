@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/social
+---
+
 # Aktuelle Probleme
 
 1. mangelhafte bis keine Erklärung

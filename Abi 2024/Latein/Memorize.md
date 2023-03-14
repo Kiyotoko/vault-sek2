@@ -1,3 +1,8 @@
+---
+tags:
+- topic/language
+---
+
 # Deklination
 
 | |feminim|maskulin|neutrum|

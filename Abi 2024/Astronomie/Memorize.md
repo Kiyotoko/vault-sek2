@@ -1,3 +1,9 @@
+---
+tags:
+
+- topic/science
+---
+
 # Atommodell
 
 [Online Tafelwerk](https://www.periodensystem-online.de/)

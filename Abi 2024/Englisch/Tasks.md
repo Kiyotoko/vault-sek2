@@ -1,3 +1,8 @@
+---
+tags:
+- topic/language
+---
+
 # 2022-09-07
 
 The pros of a lingua franca are, that people around the world can communacate with each other and learn new cultures with it. Because of the new ways of communication, a lingua fraca has become more important, for reading sientific papers that was published around the world, for example.

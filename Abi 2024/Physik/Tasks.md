@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/science
+---
+
 # Kinematik
 
 ## 31.08.2022

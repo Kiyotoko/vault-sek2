@@ -1,3 +1,8 @@
+---
+tags:
+- topic/science
+---
+
 # Kommunikation in Netzen
 
 ## Internet Protokolle

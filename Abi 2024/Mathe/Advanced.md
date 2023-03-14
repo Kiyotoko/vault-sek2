@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- topic/math
+---
+
 # Zahlenbereiche
 
 ## Natürliche Zahlen
