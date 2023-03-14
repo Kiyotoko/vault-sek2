@@ -473,6 +473,13 @@ Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, 
 graph TB
 A[Kongrete Poesie]
 A-->A0[Ziel]
-A-->A1[literarische Tradition]
+A-->A1[Literarische Tradition]
 A-->A2[Merkmale]
+A0-->A00[Neue Leseweise]
+A0-->A01[Neue Erkenntnisse über<br>Zusammenhang von<br>Sprach und Geschichte]
+A1-->A10[Enstand um 1950]
+A1-->A11[Kongrete Kunst]
+A1-->A12[Dadaismus]
+A2-->A20[Visuelle Elemente]
+A2-->A21[Auditive Elemente]
 ~~~
