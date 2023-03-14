@@ -157,7 +157,7 @@ f(x)=sin(x)
 
 Funktion hat keinen Grenzwert.
 
-### Grenzwert an Einer Stelle
+### Grenzwert an einer Stelle
 
 Eine Funktion $f$, die beiderseits einer Stelle $x_0$ definiert ist, hat für $x\to x_0$ den GW $a$, wenn gilt $\lim\limits_{h\to 0}f(x_0+h)=a$ mit $h>0$ und $\lim\limits_{h\to 0}f(x_0-h)=a$ mit $h>0$.
 
@@ -176,7 +176,7 @@ $f(x)=\frac{2x+1}{x+1}$
 $\lim\limits_{x\to-1^{(+)}}-\infty$
 $\lim\limits_{x\to-1^{(-)}}\infty$
 
-### Ermitteln Des GW Durch Die $h$-Methode
+### Ermitteln des GW Durch Die $h$-Methode
 
 $f(x)=\frac{x²-4}{x-2}$
 $\lim\limits_{x\to2h\to0}\frac{(x+h)²-4}{(x+h)-2}=\frac{(2+h)^2-4}{(2+h)-2}=\frac{h²+4h}{h}=\frac{h(h+4)}{h(1)}=4$
@@ -204,17 +204,17 @@ $\lim\limits_{x\to2h\to0}\frac{(x+h)²-4}{(x+h)-2}=\frac{(2+h)^2-4}{(2+h)-2}=\fr
 
 ## Ableitungen
 
-### Ableitung Einer Funktion an Einer Stelle
+### Ableitung einer Funktion an einer Stelle
 
 - Sekante: Schneidet an zwei Punkten
 - Passante: Schneidet an keinem Punkt
 - Tangente: Schneidet an einem Punkt
 
-### Lage Von Tangenten an Funktionsgraphen
+### Lage von Tangenten an Funktionsgraphen
 
 - Tangenten und Funktionsgraph haben nur den einen Berührungspunkt gemeinsam.
 - Die Tangente geht durch den geht durch den Punkt hindurch.
-- Die Tangente schneidetn den Graphen an weiteren Punkten.
+- Die Tangente schneidet den Graphen an weiteren Punkten.
 - Die Tangente berührt den Graphen in einem weiteren Punkt
 
 ### Differenzenquotient
@@ -268,7 +268,16 @@ Momentane Änderungsrate $x_0=2$
 $f'(x)=3x²-12x+8$
 $f'(2)=-4$
 
-### Funktionen Mit Stellen, an Denen Keine Ableitung Existiert
+### Anstiegswinkel
+
+**Beispiel**
+$f(x)=x^2$
+Gesucht ist $\measuredangle$, den die Tangente an $f$ in $x=3$ mit der $x$-Achse einschließt.
+$\tan{a}=\frac{G_k}{A_k}=m=f'(x)$
+
+$$
+
+### Funktionen Mit Stellen, an denen Keine Ableitung Existiert
 
 - Bsp.: $f(x)=|x^2-1|$
 ~~~functionplot
