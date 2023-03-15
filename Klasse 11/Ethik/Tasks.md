@@ -149,11 +149,15 @@ Wenn man sich in eine andere Person einfühlen kann, und sein Leiden nachvollzie
 Erläutere, was Schopenhauer unter Bosheit versteht.
 
 Bosheit ist, wenn ich selbst den Schmerz des Leidens nur von mir aus nicht lindern kann. Aus dieser inneren Qual geht die uneigennützige Freude an fremden Leiden hervor. Dieser ist das fremde Leiden nicht mehr Mittel zur Erlangung der Zwecke des eigenen Willens, sondern Zweck an sich. Wenn jemand also ein Tier lebendig ausweidet und sich an dessen Leiden ergötzt, so ist dies Bosheit, da das Leiden nicht der Mittel zum Zweck ist, wie zum Beispiel möglichst einfach am Fleisch heran zu kommen, sondern der Zweck selbst.
+
 - - -
+
 Stelle Schopenhauers Erklärung über die Entstehung der Bosheit dar.
 
 Durch das unerfüllte Wollen leidet man. Viel starkes Wollen führt auch zu viele starken Leiden. Dieser innere Wille führt zu der inneren Qual. Da wir das Leiden anderer sehen können, können wir es mit ihnen vergleichen. Verstärken wir ihr Leiden, so ist unser Leiden im Verhältnis gering.
+
 - - -
+
 Erstellen Sie eine Übersicht zu den drei „Triebfedern“ des menschlichen Handelns
 
 ~~~mermaid
@@ -163,3 +167,9 @@ graph TB
 	A1---A10[Lindern eigenen Leidens<br>durch Bereicherung<br>einer selbst]
 	A2---A20[Lindern eigenen Leidens<br>durch verursachung<br>von Leid]
 ~~~
+
+## 2023-03-15
+
+Macht euch Gedanken dazu, warum wir uns heute mit ihm beschäftigen wollen.
+
+Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefühle“ war hierbei sein Hauptwerk. Wen nennen wir tugendhaft? Diese Frage lässt sich leicht in zwei Einzelfragen aufspalten: Welche Tugenden nützen dem Einzelnen und welche haben Einfluss auf die Glückseligkeit anderer Menschen? Zu den Ersteren gehört die Tugend, alles Erdenkliche zu tun, um seinen eigenen Körper zu erhalten, zu pflegen, ihm Lust zu bereiten und der Unlust aus dem Weg zu gehen. Diese Tugend heißt Klugheit und wird uns von Kindesbeinen an beigebracht. Dazu gehört auch, dafür zu sorgen, dass man in der Achtung der Mitmenschen aufsteigt und so den gebührenden Rang einnehmen kann. In Bezug auf andere Menschen kann ein Individuum zwei Wege wählen: Es kann den anderen schaden oder nützen. Schaden ist in den Augen eines unparteiischen Zuschauers nur aus einem Grund statthaft: aus Vergeltungsgefühl, weil der andere den Handelnden geschädigt hat. Das Naturrecht, aus dem das staatliche Strafrecht abgeleitet ist, gebietet uns, solche Taten zu sühnen.
