@@ -72,11 +72,12 @@ tags:
 # 2022-12-14
 
 ![Spektralklassen](Working%20Materials/Sonne/Spektralklassen.png)
+
 1. Erklären Sie die drei verschiedenen Spektralarten.
 - Kontinuierliches Spektrum
 - Absorptionsspektrum
 - Emissionsspektrum
-1. Nennen Sie die Einteilung der Sterne nach ihrer Oberflächentemperatur.
+. Nennen Sie die Einteilung der Sterne nach ihrer Oberflächentemperatur.
 - O, B, A, F, G, K, M
 1. Die Spektralklasse O und B sind sehr heiße Sterne. Nennen Sie den Temperaturbereich der Sternoberfläche der genannten Spektralklassen, wie sie in der Tabelle der Sternklassen beschrieben sind.
 - 30000 - 5000 Kelvin
@@ -92,6 +93,7 @@ tags:
 - Leuchtkraftklasse VII
 1. Beschreiben Sie die Einordnung unserer Sonne in beiden Kategorien.
 - G-Klasse
+
 
 - - -
 
@@ -172,3 +174,24 @@ Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So beste
 - Atmosphäre
 
 ## 2023-03-15
+
+$a_{ceres}=413.8*10^{6}km$
+$a_{erde}=149.6*10^{6}km$
+$T_{erde}=1a$
+$T_{ceres}=\sqrt{(\frac{a_{ceres}}{a_{erde}})^3*T_{erde}^2}$
+
+
+- - -
+
+- doppel logarithmische Darstellung
+- der linke Graph ist logarithmisch
+- der rechte Graph ist linear
+- beide Graphen zeigen das 3. Keplersche Gesetz
+- der vierte Punkt stellt den Mars im Diagramm dar.
+
+- - -
+
+$\frac{1}{T_{sid_M}}=\frac{1}{T_{sid_E}}-\frac{1}{T_{syn_E}}}$
+$T_{sid_{M}}=687d$
+$T_{sid_{E}}=365.256d$
+$T_{syn_{E}}=$

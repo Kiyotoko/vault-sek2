@@ -150,9 +150,9 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 
 # Leben Im Sonnensystem
 
-## Aufbau Des Sonnensystems
+## Aufbau des Sonnensystems
 
-### Aufbau Und Grobe Struktur
+### Aufbau und grobe Struktur
 
 | Sterne | Planeten | Zwergplaneten | Monde  | Asterioiden |
 | ------ | -------- | ------------- | ------ | ----------- |
@@ -172,21 +172,21 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 	- Mit zunehmender „Entfernung“ vergrößert sich die Umlaufzeit
 	 - $T=c*\sqrt{a_1^3}=c*a_1^\frac{3}{2}$
 
-### Planetenbeobachtung - Siderische Und Synodische Umlaufdauer
+### Planetenbeobachtung - Siderische und Synodische Umlaufdauer
 
 - Als *siderische*- Umlaufdauer eines Himmelskörpers bezeichnet man die Zeitspanne für einen vollständigen Umlauf (Revolution) in Bezug auf den Fixsternhintergrund. Für einen Planeten entspricht das seiner Umlaufdauer aus Sicht eines fiktiven Beobachters auf der Sonne.
 - Die *synodische*- Umlaufdauer eines Himmelskörpers ist die Zeitspanne zwischen den Zeitpunkten aufeinanderfolgender gleicher Stellungen bezüglich Erde und Sonne. Sie bestimmt sich also in Bezug auf die Blickrichtung Erde-Sonne.
 
-### Winkelgeschwindigkeit Und Umlaufdauer Der Gleichförmigen Kreisbewegung
+### Winkelgeschwindigkeit und Umlaufdauer der Gleichförmigen Kreisbewegung
 
 $\omega=\frac{\varphi}{\Delta t}$
 $360^\circ=2\pi$
 $\omega=\frac{2\pi}{T}$
 $\frac{1}{T_{sid,u}}=\frac{1}{T_{sid,E}}+\frac{1}{T_{sid}}$
 
-## Voraussetzung Für Das Leben Auf Der Erde
+## Voraussetzung für das Leben auf der Erde
 
-### Was Ist Leben?
+### Was ist Leben?
 
 Ein Lebewesen kennzeichnet Reproduktion, Selbstorganisation, Energieumwandlung und Wechselwirkung mit der Umgebung.
 
@@ -194,7 +194,7 @@ Ein Lebewesen kennzeichnet Reproduktion, Selbstorganisation, Energieumwandlung u
 
 Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 
-### Merkmale Des Lebens
+### Merkmale des Lebens
 
 - Lebewesen stehen im Austauch mit ihrer Umwelt *Stoffwechsel, Energieumwandlung und Energieübertragung*
 - Lebewesen nehmen den Zustand ihrer Umwelt wahr (*Reizbarkeit*)
@@ -204,9 +204,14 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Lebewesen geben Informationen an ihre Nachkommen weiter (*Vererbung*)
 - Lebewesen steuern ihre Prozesse mit Signale (*Kommunikation*)
 
-## Lebensfreundliche Bedingungen Im Sonnensystem
-
-### Bedingungen
+### Lebensfreundliche Bedingungen im Sonnensystem
 
 - flüssiges Wasser
 - Kohlenwasserstoffverbindung
+- Energiequelle
+
+# Geschichte der Astronomie
+
+## Frühe Zeitzeugnisse astronomischer Beobachtung
+
+- Stonehange's Monolithen (3000 v. Chr.) waren nach dem Auf- und Untergang der Sonne zu den Sonnwenden ausgerichtet
