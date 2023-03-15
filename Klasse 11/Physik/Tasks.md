@@ -1,8 +1,8 @@
----
+- - -
 author: karlz
 tags:
 - topic/science
----
+- - -
 
 # Kinematik
 
@@ -19,42 +19,42 @@ $2.3mm$
 $145Ms$
 $79.2\mu A$
 $430MV$
----
+- - -
 
-|Zahl|Zehn|Präfix|
-|:-|-|-:|
-||$21*10^5$|$2.1MJ$|
-|$0.0032A$|$32*10^{-4}$||
-|$0.00000052m$||$0.52\mu m$|
-|$5321300J$|$53213*10^2J$||
-|$0.00021V$||$21mV$|
-||$302*10^7W$|$3.02GW$|
-||$53*10^{-9}s$|$53ns$|
-|$32000V$||$32 kV$|
-|$50000000000W$||$50 GW$|
-|$0.0000000056m$|$56*10^{-10}m$||
-|$0.0000012m$|$12*10^{-7}$||
+| Zahl            | Zehn           |      Präfix |
+|:- - -- - -- - -- - -- - - | - - -- - -- - -- - --- | - - -- - -- - ---:|
+|                 | $21*10^5$      |     $2.1MJ$ |
+| $0.0032A$       | $32*10^{-4}$   |             |
+| $0.00000052m$   |                | $0.52\mu m$ |
+| $5321300J$      | $53213*10^2J$  |             |
+| $0.00021V$      |                |      $21mV$ |
+|                 | $302*10^7W$    |    $3.02GW$ |
+|                 | $53*10^{-9}s$  |      $53ns$ |
+| $32000V$        |                |     $32 kV$ |
+| $50000000000W$  |                |     $50 GW$ |
+| $0.0000000056m$ | $56*10^{-10}m$ |             |
+| $0.0000012m$    | $12*10^{-7}$   |             |
 
----
+- - -
 
-|82000 g|0.0036 N|0.0000026 s|0.000000704 m|4800000000 J|
-|-|-|-|-|-|
-|82 kg|3.6 mN|2.6 \mus|704 nm|4.8 GJ|
+| 82000 g | 0.0036 N | 0.0000026 s | 0.000000704 m | 4800000000 J |
+| - - -- - -- | - - -- - --- | - - -- - -- - --- | - - -- - -- - -- - -- | - - -- - -- - -- - - |
+| 82 kg   | 3.6 mN   | 2.6 \mus    | 704 nm        | 4.8 GJ       |
 
----
+- - -
 
-|F in $\mu N$|F in $mN$|F in $N$|F in $kN$|F in $MN$|
-|:-|-|-|-|-:|
-|1 000 000|1 000|1|0.001|0.000 001|
-|5 000 000 000|5 000 000|5 000|5|0.005|
-|23 000 000 000 000|23 000 000 000|23 000 000|23 000|23|
-|6 000|6|0.006|0.000 006|0.000 000 006|
-|6 300 000|6 300|6.3|0.006 3|0.000 006 3|
-|12 300 000 000|12 300 000|12 300|12.3|0.012 3|
-|500 000 000 000|500 000 000|500 000|500|0.5|
-|32 000 000 000|32 000 000|32 000|32|0.32|
+| F in $\mu N$       | F in $mN$      | F in $N$   | F in $kN$ |     F in $MN$ |
+|:- - -- - -- - -- - -- - -- - - | - - -- - -- - -- - --- | - - -- - -- - -- | - - -- - -- - - | - - -- - -- - -- - --:|
+| 1 000 000          | 1 000          | 1          | 0.001     |     0.000 001 |
+| 5 000 000 000      | 5 000 000      | 5 000      | 5         |         0.005 |
+| 23 000 000 000 000 | 23 000 000 000 | 23 000 000 | 23 000    |            23 |
+| 6 000              | 6              | 0.006      | 0.000 006 | 0.000 000 006 |
+| 6 300 000          | 6 300          | 6.3        | 0.006 3   |   0.000 006 3 |
+| 12 300 000 000     | 12 300 000     | 12 300     | 12.3      |       0.012 3 |
+| 500 000 000 000    | 500 000 000    | 500 000    | 500       |           0.5 |
+| 32 000 000 000     | 32 000 000     | 32 000     | 32        |          0.32 |
 
----
+- - -
 $4x + 7 = 19$
 $4x = 12$
 $x = 3$
@@ -70,7 +70,7 @@ $v=10$
 $8x²-18x-18=0$
 $x²-\frac{9}{4}x-\frac{9}{4}=0$
 $n_1=-\frac{9}{2}+\sqrt{\frac{9}{2}²+\frac{9}{2}}=-\frac{9}{2}+\sqrt{\frac{81}{4}+\frac{18}{4}}=-\frac{9}{2}+\frac{\sqrt{\frac{99}{2}}}{2}$
----
+- - -
 $l_1=\frac{l_2*F_2}{F_1}$
 
 $t=\sqrt{\frac{2s}{a}}$
@@ -78,7 +78,7 @@ $a=\frac{2s}{t²}$
 
 $\alpha=\arcsin{\frac{c_1*\sin{\beta}}{c_2}}$
 $\beta=\arcsin{\frac{c_2*\sin{\alpha}}{c_1}}$
----
+- - -
 $\mu mgs=\frac{m}{2}v²$
 $s=\frac{v²}{2\mu g}$
 
@@ -112,15 +112,15 @@ $t_{1,2}= -\frac{v+-\sqrt{v² - 2sa}}{a}$
 1. ${0cm, 12.5cm}$
 1. ${9cm, 13cm}$
 Der Ort ist die Strecke zum Zeitpunkt $t$, wohingegen der Weg die Differenzen der einzelnen Orte bis zum Zeitpunkt $t$ entspricht.
----
+- - -
 1. ${20 \frac{km}{h}, 40 \frac{km}{h}}$
 1. ${26.66 \frac{km}{h}}$
----
+- - -
 
 ```functionplot
----
+- - -
 disableZoom: true
----
+- - -
 f(x)= x 22/60
 g(x)= x 25/60
 h(x)= x 10/60
@@ -137,7 +137,7 @@ h(x)= x 10/60
 |Fahrgast|$-128\frac{km}{h}$|$-3\frac{km}{h}$|x|$-10\frac{km}{h}$|
 |Kind|$-118\frac{km}{h}$|$7\frac{km}{h}$|$10\frac{km}{h}$|x|
 
----
+- - -
 1. $a=\frac{\Delta v}{\Delta t}=\frac{130\frac{km}{h}-85\frac{km}{h}}{6s}=7.5\frac{\frac{km}{h}}{s}$
 1. $13.88\frac{m}{s^2} > 9.81\frac{m}{s^2}$
 1. 
@@ -152,24 +152,24 @@ h(x)= x 10/60
 
 $\frac{0.45\frac{m}{s}+0.75\frac{m}{s}}{2}=0.6\frac{m}{s}$
 $\frac{2.35\frac{m}{s}+2.75\frac{m}{s}}{2}=2.55\frac{m}{s}$
----
+- - -
 Durch die Verringerung der zeitlichen Abstände zwischen den einzelnen Messpunkten kann die Messgenauigkeit der Beschleunigung erhöht werden.
 
----
+- - -
 $4.5\frac{km}{h}*5min+5.4\frac{km}{h}*2min=0.555km$
 
----
+- - -
 $\frac{5.5\frac{m}{s}*70s}{2}=192.5m$
 
----
+- - -
 $0.5\frac{m}{s²}*t=90\frac{km}{h}$
 $t=\frac{90\frac{km}{h}}{0.5\frac{m}{s²}}=\frac{25\frac{m}{s}}{0.5\frac{m}{s²}}=50s$
----
+- - -
 $v(t)=-2.5\frac{m}{s²}*t+21\frac{m}{s}$
 $0\frac{m}{s}=-2.5\frac{m}{s²}*t+21\frac{m}{s}$
 $-21\frac{m}{s}=-2.5\frac{m}{s²}*t$
 $t=\frac{-21\frac{m}{s}}{-2.5\frac{m}{s²}}=8.4s$
----
+- - -
 $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 
 ## 21.09.2022
@@ -215,16 +215,16 @@ $s(8.4s)=\frac{1}{2}-2.5\frac{m}{s²}*t²+21\frac{m}{s}*t=88.2$
 	- $T=\omega*r=\omega*3.85*10^8m=1022.9m/s$
 1. Pkw
 	- $a_r=\frac{v^2}{r}=\frac{(\frac{40000m}{60*60s})^2}{75m}=0.016m/s^2$
----
+- - -
 Die Radialbeschleunigung ist eine gleichmäßige, zum Zentrum hin beschleunigte Bewegung mit der Einheit $\frac{m}{s^2}$. Währenddessen ist die Winkelbeschleunigung der überschrittene Winkel in Relation zum Zentrum über eine gewisse Zeit mit der Einheit $\frac{1}{s}$.
 
 ## 2022-10-10
 
 ~~~functionplot
----
+- - -
 bounds: [0,10,0,30]
 disableZoom: true
----
+- - -
 f(x)=3x
 g(x)=2x+5.5
 h(x)=16.5
@@ -236,7 +236,7 @@ h(x)=16.5
 
 $\vec{p}=m*\vec{v}=150kg*1.2\frac{m}{s}=180\frac{kgm}{s}$
 $\vec{v}=\frac{m_1}{m_2}*v=\frac{150kg}{2500kgs}*1.2\frac{m}{s}*=0.072\frac{m}{s}$
----
+- - -
 $m_A=0.15kg$
 $v_A=18\frac{m}{s}$
 $m_E=5972*10^{21}kg$
@@ -245,7 +245,7 @@ Die Erde wird nicht aus ihrer Bahn geworfen, da der Apfel im Verhältnis zur Erd
 
 $\vec{p}=m*\vec{v}=0.15kg*18\frac{m}{s}=2.69\frac{kgm}{s}$
 $\vec{v}=\frac{\vec{p}}{m}=\frac{2.69kgm}{5972*10^{21}kgs}=4.52^{-25}\frac{m}{s}$
----
+- - -
 $m_0=12t$
 $v_0=25\frac{km}{h}$
 $\vec{p_0}=m_0*v_0=300\frac{tkm}{h}$
@@ -257,7 +257,9 @@ $v_1=50\frac{km}{h}$
 $m_2=800kg$
 $v_2=30\frac{km}{h}$
 $v'=\frac{m_1*v_1+m_2+v_2}{m_1+m_2}=\frac{2500kg*50\frac{km}{h}+800kg*30\frac{km}{h}}{2500kg+800kg}=45.15\frac{km}{h}$
----
+
+- - -
+
 $m_1=40g$
 $v_1=4\frac{m}{s}$
 $m_2=60g$
@@ -265,13 +267,17 @@ $v_2=0\frac{m}{s}$
 $v_1'=\frac{(m_1-m_2)*v_1+2m_2*v_2}{m_1+m_2}=\frac{(40g-60g)*4\frac{m}{s}}{40g+60g}=-0.8\frac{m}{s}$
 $v_2'=\frac{(m_2-m_1)*v_2+2m_1*v_1}{m_1+m_2}=\frac{2*40g*4\frac{m}{s}}{40g+60g}=3.2\frac{m}{s}$
 $v'=\frac{m_1*v_1+m_2+v_2}{m_1+m_2}=\frac{40g*4\frac{m}{s}}{40g+60g}=1.6\frac{m}{s}$
----
+
+- - -
+
 $m_1=80kg$
 $v_1=30\frac{km}{h}$
 $m_2=0.44kg$
 $v_2=0\frac{km}{h}$
 $v_2'=\frac{(m_2-m_1)*v_2+2m_1*v_1}{m_1+m_2}=\frac{2*80kg*30\frac{km}{h}}{80kg*0.44kg}=59.67\frac{km}{h}$
----
+
+- - -
+
 $m_s=5kg$
 $m_1=78.8kg$
 $v_1=3.1\frac{m}{s}$
@@ -294,7 +300,9 @@ $a=\frac{v^2}{r}=\frac{(30\frac{km}{h})^2}{\frac{20m}{2}}=90\frac{km}{h}=25\frac
 $F=m*a=\frac{1500kgm}{s^2}=1500N$
 $T=\frac{d*\pi}{v}=\frac{20m*\pi}{8.333\frac{m}{s}}=7.5398s$
 $f=\frac{1}{T}=\frac{1}{7.5398s}=0.13s^{-1}$
----
+
+- - -
+
 $m=7kg$
 $v=100\frac{km}{h}=27.777\frac{m}{s}$
 $r=2.5m$
@@ -308,11 +316,15 @@ $g=9.81\frac{m}{s^2}$
 $h=250m$
 $v=180\frac{km}{h}$
 $E_{pot}=13734000\frac{kgm^2}{s^2}$
----
+
+- - -
+
 $m*g*h=\frac{m}{2}v^2$
 $2*g*h=v^2$
 $h=\frac{v^2}{2*g}=\frac{(30\frac{km}{h})^2}{2*9.81\frac{m}{s^2}}=\frac{(8.333\frac{km}{h})^2}{2*9.81\frac{m}{s^2}}=3.54m$
----
+
+- - -
+
 $E_{ges}=E_{kin}+E_{pot}$
 $E_{pot}=E_{kin}*0.8$
 
@@ -328,20 +340,26 @@ $D=100\frac{N}{m}$
 $E_{spann}=\frac{1}{2}Ds^2=0.5Nm$
 $E_{pot}=m*g*h=E_{spann}=0.5Nm$
 $h=\frac{E}{m*g}=1.02m$
----
+
+- - -
+
 $m=80kg$
 $h=8848m$
 $g=9.78\frac{m}{s^2}$
 $g=9.81\frac{m}{s^2}$
 $E_{pot}=m*g*h=6922675.2Nm$
 $E_{pot}=m*g*(h-6850)=1563235.2$
----
+
+- - -
+
 $m=380t=380000kg$
 $v=100\frac{km}{h}=27.77\frac{m}{s}$
 $E_{kin}=\frac{1}{2}m*v^2=146522851Nm$
 Die Energie ist vervierfacht wurden.
 $v=141.42\frac{km}{h}=39.28\frac{m}{s}$
----
+
+- - -
+
 $m=950kg$
 $v_1=50\frac{km}{h}=13.88\frac{m}{s}$
 $v_2=70\frac{km}{h}=19.44\frac{m}{s}$
@@ -351,7 +369,9 @@ $E_{kin}=\frac{1}{2}*m*v=179508.96J$
 
 $a=5\frac{km}{h}=1.38\frac{m}{s}$
 $20\frac{km}{h}$
----
+
+- - -
+
 Auf dem Diagramm ist die Kraft $F$ in Abhängigkeit von der Dehnung der Feder $s$ dargestellt. 
 Der Graph der Feder 1 ist linear steigend, wohingegend Graph 2 nicht linear steigt. Beide Graphen beginnen im Koordinatenursprung. 
 Die Fläche unter dem Graphen beschreibt die Arbeit. Der Anstieg der Graphen beschreibt die Federkonstante $D$. Diese gibt an, wie viel Kraft aufgewendet wird, um die Feder um 1 cm zu dehnen (Beispiel Feder 1: $0.75\frac{N}{cm}$)
@@ -366,10 +386,13 @@ $E_{pot}=m*g*h$
 $W=F_B*s_0$
 $m*g*(h+s)=F_B*s$
 $F_B=\frac{m*g*(h+s)}{s}=\frac{70kg*9.81\frac{m}{s^2}}{0.26m}=1743.16N$
----
+
+- - -
+
 $P=\frac{F*s*\cos{\alpha}}{t}=F*\frac{s}{t}*\cos{\alpha}=F*v*\cos{\alpha}$
 
----
+- - -
+
 $1kWh=1000Wh=1000W*3600s=3.6e6J$
 
 ### Schülerexperiment: Heben Einer Masse
@@ -389,12 +412,15 @@ $1kWh=1000Wh=1000W*3600s=3.6e6J$
 - **Einheitenbetrachtung**
 	- $[P_{Hub}]=\frac{kg*\frac{m}{s^2}*m}{s}=\frac{N*m}{s}=\frac{J}{s}=W$
 
----
+- - -
+
 $m=50kg$
 $h=15m$
 $t=25s$
 $P=\frac{m*g*h}{s}=\frac{50kg*15m*8.81\frac{m}{s^2}}{25s}=294.3W$
----
+
+- - -
+
 $F=1200N$
 $v=72\frac{km}{h}=20\frac{m}{s}$
 $P=\frac{1200N}{2}*20^2=24kW$
@@ -430,7 +456,7 @@ $\frac{m}{2}v^2=mgh+\mu mg\cos{\alpha}*s$
 $\frac{m}{2}v^2=mgs\sin{\alpha}+\mu mg\cos{\alpha}*s$
 $\frac{v^2}{2}=g(\sin{\alpha}+\mu\cos{\alpha})s$
 $s=\frac{v^2}{2 g(\sin{\alpha}+\mu\cos{\alpha})}=65.87m$
----
+- - -
 $m_T=85kg$
 $m=J=60kg$
 $h_{Anf}=6m$
@@ -450,7 +476,8 @@ $\frac{v_2^2}{2}=g*h$
 $h=\frac{v_2^2}{2*g}=2.06m$
 Tarzan und Jane erreichen eine Höhe von etwas mehr als 2 Metern. Das Rettungsmanöver glückt.
 
----
+- - -
+
 $h=20m$
 $r=\frac{h}{2}=10m$
 $v=87\frac{km}{h}=24.16\frac{m}{s}$
@@ -474,10 +501,13 @@ $v=\sqrt{2*s*a}=\sqrt{2*s*\mu g}=8.71\frac{m}{s}$
 $E_{kin}=W_{R}$
 $1/2 v^2m=m*\mu*g*s$
 $v=\sqrt{2*s*\mu*g}=8.71\frac{m}{s}$
----
+
+- - -
+
 Durch das nicht blockieren der Räder nutzt man die Haftreibung, und nicht die Gleitreibung, welche höher wäre.
 
----
+- - -
+
 - Knautschzonen
 	- Knautschzonen sind Bereiche eines Fahrzeugs, die besonders verformbar sind und bei einem Aufprall die Energie absorbieren, um die Insassen des Fahrzeugs vor Verletzungen zu schützen
 	- Verlängerung des Bremsweges
@@ -489,7 +519,9 @@ Durch das nicht blockieren der Räder nutzt man die Haftreibung, und nicht die G
 - Kopfstütze
 	- Kopfstützen sind im Rücksitz und im Fahrersitz installiert, um den Kopf und den Hals im Falle eines Aufpralls zu stützen und zu schützen
 	- Fängt das nach hinten knicken des Kopfes ab
----
+
+- - -
+
 $\frac{m_K+m_H}{2}v^2=(m_K+m_H)*g*h$
 $\frac{1}{2}Ds^2=\frac{m_K}{2}v_K^2$
 $m_K*v_K=(m_K+m_H)v$
@@ -520,7 +552,9 @@ $E_{kin}=E_{pot}$
 $\frac{m}{2}v^2=m*g*\sin{alpha}*s+\mu*m*g*\cos{\alpha}*s$
 $\frac{v^2}{2gs}=\sin{alpha}+\mu\cos{\alpha}$
 $s=\frac{v^2}{2g(\sin{alpha}+\mu\cos{\alpha)}}=65.87m$
----
+
+- - -
+
 $m_1=85kg$
 $m_2=60kg$
 $m_{ges}=145kg$
@@ -652,5 +686,17 @@ $I=I_0*e^{-\frac{t}{\tau}}$ ==Nacharbeiten==
 **Grenzen des Modells**
 - Keine quantitative Aussage über die Beträge der Wirkenden Kräfte
 - Feldlinien suggerieren ein zweidimensionales Feld, es handelt sich aber um ein dreidimensionales Feld
+
 - - -
+
 - Der Fahrraddynamo besteht aus einem Magnet, der in 8 verschiedene, sich abwechselnde Pole besteht. 
+
+## 2023-03-15
+
+$B=\mu_{0}\mu_{r}\frac{NI}{l}=\mu_{0}\mu_{r}H$
+$H_1=\frac{NI}{l}=\frac{400*1A}{0.005m}=8000\frac{A}{m}$
+$H_1=\frac{NI}{l}=\frac{1600*0.25A}{0.005m}=8000\frac{A}{m}$
+
+- - -
+
+$B=\frac{F}{I*s*\sin{\varphi}}=\frac{2*19^{-3}N}{3A*0.1m}=6.67*10^{-3}T$
