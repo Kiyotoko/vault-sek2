@@ -173,3 +173,24 @@ graph TB
 Macht euch Gedanken dazu, warum wir uns heute mit ihm beschäftigen wollen.
 
 Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefühle“ war hierbei sein Hauptwerk. Wen nennen wir tugendhaft? Diese Frage lässt sich leicht in zwei Einzelfragen aufspalten: Welche Tugenden nützen dem Einzelnen und welche haben Einfluss auf die Glückseligkeit anderer Menschen? Zu den Ersteren gehört die Tugend, alles Erdenkliche zu tun, um seinen eigenen Körper zu erhalten, zu pflegen, ihm Lust zu bereiten und der Unlust aus dem Weg zu gehen. Diese Tugend heißt Klugheit und wird uns von Kindesbeinen an beigebracht. Dazu gehört auch, dafür zu sorgen, dass man in der Achtung der Mitmenschen aufsteigt und so den gebührenden Rang einnehmen kann. In Bezug auf andere Menschen kann ein Individuum zwei Wege wählen: Es kann den anderen schaden oder nützen. Schaden ist in den Augen eines unparteiischen Zuschauers nur aus einem Grund statthaft: aus Vergeltungsgefühl, weil der andere den Handelnden geschädigt hat. Das Naturrecht, aus dem das staatliche Strafrecht abgeleitet ist, gebietet uns, solche Taten zu sühnen.
+
+- - -
+
+[Antropologie der ökonomischen Klassiker](Working%20Materials/Antropologie%20der%20ökonomischen%20Klassiker.pdf)
+
+- **Adam Smiths Gefühlsethik**
+	- Durch das Erbarmen oder Mitleid empfinden wir mit anderen mit
+	- Dies trifft auf die alle Menschen zu
+	- Wenn anderen Leiden zugefügt wird, fühlen wir mit
+	- Das Mitleid kann niemals so groß sein wie das Leid
+	- Eben jenes Prinzip fasst er unter dem Begriff der Sympathie zusammen
+
+- **Adam Smiths Menschenbild**
+	- Adam Smith sieht den Menschen als soziales Wesen an.
+	- Der Mensch kooperiert und fühlt mit anderen Menschen von Natur aus mit.
+	- Der Mensch hat einen  „Inneren Beobachter“, welcher ihm stets zu steter Verbesserung und zur Vernunft antreibe und ihn so zugunsten der Allgemeinheit steuere
+
+- **Bedeutung des Mitleids**
+	- Adam Smith sieht die Grundfähigkeit, um sich in andere hineinzuversetzen, im Mitleid.
+	- Mitleid ist nicht nur ein passives Gefühlt, sondern kann aktiv zum Handeln führen
+	- Die Mitleid führt zur Empathie, auf die die Gesellschaft aufbaut

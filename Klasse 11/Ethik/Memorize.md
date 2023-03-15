@@ -72,12 +72,12 @@ Hier kommt es zu einem Widerspruch, da ein Wille kaum frei als auch eingeschrän
 
 ### Verhalten Vs Handeln
 
-|Verhalten|Handeln|
-|-|-|
-|beobachtbare und messbare Aktivität|bewusste Tätigkeit aus Gründen|
-|zufällig oder determiniert|Zielgerichtet, indeterminiert|
-|kommt bei Menschen, Tieren und Objekten vor|nur bei Menschen|
-|teilweise angeboren|vom Subjekt ausgehend, „Ich-Leistung“|
+| Verhalten                                   | Handeln                               |
+| ------------------------------------------- | ------------------------------------- |
+| beobachtbare und messbare Aktivität         | bewusste Tätigkeit aus Gründen        |
+| zufällig oder determiniert                  | Zielgerichtet, indeterminiert         |
+| kommt bei Menschen, Tieren und Objekten vor | nur bei Menschen                      |
+| teilweise angeboren                         | vom Subjekt ausgehend, „Ich-Leistung“ |
 
 ### Der Mensch Als Gehirnwesen
 
@@ -301,3 +301,11 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 	- Eigenes Leid erscheint im Vergleich zu fremden Leiden als weniger schlimm
 	- Fremdes Leiden lindert das eigene Leiden
 	- Beruht auf der Erkenntnis, dass mein eigenes Leben niemals Enden wird. Deshalb soll fremdes Leid mein eigenes Mindern und zudem die eigene Macht demonstrieren.
+
+## Adam Smith
+
+|                         | Adam Smith                                                  | Arthur Schopenhauer                                          |
+| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| Mitleid                 | Ursprung des gesellschaftlichen Handelns                    | Einzig moralische Triebfeder                                 |
+| Menschenbild            | Sozialer Mensch, Gefühle kennzeichnen die menschliche Natur | Sozialer Mensch, der Mensch handelt grundsätzlich Egoistisch |
+| Triebfeder des Menschen | Erbarmen                                                    | Egoismus, Mitleid und Bosheit                                |
