@@ -3,14 +3,14 @@ tags:
 - topic/language
 ---
 
-# 2022-09-07
+## 2022-09-07
 
 The pros of a lingua franca are, that people around the world can communacate with each other and learn new cultures with it. Because of the new ways of communication, a lingua fraca has become more important, for reading sientific papers that was published around the world, for example.
 cons: when you understand everyone, you can also understand Max, sometimes you don't want to understand Max, it can also
 
 The reasons for a Lingua Franca are, that the pop culture of the language spreads and more persons what to understand it. Another reason is colonization and wars. With the rise and fall of a nation, also the number of speakers increases.
 
-# 2022-09-14
+## 2022-09-14
 
 |Lingua Franca|Time|Reasons for the spread of the language|
 |:-|-|-:|
@@ -32,7 +32,7 @@ Another point is, that we only learn traditional languages like French or German
 
 In conclusion, the author compares English with Latin; If the people speaking it don't start learning another language, the language will end up dying.
 
-# 2022-09-21
+## 2022-09-21
 
 - Introduction (Basic Ideas: Author)
 - Should contain only the important information
@@ -53,7 +53,7 @@ In conclusion, the author compares English with Latin; If the people speaking it
 	- had a dinner in a traditional chines restaurant
 	- was on sightseeing in china
 
-# 2022-10-05
+## 2022-10-05
 
 1. Explain whether it makes sense to you to compare a future Venice to Machu Picchu.
 It makes sense, because Machu Picchu is a city without any citisens, and the citisens of Venice is going down each year. (From 120 000 to 50 000)
@@ -63,7 +63,7 @@ the cruising ships are a symbol of mass tourism
 1. Name the questions the Venetian woman was shocked by and think of a reason .
 tourist expects local buildings as museums
 
-# 2022-10-12
+## 2022-10-12
 
 - __pros:__
 	- learn other cultures - japan
@@ -82,7 +82,7 @@ Your healthy matters. In Germany you have a top health support available and hea
 
 Everyone should travel and come around in the world. But traveling to often brings problems that you should be aware of, like paying for your living costs. 
 
-# 2022-11-02
+## 2022-11-02
 
 	*Karl* May I help you?
 	
@@ -100,7 +100,7 @@ Everyone should travel and come around in the world. But traveling to often brin
 	
 	*Max* What ...? No, thanks ... I guess I am just going to the baba ganoush shop.
 
-# 2022-11-09
+## 2022-11-09
 
 - *Outline* focus on the main features
 - *Summarize* express the main points
@@ -112,7 +112,7 @@ Everyone should travel and come around in the world. But traveling to often brin
 - explain why people do not return there goods
 	- most do not return it, because it is so cheap that they think that it is easier to just keep it than return it
 
-# 2022-12-14
+## 2022-12-14
 
 - German language is perfect language
 	- Schadensfreude
@@ -129,7 +129,7 @@ English is the most important language in the internet. If you already speak the
 
 In the end, I think that it would be easier if everyone would speak only English.
 
-# 2023-01-11
+## 2023-01-11
 
 1. Give one or two examples of mass shootings in the U.S. (M1)
 	- In October, 2nd, 2017, opened a gunman fire on an open air festival from the 32nd floor of the Mandalay Bay hotel. 60 people were killed and more than 500 injured.
@@ -164,7 +164,7 @@ In the end, I think that it would be easier if everyone would speak only English
 	- repeat main points
 	- refer to audience again
 
-# 2023-01-18
+## 2023-01-18
 
 - „cold grip of gun violence“ Line 5, Personification, humanization
 - „No one \[...\]“ Line 6 - 11, Anaphora, repetition
@@ -176,7 +176,7 @@ In the end, I think that it would be easier if everyone would speak only English
 	- His body language is very calm and open. He looks around at all audiences and not only in the camera.
 	- He underlines important words with his hands.
 
-# 2023-01-25
+## 2023-01-25
 
 - **Martin Sonneborn**
 	- he is a calm and satirical speeker
@@ -205,7 +205,7 @@ Doch Sie können etwas daran ändern! Gehen Sie auf ihren Abgeordneten zu, unter
 
 Danke.
 
-# 2023-02-08
+## 2023-02-08
 
 - „Despite all our differences ...“, line 11
 - „... that isn't ...“, line 17 following
@@ -231,7 +231,7 @@ Throughout his speech, Obama emphasized the importance of shared values, such as
 
 Overall, Obama's victory speech was a masterful display of rhetorical devices and messaging. By emphasizing shared values and reaching out to those who had not supported him, he was able to unite the country and inspire hope for a better future.“
 
-# 2023-03-08
+## 2023-03-08
 
 - Title: Lana del Rey's Speech at the "Billboard Women in Music" event
 - Speaker: Lana del Rey's 
@@ -244,3 +244,9 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 	- The American Deam means that you can reach anything and fulfill their dreams.
 1. State the similarities and differences of their concept of "The American Dream"
 	- They think different about the way to fulfill their dreams. For example, Tyra Banks think that the american dream can be fulfilled with hard work and determination. In opposite, 
+
+## 2023-03-15
+
+- Greenberg 2001
+- American Dream
+- Just add money
