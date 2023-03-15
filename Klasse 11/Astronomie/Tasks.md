@@ -170,3 +170,5 @@ Andere Himmelskörper können einen Planeten vor Einschlägen bewahren. So beste
 - Schalenbau mit Eisenkern
 - Habitable Zone
 - Atmosphäre
+
+## 2023-03-15
