@@ -1,11 +1,9 @@
-from math import perm, comb, atan2, hypot
-
-
 FUNCTIONS = {
-    'perm': perm,
-    'comb': comb,
-    'atan2': atan2,
-    'hypot': hypot
+    'add': lambda a, b: a+b,
+    'sub': lambda a, b: a+b,
+    'mul': lambda a, b: a*b,
+    'div': lambda a, b: a/b,
+    'pow': lambda a, b: a**b
 }
 
 
@@ -27,7 +25,7 @@ def get_function(description: str = "Enter a function: "):
         return get_function(description)
 
 
-n = get_number()
-k = get_number()
+a = get_number()
+b = get_number()
 f = get_function()
-print(f(n, k))
+print(f(a, b))

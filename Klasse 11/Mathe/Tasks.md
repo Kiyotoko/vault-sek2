@@ -1599,3 +1599,13 @@ $P_{\bar{E}}(M)=\frac{0.003}{0.9245}$
 
 $P_P(I)=\frac{0.0462}{0.0932}=0.4957$
 $P_{\bar{P}}(\bar{I})=\frac{0.893}{0.9068}=0.9848$
+
+## 2023-03-16
+
+In einem Freizeitpark wurden in 1 Stunde 28 Besucher gezählt. Davon Waren 16 Erwachsene. Von den Erwachsenen waren genau 7 männlich. Genau 20 Besucher waren Mädchen.
+
+|             | Männlich | Weiblich | Total |
+| ----------- | -------- | -------- | ----- |
+| Kind        | $2$      | $20$     | $22$  |
+| Erwachsener | $7$      | $9$      | $16$  |
+| Total       | $9$      | $29$     | $38$  |

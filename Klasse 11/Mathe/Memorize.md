@@ -857,3 +857,23 @@ Heute fährt er nicht mit dem Bus. Mit welcher Wahrscheinlichkeit kommt er zu sp
 $P_\bar{B}(\bar{P})=\frac{0.25}{0.5}$
 
 $P(B\cap P)=0.35\quad P(B\cap\bar{P})=0.15$
+
+## Unabhängigkeit zufälliger Ereignisse
+
+Zwei Ereignisse $A$ und $B$ heißen stochastich voneinander unabhängig genau dann, wenn gilt $P_{A}(B)=P(B)$ und $P_{B}(A)=P(A)$
+
+### Multiplikationssatz
+
+Sind A und B stochastisch voneinander unabhängig, dann gilt: $P(A\cap B)=P(A)*P(B)$
+
+**Beispiel**
+Tankstellenbesitzer Til weiß aus Erfahrung, dass $30\%$ seiner Kunden Superbenzin tanken, wobei $40\%$ von diesen die Automarke M fahren.
+Außerdem weiß er, dass $42\%$ aller seiner Kunden weder Fahrer der Automarke M sind, noch Super tanken.
+
+|           | $S$    | $\bar{S}$ | Total |
+| --------- | ------ | --------- | ----- |
+| $M$       | $0.12$ | $0.28$    | $0.4$ |
+| $\bar{M}$ | $0.18$ | $0.42$    | $0.6$ |
+| Total     | $0.3$  | $0.7$     | $1$   |
+
+$P(A\cap B)=P(M)*P(S)=0.4*0.3=0.12$
