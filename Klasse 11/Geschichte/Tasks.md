@@ -186,3 +186,17 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 - Alle anderen stehen unter ihm
 
 In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die selben rechte hat und wählen kann. Dem entgegen steht das Kaiserreicht, welches zwar auch vereint ist, jedoch einen Monarchen und ein starkes Militär hat.
+
+- - -
+
+- **Eisen und Blut**
+	- Monarchie stärken
+	- Kritik am Liberalismus
+	- Kritik an der Presse
+	- Grenzen sollen durch das Militär erweitert werden
+
+- - -
+
+1. 1864 hat Österreich-Preußen Dänemark angegriffen
+2. Dann haben Preußen und Verbündete 1866 Krieg gegen Österreich und die übrigen Staaten geführt
+3. Danach wurde Preußen 1870/1871 nach Westen hin erweitert, durch die Belagerung französische Stätte und Grenzregionen
