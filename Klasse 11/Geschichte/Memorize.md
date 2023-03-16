@@ -77,3 +77,8 @@ tags:
 	- Paulskirchenversammlung hat kein eigenes Militär
 	- Sieg der Gegenrevolution in Wien und Berlin
 	- Preußischer König lehnt Kaiserkrone ab
+
+# Gründung des Kaiserreiches
+
+- Gründung des ersten deutschen Kaiserreiches 1871
+- Erster deutscher Kaiser ist Wilhelm der Erste

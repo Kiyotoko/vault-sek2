@@ -3,7 +3,7 @@ tags:
 - topic/history
 ---
 
-# 01.09.2022
+## 01.09.2022
 
 - Merkantilismus
 - Dampfmaschinen
@@ -31,7 +31,7 @@ tags:
 - Urbanisierung
 - Pauperismus
 
-# 08.09.2022
+## 08.09.2022
 
 ```mermaid
 graph TD
@@ -71,7 +71,7 @@ graph TD
 	end
 ```
 
-# 15.09.2022
+## 15.09.2022
 
 - **Aufgaben des Staates**
 	1. Angriffe von außerhalb Abwenden
@@ -88,7 +88,7 @@ Smith geht geht bei seinem kritischen Egoismus davon aus, dass jeder dadurch, da
 | Preisbildung                     | Angebot/Nachfrage                                  | Staatlich festgelegt                                                              |
 | Arbeitsbeziehung                 | Lohnpreisbildung                                   | Staatliche Eingriffe                                                              |
 
-# 22.09.2022
+## 22.09.2022
 
 Die Karikatur „Capital and Labour“, welche Anonym 1843 in der englischen Satirezeitschrift Punch veröffentlicht wurde, handelt von dem Kapital und der Arbeit während der Industrialisierung.
 
@@ -98,7 +98,7 @@ Kritisiert wird somit der damalige Zustand des Proletariats.
 
 „Capital and Labour“ ist durchaus für ihre Zeit repräsentativ, da sie den Pauperismus während des 19th Jahrhunderts widerspiegelt, sowie die wichtige Säule der Industrialisierung, den Kohle- und Eisenabbau, darstellt.
 
-# 29.09.2022
+## 29.09.2022
 
 Aus der Sicht eines Wirtschaftsliberalisten ist das preußische Landrecht zu Verurteilen, da es das Ständesystem begünstigt. Da dadurch alles starr und festgefahren ist, wird jegliche Chance auf einen fairen, wettkampforientierten Markt genommen
 
@@ -111,14 +111,14 @@ Aus der Sicht eines Wirtschaftsliberalisten ist das preußische Landrecht zu Ver
 	- viele beginnen mehrere Gewerbe, ohne das sie vom jeweiligen auch nur Ahnung haben
 	- da sie keine Ahnung haben, scheitert es meistens, und treibt Individuen in den Ruin
 
-# 2022-11-10
+## 2022-11-10
 
 Die „Soziale Frage“ beschreibt das Massenelend, entstanden durch die sinkenden Löhne und der Abhängigkeit vom Arbeitgeber. 
 Ursachen für die soziale Frage waren der Umbruch von der feudalen Agrargesellschaft zur kapitalistisch bestimmten Industriegesellschaft, Auflösung der traditionellen patriarchalischen Ordnungen keine soziale Sicherung durch Großfamilie und die Landflucht und die Bevölkerungsexplosion, der Niedergang der Agrar- und Zunftverfassung.
 Auch in England haben Landflucht und die Bevölkerungsexplosion zur Armut geführt. Der Pauperismus in England kann sehr gut mit der Situation in Deutschland verglichen werden. Allerdings verlief der Umbruch in England wesentlich schneller als in Deutschland.
 Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien, fehlende Ausbildung, Wohnungsmangel,  sowie Frauen und Kinderarbeit.
 
-# 2022-11-24
+## 2022-11-24
 
 - Kathedersozialismus fordert Milderung der Klassengegensätze
 - Genossenschaften wurden gegründet
@@ -129,7 +129,7 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 
 ![Mann der Arbeit aufgewacht - AB2 - Schüler](Working%20Materials/Industiraliesierung/Mann%20der%20Arbeit%20aufgewacht%20-%20AB2%20-%20Schüler.docx)
 
-# 2022-12-08
+## 2022-12-08
 
 1. Nennen Sie die unterschiedlichen „Parteien“ und Strömungen sowie deren Forderungen (Vorstellungen) des „ewigen“ Friedens (M1).
 	- Der Staatenbund der Bundesversammlung möchte einen eigenen Deutschen Bund begründen. Als Vorbild war hierfür die Französische Revolution. Ziel war die Begründung eines eigenen deutschen Staates. Dabei wollten die „liberalen“ nur einen Staat mit Monarchie und Parlament, sowie ein Wahlrecht für die Reichen, die „Demokraten“ oder „Radikalen“ forderten hingegen Gleichheit für alle Mitglieder und allgemeines Wahlrecht für Männer. Die „Heilige Allianz“ aus Preusen, Russland und Österreich wollten Restauration (Wiederherstellung alter Machtverhältnisse).  
@@ -138,7 +138,7 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 1. Ordnen Sie das erlassene Turnverbot (M4) in den geschichtlichen Zusammenhang ein! 5. Bewerten Sie die „Karlsbader Beschlüsse“ (M5)! 
 	- Das Turnverbot 1819 kam durch die Ereignisse bei Wartburgfest. Beim Wartburgfest kam es zu heftigen Auseinandersetzungen. Das Turnen wurde eingeführt, um Disziplinen bei zu bringen. Jetzt wurde es jedoch verboten, weil der Schrifsteller August von Kotzbue ermordet wurde und daraufhin der preußische König das Turnier verbieten ließ. 
 
-# 2022-12-15
+## 2022-12-15
 
 1. Nennen Sie Kennzeichen, tragende Kräfte und Forderungen der Epoche des Vormärz (M1)! 
 	- Deutsche Epoche zwischen 1830 und 1848
@@ -158,12 +158,12 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 	- Er glaubt an Gottesgnadentum
 	- Mit seiner Versöhnungspolitik versuchte er nur grundlegend die Bedürfnisse abzudecken.
 
-# 2023-01-05
+## 2023-01-05
 
 1. Erläutern Sie, warum Karl Marx und Friedrich Engels den Deutschen das das Zusammengehen mit der Bourgeoisie (M3) empfehlen! 
 1. Bewerten Sie die in M4 genannten Handlungen Friedrich Wilhelms
 
-# 2023-01-26
+## 2023-01-26
 
 1. Beschreiben Sie, wie sich das Vorparlament legitimierte (M1)!
 	- Die Heidelberger Versammlung, aud der sich 51 Demokraten und Liberalen tragen, wählte den Siebener-Ausschuss. Das Vorpalarment kam durch eben dieses Siebener-Ausschusses zustande. Somit wurde das Vorparlament durch die Revolution legitimiert
@@ -175,3 +175,14 @@ Resultierende Folgen sind Massenarmut, Niedriglöhne, Städtewachstum, Epidemien
 	 - Die „großdeutsche Lösung“ ist deshalb gescheitert, weil der Führungsanspruch sowie die Konflikte zwischen Preußen und Östterreich eine deutsche Einheit verhindert haben. Der österreichische-preußische Dualismus als auch die Schlesischen Kriege, sowie die Spannungen in der Religion zwischen dem katholischen Norden und dem protestantischen Süden. Hinzu kommt, das Österreich damals aus vielen verschiedenen Volksgruppen bestand und durch eine Großdeutsche Lösung diese Teile verloren hätten.
 1. Bewerten Sie unter Einbezug des Darstellungstextes M5 die „Paulskirche“(Parlament/Quatschbude)!
 	- Die „Paulskirche“ kann sowohl positiv als auch negativ gesehen werden. Die Nationalversammlung ist mit der Schaffung einer Nation und einer Einheit gescheitert. Durch die anspruchsvolle Grundrechdebatte hatten sie hierfür schlichtweg zuviel Zeit verloren. Da sie allerdings bei der Schaffung einer Nation gescheitert sind, hatten sie somit auch die Bürgerechte verloren, für die sie gekämpft hatten. Doch da die Grundrechte, die verabschiedet wurden, noch die Grundlage für die Weimarer Reichsverfassung und das Grundgesetzt bildeten, kann die „Paulskirche“ wohl kaum als „Quatschbude“ bezeichnet werden. Da ihre Entscheidungen aber auch keine Wirkung gezeigt haben und sie nichts wirklich direkt verändern konnten, können sie auch kaum ein anerkanntes Parlament sein.
+
+## 2023-03-16
+
+- Kaiserreichtsgründung 1871
+- Proklamation von Willhem I. zum Deutschen Kaiser im Spiegelsaal des Schlosses von Versailles
+- Gemälde von Anton von Werner
+- Verschiedene militärische Angehörige salutieren vor Wilhelm I.
+- Rechts steht erhoben Wilhelm I. neben seinen hohen Abgeordneten
+- Alle anderen stehen unter ihm
+
+In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die selben rechte hat und wählen kann. Dem entgegen steht das Kaiserreicht, welches zwar auch vereint ist, jedoch einen Monarchen und ein starkes Militär hat.
