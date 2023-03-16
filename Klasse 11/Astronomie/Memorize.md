@@ -214,4 +214,29 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 
 ## Frühe Zeitzeugnisse astronomischer Beobachtung
 
-- Stonehange's Monolithen (3000 v. Chr.) waren nach dem Auf- und Untergang der Sonne zu den Sonnwenden ausgerichtet
+- Megalith-Anlagen (wie Stonehenge, ca. 3000 v. Chr.)
+	- besondere Anordnung für Sonnenwinterwende
+	- Mondereignisse sind markiert
+	- Markierungen durch Steine oder Landschaft
+	→ „Kalender“ für Aussaat und Ernte
+
+- Himmelsscheibe von Nebra
+	- Vermutliche Darstellung des Kosmos: Sternenhimmel der Nutzungsortes zu bestimmten Jahreszeiten
+	- Horizontbögen markiert
+	- Auf- und Untergangspunkte der Sonne im Jahresverlauf
+
+- **Hochkulturen**
+	- Maja (500 v. Chr.)
+		- Gebäude mit baulichen Markierunge für Sonnenereignisse
+		- Kalender
+	- Ägypten (1000 v. Chr.)
+		- Wenn der Sirius vor die Sonne steigt, steht die nächste Nilüberflutung an
+		→ Hochwasser bring fruchtbaren Schlamm
+		→ Kalender für Aussaatzeit
+	- Babylon (2000 v. Chr.)
+		- Tierkreiszeichen
+	- China (2000 v. Chr.)
+		- Vorhersagung einer Sonnenfinsternis
+		- Kalendarische Zusammenhänge
+	- Indien (1000 v. Chr.)
+		- Kosmologie
