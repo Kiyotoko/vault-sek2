@@ -1,0 +1,16 @@
+- **Musikalische Ursprünge**
+	- Spiritual / Gospel
+		- traditionell mehr Rythmik als Harmonie 
+		- inhaltlichen Ursprung im alten (spiritual) / neuen (gospel) Testament
+	- Worksong
+		- wurde rhytmisch als Melodie während der Arbeit gesungen
+	- Ragtime
+		- Der Ragtime kann als Vorläufer des eigentlichen Jazz gewertet werden. Ragtime, wörtlich etwa: zerrissener Takt, ist eine komponierte Klaviermusik, die im mittleren Westen der USA gegen 1870 aufkam. Es fehlt ihr also ein Grundelement des Jazz: die Improvisation.
+	- Blues
+		- 12 Taktischer Volksliedform
+		- A + A + B
+		- Rhytmik: Synkonisierung
+- **Historische Vorraussetzungen**
+	- versklavung
+	- vermischung europäischer und afrikanischer Kultur
+	- erfindung der Schallplatte

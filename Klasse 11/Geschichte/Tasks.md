@@ -200,3 +200,11 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 1. 1864 hat Österreich-Preußen Dänemark angegriffen
 2. Dann haben Preußen und Verbündete 1866 Krieg gegen Österreich und die übrigen Staaten geführt
 3. Danach wurde Preußen 1870/1871 nach Westen hin erweitert, durch die Belagerung französische Stätte und Grenzregionen
+
+- - -
+
+- **Der Deutsch-Dänischer Krieg**
+	- Preußen und Österreich gegen Dänemark
+	- Herzogtümer Schleswig und Holstein sollte dänisch werden
+	- Dänemark verlor, da Preußen und Österreich moderner Waffen und besser Organisiert waren.
+	- Dänemark hat ein drittel seiner Fläche verloren

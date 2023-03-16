@@ -1,9 +1,11 @@
 quiz = [
-    ("Was ist die Hauptstand von Deutschland? ", "Berlin"),
-    ("Was ist die Hauptstand von England? ", "London"),
-    ("Was ist die Hauptstand von Italien? ", "Rom"),
-    ("Was ist die Hauptstand von Frankreich? ", "Paris"),
-    ("Was ist die Hauptstand von Belgien? ", "Amsterdam")
+    ("Was ist die Hauptstadt von Deutschland? ", "Berlin"),
+    ("Was ist die Hauptstadt von England? ", "London"),
+    ("Was ist die Hauptstadt von Italien? ", "Rom"),
+    ("Was ist die Hauptstadt von Frankreich? ", "Paris"),
+    ("Was ist die Hauptstadt von Niederlande? ", "Amsterdam"),
+    ("Was ist die Hauptstadt von Belgien? ", "Brüssel"),
+    ("Was ist die Hauptstadt von Spanien? ", "Madrid")
 ]
 
 global score

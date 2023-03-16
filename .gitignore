@@ -1,10 +1,22 @@
 # obsidian settings
 .obsidian
 
-# deprecated folders
-Klasse 9
-Klasse 10
-
 # private files
 Noten.md
-Stundenplan.*
+
+# microsoft office
+*.docx
+*.xls
+*.slsx
+*.msg
+*.ppt
+*.pptx
+
+# libre office
+*.odt
+*.ods
+*.odp
+*.odg
+
+# plain text
+*.txt
