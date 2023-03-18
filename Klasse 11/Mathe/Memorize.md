@@ -824,13 +824,13 @@ $P(B)=P(A)*P_{A}(B)+P(\bar{A})*P_{\bar{A}}(B)$
 
 ~~~mermaid
 graph TB
-A[ ]
-A-->A0[rot]
-A-->A1[blau]
-A0-->A00[rot]
-A0-->A01[blau]
-A1-->A10[rot]
-A1-->A11[blau]
+A[*]
+A-->|50%|A0[rot]
+A-->|50%|A1[blau]
+A0-->|50%|A00[rot]
+A0-->|50%|A01[blau]
+A1-->|50%|A10[rot]
+A1-->|50%|A11[blau]
 ~~~
 
 ## Satz von Bayes
