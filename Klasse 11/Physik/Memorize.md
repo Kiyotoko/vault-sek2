@@ -390,7 +390,7 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 
 # Elektrostatik Und Elektrodynamik
 
-## Die Größe Der Elektrischen Ladung
+## Die Größe der elektrischen Ladung
 
 Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektronenüberschuss) oder positive (Elektronenmangel) Ladung ist.
 
@@ -400,7 +400,7 @@ Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektro
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
 
-### Kräfte Zwischen Elektrostatisch Geladenen Körpern
+### Kräfte zwischen elektrostatisch geladenen Körpern
 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
 

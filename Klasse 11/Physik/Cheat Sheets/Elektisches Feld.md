@@ -1,20 +1,43 @@
 # Elektrisches Feld
 
-|             | Formelzeichen | Einheit                   | Formel          |
-| ----------- | ------------- | ------------------------- | --------------- |
-| Feldstärke  | $E$           | $\frac{V}{m}=\frac{N}{C}$ |                 |
-| Potenzial   | $\varphi$     | $V=\frac{J}{C}$           |                 |
-| Stromstärke | $I$           | $A$                       | $\frac{Q}{t}$   |
-| Widerstand  | $R$           | $\Omega=\frac{V}{A}$      | $R=\frac{U}{I}$ |
+|             | Formelzeichen | Einheit                   | Formel                        |
+| ----------- | ------------- | ------------------------- | ----------------------------- |
+| Feldstärke  | $E$           | $\frac{V}{m}=\frac{N}{C}$ |                               |
+| Potenzial   | $\varphi$     | $V=\frac{J}{C}$           |                               |
+| Stromstärke | $I$           | $A$                       | $I=\frac{\Delta Q}{\Delta t}$ |
+| Widerstand  | $R$           | $\Omega=\frac{V}{A}$      | $R=\frac{U}{I}$               |
 
-# Coulomb'sches Gesetz
+## Feldlinien
+
+- **Homogenes Feld** Die Feldlinien verlaufen parallel und im gleichen Abstand zueinander.
+
+## Coulomb'sches Gesetz
+
+## Flussdichte
+
+|                                     | elektrisches Feld                     | magnetisches Feld           |
+| ----------------------------------- | ------------------------------------- | --------------------------- |
+| Feldstärke                          | $\vec{E}$                             | $\vec{H}$                   |
+| elektrische/magnetische Flussdichte | $\vec{D}=\epsilon_0\epsilon_r\vec{E}$ | $\vec{B}=\mu_0\mu_r\vec{H}$ |
+
+# Ladungsausgleich
+
+Beim Ladungsausgleich fließen zuvor getrennt Ladungen zurück.
+
+## Influenz
+
+Ist ein geladener Körper in der Nähe eines leitenden, ladungsneutralen Körpers, so tritt bei dem leitenden Körper eine Ladungsverschiebung und somit eine Ladungstrennung auf. Diese wird als Influenz bezeichnet.
+
+## Polarisation
+
+Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung von elektrischen Ladungen über kurze Distanzen (Größenordnung eines Atomabstandes). Moleküle oder kleinste Teilchen werden zu elektrischen Dipolen.
 
 # Kondensatoren
 
 |           | Formelzeichen | Einheit          | Formel                                               |
 | --------- | ------------- | ---------------- | ---------------------------------------------------- |
 | Kapazität | $C$           | $F=\frac{As}{V}$ | $C=\frac{Q}{U}=\epsilon_{0}\epsilon_{r}*\frac{A}{d}$ |
-| Ladung    | $Q$           | $C=As$           |                                                      |
+| Ladung    | $Q$           | $C=As$           | $Q=N*e$                                              |
 | Spannung  | $U$           | $V=\frac{J}{C}$  |                                                      |
 
 ## Speicherung elektrischer Energie
@@ -28,10 +51,3 @@ $C_{ges}=\frac{Q}{U}=\frac{Q_{1}}{U}+\frac{Q_{2}}{U}=C_{1}+C_{2}$
 ![](../Working%20Materials/Elektrisches%20Feld/Reihenschaltung.png)
 
 $\frac{1}{C_{ges}}=\frac{U}{Q}=\frac{U_{1}}{Q}+\frac{U_{2}}{Q}=\frac{1}{C_{1}}+\frac{1}{C_{2}}$
-
-# Flussdichte
-
-|                                     | elektrisches Feld                     | magnetisches Feld           |
-| ----------------------------------- | ------------------------------------- | --------------------------- |
-| Feldstärke                          | $\vec{E}$                             | $\vec{H}$                   |
-| elektrische/magnetische Flussdichte | $\vec{D}=\epsilon_0\epsilon_r\vec{E}$ | $\vec{B}=\mu_0\mu_r\vec{H}$ |
