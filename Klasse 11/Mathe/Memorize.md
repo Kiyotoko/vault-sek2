@@ -753,16 +753,14 @@ $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 
 # Stochastik
 
-Auch Binomialverteilte Zufallsgrößen (BV ZG)
-
 ## Klassische Wahrscheinlichkeit
+
+$\text{Wahrscheinlichkeit}=\frac{\text{Anzahl günstiger Ereignisse}}{\text{Anzahl möglicher Ereignisse}}$
 
 **Beispiel**
 Idealer Würfel $P(X=6)=\frac{1}{6}$
 
 ## Pfadregeln
-
-Mehrstufiges Zufallsexperiment
 
 **Beispiel**
 4 rote und 8 blaue Kugeln
@@ -781,7 +779,7 @@ $X$ Anzahl der roten Kugeln
 
 ### Pfadmultiplikatiosregel
 
-Bei mehrstufigen ZV ist die Wahrscheinlichkeit eines Ereignisses gleich dem Produkt der Wahrscheinlichkeit längs des zugehörigen Pfades.
+Bei mehrstufigen Zufallsversuchen ist die Wahrscheinlichkeit eines Ereignisses gleich dem Produkt der Wahrscheinlichkeit längs des zugehörigen Pfades.
 
 **Beispiel**
 $P(X=2)=\frac{4}{12}*\frac{4}{12}$
@@ -793,7 +791,7 @@ Setzt sich bei einem mehrstufigen Zufallsexperiment ein Ereignis aus verschieden
 **Beispiel**
 $P(X=1)=\frac{4}{12}*\frac{8}{12}+\frac{8}{12}*\frac{4}{12}=\frac{4}{9}$
 
-### Ziehen Ohne Zurücklegen
+### Ziehen ohne Zurücklegen
 
 Beim ziehen ohne Zurücklegen ändern sich in den folgenden Stufen des Zufallsexperimentes die Wahrscheinlichkeiten.
 
@@ -825,14 +823,14 @@ Ereignisse $A$ und $B$.
 $P(B)=P(A)*P_{A}(B)+P(\bar{A})*P_{\bar{A}}(B)$
 
 ~~~mermaid
-graph TB;
-	A[ ]
-	A-->A0[rot]
-	A-->A1[blau]
-	A0-->A00[rot]
-	A0-->A01[blau]
-	A1-->A10[rot]
-	A1-->A11[blau]
+graph TB
+A[ ]
+A-->A0[rot]
+A-->A1[blau]
+A0-->A00[rot]
+A0-->A01[blau]
+A1-->A10[rot]
+A1-->A11[blau]
 ~~~
 
 ## Satz von Bayes
