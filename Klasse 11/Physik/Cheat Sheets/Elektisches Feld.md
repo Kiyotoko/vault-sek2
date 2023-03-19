@@ -2,7 +2,7 @@
 
 |             | Formelzeichen | Einheit                   | Formel                        |
 | ----------- | ------------- | ------------------------- | ----------------------------- |
-| Feldstärke  | $E$           | $\frac{V}{m}=\frac{N}{C}$ |                               |
+| Feldstärke  | $E$           | $\frac{V}{m}=\frac{N}{C}$ | $E=\frac{F}{Q}$               |
 | Potenzial   | $\varphi$     | $V=\frac{J}{C}$           |                               |
 | Stromstärke | $I$           | $A$                       | $I=\frac{\Delta Q}{\Delta t}$ |
 | Widerstand  | $R$           | $\Omega=\frac{V}{A}$      | $R=\frac{U}{I}$               |
