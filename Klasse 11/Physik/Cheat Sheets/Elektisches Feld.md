@@ -13,6 +13,8 @@
 
 ## Coulomb'sches Gesetz
 
+$F=\frac{1}{4\pi\epsilon_{0}}*\frac{Q_{1}Q_{2}}{r^{2}}$
+
 ## Flussdichte
 
 |                                     | elektrisches Feld                     | magnetisches Feld           |
