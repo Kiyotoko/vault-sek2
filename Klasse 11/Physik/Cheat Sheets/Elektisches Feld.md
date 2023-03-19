@@ -44,10 +44,18 @@ Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung
 
 $W=\frac{1}{2}\epsilon_{0}\epsilon_{r}A*d*E^{2}$
 
+### Parallelschaltung
+
 ![](../Working%20Materials/Elektrisches%20Feld/Parallelschaltung.png)
 
 $C_{ges}=\frac{Q}{U}=\frac{Q_{1}}{U}+\frac{Q_{2}}{U}=C_{1}+C_{2}$
+$U=U_{1}=U_{2}$
+$Q=Q_{1}+Q_{2}$
+
+### Reihenschaltung
 
 ![](../Working%20Materials/Elektrisches%20Feld/Reihenschaltung.png)
 
 $\frac{1}{C_{ges}}=\frac{U}{Q}=\frac{U_{1}}{Q}+\frac{U_{2}}{Q}=\frac{1}{C_{1}}+\frac{1}{C_{2}}$
+$U=U_{1}+U_{2}$
+$Q=Q_{1}=Q_{2}$
