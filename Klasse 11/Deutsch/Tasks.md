@@ -3,7 +3,7 @@ tags:
 - topic/language
 ---
 
-# 2022-09-09
+## 2022-09-09
 
 - **Abschnitte**
 	- „Wahlspruch der Aufklärung“ Z. 1 - 10
@@ -18,7 +18,7 @@ tags:
 - Ein aufgeklärtes Zeitalter ist bereits Aufgeklärt, währen ein Zeitalter der Aufklärung den Beginn und die Transformation der Aufklärung bedeutet.
 - Wir leben in einer Grauzone. Aufgeklärt sind wir, doch Aufklären tuen wir.- Wir leben in einer Grauzone. Aufgeklärt sind wir, doch Aufklären tuen wir.
 
-# 2022-09-12
+## 2022-09-12
 
 - Neues Frauenbild
 - Wissenschaft statt Religion
@@ -30,7 +30,7 @@ tags:
 Die erste Deutungsmöglichkeit geht von einem Traum der Aufklärung aus, sodass sie durch den Traum Ungeheuer gebiert. Durch 
 Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Aufklärung den Ungeheuern Freiraum gegeben wird.
 
-# 2022-09-20
+## 2022-09-20
 
 1. Beschreibe, wer sich während der Aufklärung gegen wen auflehnte und warum.
 	- Die Bauern lehnen sich gegen den Adel auf (Vgl. Z. 7 f.)
@@ -95,20 +95,20 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 	- Briefromane
 	- Innerer Monolog
 
-# 2022-09-23
+## 2022-09-23
 
 Im Gedicht „Prometheus“ von Johann Wolfgang von Goethe sieht das lyrische ich, hier Prometheus, die Götter als kümmerlich an, da sie es nicht Wert sind, geehrt zu werden. Er sieht die Götter als die Ärmsten an, da sie von den Opfersteuern und Gebetshauch der Menschen abhängig ist. Selbst hingegen sieht er sich als Schöpfer, da er Menschen nach *seinem* Bilde formt.
 
 ---
 Das Gedicht „Prometheus“ ist in sofern für Sturm & Drang typisch, da es den Schöpferischen Gedanken des Genies sowie die Kritik an den Göttern beinhaltet. Prometheus selbst ist hier der Schöpfer, alles was er braucht erschafft er sich selbst; während gleichzeitig die Götter für ihn nur unnütz und ärmlich sind.
 
-# 2022-10-04
+## 2022-10-04
 
 - Goethe ist zuerst nach Weimar gekommen, wo er dort unterstützt wird
 - Haben zusammen gearbeitet und veröffentlicht
 - Möchten zu „Humanität und Vernunft“ erziehen
 
-# 2022-10-05
+## 2022-10-05
 
 „Willkommen und Abschied“ ist einer der wenigen Gedichte, die in gleich zwei Versionen veröffentlicht wurden. Es ist ein Musterbeispiel des Sturm und Drang und wurde 1785 von J. W. Goethe geschrieben. Es handelt vom treffen und verabschieden der Geliebten.
 
@@ -116,7 +116,7 @@ Inhaltlich geht es darum, wie ein Jüngling in der Nacht seine Liebe trifft, und
 Das Gedicht ist gegliedert in 4 Strophen mit jeweils 8 Versen. Dadurch bestimmen Gleichmaß und Klarheit den Aufbau und die äußere Form. Dieser entspricht auch die inhaltliche Gliederung: Dem Aufbruch in der Dämmerung folgen die Schilderung der bedrohlichen Natur bei Nacht und der frohen Erwartung. Ankunft und Liebesglück werden von Abschiedsschmerz und Dankbarkeit abgelöst, die die Trennung erleichtert. Auch das Reimschema ist durch Regelmäßigkeit gekennzeichnet, da die Verse durchweg mit Kreuzreimen enden, bei denen sich weibliche und männliche Endungen abwechseln.
 Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend wiegt schon die Erde“ (V. 3) oder „an den Bergen hing die Nacht“, die dem Leser das Geschehene besonders anschaulich und lebendig vermitteln sollen.
 
-# 2022-11-01
+## 2022-11-01
 
 |Formulierung|Reihung|Steigerung|Gegensatz|
 |-|-|-|-|
@@ -178,7 +178,7 @@ Anapäst
 Daktylus
 Jambus
 
-# 2022-11-15
+## 2022-11-15
 
 Als ich da
 Im Schatten sah,
@@ -200,7 +200,7 @@ Nein, ich möcht' kein Schimmel sein.
 Doch, nein, nein, das fand Erik gar nicht fein,
 Nein, ich möcht' in keinem Schrank nicht sein.
 
-# 2022-11-18
+## 2022-11-18
 
 1. Beschreiben Sie, warum die Schwarze Romantik auch als „Schauerromantik“ bezeichnet wird.
 	- Die Schwarze Romantik soll so unheimlich sein, dass dem Leser ein Schauer über den Rücken läuft.
@@ -212,7 +212,7 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 	- Phantastik und Okkultus
 	- Leid, Tod und Gewalt
 
-# 2022-11-28
+## 2022-11-28
 
 - erzählte Zeit
 	- Zeitspanne über die Berichtet wird
@@ -226,7 +226,7 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 - Zeitdehnung
 	- erzählte Zeit < Erzählzeit
 
-# 2022-12-02
+## 2022-12-02
 
 |Figur|Zitatnummer|Funktion des Augenmotives|
 |-|-|-|
@@ -237,14 +237,14 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 |Coppola|16,11|Negativ|
 |Nathanael|5,12|Negativ|
 
-# 2022-12-06
+## 2022-12-06
 
 Fassen wir die charakteristischen Merkmale der Sprache zusammen: 
 1. Sie ist genau umschriebenes Objekt in der Gesamtheit der verschieden gearteten Tatsachen der menschlichen Rede. Man kann sie lokalisieren in demjenigen Teil des Kreislauts, wo ein Lautbild Sich einer Vorstellung assoziiert. Sie ist der soziale Teil der menschlichen Rede und ist unabhänig Vom Einzelnen, welcher für sich allein sie weder schaffen noch umgestalten kann; sie besteht nur kraft einer Art Kontakt zwischen den Gliedern der Sprachwissenschaft. Andererseits muss das Individuum sie erst lernen, um das Ineinandergreifen ihrer Regeln zu kennen; das Kind eignet sie sich nur allmählich an. Sie ist so sehr eine Sache für sich, dass ein Mensch, der die Sprechfähigkeit verloren hat, die Sprache noch besitzt, sofern er die Lautzeichen versteht, die er vernimmt. 
 1. Die Sprache, vom Sprechen unterschieden, ist ein Objekt, das man gesondert ertforschen kann. Wir sprechen die toten Sprachen nicht mehr, aber wir können uns sehr wohl ihren sprachlichen Organismus aneignen. Die Wissenschaft von der Sprache kann nicht nur der andern Elemente der menschlichen Rede entraten, sondern sie ist überhaupt nur möglich, wenn diese andern 15 Elemente nicht damit verquickt werden. 
 1. Während die menschliche Rede in sich verschiedenartig ist, ist die Sprache, wenn man sie so abgrenzt, ihrer Natur nach in sich gleichartig: sie bildet ein System von Zeichen, in dem einzig die Verbindung von Sinn und Lautzeichen wesentlich ist und in dem die beiden Seiten des Zeichens gleichermaßen psychisch sind. [...]
 
-# 2022-12-12
+## 2022-12-12
 
 - Hund
 - Tier
@@ -272,7 +272,7 @@ Fassen wir die charakteristischen Merkmale der Sprache zusammen:
 1. „Die Verschiedenheit der Sprachen ist also aus einer kommunikativen Sicht heraus dysfunktional.“ Diskutieren Sie diese These auf Grundlage der Theorie Whorfs.
 - Sie ist nicht dysfunktional, da sie auch das Weltbild, die Geschichte und die Wichtigkeit vermittelt.
 
-# 2022-12-16
+## 2022-12-16
 
 E.T.A. Hoffmann (1776-1822) war ein deutscher Autor, Komponist und Anwalt, der für seine Fantasy- und Horrorgeschichten sowie seine Beiträge zur Musik bekannt war. Er wurde in Königsberg, Preußen (heute Kaliningrad, Russland) geboren und studierte Rechtswissenschaften an der Universität Königsberg, bevor er als Referendar und schließlich als Richter tätig war.
 
@@ -307,21 +307,21 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 1. Aufnahme der Oberstufe
 1. Ungenau
 
-# 2023-01-06
+## 2023-01-06
 
-|Zeitperspektive|Maßnahmen|
-|-|-|
-|Kurzfristig|Vorbildfunktion von Politiker, Medien und allen Menschen von eminenter Bedeutung|
-|Mittelfristig|behutsame gesetzliche Regelungen|
-|Langfristig|humane politische Bildung|
+| Zeitperspektive | Maßnahmen                                                                        |
+| --------------- | -------------------------------------------------------------------------------- |
+| Kurzfristig     | Vorbildfunktion von Politiker, Medien und allen Menschen von eminenter Bedeutung |
+| Mittelfristig   | behutsame gesetzliche Regelungen                                                 |
+| Langfristig     | humane politische Bildung                                                        |
 
-# 2023-01-10
+## 2023-01-10
 
-|pro|con|
-|-|-|
-|Umstrittene Persönlichkeiten wird ihre Relevanz und Reichweite weggenommen|Freiheit in Meinungsäußerung und Forschung wird beschnitten|
+| pro                                                                        | con                                                         |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Umstrittene Persönlichkeiten wird ihre Relevanz und Reichweite weggenommen | Freiheit in Meinungsäußerung und Forschung wird beschnitten |
 
-# 2023-01-24
+## 2023-01-24
 
 - Paul Celan - Die Todesfuge
 	- Schwarze Milch
@@ -332,13 +332,13 @@ Der Sandmann wird ausgezeichnet von der Geschichte der Hauptfigur, dessen Trauma
 	- Der Tod ist ein Meister aus Deutschland
 - - -
 
-|„wir“|„er“|
-|-|-|
-|Schwarze Milch|Blaue Augen|
-|Wir trinken, wir trinken|Margarete|
-|Schaufeln ein |Der Tod ist ein Meister aus Deutschland|
+| „wir“                    | „er“                                    |
+| ------------------------ | --------------------------------------- |
+| Schwarze Milch           | Blaue Augen                             |
+| Wir trinken, wir trinken | Margarete                               |
+| Schaufeln ein            | Der Tod ist ein Meister aus Deutschland |
 
-# 2023-01-27
+## 2023-01-27
 
 1. Erklären Sie den Titel des Gedichts.
 	- Das Gedicht heist „Inventur“, weil das lyrische Ich von der Prüfung seines Inventars spricht.
@@ -387,7 +387,7 @@ dies ist mein Laptop,
 dies ist mein Handy,
 dies ist meine RasberryPi.
 
-# 2023-01-31
+## 2023-01-31
 
 1. Text mehrfach lesen und Wesentliches farbig markieren
 1. Außentextanalyse
@@ -406,25 +406,25 @@ dies ist meine RasberryPi.
 1. Kritik
 - - -
 
-|These aus Rezension|Pro|Contra|
-|:-|-:|-:|
-|Gegenwartsbezug|Rauchverbot|Science Fiction|
-|politische Literatur|Zeh als aktive Gegnerin von Rauchverboten|Fiktionalität von Literatur|
-|Erweckunsliteratur im Sinne von Wachrütteln|Systemkritik||
-|Genrevielfalt|Science Fiction||
-|Geschwistermärchen|Bezug aud Bruder und Schwester|Tod von Bruder und Schwester|
+| These aus Rezension                         |                                       Pro |                       Contra |
+|:------------------------------------------- | -----------------------------------------:| ----------------------------:|
+| Gegenwartsbezug                             |                               Rauchverbot |              Science Fiction |
+| politische Literatur                        | Zeh als aktive Gegnerin von Rauchverboten |  Fiktionalität von Literatur |
+| Erweckunsliteratur im Sinne von Wachrütteln |                              Systemkritik |                              |
+| Genrevielfalt                               |                           Science Fiction |                              |
+| Geschwistermärchen                          |            Bezug aud Bruder und Schwester | Tod von Bruder und Schwester |
 
 - - -
 
-|Einleitung|Hauptteil|Schluss|
-|-|-|-|
-|Autorin von „Copus Delicti“ - Rezension zu Roman von C. Schmidt - Buchkritik|These: Die Kunst der Autorin|Provokation und klare Linie - eine Autorin misch sich ein - Fazit|
-|Juli Zeh mischt sich ein - Briefe an die Bundskanzlerin|These: Genrevielfalt|
-||These: sterile Figuren|
-||These: Intention - Erweckunsliteratur?|
-||„Corpus Delicti - Ein Prozess“: meine Position zu Thesen|
+| Einleitung                                                                   | Hauptteil                                                | Schluss                                                           |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------- |
+| Autorin von „Copus Delicti“ - Rezension zu Roman von C. Schmidt - Buchkritik | These: Die Kunst der Autorin                             | Provokation und klare Linie - eine Autorin misch sich ein - Fazit |
+| Juli Zeh mischt sich ein - Briefe an die Bundskanzlerin                      | These: Genrevielfalt                                     |                                                                   |
+|                                                                              | These: sterile Figuren                                   |                                                                   |
+|                                                                              | These: Intention - Erweckunsliteratur?                   |                                                                   |
+|                                                                              | „Corpus Delicti - Ein Prozess“: meine Position zu Thesen |                                                                   |
 
-# 2023-02-03
+## 2023-02-03
 
 1. Z. 1 - 22
 1. Z. 23 - 28
@@ -443,13 +443,13 @@ Ja, es kann der Trümmerliteratur zugeordnet werden, da es um die Erfahrungen un
 
 Mangelernährung führt auch nach Ende des Krieges zu Tod.
 
-# 2023-02-07
+## 2023-02-07
 
 In der Kurzgeschichte werden die Zerstörung der Stadt als auch die Erfahrungen aus dem Krieg verarbeitet. Die Kurzgeschichte wurde 1950 veröffentlicht und gehört somit zur Literatur, die nach 1945 publiziert wurde.
 - - -
 Heinrich Bölls war selbst auf einer humanistischen Schule und 
 
-# 2023-02-10
+## 2023-02-10
 
 - hölzerner Schaukel
 - winziger Sandkasten
@@ -459,7 +459,7 @@ Heinrich Bölls war selbst auf einer humanistischen Schule und
 - Geschwister saßen eng umschlungen auf dem Brett der Schaukel
 - wohnten in einem Stall mit Hühnern, Enten und Schweinen
 
-# 2023-03-07
+## 2023-03-07
 
 [Autonomie](Working%20Materials/Nachkriegszeit/Autonomie.pdf)
 
@@ -467,7 +467,7 @@ Autonomie ist die Thematik der Freiheit. Sie bringt Selbstständigkeit und Eigen
 
 Oliver hat keine Konfliktbereitschaft. Nachdem er zu Unrecht eingesperrt wurde, hat er sich Radikalisiert. Er hat sich vom staatstreuen Weltbild seiner Eltern getrennt.
 
-# 2023-03-14
+## 2023-03-14
 
 ~~~mermaid
 graph TB
@@ -504,3 +504,12 @@ wolkewolkewolkewole
 - Sprachliche Gestaltung
 - Visuelle Vorstellung
 - Es gehört zur konkreten Poesie
+
+## 2023-03-21
+
+|                              | Ermutigung | Stasi-Ballade | Ballade vom preußischen Ikarus |
+| ---------------------------- | ---------- | ------------- | ------------------------------ |
+| Politische Einstellung Wolfs |            |               |                                |
+| Kritik an der DDR-Führung    |            |               |                                |
+| Art der Umsetzung            | Musik      |               |                                |
+| Weitere Notizen              |            |               |                                |
