@@ -507,9 +507,9 @@ wolkewolkewolkewole
 
 ## 2023-03-21
 
-|                              | Ermutigung | Stasi-Ballade | Ballade vom preußischen Ikarus |
-| ---------------------------- | ---------- | ------------- | ------------------------------ |
-| Politische Einstellung Wolfs |            |               |                                |
-| Kritik an der DDR-Führung    |            |               |                                |
-| Art der Umsetzung            | Musik      |               |                                |
-| Weitere Notizen              |            |               |                                |
+|                              | Ermutigung | Stasi-Ballade                 | Ballade vom preußischen Ikarus |
+| ---------------------------- | ---------- | ----------------------------- | ------------------------------ |
+| Politische Einstellung Wolfs |            |                               |                                |
+| Kritik an der DDR-Führung    | Führung    | Überwachung der eigenen Leute |                                |
+| Art der Umsetzung            | Musik      |                               |                                |
+| Weitere Notizen              |            |                               |                                |
