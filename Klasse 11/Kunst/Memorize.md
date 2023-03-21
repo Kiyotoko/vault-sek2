@@ -120,3 +120,28 @@ tags:
 - Flachdruck
 - Durchdruck
 - Digitaldruck
+
+# Abstraktion
+
+## Künstlerische Strategien
+
+### Erzählen
+
+-  Auf dem Bild wird eine Geschichte Erzählt, zum Beispiel von der Hölle bei Hieronymus Bosch
+
+### Nachahmen
+
+- Zum Beispiel Albrecht Dürer
+
+### Zitieren
+
+- Bezug nehmen auf ein anderes Werk
+
+### Symbolisieren
+
+- Für Inhalte werden Symbole gefunden
+- Zum Beispiel Vanitas
+
+### Dem Zufall überlassen
+
+- Alegorische Techniken ermöglichen dem Künstler unbewusste Vorstellungen zu aktivieren, indem er Kontrolle abgibt.
