@@ -3,7 +3,7 @@ tags:
 - topic/science
 ---
 
-# 2022-09-14
+## 2022-09-14
 
 1. $f$
 1. $\frac{g}{cm^3}$
@@ -11,7 +11,7 @@ tags:
 1. $p=\frac{f}{A}$
 1. $7mm^3=7^{-18}km^3$
 
-# 2022-09-28
+## 2022-09-28
 
 | Daten                              |                                          Wert |
 |:---------------------------------- | ---------------------------------------------:|
@@ -26,7 +26,7 @@ tags:
 | Entfernung vom Zentrum der Galaxis |                             25 000 Lichtjahre |
 | Mittlere Entfernung zur Erde       |                          149.6 Mio. Kilometer |
 
-# 2022-11-07
+## 2022-11-07
 
 1. Nenne die Zonen und Atmosphären der Sonne.
 	- Korona
@@ -69,7 +69,7 @@ tags:
 1. Konvektion ist ein Mechanismus zum Transport von thermischer Energie. Konvektion ist dadurch gekennzeichnet, dass die Wärmeübertragung durch den Transport von Teilchen bewerkstelligt wird, die thermische Energie mitführen. Die Granulation entsteht durch die Konvektion in einer der sichtbaren „Oberfläche“, der Photosphäre, untergelagerten Schicht. Dabei steigt heißes und damit hell leuchtendes Material aus dem Inneren des Sterns an die Oberfläche, dort erkaltet es und sinkt am Rand eines derartigen Stromes als dunkleres Material wieder zurück. Die Temperaturdifferenz beträgt 500 K. Damit ist die Granulation im Gegensatz zu den magnetischen Sonnenflecken ein rein thermisches Phänomen. Dabei zeigt sich die Granulation dadurch, dass die Oberfläche in viele kleine „Körner“ mit dunklen Abgrenzungsrändern unterteilt erscheint. Diese werden als Granulen bezeichnet. Die einzelnen Granulen haben Ausdehnungen von 500 bis 2000 km im Durchmesser und existieren für wenige Minuten.  
 1. Gravitation bezeichnet das physikalische Phänomen, dass Objekte mit Masse, also mit Gewicht, sich gegenseitig anziehen. Je größer die Masse, umso größer ist die Gravitation. Je weiter die Objekte voneinander entfernt sind, umso kleiner wird die Anziehungskraft. $F_G=G*\frac{m_1*m_2}{r^2}$
 
-# 2022-12-14
+## 2022-12-14
 
 ![Spektralklassen](Working%20Materials/Sonne/Spektralklassen.png)
 
@@ -109,7 +109,7 @@ $L=3.84*10^{26}W$
 $\sigma=5.6704*10^{-8}\frac{W}{m^2K^4}$
 $T=\sqrt[4]{\frac{L}{\sigma*A}}=\sqrt[4]{\frac{3.84*10^{26}W}{5.6704*10^{-8}\frac{W}{m^2K^4}*6.09*10^18m^2}}=5774.44K$
 
-# 2023-01-18
+## 2023-01-18
 
 $19.18AE=2.87*10^9km$
 
@@ -121,7 +121,7 @@ $T_{sid,V}=224.1d$
 $T_{sid,V}=84a$
 $T_{sid,V}=1.012a=369.7d$
 
-# 2023-01-25
+## 2023-01-25
 
 1. Was braucht eine Definition des Begriffs Leben und was nicht?
 	- Benötigt:
@@ -143,7 +143,7 @@ $T_{sid,V}=1.012a=369.7d$
 - Nenne Bedingungen, unter denen vermutlich das Leben auf der Erde entstand.
 	- ohne Photosynthese und ohne sauerstoffproduzierendem Stoffwechsel
 
-# 2023-02-01
+## 2023-02-01
 
 - richtige Position im Sonnensystem → befindet sich in der Lebenszone der Sonne
 - Atmosphäre → Größe des Planeten
@@ -191,7 +191,16 @@ $T_{ceres}=\sqrt{(\frac{a_{ceres}}{a_{erde}})^3*T_{erde}^2}$
 
 - - -
 
-$\frac{1}{T_{sid_M}}=\frac{1}{T_{sid_E}}-\frac{1}{T_{syn_E}}}$
+$\frac{1}{T_{sid_M}}=\frac{1}{T_{sid_E}}-\frac{1}{T_{syn_E}}$
 $T_{sid_{M}}=687d$
 $T_{sid_{E}}=365.256d$
-$T_{syn_{E}}=$
+
+## 2023-03-22
+
+$\cos{87°}$
+$\frac{149.6*10^{6}km}{386*10^{3}km}=388$
+$\cos{89°51'}=\cos{89\frac{51}{60}°}=\cos{89.85°}$
+
+- - -
+
+Ermittle aus den Daten in der Skizze den Er

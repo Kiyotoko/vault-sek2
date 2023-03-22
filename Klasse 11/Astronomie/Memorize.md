@@ -255,3 +255,7 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Es schlussfolgert aus der fehlenden Parallaxe, also der veränderten Sternenposition beim Umlauf der Erde um die Sonne, dass der Kosmos riesige Ausmaße haben muss
 - Größenverhältnis von Erde und Mond
 - Entfernungsverhältnis von Sonne und Mond zur Erde
+
+### Erathostenes
+
+- Eratosthenes bestimmt den Erdumfang aus Messungen des mittäglichen Sonnenstandes in Alexandria und Assuan
