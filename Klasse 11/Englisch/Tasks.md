@@ -250,3 +250,7 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 - Greenberg 2001
 - American Dream
 - Just add money
+
+## 2023-03-22
+
+A dream deferred refers to the American Dream, which will remain unfulfilled for many. This is due to the uneven distribution of wealth, which has led to many living in poverty and having little chance of social advancement.
