@@ -253,7 +253,6 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 
 ## 2023-03-22
 
-A dream deferred refers to the American Dream, which will remain unfulfilled for many. This is due to the uneven distribution of wealth, which has led to many living in poverty and having little chance of social advancement.
+A dream deferred refers to the American Dream, which will remain unfulfilled for many. This is due to the uneven distribution of wealth, which has led to many living in poverty and having little chance of social advancement
 
-- - -
-
+Parents with a good income conceive this to their children and they will also have a good income and a good future. If the parents have a good stand, the children will also feel the same way. If they don't have it, the children won't have it either.
