@@ -309,3 +309,7 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 | Mitleid                 | Ursprung des gesellschaftlichen Handelns                    | Einzig moralische Triebfeder                                 |
 | Menschenbild            | Sozialer Mensch, Gefühle kennzeichnen die menschliche Natur | Sozialer Mensch, der Mensch handelt grundsätzlich Egoistisch |
 | Triebfeder des Menschen | Erbarmen                                                    | Egoismus, Mitleid und Bosheit                                |
+
+## Handlungs-Utilitarismus (Jeremy Bentham)
+
+→ Handlung nach dem Nutzen beurteilen
