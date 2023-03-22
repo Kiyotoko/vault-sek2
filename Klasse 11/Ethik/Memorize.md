@@ -125,8 +125,9 @@ Das Menschenbild des Homo Sociologicus beschreibt einen Menschen, der sich selbs
 
 ### Essenz Vor Existenz & Existenz Vor Essenz
 
-<pre style="background-color:#3CB371;"><code class="vault" style="color:white;"><li>Existenz ist das reine Sein
-<li>Essens ist die Vorstellung</code></pre>
+- Existenz ist das reine Sein
+- Essens ist die Vorstellung
+
 Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bevor jenes Existiert. Geht aber die Existenz vor der Essen, existiert zunächst das Objekt, bevor es geprägt wird.
 
 - ohne vorrausgehende Essenz kein fester Plan für Mensch
@@ -330,3 +331,24 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 - Leid, Schmerz, Trauer usw. minimieren
 - *Aber*: mit Betrachtung der Gemeinschaft
  → Ich bin nur ein Teil des Körpers
+
+### Benthams Konzeption
+
+- Jeder kann / sollte sich danach richten
+	→ Beitrag zum „bonum commune“
+- Die Regierung, um den Wohlstand der Bevölkerung zu fördern (Es ist eine Rechtsphilosophie)
+- Wenn das Wohl aller im Fokus liegt, profitieren besonders die Benachteiligten (Arme Mehrheit ohne Einfluss →← reiche Minderheit mit Einfluss)
+
+### Universatistisches Sozialprinzip
+
+- Kollektiv steht über einzelnen
+- Ziel: es sollen möglichst viele profitieren
+- Problem: Minderheiten können ausgeschlossen werden
+
+### Konsequenzen- / Folgeprinzip
+
+- Abschätzung von Folgen und Konsequenzen
+- Unterscheidung von mittelbaren und unmittelbaren Folgen
+- Motivtion oder Werte von Menschen sind nicht relevant
+- Ziel: Bewusstmachen bzw. Abschätzen des weiteren Verlaufes
+- Problem: keine Rücksicht auf Normen und Werte
