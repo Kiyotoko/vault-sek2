@@ -233,16 +233,18 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 
 ## 2023-03-08
 
-- Title: Lana del Rey's Speech at the "Billboard Women in Music" event
-- Speaker: Lana del Rey's 
-- Where and when: at the "Billboard Women in Music" event in Los Angeles, March 1st 2023
-- Occasion: She have won the „Visionary Award“
-- Topics: COVID, her first album, her fans and supporters
-- Main aim: giving thanks to her fans
+- *Title*: Lana del Rey's Speech at the "Billboard Women in Music" event
+- *Speaker*: Lana del Rey's 
+- *Where and when*: at the "Billboard Women in Music" event in Los Angeles, March 1st 2023
+- *Occasion*: She have won the „Visionary Award“
+- *Topics*: COVID, her first album, her fans and supporters
+- *Main aim*: giving thanks to her fans
+
 - - -
+
 1. State what the "American Dream" means to the four people on your worksheet.
 	- The American Dream means that you can reach anything and fulfill their dreams.
-1. State the similarities and differences of their concept of "The American Dream"
+2. State the similarities and differences of their concept of "The American Dream"
 	- They think different about the way to fulfill their dreams. For example, Tyra Banks think that the american dream can be fulfilled with hard work and determination. In opposite, 
 
 ## 2023-03-15
@@ -256,3 +258,29 @@ Overall, Obama's victory speech was a masterful display of rhetorical devices an
 A dream deferred refers to the American Dream, which will remain unfulfilled for many. This is due to the uneven distribution of wealth, which has led to many living in poverty and having little chance of social advancement
 
 Parents with a good income conceive this to their children and they will also have a good income and a good future. If the parents have a good stand, the children will also feel the same way. If they don't have it, the children won't have it either.
+
+- - -
+
+1. **1776**
+	- Declaration of Independence
+2. Settlement by immigrants
+3. **1929**
+	- Great Depression
+	- Healthy and safe future
+4. **WWII 1935-45**
+	- Security, freedom of speech, freedom of religion
+5. **1950**
+	- Own  a house
+6. **1960**
+	- Perfect family
+	- 2-3 children
+7. **1980**
+	- Famous
+	- Role models
+8. **Early 21st century**
+	- Great recession
+	- Financial crisis
+	- Many people lost houses, goods, material wealth
+9. **Today**
+	- low-paid workplaces
+	- Multioperation companies bring more profit than ever before
