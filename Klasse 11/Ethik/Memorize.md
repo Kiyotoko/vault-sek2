@@ -349,6 +349,12 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 
 - Abschätzung von Folgen und Konsequenzen
 - Unterscheidung von mittelbaren und unmittelbaren Folgen
-- Motivtion oder Werte von Menschen sind nicht relevant
+- Motivation oder Werte von Menschen sind nicht relevant
 - Ziel: Bewusstmachen bzw. Abschätzen des weiteren Verlaufes
 - Problem: keine Rücksicht auf Normen und Werte
+
+### Utilitätsprinzip
+
+- Nutzen durch Abwägen von Argumenten herausfinden
+- Ziel: optimalen Nutzen anstreben
+- Problem: Aller Werte werden auf einen Wert reduziert
