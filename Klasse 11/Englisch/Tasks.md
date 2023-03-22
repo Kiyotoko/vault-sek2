@@ -284,3 +284,9 @@ Parents with a good income conceive this to their children and they will also ha
 9. **Today**
 	- low-paid workplaces
 	- Multioperation companies bring more profit than ever before
+
+- - -
+
+- Everyone define his "own" American dream
+- The American Dream brings hope
+- It is a unreachable goal for the most people
