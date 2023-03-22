@@ -240,3 +240,18 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 		- Kalendarische Zusammenhänge
 	- Indien (1000 v. Chr.)
 		- Kosmologie
+
+## Grieschiche Astronomie
+
+### Aristoteles
+
+- Aristoteles begründet unter anderem die Kugelgestalt der Erde.
+	- Der Erdschatten ist rung
+	- Schiffe verschwinden hinter dem Horizont.
+
+### Aristarch von Samos
+
+- Vertreter eines heliozentrischen Weltbildes
+- Es schlussfolgert aus der fehlenden Parallaxe, also der veränderten Sternenposition beim Umlauf der Erde um die Sonne, dass der Kosmos riesige Ausmaße haben muss
+- Größenverhältnis von Erde und Mond
+- Entfernungsverhältnis von Sonne und Mond zur Erde
