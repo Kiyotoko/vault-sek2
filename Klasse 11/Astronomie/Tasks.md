@@ -203,4 +203,4 @@ $\cos{89°51'}=\cos{89\frac{51}{60}°}=\cos{89.85°}$
 
 - - -
 
-Ermittle aus den Daten in der Skizze den Er
+$\frac{360°}{7.2°}*5000*157.5m=3.94^{7}$

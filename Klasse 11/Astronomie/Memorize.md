@@ -259,3 +259,15 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 ### Erathostenes
 
 - Eratosthenes bestimmt den Erdumfang aus Messungen des mittäglichen Sonnenstandes in Alexandria und Assuan
+
+### Claudius Ptolemäus
+
+- *Almagest*: 13-bändig (umfassende Darstellung der Astronomie der Antike)
+	- Sternenkatalog (ekliptikale Koordinaten und Helligkeitsangaben)
+	- 48 Sternbilder
+		- basieren auf den Tierkreiszeichen der Babylonier
+		- Grundlagen der heute 88 Sternbilder, in welche die Himmel aufgeteilt sind
+	- Astrologie
+- Ptolemäus legt sich auf das geozentrische Weltbild fest.
+- Seine mathematischen Modelle erlauben die Berechnung der Planetenbahnen am Himmel 
+- Sein Weltbild hat 1500 Jahre bestand
