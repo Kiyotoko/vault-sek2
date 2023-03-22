@@ -312,4 +312,21 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 
 ## Handlungs-Utilitarismus (Jeremy Bentham)
 
-→ Handlung nach dem Nutzen beurteilen
+- das Größte Glück für die größte Anzahl
+	→ Lustmaximierung aller Betroffenen
+- vernünftige Regeln für das Zusammenleben
+- Partizipation aller am Wohlstand
+- „[...] Das Ziel ist es, das Gebäude der Glückseligkeit durch Vernunft und Recht zu erreichen [...]“
+
+- Mensch durch Freude und Leid gelenkt (*Lustmaximierung* ist Handlungsprinzip)
+- Gemeinwohl (bonum commune) muss gefördert werden
+	→ Individuum ist Teil des „Gesellschafts-Körpers“
+	→ Wenn das Leid eines Einzelnen gemindert wird, trägt das dem Gemeinwohl bei
+
+### Benthams Glücksbegriff
+
+- hedonistisch orientiert (hedonistisches Prinzip)
+- Lust, Glück, Freude usw. maximieren
+- Leid, Schmerz, Trauer usw. minimieren
+- *Aber*: mit Betrachtung der Gemeinschaft
+ → Ich bin nur ein Teil des Körpers

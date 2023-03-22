@@ -194,3 +194,9 @@ Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefü
 	- Adam Smith sieht die Grundfähigkeit, um sich in andere hineinzuversetzen, im Mitleid.
 	- Mitleid ist nicht nur ein passives Gefühlt, sondern kann aktiv zum Handeln führen
 	- Die Mitleid führt zur Empathie, auf die die Gesellschaft aufbaut
+
+## 2023-03-22
+
+- Größtmögliches Glück für die größtmögliche Zahl
+- Orientiert sich an Gesetzen und Regeln
+- Ökonomisches Denken 
