@@ -271,3 +271,7 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Ptolemäus legt sich auf das geozentrische Weltbild fest.
 - Seine mathematischen Modelle erlauben die Berechnung der Planetenbahnen am Himmel 
 - Sein Weltbild hat 1500 Jahre bestand
+- Grund für die Verbreitung:
+	- Examplare und Sprachen (Reichweite und Verfügbarkeit)
+	- Geozentrisch ist für die Beobachtungen der Sterne besonders einfach
+	- Da im Geozentrischen Weltbild die Erde und die Menschen im Zentrum stehen, werden somit auch die These der katholischen Kirche unterstützt
