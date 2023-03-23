@@ -15,3 +15,4 @@ bmi=weigth/height**2
 for clazz in body_mass:
     if(clazz[0] <= clazz[1] < bmi):
         print(clazz[2])
+        break
