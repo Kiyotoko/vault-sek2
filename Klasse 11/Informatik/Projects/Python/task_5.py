@@ -1,7 +1,7 @@
 from random import randint
 
 number = randint(1, 10)
-trys = 0
+trys = 1
 
 
 def get_number(description: str = "Enter a number: ") -> int:

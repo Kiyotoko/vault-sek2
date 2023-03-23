@@ -8,8 +8,7 @@ quiz = [
     ("Was ist die Hauptstadt von Spanien? ", "Madrid")
 ]
 
-global score
-score=0
+score = 0
 
 
 def ask(index):
