@@ -304,6 +304,13 @@ Das öffentlich und das häusliche Leben und teilweise keine geringen Taten der 
 
 ## 2023-03-23
 
-- audacus, audacior, audacissimus 
-- prudentus, prudentior, prudentissimos → Die Klugheit
-- 
+- audacus, audacior, audacissimus → kühn
+- prudentus, prudentior, prudentissimos → klug
+- miles → miserrimae
+- potenti
+- infelicioris
+- difficiliorem
+- lata → breit
+- notissimum
+- divitissmis
+- asperam
