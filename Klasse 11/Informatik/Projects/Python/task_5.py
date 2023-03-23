@@ -25,4 +25,5 @@ def guessing():
         trys += 1
         guessing()
 
+print("Please guess a number in the range of [1:10]")
 guessing()
