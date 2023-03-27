@@ -1,8 +1,8 @@
-- - -
+---
 author: karlz
 tags:
 - topic/science
-- - -
+---
 
 # Kinematik
 
@@ -747,3 +747,4 @@ Dipolisation erklären.
 
 - - -
 
+$E=\frac{U}{d}=\frac{2U}{2d}=F_{el}=QE$
