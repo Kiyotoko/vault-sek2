@@ -727,3 +727,23 @@ $d=6mm=0.006m$
 $U=221V$
 $0=F_{e}-F_{g}=\frac{q*U}{d}-m*g$
 $q=\frac{m*g*d}{U}$
+
+## 2023-03-27
+
+Die Kapazität verdoppelt sich.
+Die Spannung halbiert sich.
+Die Ladung bleibt gleich.
+Die im Kondensator gespeicherte Energie halbiert sich.
+
+- - -
+
+Feldstärkevektor vom Plus zum Minuspool.
+
+- - -
+
+Durch Reibungselektrizität aufgeladen.
+Papierschnipsel durch polarisation.
+Dipolisation erklären.
+
+- - -
+
