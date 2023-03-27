@@ -648,4 +648,3 @@ Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im
 ![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
 
 ## Bewegung von Ladungsträgern im elektrischen Längs- und Querfeld
-

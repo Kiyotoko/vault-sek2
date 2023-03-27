@@ -748,3 +748,31 @@ Dipolisation erklären.
 - - -
 
 $E=\frac{U}{d}=\frac{2U}{2d}=F_{el}=QE$
+
+- - -
+
+$U_{A}=1kV$
+$d=2cm=0.02m$
+$U_{B}=120V$
+$l=3cm=0.03m$
+$\Delta E=e*U_{A}=1.6022*10^{-19}As*1kV=1.6022*10^{-16}VAs=1.6022*10^{-16}J$
+$v=\sqrt{\frac{2*q}{m}*U}=1.876*10^{7}\sqrt{\frac{VAs}{kg}}=1.876*10^{7}\frac{m}{s}$
+
+- - -
+
+$s=v*t$
+$t=\frac{s}{v}=\frac{0.03m}{1.876*10^{7}\frac{m}{s}}=1.6*10^{-9}s$
+
+- - -
+
+$y_1=0.00135m$
+
+- - -
+
+$\delta=\arctan{\frac{U_{B}}{2*d*U_{A}}*l}$
+$\delta\approx5.14°$
+
+- - -
+
+$U_{A}=1kV$
+$U_{L}=4kV$
