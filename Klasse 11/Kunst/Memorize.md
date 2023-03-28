@@ -145,3 +145,18 @@ tags:
 ### Dem Zufall überlassen
 
 - Alegorische Techniken ermöglichen dem Künstler unbewusste Vorstellungen zu aktivieren, indem er Kontrolle abgibt.
+
+## Wege zur Abstraktion
+
+- Abstraktion: bezeichnet meist den induktiven Denkprozess
+- abstrahieren: Vorgang des Reduzieren, des Weglasses, Herausarbeiten
+- Abstrakte Kunst: Die eigenen innere Vorstellungskraft wird bedeutender als die äußere Realität
+
+### Konstuktivismus
+
+- geometrisch-reduziert bei Piet Modrian
+- so nah wie möglich an die Wahrheit der Dinge vordringen
+
+### Kompositorisch-Musikalisch
+
+- Kompositorisch-musikalisch - Wassily Kadinsky
