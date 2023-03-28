@@ -154,16 +154,16 @@ Absorpionslinienspektrum (Frauenhofer-Linien)
 
 ### Aufbau und grobe Struktur
 
-| Sterne | Planeten | Zwergplaneten | Monde  | Asterioiden |
-| ------ | -------- | ------------- | ------ | ----------- |
-| Sonne  | Merkur   | Pluto         | Luna   |             |
-|        | Venus    | Ceres         | Phobos |             |
-|        | Erde     |               | Deimos |             |
-|        | Mars     |               | Europa |             |
-|        | Jupiter  |               |        |             |
-|        | Saturn   |               |        |             |
-|        | Uranus   |               |        |             |
-|        | Neptun   |               |        |             |
+| Sterne | Planeten | Zwergplaneten | Monde    | Asterioidengürtel |
+| ------ | -------- | ------------- | -------- | ----------------- |
+| Sonne  | Merkur   | Pluto         | Luna     | Kuipergürtel      |
+|        | Venus    | Ceres         | Phobos   | Hauptgürtel       |
+|        | Erde     | Pluto         | Deimos   |                   |
+|        | Mars     |               | Europa   |                   |
+|        | Jupiter  |               | Ganymed  |                   |
+|        | Saturn   |               | Callisto |                   |
+|        | Uranus   |               | Miranda  |                   |
+|        | Neptun   |               | Oberon   |                   |
 
 ### Planetenbeobachtung - Umlaufzeiten
 
