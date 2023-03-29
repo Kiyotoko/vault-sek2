@@ -770,9 +770,36 @@ $y_1=0.00135m$
 - - -
 
 $\delta=\arctan{\frac{U_{B}}{2*d*U_{A}}*l}$
-$\delta\approx5.14°$
+$\delta\approx5.14^{\circ}$
 
 - - -
 
 $U_{A}=1kV$
 $U_{L}=4kV$
+
+## 2023-03-29
+
+$U_{A}=1000V$
+$U_{B}=4000V$
+$q_{e}=1.6 022*10^{-19}As$
+$m_{e}=9.1*10^{-31}kg$
+![](Working%20Materials/Elektrisches%20Feld/Bronsche%20Röhre.png)
+$E_{kin}=E_{ele}$
+$\frac{m}{2}v^{2}=e(U_{A}+U_{B})$
+$v^2=2e\frac{U_{A}+U_{B}}{m}$
+$v=\sqrt{2e\frac{U_{A}+U_{B}}{m}}=4.19*10^{7}\frac{m}{s}$
+
+$d=12cm$
+1. $s(t)=\frac{a}{2}t^{2}+v_{0}t$
+2. $v(t)=at+v_{0}$
+3. $F=ma$
+4. $F=qE$
+5. $E=\frac{U}{d}$
+
+$ma=q \frac{U}{d}$
+$a=\frac{qU}{md}$
+$v=\sqrt{2e\frac{U_{A}}{m}}=1.88*10^{7}\frac{m}{s}$
+$0=at+v_{0}$
+$t=\frac{-v_{0}}{a}$
+$s(\frac{-v_{0}}{a})=\frac{a}{2}(\frac{-v_{0}}{a})^{2}+v_0(\frac{-v_{0}}{a})=\frac{-v_{0}^{2}}{2a}$
+$x=\frac{-2e\frac{U_{A}}{m}}{2\frac{qU}{md}}=\frac{U_{A}d}{U}=\frac{1000V}{4000V}*12cm=3cm$
