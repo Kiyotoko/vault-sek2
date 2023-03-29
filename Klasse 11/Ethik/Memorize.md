@@ -358,3 +358,10 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 - Nutzen durch Abwägen von Argumenten herausfinden
 - Ziel: optimalen Nutzen anstreben
 - Problem: Aller Werte werden auf einen Wert reduziert
+
+### Menschenbild
+
+- Hedeonistisches Prinzip: Mensch durch Freude und Leid gesteuert
+→ Freude (Lust) maximieren
+→ Leid (Unlust) minimieren
+- Handlung durch bestimmtes Ziel gesteuert → teleologische Ethik

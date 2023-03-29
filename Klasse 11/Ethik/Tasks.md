@@ -200,3 +200,12 @@ Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefü
 - Größtmögliches Glück für die größtmögliche Zahl
 - Orientiert sich an Gesetzen und Regeln
 - Ökonomisches Denken 
+
+## 2023-03-29
+
+Die Natur hat die Menschheit unter die Herrschaft zweier souveräner Gebieter - Leid und Freude gestellt.
+
+Bentham stellt den Wert einer Freude oder Leides fest, indem er Intensität, Dauer, Gewissheit, Ungewissheit, die Näher oder Ferne , die Folgeträchtigkeit, die Reinheit und das Außmas.
+
+> [!NOTE] Title
+> Contents

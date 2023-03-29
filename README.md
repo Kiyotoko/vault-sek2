@@ -21,7 +21,6 @@ Da es häufig ziemlich schwierig für andere sein kann, sich zurecht zu finden, 
 - In den meisten Fächern befinden sich verschiedene, standartisierte Dateien und Ordner.
 	- `Cheat Cheets` ist einer der interresantesten Teile. Dort sind Datein zu Themen abgespeichert, mit denen ich selbst direkt lernen kann. Dabei sind die Themen möglichst gut und knapp zurechtgeschnitten, um es fürs lernen möglichst einfach zu machen.
 	- `Projects` ist der Ordner, indem alle Projekte wie Handouts, Präsentationen, etc. abgespeichert werden.
-	- `Tests` ist der Ordner, indem meine Arbeiten hochgeladen werden. Zurzeit befindet sich dort aber nichts! Siehe dafür [Issues](https://github.com/karl-zschiebsch/vault/issues/3).
 	- `Working Materials` ist mein persönliches Müllbecken, in dem alle Bilder und Arbeitsblätter hinkommen
 	- `Memorize` ist die Datei, wo alle später relevante Mitschriften hinkommen. Die Mitschriften sind hierbei immer nach dem Thema sortiert.
 	- `Tasks` ist die Datei, wo ich meine Aufgaben löse. Die Aufgaben sind dabei nach dem Datum sortiert.
