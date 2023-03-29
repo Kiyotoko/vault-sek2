@@ -205,7 +205,10 @@ Adam Smith war vor allem Moralphilosoph. Das Werk „Theorie der ethischen Gefü
 
 Die Natur hat die Menschheit unter die Herrschaft zweier souveräner Gebieter - Leid und Freude gestellt.
 
-Bentham stellt den Wert einer Freude oder Leides fest, indem er Intensität, Dauer, Gewissheit, Ungewissheit, die Näher oder Ferne , die Folgeträchtigkeit, die Reinheit und das Außmas.
+Bentham stellt den Wert einer Freude oder Leides fest, indem er Intensität, Dauer, Gewissheit oder Ungewissheit, die Näher oder Ferne , die Folgeträchtigkeit, die Reinheit und das Außmas.
+Dann werden alle Werte addiert. Überwiegt die Freude, ist die Handlung gut, überwiegt das Leid, ist die Handlung schlecht. Für alle Personen wird das verfahren wiederholt.
+Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet.
+
 
 > [!NOTE] Title
 > Contents
