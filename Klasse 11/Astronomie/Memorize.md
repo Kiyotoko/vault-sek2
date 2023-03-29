@@ -1,7 +1,7 @@
 ---
+author: karlz
 tags:
-
-- topic/science
+- Astronomie
 ---
 
 # Atommodell

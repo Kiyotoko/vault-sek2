@@ -1,6 +1,7 @@
 ---
+author: karlz
 tags:
-- topic/science
+- Informatik
 ---
 
 # 2023-02-02

@@ -1,7 +1,8 @@
 ---
 author: karlz
 tags:
-- topic/sport
+- Sport
+- FGB
 ---
 
 # Erwärmung Und Cool-down

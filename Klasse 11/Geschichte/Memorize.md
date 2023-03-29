@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/history
+- Geschichte
+- FGB
 ---
 
 # Grundlegung Einer Modernen Gesellschaft

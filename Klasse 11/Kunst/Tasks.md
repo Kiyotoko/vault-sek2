@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/art
+- Kunst
+- FGB
 ---
 
 ## 24.09.2022

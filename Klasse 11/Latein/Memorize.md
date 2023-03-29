@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/language
+- Latein
+- FGB
 ---
 
 # Deklination

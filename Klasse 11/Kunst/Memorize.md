@@ -1,6 +1,7 @@
 ---
 tags:
-- topic/art
+- Kunst
+- FGB
 ---
 
 # Schriftgestaltung

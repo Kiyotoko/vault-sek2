@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/science
+- Astronomie
+- FGB
 ---
 
 ## 2022-09-14

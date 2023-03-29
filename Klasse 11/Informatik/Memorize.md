@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/science
+- Informatik
+- FGB
 ---
 
 # Kommunikation in Netzen

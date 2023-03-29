@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/math
+- Mathe
+- FGB
 ---
 
 # Analysis

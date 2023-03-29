@@ -1,7 +1,7 @@
 ---
 author: karlz
 tags:
-- topic/math
+- Mathe
 ---
 
 # Zahlenbereiche

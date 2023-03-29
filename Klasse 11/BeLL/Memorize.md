@@ -1,7 +1,7 @@
 ---
+author: karlz
 tags:
-
-- topic/paper
+- Bell
 ---
 
 Vergleich von privaten Kommunikationsnetzen Tor, Mixnet und VPN anhand einer Simulationsumgebung.

@@ -1,7 +1,8 @@
 ---
 author: karlz
 tags:
-- topic/science
+- Physik
+- FGN
 ---
 
 # Kinematik

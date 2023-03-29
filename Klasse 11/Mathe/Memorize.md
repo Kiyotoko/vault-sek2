@@ -1,6 +1,7 @@
 ---
 tags:
-- topic/math
+- Mathe
+- FGB
 ---
 
 # Analysis

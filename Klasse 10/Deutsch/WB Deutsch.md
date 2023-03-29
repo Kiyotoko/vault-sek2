@@ -87,23 +87,23 @@ Franz Kafka möchte mit dieser Parabel ausdrücken, dass er zwar in seine Heimat
 
 **AB**
 
-Rhetorische Fragen, Z. 12 ff. -> Leser zum denken anregen.
-Konnotationen, Z. 6 ff. -> Vermittelt das Gefühl, das der Ich-Erzähler sich unwohl fühlt.
-Inversion, Z. 3 ff. -> Betonung anderer Inhalte.
+Rhetorische Fragen, Z. 12 ff. → Leser zum denken anregen.
+Konnotationen, Z. 6 ff. → Vermittelt das Gefühl, das der Ich-Erzähler sich unwohl fühlt.
+Inversion, Z. 3 ff. → Betonung anderer Inhalte.
 
 **M**
 
 Franz Kafka
- * Franz Kafka (tschechisch gelegentlich František Kafka, jüdischer Name: אנשיל Anschel;[1] * 3. Juli 1883 in Prag, Österreich-Ungarn; † 3. Juni 1924 in Kierling, Österreich*)
- * war ein deutschsprachiger Schriftsteller
- -> Schierige Familie
- -> psyhologisch, philosophisch, biographisch, soziologisch
+ - Franz Kafka (tschechisch gelegentlich František Kafka, jüdischer Name: אנשיל Anschel;[1] - 3. Juli 1883 in Prag, Österreich-Ungarn; † 3. Juni 1924 in Kierling, Österreich*)
+ - war ein deutschsprachiger Schriftsteller
+ → Schierige Familie
+ → psyhologisch, philosophisch, biographisch, soziologisch
 
 Bertholt Brecht
- * Bertolt Brecht (auch Bert Brecht; * 10. Februar 1898 als Eugen Berthold Friedrich Brecht in Augsburg; † 14. August 1956 in Ost-Berlin*)
- * war ein einflussreicher deutscher Dramatiker, Librettist und Lyriker des 20. Jahrhunderts
- * Brecht hat das epische Theater beziehungsweise „dialektische Theater“ begründet und umgesetzt
- -> Herr K. Topic
+ - Bertolt Brecht (auch Bert Brecht; - 10. Februar 1898 als Eugen Berthold Friedrich Brecht in Augsburg; † 14. August 1956 in Ost-Berlin*)
+ - war ein einflussreicher deutscher Dramatiker, Librettist und Lyriker des 20. Jahrhunderts
+ - Brecht hat das epische Theater beziehungsweise „dialektische Theater“ begründet und umgesetzt
+ → Herr K. Topic
 
 **AB**
 
@@ -147,61 +147,61 @@ Zu Beginn der Geschichte ist Rita Wortführerin und dominiert das Gespräch. Auc
 
 # Präsentation
 
- * Aufklärung:
+ - Aufklärung:
 	- Vernunft und Verstand
 	- Ideal einer Gesellschaft
 	- "Habe Mut, dich deines Eigenen Verstandes zu bedienen."
 	- Gesamt gesallschaftliche Bewegung
- * Sturm und Drang:
+ - Sturm und Drang:
 	- Gefühle
 	- Verwirklichung des eigenen Ichs
 	- Forderung, Mut zu haben sich selbst zu leben
 	 rein literarische Bewegung in Deutschland
- * Verlaufen Chronologisch Parallel
- * Gemeinsamkeiten:
+ - Verlaufen Chronologisch Parallel
+ - Gemeinsamkeiten:
 	- Scharf umrissene Vorstellung von Moral
 	- Menschenrechte
 	- Kritik an der Kirche
 	- Ruf zu mehr Selbstständigkeit
-* Epochenmerkmale
-	* Hauptthemen & Motive 
+- Epochenmerkmale
+	- Hauptthemen & Motive 
 		- Konflikt des Einzelnen mit der Gesellschaft
 		- Selbstbestimmung
 		- Selbstverwirklichung und Freiheit
 		- Geniekult
 		- Freundschaft & Empfindung
-	* Genres
+	- Genres
 		- Tragödie
 		- Ballade, Hymne, Ode
 		- Erlebnislyrik
 		- Entwicklungsroman
-	* Konflikte
+	- Konflikte
 		- fühlender Mensch vs. kalte, abweisende Welt
 		- Leidenschaft vs. herrschende Sitte und Moral
 		- die besondere Individualität des Einzelnen vs. die Willkür der gesellschaftlichen Verhältnisse
  Sprache & Stil
-	* Ausdrucksstarke Gefühlssprache
+	- Ausdrucksstarke Gefühlssprache
 		- Ausrufe
 		- Ellipsen
 		- Metaphern
-	* einfache Liedform o. freie Rhythmen
-	* Prosa bis derbe Ausdrucksweise
- * Figuren
-	* meist
+	- einfache Liedform o. freie Rhythmen
+	- Prosa bis derbe Ausdrucksweise
+ - Figuren
+	- meist
 		empfindsamer, naturverbundener, liebender Mensch
-	* oder
+	- oder
 		Genie, Rebell, Einzelkämpfer für Recht und Gerechtigkeit
 Textbeispiel
- * Faust Ausschnitt
+ - Faust Ausschnitt
 	>Hab nun, ach! die Philosophei,
 	Medizin und Juristerei
 	Und leider auch die Theologie
 	Durchaus studiert mit heißer Müh.
 	Da steh ich nun, ich armer Tor,
 	Und bin so klug als wie zuvor.
-* Motive: Geniekult
-* Sprache: Ausrufe
-* Figur: Genie
+- Motive: Geniekult
+- Sprache: Ausrufe
+- Figur: Genie
 
 **AB**
 
@@ -263,20 +263,20 @@ Franz:
 [Tito] Bonjorno, Leonardo! Aus deinen Schmuggleraktionen ist ja einiges geworden!
 [Leonardo] Bonjorno, Amigo.
 [Tito] Hast du's mitbekommen?
-[Leonardo] Unser neues ... *kurzed Denkpause* Spitzenprodukt? Einfach nur berauchend!
+[Leonardo] Unser neues ... *kurzed Denkpause- Spitzenprodukt? Einfach nur berauchend!
 
 *Leonardo schnieft ein weises Pulver.*
 
 [Tito](gelangweilt) Nein, nicht das Pulver! Die neueste Geschichte vom Schmuggler!
-[Leonardo](lallend) Vom Schmuggler? Du meist doch nicht etwa ... *kurze Denkpause* Luigis ... *kurze Denkpause* aktivitäten?
+[Leonardo](lallend) Vom Schmuggler? Du meist doch nicht etwa ... *kurze Denkpause- Luigis ... *kurze Denkpause- aktivitäten?
 
 *Carlos tritt auf.*
 
 [Tito](ernst) Luigi hats erwicht! Diese verdammten Bullen! *Tito zeigt mit seinem Finger bedrohlich nach oben.*
 [Carlos](überracht, leise) Was Luigi? Erzählt mir alles!
-[Tito] An der Grenze, beim Zoll ... *Tito legt fährt in einer bedrohlischen erzählerstimme fort.* Gab es bis vor kurzem immer einen Schichwechsel mittags. Luigi wusste dies, und nutzte die Gelegenheit, um sein Pulver über die Grenze zu schmuggeln. Doch nicht dieses mal! Dieses mal war es anders! Der Schichtwechsel verzögerte sich um nur ein paar Minuten. Doch das reichte, um ihn zu schnappen!
+[Tito] An der Grenze, beim Zoll ... *Tito legt fährt in einer bedrohlischen erzählerstimme fort.- Gab es bis vor kurzem immer einen Schichwechsel mittags. Luigi wusste dies, und nutzte die Gelegenheit, um sein Pulver über die Grenze zu schmuggeln. Doch nicht dieses mal! Dieses mal war es anders! Der Schichtwechsel verzögerte sich um nur ein paar Minuten. Doch das reichte, um ihn zu schnappen!
 [Carlos] Luigi war dieses mal zu gierig. Doch diesmal war es seine Schuld! Er hat es übertrieben!
-[Leonardo] Aber dennoch, er war stets voller Ehre! *kurze Denkpause* Diese verdammten Bullen! Scheiß drauf, wir sollten ihr retten,, jawohl!
+[Leonardo] Aber dennoch, er war stets voller Ehre! *kurze Denkpause- Diese verdammten Bullen! Scheiß drauf, wir sollten ihr retten,, jawohl!
 [Tito] Ja, retten wir ihn!
 [Carlos] Ihr habt recht! Er gehört zur Familie! Und Familie ist alles!
 [Tito] Das stimmt, ich weiß auch in welchem Revier er ist und wir haben den Bauplan besorgt.
@@ -318,7 +318,7 @@ Franz:
 *Die Mafioso treten auf.*
 
 [Luigi] Danke für eure Hilfe! Hah, was diese verdammten Bullen für ein Gesicht gemacht haben, als sie abgekratzt sind!
-[Carlos] Doch nicht nur Polizisten sind gestorben! Auch Zivilisten. Das war von euch schlichtweg fahrlässig! Oder wer denkt ihr etwa, kauft unsere "Produkte", wenn ihr alle erschießt? ... *kurzes Schweigen* (nachdenklich) Ihrgendwas ist seltsam: Leonardo, wieso steht die Tür offen? Und Tito, habe ich dir nicht immer gesagt, das du abschließen sollst?
+[Carlos] Doch nicht nur Polizisten sind gestorben! Auch Zivilisten. Das war von euch schlichtweg fahrlässig! Oder wer denkt ihr etwa, kauft unsere "Produkte", wenn ihr alle erschießt? ... *kurzes Schweigen- (nachdenklich) Ihrgendwas ist seltsam: Leonardo, wieso steht die Tür offen? Und Tito, habe ich dir nicht immer gesagt, das du abschließen sollst?
 
 *Die Tür schwingt auf. Die Polizisten treten auf.*
 [Polizist] Jetzt haben wir euch, ihr Schweine, jetzt seid ihr dran!

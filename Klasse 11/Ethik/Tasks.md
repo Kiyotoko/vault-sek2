@@ -1,6 +1,8 @@
 ---
+author: karlz
 tags:
-- topic/phylosophy
+- Ethik
+- FGB
 ---
 
 # Freiheit

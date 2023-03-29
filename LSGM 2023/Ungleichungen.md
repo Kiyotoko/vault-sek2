@@ -1,7 +1,8 @@
 ---
 author: karlz
 tags:
-- topic/math
+- Mathe
+- LSGM
 ---
 
 # Multiplizieren / Dividieren Negativer Zahlen
