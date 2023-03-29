@@ -315,14 +315,13 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 - Gravitationsgesetz
 
 → Mathematische Gesetze beschreiben die Himmelsmechanik in nahezu beliebiger Präzision.
+
+### Die empirischen Wissenschaften
+
 Die Kopernikanische Wende leitet den Siegeszug der empirischen Wissenschaften ein:
-Experiment/Beobachtung
+→ Experiment/Beobachtung
 → mathematisches Modell (quantitativ)
 → Vorhersagekraft
 
+
 Die Mechanik des Sonnensystems kann die Naturwissenschaft mit unglaublicher Genauigkeit vorhersagen. Es folgen mechanische, thermodynamische und elektrodynamische Systeme auf der Erde mit der industriellen Revolution im Schlepptau.
-
-These: Diese Entwicklung zeigt heute Konsequenzen für sozialpolitische Entscheidungsprozesse und gesellschaftliche Normen.
-
-- Die empirischen naturwissenschaftlichen Methoden haben Einzug in die normativen Felder erhalten und dort aufgrund ihrer Erfolgsgeschichte großes Gewicht.
-- Die Auseinandersetzung mit inhaltliche Begründungen, Wertvorstellungen usw. wird durch empirische Daten ersetzt.
