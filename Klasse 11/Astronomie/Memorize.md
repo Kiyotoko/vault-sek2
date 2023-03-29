@@ -275,3 +275,54 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 	- Examplare und Sprachen (Reichweite und Verfügbarkeit)
 	- Geozentrisch ist für die Beobachtungen der Sterne besonders einfach
 	- Da im Geozentrischen Weltbild die Erde und die Menschen im Zentrum stehen, werden somit auch die These der katholischen Kirche unterstützt
+
+## Kopernikanische Wende
+
+- beginnt in der Renaissance
+- markiert den Übergang vom Mittelalter in die Neuzeit
+- Abkehr von geozentrischen Weltbild
+- Kirche verliert Deutungshoheit über Weltbild an Naturwissenschaften
+- Vernunft führt zu neuen Erkenntnissen, Abkehr vom Dogmatismus
+
+### Nicolaus Kopernikus (1473 bis 1543)
+
+-   Hauptwerk *De revolutionibus orbium coelestium*: heliozentrisches Weltbild, Erde ist ein Planet unter mehreren, die sich um die Sonne bewegen
+
+### Giordano Bruno (1548 bis 1600), Fürst der Ketzer
+
+- Priester und Mensch
+- Vertreter der „alten“ (antiken) Schule, kein Naturwissenschaftler
+- postuliert die Unendlichkeit des Weltraums
+- Anhänger der Kopernikanischen Theorie
+- Tod auf dem Scheiterhaufen
+
+### Galileo Galilei (1564 bis 1641)
+
+- führt systematisch Beobachtung/Experimente/Messungen in die NW ein
+- mathematische Beschreibung physikalischer und astronomischer Sachverhalte
+-  wird zum Begründer der „exakten Wissenschaften“ (empirischen Naturwissenschaften)
+- Erfinder des Fernrohrs
+
+### Tycho Brahe (1546 bis 1601) und Johannes Kepler (1571 bis 1630)
+
+- Brahe nimmt sehr genaue Beobachtungen der Marspositionen vor dem Fixsternhimmel vor
+- Anhand der Daten findet Kepler eine mathematische Beschreibung der Planetenbewegung (Keplersche Gesetze, inkl. der elliptischen Planetenbahnen)
+- „Bestätigung“ der Kopernikanischen Sicht
+
+### Isaac Newton (1643 bis 1727)
+
+- Bewegungsgesetze der Klassischen Mechanik
+- Gravitationsgesetz
+
+→ Mathematische Gesetze beschreiben die Himmelsmechanik in nahezu beliebiger Präzision.
+Die Kopernikanische Wende leitet den Siegeszug der empirischen Wissenschaften ein:
+Experiment/Beobachtung
+→ mathematisches Modell (quantitativ)
+→ Vorhersagekraft
+
+Die Mechanik des Sonnensystems kann die Naturwissenschaft mit unglaublicher Genauigkeit vorhersagen. Es folgen mechanische, thermodynamische und elektrodynamische Systeme auf der Erde mit der industriellen Revolution im Schlepptau.
+
+These: Diese Entwicklung zeigt heute Konsequenzen für sozialpolitische Entscheidungsprozesse und gesellschaftliche Normen.
+
+- Die empirischen naturwissenschaftlichen Methoden haben Einzug in die normativen Felder erhalten und dort aufgrund ihrer Erfolgsgeschichte großes Gewicht.
+- Die Auseinandersetzung mit inhaltliche Begründungen, Wertvorstellungen usw. wird durch empirische Daten ersetzt.
