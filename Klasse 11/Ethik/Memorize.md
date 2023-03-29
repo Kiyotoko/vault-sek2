@@ -365,3 +365,15 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 → Freude (Lust) maximieren
 → Leid (Unlust) minimieren
 - Handlung durch bestimmtes Ziel gesteuert → teleologische Ethik
+
+### Wichtigste Aspekte des Hedonistischen Kalküls
+
+-  Mittel zur Berechnung von Freude und Leid aller betroffenen Personen
+- 7 Umstände, die die Rechnung beeinflussen
+- Je Person werden zu erwartende Freude und Leid gegengerechnet
+- Alle Werte für Frude und alle Werte für Leid pro Person zusammenrechen → Bilanz
+- Wiederholen der Prozedur für alle betroffenen Personen
+- Endbilanz ziehen
+- Betrachtung des gesamten Handlungsausmaßes
+→ Überwiegt Freude: gute Handlung
+→ Überwiegt Leid: schlechte Handlung
