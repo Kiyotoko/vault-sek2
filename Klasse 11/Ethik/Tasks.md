@@ -207,7 +207,7 @@ Die Natur hat die Menschheit unter die Herrschaft zweier souveräner Gebieter - 
 
 Bentham stellt den Wert einer Freude oder Leides fest, indem er Intensität, Dauer, Gewissheit oder Ungewissheit, die Näher oder Ferne , die Folgeträchtigkeit, die Reinheit und das Außmas.
 Dann werden alle Werte addiert. Überwiegt die Freude, ist die Handlung gut, überwiegt das Leid, ist die Handlung schlecht. Für alle Personen wird das verfahren wiederholt.
-Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Entscheide ich, 5
+Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Entscheide ich, 5 zu töten, spüren 5 Leid und einer Freuede. Da mehr Leute Leid statt Freude zu 
 
 - - -
 
@@ -218,3 +218,9 @@ Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Ents
 | indirekte Freude | 0    | 3         | 0          |
 | indirektes Leid  | 0    | -3        | -1         |
 | Bilanz           | -5   | 0         | 60         |
+
+- - -
+
+- Folgeträchtigkeit
+- Bereitschaft, wenige zum Wohle der Mehrheit zu opfern
+- Glück einzelner nicht messen
