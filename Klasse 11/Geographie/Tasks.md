@@ -114,11 +114,11 @@ Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im 
 ## 2023-02-09
 
 1. Kleinstorganismen sterben ab
-1. Bei einer tiefe von über 200 metern kommt keine Luft an das tote Organische → Verwest nicht
-1. Ton und Sand mischen sich unter dem Organischen Material → es entsteht das Erdölmuttergestein
-1. Unter dem Gewicht weiterer Sedimente nimmt der Druck und die Hitze des Erdölmuttergesteins zu
-1. Bei 80 bis 100 Grad brechen die Moleküle auseinander und bilden neue Verbindungen → Öl entsteht
-1. Das Erdöl wandert nach oben → Erdöllagerstätte entsteht
+2. Bei einer tiefe von über 200 metern kommt keine Luft an das tote Organische → Verwest nicht
+3. Ton und Sand mischen sich unter dem Organischen Material → es entsteht das Erdölmuttergestein
+4. Unter dem Gewicht weiterer Sedimente nimmt der Druck und die Hitze des Erdölmuttergesteins zu
+5. Bei 80 bis 100 Grad brechen die Moleküle auseinander und bilden neue Verbindungen → Öl entsteht
+6. Das Erdöl wandert nach oben → Erdöllagerstätte entsteht
 
 - - -
 
@@ -129,3 +129,6 @@ Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im 
 - Waschmittel
 - Bleistifte
 - Kosmetik
+
+## 2023-03-29
+
