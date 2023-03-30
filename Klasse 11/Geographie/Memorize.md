@@ -92,10 +92,10 @@ tags:
 
 Die statistische Reichweite gibt laut Quelle das Verhältnis von Reserven und Produktion (R/P) an: Wenn die am Ende eines Jahres vorhandenen Reserven durch die Produktionsmenge dieses Jahres geteilt werden, ergibt sich daraus die Reichweite der verbleibenden Reserven bei unveränderten Produktionsmengen.
 
-## Folgen des Rohstoffverbrauchs
+### Hubbert-Kurve
 
-- Erhöhter CO<sub>2</sub> Ausstoß
-- Klimaerwärmung
+Hubbert-Kurve: nach Exploration und Erschließung steigt die Förderung bis zum  
+Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 
 ## Export- und Importstaaten
 
@@ -108,6 +108,16 @@ Die statistische Reichweite gibt laut Quelle das Verhältnis von Reserven und Pr
 	- Nordamerika
 	- Europa
 
-## Ökonomische und ökologische Auswirkungen
-
 ## Rolle der OPEC
+
+- „Organization of the Petroleum Exporting Countries“
+- Erdölkartell, welches die Preise kontrolliert
+- Mitgliedsstaaten
+	- Irak
+	- Iran
+	- Saudi-Arabien
+- Einflüsse auf den Ölpreis
+	- Angebot/Nachfrage
+	- Konflikte im Nahen Osten
+	- Erschließung neuer Quellen
+	- Abnehmende Ölabhängigkeit der Industriestaaten, welche stattdessen auf erneuerbare Energien setzen
