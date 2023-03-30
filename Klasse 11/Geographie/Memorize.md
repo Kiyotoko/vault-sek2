@@ -99,6 +99,15 @@ Die statistische Reichweite gibt laut Quelle das Verhältnis von Reserven und Pr
 
 ## Export- und Importstaaten
 
+- **Export**
+	- USA
+	- Saudi-Arabien
+	- Russland
+- **Import**
+	- China
+	- Nordamerika
+	- Europa
+
 ## Ökonomische und ökologische Auswirkungen
 
 ## Rolle der OPEC
