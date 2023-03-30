@@ -84,3 +84,7 @@ tags:
 
 - Gründung des ersten deutschen Kaiserreiches 1871
 - Erster deutscher Kaiser ist Wilhelm der Erste
+
+## Deutscher Dualismus
+
+deutscher Dualismus oder auch preußisch-österreichischer Dualismus bezeichnet die beiden Mächte Österreich und Preußen, die bis 1866 in Zusammenarbeit

@@ -515,3 +515,19 @@ wolkewolkewolkewole
 | Kritik an der DDR-Führung    | Führung    | Überwachung der eigenen Leute |                                |
 | Art der Umsetzung            | Musik      |                               |                                |
 | Weitere Notizen              |            |                               |                                |
+
+## 2023-03-30
+
+| Berthold Brecht | ![](../Deutsch/Working%20Materials/Nachkriegszeit/Berthold%20Brecht.png)                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Geboren         | 10.Februar.1898                                                                                                                                                                            |
+| Gestorben       | 14.August.1956^[Jürgen Smid: Brecht und Haindl]                                                                                                                                            |
+| Werkausgaben    | <li>Mutter Courage und ihre Kinder</li><li>Leben des Galilei</li><li>Der kaukasische Kreidekreis</li><li>Der aufhaltsame Aufstieg des Aturo Ui</li>                                        |
+| Theaterstücke   | <li>Mann ist Mann</li><li>Der Gute Mensch von Sezuan</li><li>Die Dreigroschenoper</li><li>Die Mutter</li><li>Die Gewehre der Frau Carrar</li><li>Die heilige Johanna der Schlachthöfe</li> |
+
+1. 1898 Wird als Sohn des kaufmännischen Angestellten Berthold Brecht und ^[https://www.dhm.de/lemo/biografie/bertolt-brecht]
+2. Studium
+3. Schaffen
+4. Leben im Exil
+	- Durch den Nationalsozialismus musste Brecht ins Exil gehen
+5. Rückkehr nach Berlin
