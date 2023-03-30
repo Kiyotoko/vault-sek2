@@ -88,7 +88,14 @@ tags:
 
 ## Begriff der statistischen Reichweite
 
+![](Working%20Materials/Rohstoffe/Statistische%20Reichweite%20bei%20Rohöl.png)
+
+Die statistische Reichweite gibt laut Quelle das Verhältnis von Reserven und Produktion (R/P) an: Wenn die am Ende eines Jahres vorhandenen Reserven durch die Produktionsmenge dieses Jahres geteilt werden, ergibt sich daraus die Reichweite der verbleibenden Reserven bei unveränderten Produktionsmengen.
+
 ## Folgen des Rohstoffverbrauchs
+
+- Erhöhter CO<sub>2</sub> Ausstoß
+- Klimaerwärmung
 
 ## Export- und Importstaaten
 
