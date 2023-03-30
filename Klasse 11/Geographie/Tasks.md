@@ -133,8 +133,17 @@ Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im 
 ## 2023-03-29
 
 Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich ökonomischer, sozialer und ökologischer Auswirkungen.
-1. **Analysieren Sie zunächst die wichtigsten Indikatoren (z.B. BIP) aus Tabelle 3, 7 und 10 und arbeiten Sie heraus, ob diese als positiv zu beurteilen sind.** Hierbei ist es wichtig zu prüfen, wie sich das BIP eines Landes zusammensetzt. Wirtschaftlich nachhaltig ist es, wenn es mehrere Einnahmequellen gibt, die auch über mehrerer Jahrzehnte noch ein gesichertes EInkommen bringen. Auch das Saldo von Ein- und Ausfuhr (S. 133/10) sollte positiv sein, weil sonst ein Staat immer Schulden macht.
-|     |     |
-| --- | --- |
-3. Lesen Sie die Texte auf beiden Seiten und halten Sie fest, was Sie über die **soziale, ökonomische und ökologische Entwicklung des norwegischen Wohlstands** erfahren. Erafssen Sie die Zusammenhänge zwischen Einnahmen durch Erdöl und den Ausgaben für inländische Investitionen. Beurteilen Sie auch hier, ob die Auswirkungen positiv sind.
-4. **Lösen Sie anschließend die Aufgabe schriftlich,** indem Sie anhand der erarbeiteten Kriterien ein auf Fakten basierendes Urteil formulieren. Nachhaltig ist die Erdölförderung eines Landes dann, wenn die ökologischen Folgen gering sind, die Einnahmen durch den Erdölreichtum der Gesellschaft zugute kommen und deren Wohlstand fördern, aber keine Abhängigkeit vom Rohstoff besteht, sondern ein Land auch weitere ökonomische Standbeine hat. Beim Erdöl sollte man demnach immer die Hubbert-Kurve sowie die globalen Tendenzen, aus den fossilen Energierohstoffen auszusteigen bis 2050, im Blick behalten.
+1. **Analysieren Sie zunächst die wichtigsten Indikatoren (z.B. BIP) aus Tabelle 3, 7 und 10 und arbeiten Sie heraus, ob diese als positiv zu beurteilen sind.** Hierbei ist es wichtig zu prüfen, wie sich das BIP eines Landes zusammensetzt. Wirtschaftlich nachhaltig ist es, wenn es mehrere Einnahmequellen gibt, die auch über mehrerer Jahrzehnte noch ein gesichertes Einkommen bringen. Auch das Saldo von Ein- und Ausfuhr (S. 133/10) sollte positiv sein, weil sonst ein Staat immer Schulden macht.
+	- Die Daten zeigen, dass Öl 2005 15.3 % am BIP ausgemacht haben. Nach der Weltbank ist der BIP stetig zwischen 0.5 und 4 % gewachsen, mit der Ausnahme von 2009. EPI und CPI zeigen beide, dass Norwegen trotz der gewaltigen Mengen and Öl dennoch eine relativ gute Umwelt- und Korruptionsbilanz haben. Der Außenhandel von Norwegen 2004 zeigt, dass Norwegen 107.5 Milliarden exportiert und 67.2 Milliarden importiert hat. Dies sorgte für eine Bilanz von plus 40.3 Milliarden Euro. Exportiert werden vor allem Erdöl und Erdgas, importiert hingegen Maschinen und Kfz-Teile.
+1. Lesen Sie die Texte auf beiden Seiten und halten Sie fest, was Sie über die **soziale, ökonomische und ökologische Entwicklung des norwegischen Wohlstands** erfahren. Erfassen Sie die Zusammenhänge zwischen Einnahmen durch Erdöl und den Ausgaben für inländische Investitionen. Beurteilen Sie auch hier, ob die Auswirkungen positiv sind.
+	- **sozial**
+		- Gesundheitsversorgung und Erziehung sind Gratis
+	- **ökonomisch**
+		- Durch den Ölexport wird der Preis der Währung angehoben, was dafür sorgt, dass andere Gewerbe ihre Wettbewerbsfähigkeit verlieren
+		- Geringe Arbeitslosenquote
+		- Hohe Lebenserhaltungskosten
+		- Staatsfond unterstützt die Gründung von Start-Ups
+	- **ökologisch**
+		- Will 2030 C02 neutral werden
+		- Erschließt regenerative Energien (Wasser- und Windkraft)
+1. **Lösen Sie anschließend die Aufgabe schriftlich,** indem Sie anhand der erarbeiteten Kriterien ein auf Fakten basierendes Urteil formulieren. Nachhaltig ist die Erdölförderung eines Landes dann, wenn die ökologischen Folgen gering sind, die Einnahmen durch den Erdölreichtum der Gesellschaft zugute kommen und deren Wohlstand fördern, aber keine Abhängigkeit vom Rohstoff besteht, sondern ein Land auch weitere ökonomische Standbeine hat. Beim Erdöl sollte man demnach immer die Hubbert-Kurve sowie die globalen Tendenzen, aus den fossilen Energierohstoffen auszusteigen bis 2050, im Blick behalten.
