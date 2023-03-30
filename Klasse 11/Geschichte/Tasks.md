@@ -210,3 +210,20 @@ In der Paulskirche ging es um eine Vereinigung Deutschlands, in dem jeder die se
 	- Herzogtümer Schleswig und Holstein sollte dänisch werden
 	- Dänemark verlor, da Preußen und Österreich moderner Waffen und besser Organisiert waren.
 	- Dänemark hat ein drittel seiner Fläche verloren
+
+## 2023-03-30
+
+- der deutsche Kaiser ernennt den Reichsgerichtshof und die Reichsregierung und beruft den Bundesrat ein
+- der deutsche Kaiser hat den Oberbefehl über die Streitkräfte
+- der deutsche Kaiser und der Bundesrat können den Reichstag auflösen
+- das Reichsgericht und der Reichstag starten Gesetze
+- der Reichstag wird von Männern über 25 gewählt
+- die 25 Bundesstaaten senden Vertreter zum Bundesrat, von den 58 Vertretern stellt Preußen alleine 17
+- - -
+- erste Züge einer Gewaltenteilung
+- der Reichsgerichtshof wird gewählt
+- der Kaiser steht über allem
+- - -
+- Einung durch den Deutschen Kaiser
+- Beteiligung der 25 Bundesländer
+- Wahl durch die Befölkerung

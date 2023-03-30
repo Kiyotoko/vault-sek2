@@ -88,3 +88,6 @@ tags:
 ## Deutscher Dualismus
 
 deutscher Dualismus oder auch preußisch-österreichischer Dualismus bezeichnet die beiden Mächte Österreich und Preußen, die bis 1866 in Zusammenarbeit
+
+## Innenpolitik im Kaiserreich
+
