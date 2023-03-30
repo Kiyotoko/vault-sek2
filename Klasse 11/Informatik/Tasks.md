@@ -2,9 +2,12 @@
 author: karlz
 tags:
 - Informatik
+- FGB
 ---
 
-# 2023-02-02
+# Algorithmen
+
+## 2023-02-02
 
 1. Zwei Becher einwerfen
 1. Bon drucken

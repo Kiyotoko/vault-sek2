@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Englisch
+- FGB
+---
+
 In the article „Should we bother to learn another language?“ from Ian Wylie, which was published on November 2005 in „The Guardian“, the author discusses if it is worthy to learn another language then English or not.
 
 According to the author, nearly 1 billion people can now speak English. Even if now 5 billion don't speak English, many governments taking actions to raise the number of English speakers in schools and universities. English is the dominating language in the network. English is one of the most popular languages, and without it, a communication between 200 countries would be awfully messy.

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Astronomie
+- FGB
+---
+
 # Plasma
 
 ## Merkmale Und Eigenschaften Des Plasma

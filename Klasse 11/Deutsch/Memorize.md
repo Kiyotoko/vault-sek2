@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Deutsch
+- FGB
+---
+
 # Interpretation
 
 ## Interpretation Eines Lyrischen Textes

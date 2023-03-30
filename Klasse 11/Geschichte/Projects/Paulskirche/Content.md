@@ -1,4 +1,9 @@
-Karl Zschiebsch
+---
+author: karlz
+tags:
+- Geschichte
+- FGB
+---
 
 # Geschichtsausarbeitung
 

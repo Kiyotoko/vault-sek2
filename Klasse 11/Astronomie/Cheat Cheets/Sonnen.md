@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Astronomie
+- FGB
+---
+
 # Aufbau
 
 - Kern

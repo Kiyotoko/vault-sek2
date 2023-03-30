@@ -2,6 +2,7 @@
 author: karlz
 tags:
 - Geographie
+- FGB
 ---
 
 # Vulkanismus

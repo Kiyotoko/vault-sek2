@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Deutsch
+- FGB
+---
+
 # Praxisaufgabe
 
 Besuchen Sie 5 Plätze in Weimar und interpretierten Sie diese Orte, indem Sie Fotos aufnehmen, die die Atmosphäre dieses Platzes widerspiegeln. Verwenden Sie unterschiedliche Farben, Formen, graphische Elemente, Statisten und Kontraste. Erstellen Sie eine Collage aus Ihren Aufnahmen und begründen Sie für jedes Foto kurz die Auswahl der entsprechenden Gestaltungsmittel.
