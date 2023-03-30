@@ -72,7 +72,7 @@ tags:
 - Fraktionen
 - Frage nach Territorium
 
-## Einheit Und Freiheit in Der Revolution
+## Einheit und Freiheit in der Revolution
 
 - **Äußere Problem**
 	- Druck der Straßen lässt nach
