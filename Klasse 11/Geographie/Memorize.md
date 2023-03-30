@@ -37,4 +37,61 @@ tags:
 
 ![Wilson Zyklus](Working%20Materials/Vulkanismus/Wilson%20Zyklus.png)
 
-## Die Entstehung Der Alpen
+## Die Entstehung der Alpen
+
+# Rohstoffe
+
+## Rohstoffe, Ressourcen und Reserven
+
+### Rohstoffe
+
+- Stoffe, die in der Natur vorgefunden werden und bis zur Loslösung aus ihrer natürlichen Quelle unverarbeitet sind
+
+### Ressourcen und Reserven
+
+- **Ressourcen**
+	- nachgewiesen, die aber derzeit technisch und/oder wirtschaftlich noch nicht gewinnbar sind
+	- oder nicht nachgewiesen, dafür aber geologisch nicht möglich
+- **Reserven**
+	- technisch und wirtschaftlich gewinnbar
+
+→ Ressourcen und Reserven bilden zusammen das Gesamtpotenzial eines Rohstoffes
+
+## Gliederungsmöglichkeiten und Begrenztheit
+
+### Sektoren
+
+- **Agrarrohstoffe**
+	- Pflanzliche Rohstoffe
+	- Tierische Rohstoffe
+- **Luft/Wasser**
+- **Industrierohstoffe**
+	- Energierohstoffe
+	- Energierohstoffe
+	- Metallrohstoffe
+	- Chemische Rohstoffe
+	- Bau- und Keramikrohstoffe
+
+### Primär
+
+- **Primärrohstoffe**
+	- Nicht regenerierbare Rohstoffe
+		- Energierohstoffe
+		- Metallische Rohstoffe
+		- Chemische und mineralische Rohstoffe
+		- Bau- und Keramrohstoffe
+	- Regenerierbare Rohstoffe
+		- Forstliche Rohstoffe
+		- Pflanzliche Rohstoffe
+- **Sekundärrohstoffe**
+	- Recycling
+
+## Begriff der statistischen Reichweite
+
+## Folgen des Rohstoffverbrauchs
+
+## Export- und Importstaaten
+
+## Ökonomische und ökologische Auswirkungen
+
+## Rolle der OPEC

@@ -115,7 +115,7 @@ Im Bereich des Roten Meeres ist eine *divergente Plattenbewegung* vorzufinden. A
 
 Die Putonite oder Tiefengesteine entstehen aus Magma. Dabei kühlt das Magma im Erdinneren sehr langsam ab, da es keine Wärme an die Oberfläche abgeben kann. Die lange Erstarrungszeit führt zu Kristallisation und zu einer großen Härte. Ein gutes Beispiel ist hierfür Granit.
 
-# Resourcen
+# Rohstoffe
 
 ## 2023-02-09
 
