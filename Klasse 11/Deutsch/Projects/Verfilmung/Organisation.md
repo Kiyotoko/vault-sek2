@@ -29,9 +29,10 @@ tags:
 
 # Rollen
 
-| Rolle    | Person |
-| -------- | ------ |
-| Sprecher |        |
-| Kamera   |        |
-| Regie    |        |
-| Schnitt  |        |
+| Rolle    | Person    |
+| -------- | --------- |
+| Sprecher | Erik      |
+| Scene    | Richard   |
+| Kamera   | Christoph |
+| Schnitt  | Christoph |
+| Regie    | Karl      |
