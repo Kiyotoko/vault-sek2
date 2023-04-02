@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Latein
+- FGB
+---
+
 # Bildvergleich
 
 1. Analyse

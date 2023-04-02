@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Kunst
+- FGB
+---
+
 # Aufgabenstellung
 
 Gestalte ein Zitat typografisch, sodass der Einbruch eines optischen Rechtecks/Quadrates entsteht. Der Fokus liegt auf Gestaltung, und nicht Lesbarkeit.

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Mathe
+- FGB
+---
+
 # Änderungsrate
 
 - Durchschnittliche Änderungsrate: Differenzenquotient
@@ -9,7 +16,7 @@
 1. Die Tangente hat mit dem Funktionsgrahen den Berührungspunkt gemeinsam.
 1. Im Berührungspunkt ist der Anstig der Tangente gleich dem Anstieg des Funktionsgraphen.
 
-## Zu Punkten Und Parallelen
+## Zu Punkten und Parallelen
 
 1. Ableitung bilden
 1. Berührungspunkt bilden
@@ -19,14 +26,14 @@
 
 
 **Beispiel**
-$$f(x)=x^2\quad x_0=2$$
+$f(x)=x^2\quad x_0=2$
 - $f'(x)=2x$
 - $P(2|f(2))=P(2|4)$
 - $m=f'(2)=4$
 - $4=4*2+n\to n=-4$
 - $t(x)=4x-4$
 
-## Von Externen Punkten
+## Von externen Punkten
 
 1. Ableitung bilden
 1. Gedachter Berührungspunkt $A$ bilden
@@ -43,10 +50,12 @@ $A(x_A|f(x_A))$
 $m=\frac{x_Q-f(x_A)}{y_Q-x_A}$
 $m=f'(x_A)$
 
-$s=solve(\frac{y_Q-f(x_A)}{x_Q-x_A}=f'(x_A),x_A)$
-$t(x)=tangentline(f(x),x,s)$
+~~~js
+s=solve(yQ-f(xA)/(xQ-xA)=f1(xA),xA))
+t(x):=tangentline(f(x),x,s)
+~~~
 
-# Normale
+## Normale
 
 Die Normale steht senkrecht auf der Tangente.
 

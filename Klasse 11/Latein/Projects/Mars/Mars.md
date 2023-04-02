@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Latein
+- FGB
+---
+
 # Bedeutung/Herkunft
 
 - Mars wurde Mamars, Marspiter, latinisch Mavors und etruskisch Maris genannt

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Biologie
+- FGB
+---
+
 # Anwendung Evolutionsfaktoren Und Entstehung Der Artenvielfalt
 
 Je nach Umweltfaktoren haben die dunklen oder helleren Birkenspanner eine bessere Überlebenschance, was von ihrer Anpassung zur Umgebung abhängt. In Industriegebieten mit einer höheren Luftverschmutzung fallen dunkle Birkenspanner weniger auf, wohingegen in Ländlichen gebieten mit einer niedriegen Luftverschmutzung eher helle Birkenspanner weniger auffallen.
@@ -17,16 +24,6 @@ Je nach Umweltfaktoren haben die dunklen oder helleren Birkenspanner eine besser
 - Zentralisierung
 - Spezialisierung
 
-**AB**
-
-Komplizierung
-- Entstehung neuer Funktionen
-Differenzierung
-Spezialisierung
-- Passen sich auf bestimmte Fälle an
-Komplizierung
-- Höhere Entwicklung
-
 ## Homologie
 
 Als Homologie bezeichnet man in der biologischen Systematik und der vergleichenden Anatomie die grundsätzliche Übereinstimmung von Organen, Organsystemen, Körperstrukturen, physiologischen Prozessen oder Verhaltensweisen zweier Taxa aufgrund ihres gemeinsamen evolutionären Ursprungs.
@@ -35,76 +32,7 @@ Als Homologie bezeichnet man in der biologischen Systematik und der vergleichend
 
 Analogie bezeichnet in der Philosophie eine Form der Übereinstimmung von Gegenständen hinsichtlich gewisser Merkmale. In der Antike wurde der Begriff ursprünglich als Fachausdruck für die Bezeichnung mathematischer Verhältnisse verwendet.
 
-# Die Entwicklung Des Menschen
-
-**AB NR 1**
-
-1. Großer Zeh opponierbar
-1. Oft Daumen auch opponierbar
-1. Fingerabdrücke
-1. Flache Zeh und Fingernägel
-1. Augen groß und nach vorne gerichtet
-
-**Ab NR 2**
-
-```mermaid
-graph TD;
-  classDef node fill:#900;
-  classDef default fill:#009,stroke:#333,stroke-width:4px;
-  Menschenaffen:::node --> 1.Abzweigung;
-  1.Abzweigung:::node --> Orang-Utan;
-  1.Abzweigung --> 2.Abzweigung;
-  2.Abzweigung:::node --> Gorilla;
-  2.Abzweigung --> 3.Abzweigung;
-  3.Abzweigung:::node --> 4.Abzweigung;
-  3.Abzweigung --> Menschen;
-  4.Abzweigung:::node --> Bonobo;
-  4.Abzweigung --> Schimpanse;
-```
-
-**AB NR 4**
-
-Der Mensch entstand aus den Menschenaffen. Über verschiedene Abzweigungen ist er mit anderern Menschenaffen wie Orang-Utans, Gorillas oder Schimpansen verwandt. Da Menschenaffen zu den Primaten gehören, stammt der Mensch von den Affen ab.
-
-**AB**
-
-Mit der Menschlichen Hand kann man Objekte zwichen dem Daumen und den restlichen Fingern greifen. Ohne Daumen wird es allerdings erheblich schwerer, etwas zu ergreifen. Bekommt man so auch einen Knopf oder den Deckel einer Pflasche nicht zu greifen, ist es dementsprechend auch deutlich schwerer, es zu öffnen.
-
-**AB NR 1**
-
-- Artipitheus
-	- Aufrechter Gang
-	- Größeres
-- Artipitheus Afarensis
-	- Bewegt sich in Gruppen
-	- Pflanzenfresser
-- Homo Habilis
-	- Deutlich größeres Gehirn
-	- Nutzen erstmals Werkzeuge
-	- Assfresser
-- Homo Erectus
-	- Kulturelle Entwicklun
-	- Feuer
-	- Verbesserte Werkzeuge
-	- Jäger
-	- Reduzierte Körperbehaarung
-	- Erschließt neue Kontinente
-- Homo Neandertalensis
-	- Robust
-	- Muskulöser
-	- Tragen erstmals Kleidung
-- Homo Sapiens
-	- Besiedelt alle Kontinente
-	- Trieft auf den Homo Neander und verdrängt ihn
-	- Haben spezialisierte Steinwerkzeuge
-	- Haben Kunst
-	
-**LB S 117 NR 2**
-
-* Masai
-  * Aus Afrika Stammend
-* Inuit
-  * Wanderten aus Afrika aus
+# Die Entwicklung des Menschen
 
 ## Out of Africa
 

@@ -320,9 +320,8 @@ Glaube, dass man für jedes belebte Wesen Kohlenstoff benötigt.
 ### Die empirischen Wissenschaften
 
 Die Kopernikanische Wende leitet den Siegeszug der empirischen Wissenschaften ein:
-→ Experiment/Beobachtung
-→ mathematisches Modell (quantitativ)
-→ Vorhersagekraft
-
+<center>→ Experiment/Beobachtung
+<br>→ mathematisches Modell (quantitativ)
+<br>→ Vorhersagekraft</center>
 
 Die Mechanik des Sonnensystems kann die Naturwissenschaft mit unglaublicher Genauigkeit vorhersagen. Es folgen mechanische, thermodynamische und elektrodynamische Systeme auf der Erde mit der industriellen Revolution im Schlepptau.

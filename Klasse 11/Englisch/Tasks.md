@@ -14,14 +14,14 @@ The reasons for a Lingua Franca are, that the pop culture of the language spread
 
 ## 2022-09-14
 
-|Lingua Franca|Time|Reasons for the spread of the language|
-|:-|-|-:|
-|French|Modern times|Nobility and Diplomacy|
-|English|After the Second World War|Through large spatial expansion
-|Latin|Ancient|Geographical expansion of Rome|
-|Portuguese|Modern times|Colonization|
-|German|Until the Second World War|Widespread use in Europe, <br>"language of poets and thinkers"|
-|Egyptian, Greek|Antiquity|Great powers|
+| Lingua Franca   | Time                       |                         Reasons for the spread of the language |
+|:--------------- | -------------------------- | --------------------------------------------------------------:|
+| French          | Modern times               |                                         Nobility and Diplomacy |
+| English         | After the Second World War |                                Through large spatial expansion |
+| Latin           | Ancient                    |                                 Geographical expansion of Rome |
+| Portuguese      | Modern times               |                                                   Colonization |
+| German          | Until the Second World War | Widespread use in Europe, <br>"language of poets and thinkers" |
+| Egyptian, Greek | Antiquity                  |                                                   Great powers |
 
 ---
 In the article „Should we bother to learn another language?“ from Ian Wylie, which was published on November 2005 in „The Guardian“, the author discusses if it is worthy to learn another language then English or not.
@@ -122,7 +122,9 @@ Everyone should travel and come around in the world. But traveling to often brin
 - German culture in honor
 	- Oktoberfest
 - If everyone would speak English, we could easier communicate
----
+
+- - -
+
 Should native English speakers learn another language?
 
 Nearly 1 billion people can now speak English. Even if now 5 billion don't speak English, many governments taking actions to raise the number of English speakers in schools and universities. English is the dominating language in the network. English is one of the most popular languages, and without it, a communication between 200 countries would be awfully messy. If everyone could speak English, communication would be much easier.

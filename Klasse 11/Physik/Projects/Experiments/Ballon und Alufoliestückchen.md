@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Physik
+- FGN
+---
+
 - **Durchführung**
 	1. Reiben des Ballons an einem Stück Stoff,
 	1. Aluminiumkugeln auf die Ballonoberfläche gelegt.

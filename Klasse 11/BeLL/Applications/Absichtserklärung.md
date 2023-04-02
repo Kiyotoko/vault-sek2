@@ -1,8 +1,17 @@
-Freies Gymnasium Borsdorf
-Heinrich-Heine-Straße 33
-04451 Borsdorf
+---
+author: karlz
+tags:
+- Bell
+- FGB
+---
 
+<div align="left">Freies Gymnasium Borsdorf
+<br>Heinrich-Heine-Straße 33
+<br>04451 Borsdorf</div>
+
+<div align="right">
 11.November.2022
+</div>
 
 # Absichtserklärung BeLL
 

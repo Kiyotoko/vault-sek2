@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Kunst
+- FGB
+---
+
 # Schriftgestaltung
 
 - **Angewandte Kunst**

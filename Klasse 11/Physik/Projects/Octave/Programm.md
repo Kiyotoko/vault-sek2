@@ -1,1 +1,8 @@
+---
+author: karlz
+tags:
+- Physik
+- FGN
+---
+
 In dieser Simulation wird eine for-Schleife verwendet, um in minimalen Zeitabständen von $0,01$ Sekunden vom Startwert von $0$ Sekunden bis zum Endwert von $30$ Sekunden zu iterieren. Die Schleife beginnt damit, die Beschleunigung des Skifahrers zu berechnen, da die Geschwindigkeit und der Weg von ihr abhängen. Dazu wird die in Teilaufgabe 3 c) hergeleitete Formel verwendet, die auch die aktuelle Geschwindigkeit des Skifahrers berücksichtigt. Im ersten Durchlauf der Schleife beträgt die Geschwindigkeit $0 \frac{m}{s}$, da der Skifahrer ohne Anfangsgeschwindigkeit startet. Mit der berechneten Beschleunigung wird die Geschwindigkeitsänderung $dv$ und die neue Geschwindigkeit des Skifahrers für den aktuellen Zeitintervall berechnet. Mit dieser Geschwindigkeit wird dann die Wegänderung $ds$ und der neu-zurückgelegte Weg s bestimmt. Zeit, Beschleunigung, Geschwindigkeit und Weg werden dann in einem Zeilenvektor an der Position $n$ (im ersten Durchgang an erster Stelle, $n=1$) festgehalten. Nach jedem Durchlauf wird die Position $n$ um $1$ erhöht und die Schleife wiederholt, bis sie bei $t=30s$ angekommen ist. Beim nächsten Durchlauf wird die Beschleunigung aufgrund der veränderten Geschwindigkeit neu berechnet. Je kleiner der gewählte Zeitabstand $dt$ ist, desto genauer werden die Ergebnisse, da die Schleife häufiger durchlaufen wird und die Werte somit präziser bestimmt werden können.

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Informatik
+- FGB
+---
+
 >Einstieg: Informationssicherheit in China
 
 # Definition

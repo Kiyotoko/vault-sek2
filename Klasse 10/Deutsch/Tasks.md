@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Deutsch
+- FGB
+---
+
 **Ah. S. 43 NR 3**
 
 [ ] [ ] [C] [ ]
@@ -145,63 +152,7 @@ Um zu verstehen, wieso Kurzgeschichten für kommunikativ schwierige Situationen 
 
 Zu Beginn der Geschichte ist Rita Wortführerin und dominiert das Gespräch. Auch die Mutter steigt auf den Spott über den Kerl ein. Milene nimmt im ersten Teil des Gesprächs eine Sonderstellung ein. Sie stimmt nich in den Spott über den Mann ein, sondern hebt die positiven Eigenschaften dieser Person hervor.
 
-# Präsentation
-
- - Aufklärung:
-	- Vernunft und Verstand
-	- Ideal einer Gesellschaft
-	- "Habe Mut, dich deines Eigenen Verstandes zu bedienen."
-	- Gesamt gesallschaftliche Bewegung
- - Sturm und Drang:
-	- Gefühle
-	- Verwirklichung des eigenen Ichs
-	- Forderung, Mut zu haben sich selbst zu leben
-	 rein literarische Bewegung in Deutschland
- - Verlaufen Chronologisch Parallel
- - Gemeinsamkeiten:
-	- Scharf umrissene Vorstellung von Moral
-	- Menschenrechte
-	- Kritik an der Kirche
-	- Ruf zu mehr Selbstständigkeit
-- Epochenmerkmale
-	- Hauptthemen & Motive 
-		- Konflikt des Einzelnen mit der Gesellschaft
-		- Selbstbestimmung
-		- Selbstverwirklichung und Freiheit
-		- Geniekult
-		- Freundschaft & Empfindung
-	- Genres
-		- Tragödie
-		- Ballade, Hymne, Ode
-		- Erlebnislyrik
-		- Entwicklungsroman
-	- Konflikte
-		- fühlender Mensch vs. kalte, abweisende Welt
-		- Leidenschaft vs. herrschende Sitte und Moral
-		- die besondere Individualität des Einzelnen vs. die Willkür der gesellschaftlichen Verhältnisse
- Sprache & Stil
-	- Ausdrucksstarke Gefühlssprache
-		- Ausrufe
-		- Ellipsen
-		- Metaphern
-	- einfache Liedform o. freie Rhythmen
-	- Prosa bis derbe Ausdrucksweise
- - Figuren
-	- meist
-		empfindsamer, naturverbundener, liebender Mensch
-	- oder
-		Genie, Rebell, Einzelkämpfer für Recht und Gerechtigkeit
-Textbeispiel
- - Faust Ausschnitt
-	>Hab nun, ach! die Philosophei,
-	Medizin und Juristerei
-	Und leider auch die Theologie
-	Durchaus studiert mit heißer Müh.
-	Da steh ich nun, ich armer Tor,
-	Und bin so klug als wie zuvor.
-- Motive: Geniekult
-- Sprache: Ausrufe
-- Figur: Genie
+- - -
 
 **AB**
 

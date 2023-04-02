@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Englisch
+- FGB
+---
+
 **AB**
 
 NERVE manipulades the players to do something that brings them in a unforgently sintuation,
@@ -9,15 +16,15 @@ Migration is the movement of peopel across political or administrative boundarie
 People entering another country are called immigrants.
 
 Reasons:
- ● Searching for better living conditions
- ● To escape hunger and poverty
- ● Force migration
- ● Slave trades
- ● ethnic cleansing
- ● fleeing war
+- Searching for better living conditions
+- To escape hunger and poverty
+- Force migration
+- Slave trades
+- ethnic cleansing
+- fleeing war
 
 Today:
- ● to study in another country
+- to study in another country
  
 **AB**
 
@@ -26,29 +33,27 @@ salad bowl remaining their ethnically characteristics like in a salad bowl
 
 **AB**
 
-dad was pastor
-georgia, 15th January 1929
-Martin and his frind become seperated, because of ther skin color
-black peopel sit back in the bus, and offer the seat for white persons
-he was know for public speaking ability
-ha had four children
+- dad was pastor
+- georgia, 15th January 1929
+- Martin and his frind become seperated, because of ther skin color
+- black peopel sit back in the bus, and offer the seat for white persons
+- he was know for public speaking ability
+- ha had four children
 
-insert for black peopel a lot
-got the nobel price
-become president
-"I had a dream" had a great influence for peaceful demonstrations
-assasinated
+- insert for black peopel a lot
+- got the nobel price
+- become president
+- "I had a dream" had a great influence for peaceful demonstrations
+- assasinated
 
 **AB**
 
- ● Guessing new words
- ● selecting only relevant points
- ● paraphrasing
- ● Dealing with idiomatic difficults
- ● Summarising
- ● Editing
- 
-**AB**
+- Guessing new words
+- selecting only relevant points
+- paraphrasing
+- Dealing with idiomatic difficults
+- Summarising
+- Editing
 
 # Problems and Solutions for the Global Pollution
 
@@ -86,7 +91,7 @@ Pro -> Con -> Pro -> Con
 
 **AB**
 
-**Speed_Limit*-*an_important_step_or_an_unnecessary_restriction?** 
+Speed_Limit - an important step or an unnecessary restriction?
 
 It is one of the most discussed topics in germany - speed limit! But what are the advantages and disadvantages?
 
@@ -117,7 +122,7 @@ As a result, I would argue that a speed limit doesn't really make sense.
 
 **AB**
 
-# Fair Wear Foundations:
+*Fair Wear Foundations*
 
 Fair Wear Foundation (Fair Wear) is an independent multi-stakeholder organisation that works with garment brands, garment workers and industry influencers to improve labour conditions in garment factories. Receiving the Fair Wear stamp of approval does not guarantee any existing quality of labour standards, instead only demonstrating a stated interest in working toward improvement. 
 
@@ -133,13 +138,12 @@ Fair Wear's eight labour standards are:
     No excessive working hours
     Safe and healthy working conditions
     Legally binding employment relationship
-	
 
-# Good Wear
+*Good Wear*
 
-# Fair Trade Tourism
+*Fair Trade Tourism*
 
-# FSC
+*FSC*
 
 The Forest Stewardship Council is an international non-profit organization. The Bonn-based company was founded in 1993.
 It is an international certification system for more sustainable forest management. The wood from furniture, toys, books, exercise books or pencils with the FSC seal comes from forests that are managed more responsibly.
@@ -147,7 +151,7 @@ The aim of the FSC is to promote ecologically appropriate, socially beneficial a
 
 **AB**
 
-# Fairtrade - far More than a Cetification Scheme!
+Fairtrade - far More than a Cetification Scheme!
 
 It is one of the largest and most diverse global movements for change: Fairtrade. Everyone knows it's famous icon. It stands for a product, that is qually owned and managed *by* producers *for* producers. But do you also know all its criteria and producer system? When not, then you are here right!
 
@@ -166,7 +170,7 @@ free (adjective) - freely (adverb)
 their - there
 then - than
 
-# Statische Und Dynamische Verben
+# Statische und dynamische Verben
 
 ## Statisch
 

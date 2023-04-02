@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Mathe
+- FGB
+---
+
 # Ableitungsregeln
 
 Die erste Ableitung ist der Anstieg einer Funktion.

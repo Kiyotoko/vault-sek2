@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Latein
+- FGB
+---
+
 # Bedeutung/Herkunft
 
 Mars wurde Mamars, Marspiter, latinisch Mavors und etruskisch Maris genannt. In den Nordeuropäischen Regionen: **Tyr → Tiw → Tuesday → \_\_\_\_\_\_\_\_\_\_**. Mars Silvanus war ursprünglich ein Vegetationsgott.

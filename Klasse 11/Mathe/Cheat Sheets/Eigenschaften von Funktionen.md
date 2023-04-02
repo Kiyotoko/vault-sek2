@@ -1,13 +1,20 @@
+---
+author: karlz
+tags:
+- Mathe
+- FGB
+---
+
 # Nullstellen
 
 Funktion $0$ setzen.
 $0=f(x)$
 
-## Vielfachheit Von NSt
+## Vielfachheit von NSt
 
 Anzahl der Nullstellen.
 
-# Schnittpunkt Mit Der $y$-Achse
+# Schnittpunkt mit der $y$-Achse
 
 Bei der Funktion $0$ einsetzen.
 $y=f(0)$
@@ -79,7 +86,7 @@ $f''(x)=2$
 $0=2x-2\to x=1$
 $0\neq2$
 
-## Nachweis Der Art Des Extrems
+## Nachweis der Art des Extrems
 
 - Minimum: $f''(x_E)>0$
 - Maximum:$f''(x_E)<0$

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Physik
+- FGN
+---
+
 # Elektrisches Feld
 
 |             | Formelzeichen | Einheit                   | Formel                        |

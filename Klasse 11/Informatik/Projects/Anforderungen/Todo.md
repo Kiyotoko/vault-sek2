@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Informatik
+- FGB
+---
+
 - __Aufgabenstellung__: Anforderungen an die Informationssicherheit an konkreten Beispielen (Lebensweltbezug)
 	- [x] Vertraulichkeit 
 	- [x] Integrität 

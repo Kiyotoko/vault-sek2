@@ -45,18 +45,18 @@ Die unvollkommenen Menschen glauben an vollkommene Menschen, da sie stets die Ho
 **AB**
 
 Mensch
- ● Endlich
- ● Sterblich
- ● Beschränktes Wissen
- ● Begrenzte Macht
+- Endlich
+- Sterblich
+- Beschränktes Wissen
+- Begrenzte Macht
 
 	Projektion = unvewusstes Selbstbewusstsein des Menschen
 
 Gott
- ● Unsterblich
- ● Unendlich
- ● Allwissend
- ● Allmächtig
+- Unsterblich
+- Unendlich
+- Allwissend
+- Allmächtig
  
 Zu größerer Reife und Einsicht gelangt der Mensch, wenn er die Projektion durchschaut und Gott diese Eigenschaften abspricht und sich selbst stattdessen zuspricht!
 
