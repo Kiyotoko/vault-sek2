@@ -17,10 +17,10 @@ $F=\frac{1}{4\pi\epsilon_{0}}*\frac{Q_{1}Q_{2}}{r^{2}}$
 
 ## Flussdichte
 
-|                                     | elektrisches Feld                     | magnetisches Feld           |
-| ----------------------------------- | ------------------------------------- | --------------------------- |
-| Feldstärke                          | $\vec{E}$                             | $\vec{H}$                   |
-| elektrische/magnetische Flussdichte | $\vec{D}=\epsilon_0\epsilon_r\vec{E}$ | $\vec{B}=\mu_0\mu_r\vec{H}$ |
+|                                     | elektrisches Feld                         | magnetisches Feld               |
+| ----------------------------------- | ----------------------------------------- | ------------------------------- |
+| Feldstärke                          | $\vec{E}$                                 | $\vec{H}$                       |
+| elektrische/magnetische Flussdichte | $\vec{D}=\epsilon_{0}\epsilon_{r}\vec{E}$ | $\vec{B}=\mu_{0}\mu_{r}\vec{H}$ |
 
 # Ladungsausgleich
 
