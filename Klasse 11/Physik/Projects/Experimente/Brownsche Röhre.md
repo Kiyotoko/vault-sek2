@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Physik
+- FGB
+---
+
 # Bewegung von Ladungsträgern im elektrischen Längs- und Querfeld
 
 ## Bewegung im Längsfeld
