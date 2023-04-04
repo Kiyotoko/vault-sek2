@@ -1633,11 +1633,13 @@ $P(43\leq x\leq48)\approx0.9083$
 
 - - -
 
-$P(x<60)=0.4567$
-$P(60<x)=0.4621$
+$P(x<60)\approx0.4567$
+$P(60<x)\approx0.4621$
 
 - - -
 
 Ein Reiseunternehmer nimmt 400 Buchungen für ein Feriendorf mit 360 Betten an, da erfahrungsgemäß 12% der Buchungen wieder rückgängig gemacht werden.
 
+Für einen eines Airbus A300 der Lufthansa mit 270 Plätzen liegen 280 Buchungen vor; man kann mit 10% Stornierungen rechen.
 
+$P(10\leq x\leq280)\approx0.99997$
