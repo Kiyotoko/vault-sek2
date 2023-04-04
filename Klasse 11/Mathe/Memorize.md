@@ -949,3 +949,7 @@ $k$ Anzahl Erfolge
 Gegeben ist ein $n$-stufiges Zufallsexperiment und die Erfolgswahrscheinlichkeit $p$. Die Zufallsgröße $x$ beschreibt die Anzahl der Erfolge.
 
 $P(x=k)=\binom{n}{k}*p^{k}*(1-p)^{n-k}$
+
+~~~js
+binomCdf(count, percentage, min, max)
+~~~

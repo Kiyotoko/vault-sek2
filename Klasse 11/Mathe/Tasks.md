@@ -1638,3 +1638,6 @@ $P(60<x)=0.4621$
 
 - - -
 
+Ein Reiseunternehmer nimmt 400 Buchungen für ein Feriendorf mit 360 Betten an, da erfahrungsgemäß 12% der Buchungen wieder rückgängig gemacht werden.
+
+
