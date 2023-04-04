@@ -1628,3 +1628,10 @@ dieser Haushalte eine Waschmaschine besitzen.
 
 $P(x\leq45)\approx0.5688$
 $P(43\leq x\leq50)\approx0.8779$
+$P(0\leq x\leq39)\approx0.0094$
+$P(43\leq x\leq48)\approx0.9083$
+
+- - -
+
+$P(x<60)=0.4567$
+$P(60<x)=0.4621$
