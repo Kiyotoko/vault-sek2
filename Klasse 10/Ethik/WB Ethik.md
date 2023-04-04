@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Ethik
+- FGB
+---
+
 **AB**
 
 __Situation_des_Menschen__

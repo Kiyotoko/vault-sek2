@@ -1606,12 +1606,25 @@ $P_{\bar{P}}(\bar{I})=\frac{0.893}{0.9068}=0.9848$
 
 In einem Freizeitpark wurden in 1 Stunde 28 Besucher gezählt. Davon Waren 16 Erwachsene. Von den Erwachsenen waren genau 7 männlich. Genau 20 Besucher waren Mädchen.
 
-|             | Männlich | Weiblich | Total |
+|             | Männlich | Weiblich | Summe |
 | ----------- | -------- | -------- | ----- |
 | Kind        | $2$      | $20$     | $22$  |
 | Erwachsener | $7$      | $9$      | $16$  |
-| Total       | $9$      | $29$     | $38$  |
+| Summe       | $9$      | $29$     | $38$  |
 
 ## 2023-04-04
 
-$(0.5+0.5)^6=\binom{6}{0}0.5^6+\binom{6}{1}0.5^6+\binom{6}{2}0.5^6+\binom{6}{3}0.5^6+\binom{6}{5}0.5^6+\binom{6}{4}0.5^6+\binom{6}{6}0.5^6$
+$P(x=5)=\binom{5}{5}* \frac{1}{2}^{5}* (1- \frac{1}{2})^{5-5}=\frac{1}{32}$
+
+- - -
+
+In 90% aller Haushalte ist eine Waschmaschine vorhanden. 50 Haushalte werden zufällig ausgewählt und befragt. Ermittle die folgenden Wahrscheinlichkeiten, dass
+- höchstens 45
+- mehr als 42
+- weniger als 40
+- mindestens 42, aber höchstens 48
+
+dieser Haushalte eine Waschmaschine besitzen.
+
+$P(x\leq45)\approx0.5688$
+$P(43\leq x\leq50)\approx0.8779$

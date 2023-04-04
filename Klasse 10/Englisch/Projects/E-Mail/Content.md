@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Englisch
+- FGB
+---
+
 Hello my friend,
 
 Integration, especially in the field of sports, is very important in Germany for cultural cohesion and integration. Here, too, soccer produces many role models who prove that success in Germany has nothing to do with ancestry.

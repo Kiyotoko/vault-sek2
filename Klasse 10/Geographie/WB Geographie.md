@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Geographie
+- FGB
+---
+
 # Endogene Und Exogene Kräfte
 
 **AB**

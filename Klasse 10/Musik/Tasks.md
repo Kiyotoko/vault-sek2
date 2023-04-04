@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Musik
+- FGB
+---
+
 - **Musikalische Ursprünge**
 	- Spiritual / Gospel
 		- traditionell mehr Rythmik als Harmonie 

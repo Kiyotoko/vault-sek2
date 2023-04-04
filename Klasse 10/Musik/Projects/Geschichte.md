@@ -1,4 +1,11 @@
-# Geschichten Aus Dem Jungel
+---
+author: karlz
+tags:
+- Musik
+- FGB
+---
+
+# Geschichten aus dem Jungel
 
 Der Elefant Jolifanto läuft immer weiter. Er sieht vor lauter Blätter den Rüssel nicht. Er ist ein groooooßer Elefant. Und er hat groooooßen Hunger. Plötzlich kommt sein Freund das Huhn. „Gogok gogok!“ Auf einmal kommt der freche Affe Fred und klaut dem Huhn die Sonnenbrille. Doch dann taucht das Krokodil Gerald auf und frisst den Affen.
 

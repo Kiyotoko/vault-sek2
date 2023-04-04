@@ -1,13 +1,20 @@
+---
+author: karlz
+tags:
+- Informatik
+- FGB
+---
+
 # Datenbanken
 
 ## DR-Modell
 
-|Form|Stellt dar|
-|-|-|
-|Rechteck|Entitätentypen|
-|Eclipse|Attribut|
-|Raute|Beziehungen|
-|Unterstrichenes Attribut|Primärschlüssel|
+| Form                     | Stellt dar      |
+| ------------------------ | --------------- |
+| Rechteck                 | Entitätentypen  |
+| Eclipse                  | Attribut        |
+| Raute                    | Beziehungen     |
+| Unterstrichenes Attribut | Primärschlüssel |
 
 ## $N:M$ Beziehungen
 
