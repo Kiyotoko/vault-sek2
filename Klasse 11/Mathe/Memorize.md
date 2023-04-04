@@ -943,3 +943,9 @@ Anzahl Pfade: $\binom{10}{6}=\frac{10!}{6!(10-6)!}$
 $\binom{n}{k}=\frac{n!}{k!(n-k)!}$
 $n$ Durchführungszahl
 $k$ Anzahl Erfolge
+
+## Bernoulli-Formel
+
+Gegeben ist ein $n$-stufiges Zufallsexperiment und die Erfolgswahrscheinlichkeit $p$. Die Zufallsgröße $x$ beschreibt die Anzahl der Erfolge.
+
+$P(x=k)=\binom{n}{k}*p^{k}*(1-p)^{n-k}$

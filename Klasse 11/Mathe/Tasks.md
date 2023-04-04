@@ -1611,3 +1611,7 @@ In einem Freizeitpark wurden in 1 Stunde 28 Besucher gezählt. Davon Waren 16 Er
 | Kind        | $2$      | $20$     | $22$  |
 | Erwachsener | $7$      | $9$      | $16$  |
 | Total       | $9$      | $29$     | $38$  |
+
+## 2023-04-04
+
+$(0.5+0.5)^6=\binom{6}{0}0.5^6+\binom{6}{1}0.5^6+\binom{6}{2}0.5^6+\binom{6}{3}0.5^6+\binom{6}{5}0.5^6+\binom{6}{4}0.5^6+\binom{6}{6}0.5^6$

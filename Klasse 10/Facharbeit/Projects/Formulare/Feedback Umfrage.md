@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Facharbeit
+- FGB
+---
+
 # Tippfehler
 
 1. "auszutauchen", nun "auszutauschen", in "Warum nutzt du Sozial Media?"

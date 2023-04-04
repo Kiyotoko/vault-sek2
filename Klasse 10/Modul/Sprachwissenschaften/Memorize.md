@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Modul
+- FGB
+---
+
 # Kommunikation
 
 - Austausch von Informationen

@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Latein
+- FGB
+---
+
 - rex → König, regis (Genitiv) { regnum, regius }
 - deus → dei → deo → deum → deo
  | dei → deorum → deoris → deos → deis
