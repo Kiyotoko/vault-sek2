@@ -203,7 +203,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 	- gute Stimmung / zufriedener Zustand
 	→ bedarf Leidensdruck und „Lebensklugheit“
 
-## Aristoteles - Das Wesen Der Dinge
+## Aristoteles - Das Wesen der Dinge
 
 - **Etelechie**
 	- die Kraft in einem Organismus, die seine Entwicklung lenkt
@@ -220,7 +220,7 @@ Geht die Essenz der Existenz voraus, gibt es erst ein Vorstellung von etwas, bev
 → Sprache soll gerechtes und ungerechtes verdeutlichen
 → nur Mensch kann sich Vorstellungen machen von Recht und Unrecht
 
-### Aristoteles - Arten Von Zielen
+### Aristoteles - Arten von Zielen
 
 - Theorie (Lehre) und Praxis (Kunst) → Ziel
 → Handeln ist hierarchisch geordnet
@@ -274,7 +274,7 @@ graph LR
 	- pathologische Mitleid → ich empfinde Leid, welches nicht in mir entsteht
 	- Thomas Hobbes → Mitleid entsteht aus Furcht vor späterem eigenem Leid, die das richtige Denken behindert
 
-### Egoismus Und Mitleid
+### Egoismus und Mitleid
 
 Die Handlungsziele des Menschen sind in der Regel egoistisch
 - direkt egoistisch → unmittelbarer Eigennutz
