@@ -654,3 +654,5 @@ Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im
 
 ## Hall-Effekt
 
+![Hall-Sonde](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
+

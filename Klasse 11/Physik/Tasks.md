@@ -804,3 +804,25 @@ $0=at+v_{0}$
 $t=\frac{-v_{0}}{a}$
 $s(\frac{-v_{0}}{a})=\frac{a}{2}(\frac{-v_{0}}{a})^{2}+v_0(\frac{-v_{0}}{a})=\frac{-v_{0}^{2}}{2a}$
 $x=\frac{-2e\frac{U_{A}}{m}}{2\frac{qU}{md}}=\frac{U_{A}d}{U}=\frac{1000V}{4000V}*12cm=3cm$
+
+## 2023-04-05
+
+$v= 80000 \frac{m}{s}$
+$B=20mT=0.02$
+$F=evB=2.5635*10^{-19}N$
+
+- - -
+
+![](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
+
+Wenn beide Plus beziehungsweise Minuspole aneinander liegen, ist die Spannung positiv. Ob die Pole jeweils aneinander liegen, hängt von der Lorenzkraft ab, die durch das B-Feld entsteht. Durch das vorzeichen der Spannung ist es hier also möglich, die Richtung des B-Feldes abzulesen.
+
+- - -
+
+$d=25\mu m=0.000025$
+$I=12.5A$
+$\frac{U_{H}}{B}=4.95*10^{-5} \frac{V}{T}$
+$U_{H}=R_{H}\frac{BI}{d}$
+$R_{H}=\frac{U_{H}d}{BI}=9.9*10^{-11} \frac{m^{3}}{As}$
+
+Bei dem Stoff handelt es sich wahrscheinlich um Aluminium.
