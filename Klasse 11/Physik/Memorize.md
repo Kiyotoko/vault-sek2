@@ -653,3 +653,4 @@ Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im
 ### Die Lorenzkraft als Radialkraft
 
 ## Hall-Effekt
+
