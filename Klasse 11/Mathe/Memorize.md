@@ -968,4 +968,13 @@ $n=10$ $p=0.8$
 | $3$  | $0.000786$  | $0.0008641$ |
 | $4$  | $0.005505$  | $0.0063691$ |
 |      |             |             |
-| $10$ | $0.107374$  | $1.0$         |
+| $10$ | $0.107374$  | $1.0$       |
+
+#### Eigenschaften von Histogrammen
+
+- Histogramme der Binominalverteilung sind nur symmetrisch für $p=0.5$
+- Bei $p>0.5$ ist die rechte Säule stets größer als die linke Säule
+- Bei $p<0.5$ ist die linke Säule neben der höchsten Säule stets größer als die rechte Säule neben der höchsten Säule
+- Die Höchste Säule ist beim Erwartungswert
+- Bei der kumulierten Binominalverteilung ist die letzte Säule stets 1
+- Je weiter ein Ereigniss vom Erwartungswert entfernt ist, desto kleiner ist sein Wert.
