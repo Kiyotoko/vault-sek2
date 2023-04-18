@@ -161,3 +161,12 @@ tags:
 ### Kompositorisch-Musikalisch
 
 - Kompositorisch-musikalisch - Wassily Kadinsky
+
+## Pablo Picasso
+
+- 1881 - 1973
+- Umfangreiches Schaffen
+- in Malaga geboren
+- Konnte schon als kleiner Junge gut zeichnen
+- 1901 Tod des Freundes → Beginn der blauen Periode
+- 1904 besuchte oft Zirkus, Theater, erste Erfolge → Beginn der rosa Periode
