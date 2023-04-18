@@ -1683,11 +1683,3 @@ binomCdf(100, 0.4, 50)
 ~~~
 
 $P(0\leq x\leq50)\approx0.9832$
-
-~~~java
-public class Launcher {
-	public static class main(String[] args) {
-		Application.launch(App.class, args);
-	}
-}
-~~~
