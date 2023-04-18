@@ -7,6 +7,8 @@ tags:
 
 # Aufgabenstellung
 
+Abstrahiere die Fotovorlage so, dass wesentliche Elemente des Werkes erhalten bleiben.
+
 # Ideenfindung
 
 # Umsetzung
