@@ -978,3 +978,14 @@ $n=10$ $p=0.8$
 - Die Höchste Säule ist beim Erwartungswert
 - Bei der kumulierten Binominalverteilung ist die letzte Säule stets 1
 - Je weiter ein Ereigniss vom Erwartungswert entfernt ist, desto kleiner ist sein Wert.
+
+### Summenschreibweise für Intervall-Wahrscheinlichkeiten
+
+**Beispiel**
+$n=50$
+$p=0.9$
+
+$P(0\leq x\leq45)=\sum_\limits{k=0}^{45}\binom{50}{k}p^{k}(1-p)^{50-k}$
+$P(43\leq x\leq50)=\sum_\limits{k=43}^{50}\binom{50}{k}p^{k}(1-p)^{50-k}$
+$P(0\leq x\leq39)=\sum_\limits{k=0}^{39}\binom{50}{k}p^{k}(1-p)^{50-k}$
+$P(42\leq x\leq48)=\sum_\limits{k=42}^{48}\binom{50}{k}p^{k}(1-p)^{50-k}$
