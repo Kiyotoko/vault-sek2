@@ -1655,6 +1655,8 @@ $1-p=4p$
 $1=5p$
 $0.2=p$
 
+- - -
+
 Betrachtet wir eine binominalverteilte Zufallsgröße $z$ mit den Parametern $n=6$ und $p>0$. Es gilt $P(z=4)=10*P(z=5)$
 
 $\binom{6}{4}*p^{4}*(1-p)^{6-4}=10*\binom{6}{5}*p^{5}*(1-p)^{6-5}$
@@ -1665,6 +1667,27 @@ $4p=1-p$
 $5p=1$
 $0.2=p$
 
+- - -
+
 $P(x=2)=0.3$
 $P(x=3)=0.3$
 $P(x=4)=0.1$
+
+- - -
+
+$p=0.4$
+$n=100$
+
+~~~js
+binomCdf(100, 0.4, 50)
+~~~
+
+$P(0\leq x\leq50)\approx0.9832$
+
+~~~java
+public class Launcher {
+	public static class main(String[] args) {
+		Application.launch(App.class, args);
+	}
+}
+~~~
