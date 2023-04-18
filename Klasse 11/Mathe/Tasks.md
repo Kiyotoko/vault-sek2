@@ -1643,3 +1643,24 @@ Ein Reiseunternehmer nimmt 400 Buchungen für ein Feriendorf mit 360 Betten an, 
 Für einen eines Airbus A300 der Lufthansa mit 270 Plätzen liegen 280 Buchungen vor; man kann mit 10% Stornierungen rechen.
 
 $P(10\leq x\leq280)\approx0.99997$
+
+## 2023-04-18
+
+Betrachtet wir eine binominalverteilte Zufallsgröße $x$ mit den Parametern $n=6$ und $p>0$. Es gilt $P(x=5)=24*P(x=6)$
+
+$\binom{6}{5}*p^{5}(1-p)^{6-5}=24 \binom{6}{5}p^{6}(1-p)^{6-6}$
+$6*p^{5}(1-p)=24p^{6}$
+$1-p=\frac{24p^{6}}{6p^{5}}$
+$1-p=4p$
+$1=5p$
+$0.2=p$
+
+Betrachtet wir eine binominalverteilte Zufallsgröße $z$ mit den Parametern $n=6$ und $p>0$. Es gilt $P(z=4)=10*P(z=5)$
+
+$\binom{6}{4}*p^{4}*(1-p)^{6-4}=10*\binom{6}{5}*p^{5}*(1-p)^{6-5}$
+$15*p^{4}*(1-p)^{2}=10*6*p^{5}*(1-p)$
+$1=\frac{15*p^{4}*(1-p)^{2}}{60*p^{5}*(1-p)}$
+$1=\frac{1}{4p}1-p$
+$4p=1-p$
+$5p=1$
+$0.2=p$
