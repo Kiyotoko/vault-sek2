@@ -226,3 +226,9 @@ Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Ents
 - Folgeträchtigkeit
 - Bereitschaft, wenige zum Wohle der Mehrheit zu opfern
 - Glück einzelner nicht messen
+
+## 2023-04-19
+
+Gedankenexperiment: Stellen Sie sich vor Ihnen würde eine Pille angeboten, die Sie für den Rest Ihres Lebens in einen Zustand vollkommenen Glücks versetzt. Sie müssten diese nur einmal einnehmen und es gibt keine Nebenwirkungen. Würden Sie sie einnehmen? Formulieren Sie Gründe für Ihre Entscheidung.
+
+Ich würde die Pille ablehnen, da ein Zustand dauerhafter und vollkommener Glückseligkeit nicht erstrebenswert ist. Dies liegt daran,
