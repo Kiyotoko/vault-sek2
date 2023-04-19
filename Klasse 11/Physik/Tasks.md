@@ -833,3 +833,11 @@ Bei dem Stoff handelt es sich wahrscheinlich um Aluminium.
 - Bewegung des Dauermagneten
 - Umpolung des Dauermagneten
 - Umpolung der Leiterschleife
+
+- - -
+
+$d=6cm$
+$B=1.2T$
+$\phi=0$
+$\delta t=0.01s$
+$$
