@@ -826,3 +826,10 @@ $U_{H}=R_{H}\frac{BI}{d}$
 $R_{H}=\frac{U_{H}d}{BI}=9.9*10^{-11} \frac{m^{3}}{As}$
 
 Bei dem Stoff handelt es sich wahrscheinlich um Aluminium.
+
+## 2023-04-19
+
+- Bewegung der Leiterschleife
+- Bewegung des Dauermagneten
+- Umpolung des Dauermagneten
+- Umpolung der Leiterschleife
