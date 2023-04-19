@@ -345,3 +345,7 @@ Bei der Beobachtung des Sterns 𝛿 Orionis, des rechten Gürtelsterns im Sternb
 ### Weitere Galaxien neben der Milchstraße
 
 1785 vermutet Wilhelm Herschel, dass der Andromedanebel das „Schimmern von Millionen von Sternen“ sei und die Sterne ähnlich angeordnet sind wie in der Milchstraße. Eine erste Entfernungsbestimmung des Objektes nimmt um 1900 Julius Schreiner vor. Ihr liegt die Annahme zugrunde, dass es sich beim Andromedanebel um ein Objekt ähnlich der Milchstraße handelt. Aus der 3° großen Ausdehnung am Sternenhimmel schlussfolgert er, dass sein Abstand das 20-fache des Durchmessers der Milchstraße beträgt. 1923 gelang Edwin Hubble der Nachweis, dass der Andromedanebel weit außerhalb der Milchstraße liegt und es somit andere Galaxien gibt. Er nutzte zur Entfernungsbestimmung Cepheiden, helligkeitsveränderliche Sterne mit bekannter Perioden-Leuchtkraft-Beziehung.
+
+### Expansion des Weltalls
+
+Der amerikanische Astronom Milton Humason gilt als Entdecker der galaktischen Rotverschiebung. Letztere zeigt sich in der Verschiebung der Spektrallinien von entfernten Galaxien hinzu längeren Wellenlängen.
