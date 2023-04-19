@@ -170,3 +170,6 @@ tags:
 - Konnte schon als kleiner Junge gut zeichnen
 - 1901 Tod des Freundes → Beginn der blauen Periode
 - 1904 besuchte oft Zirkus, Theater, erste Erfolge → Beginn der rosa Periode
+- 1939 während des zweiten Weltkrieges lebt er in Paris
+- 194 6 zieht er nach Antibes ans Mittelmeer
+- 1949 Friedenstaube als Symbol
