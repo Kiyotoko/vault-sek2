@@ -325,3 +325,23 @@ Die Kopernikanische Wende leitet den Siegeszug der empirischen Wissenschaften ei
 <br>→ Vorhersagekraft</center>
 
 Die Mechanik des Sonnensystems kann die Naturwissenschaft mit unglaublicher Genauigkeit vorhersagen. Es folgen mechanische, thermodynamische und elektrodynamische Systeme auf der Erde mit der industriellen Revolution im Schlepptau.
+
+## Die Entstehung der Astrophysik
+
+### Entwicklung der Spektralanalyse
+
+### Messung der Entfernung eines Fixsterns
+
+## Die Entstehung des modernen Weltbildes
+
+### Rot- und Blauverschiebung durch relative Bewegung
+
+Rot- und Blauverschiebung sind Begriffe aus der Spektroskopie, bei der man Spektrallinien von Atomen und Molekülen untersucht. Diese können bei der Absorption oder der Emission von Licht auftreten. Wo sich die Spektrallinien im Spektrum befinden, hängt nicht nur vom lichtaussendendem Stoff ab, sondern auch von dessen Bewegung relativ zum Beobachter ab (analog dem Dopplereffekt in der Akustik). Bewegt sich die Strahlungsquelle vom Beobachter weg, so wird die Spektrallinie zu größeren, roten Wellenlängen hin verschoben, Rotverschiebung. Bewegt sich die Strahlungsquelle auf den Beobachter zu, so wird die Spektrallinie zu kleineren Wellenlängen hin verschoben
+
+### Hartmann und die Spektren des Sterns 𝛿 Orionis
+
+Bei der Beobachtung des Sterns 𝛿 Orionis, des rechten Gürtelsterns im Sternbild Orion, bemerkt Professor Johannes Hartmann 1904, dass sich zwischen dem Stern und der Erde sonst unsichtbare Materie befinden muss. An den Teleskopen des Astrophysikalischen Observatoriums Potsdam nahm er Spektren des Sterns auf.
+
+### Weitere Galaxien neben der Milchstraße
+
+1785 vermutet Wilhelm Herschel, dass der Andromedanebel das „Schimmern von Millionen von Sternen“ sei und die Sterne ähnlich angeordnet sind wie in der Milchstraße. Eine erste Entfernungsbestimmung des Objektes nimmt um 1900 Julius Schreiner vor. Ihr liegt die Annahme zugrunde, dass es sich beim Andromedanebel um ein Objekt ähnlich der Milchstraße handelt. Aus der 3° großen Ausdehnung am Sternenhimmel schlussfolgert er, dass sein Abstand das 20-fache des Durchmessers der Milchstraße beträgt. 1923 gelang Edwin Hubble der Nachweis, dass der Andromedanebel weit außerhalb der Milchstraße liegt und es somit andere Galaxien gibt. Er nutzte zur Entfernungsbestimmung Cepheiden, helligkeitsveränderliche Sterne mit bekannter Perioden-Leuchtkraft-Beziehung.
