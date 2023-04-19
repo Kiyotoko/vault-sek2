@@ -235,3 +235,4 @@ Ich würde die Pille ablehnen, da ein Zustand dauerhafter und vollkommener Glüc
 
 - - -
 
+Neben der Quantität des Glücks soll auch die Qualität bewertet werden.
