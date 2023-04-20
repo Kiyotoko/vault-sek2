@@ -342,3 +342,16 @@ Chloris wurde von Zephyr vergewaltig, woraufhin er sie dann zur wiedergutmachung
 | belli      | crudelis   |
 | pugnarum   | acrium     |
 | discipulis | felicibus  |
+
+- - -
+
+| Singular | Plural |
+| -------- | ------ |
+| res      | res    |
+| rei      | rerum  |
+| rer      | rebus  |
+| rem      | res    |
+| re       | rebus  |
+
+Spem nun iam habeo.
+Senator nuntium magnae rei aportavit.
