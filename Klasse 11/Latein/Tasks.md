@@ -205,7 +205,7 @@ Tarquinius, nachdem er die Worte des Boten hörte, war in großer Furcht. Auf de
 a und o-Deklination
 
 Judäische Volksfront
-Volksfront von Jadäa
+Volksfront von Judäa
 
 ## 2023-01-09
 
@@ -330,3 +330,15 @@ Chloris wurde von Zephyr vergewaltig, woraufhin er sie dann zur wiedergutmachung
 - Zephyr
 	- Westwind
 - Chloris / Flora
+
+## 2023-04-20
+
+| Substantiv | Adjektiv   |
+| ---------- | ---------- |
+| pueros     | tristes    |
+| verba      | omnia      |
+| virum      | fortem     |
+| equo       | cum celeri |
+| belli      | crudelis   |
+| pugnarum   | acrium     |
+| discipulis | felicibus  |
