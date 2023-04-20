@@ -353,5 +353,7 @@ Chloris wurde von Zephyr vergewaltig, woraufhin er sie dann zur wiedergutmachung
 | rem      | res    |
 | re       | rebus  |
 
+Alle in der e-Deklination sind weiblich, mit einer Ausnahme. Die Ausnahme ist „dies“, männlich
+
 Spem nun iam habeo.
 Senator nuntium magnae rei aportavit.
