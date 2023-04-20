@@ -989,3 +989,26 @@ $P(0\leq x\leq45)=\sum_\limits{k=0}^{45}\binom{50}{k}p^{k}(1-p)^{50-k}$
 $P(43\leq x\leq50)=\sum_\limits{k=43}^{50}\binom{50}{k}p^{k}(1-p)^{50-k}$
 $P(0\leq x\leq39)=\sum_\limits{k=0}^{39}\binom{50}{k}p^{k}(1-p)^{50-k}$
 $P(42\leq x\leq48)=\sum_\limits{k=42}^{48}\binom{50}{k}p^{k}(1-p)^{50-k}$
+
+## Minimale Durchführungszahl
+
+
+
+Wie oft muss dieser Zufallsversuch durchgeführt werden, damit mit einer Wahrscheinlichkeit von mindestens 1 Treffer dabei ist?
+
+| Beispiel                                | Allgemein                             |
+| --------------------------------------- | ------------------------------------- |
+| $P(x\geq1)\geq0.98$                     | $P(x\geq1)\geq a$                     |
+| $1-P(x=0)\geq0.98$                      | $1-P(x=0)\geq a$                      |
+| $1-\binom{n}{0}0.8^{0}*0.2^{n}\geq0.98$ | $1-\binom{n}{0}p^{0}*(1-p)^{n}\geq a$ |
+| $1-0.2^{n}\geq0.98$                     | $1-(1-p)^{n}\geq a$                   |
+| $0.02\geq0.2^{n}$                       | $1-a\geq(1-p)^{n}$                    |
+| $\ln{0.02}\geq\ln{0.2^n}$               | $\ln{1-a}\geq\ln{(1-p)^{n}}$            |
+| $\ln{0.02}\geq n*\ln{0.2}$              |                                       |
+| $\frac{\ln{0.02}}{ln{0.2}}\geq n$       |                                       |
+
+~~~functionplot
+f(x)=log(x)
+g(x)=2.7^x
+
+~~~
