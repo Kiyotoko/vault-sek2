@@ -11,6 +11,4 @@ Abstrahiere die Fotovorlage so, dass wesentliche Elemente des Werkes erhalten bl
 
 # Umsetzung
 
-
-
 # Reflexion
