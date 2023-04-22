@@ -419,6 +419,8 @@ $\frac{q}{m}=\frac{2U_{B}}{B^{2}r^{2}}$
 
 Spezifische Ladung $\frac{q}{m}=1\frac{C}{kg}$
 
+Bei bekannter Ladung kann aus der spezifischen Ladung eines Teilchens die Masse ermittelt werden
+
 ### Kräfte zwischen elektrostatisch geladenen Körpern
 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
@@ -665,6 +667,10 @@ $\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}=4\pi*10^{-7}\frac{Vs}{Am}$
 Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
 
 ![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
+
+## Regressionsgerade
+
+Die Regressionsgerade ist die bestmögliche Gerade, die man in einem Streudiagramm durch alle Daten legen kann, sodass alle Datenpunkte von der Geraden in Summe den kleinsten Abstand haben.
 
 ## Die Lorenzkraft
 
