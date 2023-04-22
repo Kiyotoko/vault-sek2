@@ -389,7 +389,7 @@ Nicht nutzbare Energie wird als entwertete Energie bezeichnet.
 
 # Modellierung
 
-# Elektrostatik Und Elektrodynamik
+# Elektrostatik ud Elektrodynamik
 
 ## Die Größe der elektrischen Ladung
 
@@ -401,11 +401,29 @@ Die elektrische Ladung eines Körpers gibt an, wie groß seine negative (Elektro
 
 Jede elektrische Ladung ist ein vielfaches der Ladung eines Elektrons. Sie wird auch als Elementarladung $e=1.602*10^{-19}C$ bezeichnet.
 
+### Spezifische Ladung
+
+Beschleunigung der Ladung am $E\text{-Feld}$
+$qU_{B}=\frac{m}{2}v^{2}$
+$v=\sqrt{\frac{2qU_{B}}{m}}$
+
+Bewegung im Magnetfeld $\vec{B}\text{-Feld}$ über Kreisbahn
+$qvB=m \frac{v^{2}}{r}$
+$qB=\frac{mv}{r}$
+
+Geschwindigkeit einsetzen
+$qB=\sqrt{\frac{2qU_{B}}{m}}\frac{m}{r}$
+$\frac{2qU_{B}}{m} \frac{m^{2}}{r^{2}}=q^{2}B^{2}$
+$\frac{2U_{B}}{r^{2}}m=qB^{2}$
+$\frac{q}{m}=\frac{2U_{B}}{B^{2}r^{2}}$
+
+Spezifische Ladung $\frac{q}{m}=1\frac{C}{kg}$
+
 ### Kräfte zwischen elektrostatisch geladenen Körpern
 
 Ungleichnamig geladene Körper ziehen einander an und gleichnamig geladene Körper stoßen sich ab.
 
-### Nachweis Elektrostatischer Ladungen
+### Nachweis elektrostatischer Ladungen
 
 Elektrometer: Wenn die Elektrode mit einem geladenen Körper berührt wird, überträgt sich ein Teil der Ladung auf den Zeiger und den Metallträger. Da Zeiger und Metallträger gleich geladen sind, wirken abstoßende Kräfte (Zeiger schlägt aus).
 ![Elektrometer](Working%20Materials/Elektrisches%20Feld/Elektrometer.png)
@@ -422,11 +440,11 @@ Ist ein geladener Körper in der Nähe eines leitenden, ladungsneutralen Körper
 
 Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung von elektrischen Ladungen über kurze Distanzen (Größenordnung eines Atomabstandes). Moleküle oder kleinste Teilchen werden zu elektrischen Dipolen.
 
-### Kunststoffstab Am Elektroskop
+### Kunststoffstab am Elektroskop
 
  Kommt der geladene Körper in die Nähe des Elektroskops, dann werden Elektronen im Elektroskop abgestoßen. Diese wandern im „unteren“ Teil des Zeigers des Metallstabes. Es erfolgt eine Ladungstrennung durch Influenz. Da sich gleiche Ladungen abstoßen, schlägt der Zeiger aus.
 
-### Möglichkeiten Der Ladungstrennung
+### Möglichkeiten der Ladungstrennung
 
 - Reibung
 - Dissoziation
@@ -435,17 +453,17 @@ Ist ein geladener Körper in der Nähe eines Isolators erfolgt eine Verschiebung
 - magnetische Induktion
 - thermoelektronische Vorgänge
 
-### Strom Als Bewegte Ladung
+### Strom als bewegte Ladung
 
 Die elektrische Stromstärke I gibt an, wie viel Ladung $Q$ in einer bestimmten Zeit $t$ durch den Querschnitt eines Leiters fließt
 $I=\frac{\Delta Q}{\Delta t}$
 
-### Erhaltungssatz Der Ladung
+### Erhaltungssatz der Ladung
 
 In einem abgeschlossenen System bleibt die Gesamtladung Q erhalten
 $Q=Q_1$
 
-## Nah- Und Fernwirkungstheorie
+## Nah- und Fernwirkungstheorie
 
 - **Fernwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt unmittelbar (instantan) und ohne „Vermittler“.
 - **Nahwirkungstheorie**: Die Wirkung zwischen Körpern erfolgt nach einer gewissen Zeit (besitzt also eine Ausbreitungsgeschwindigkeit) und durch einen „Vermittler“.
@@ -454,7 +472,7 @@ $Q=Q_1$
 
 In dem Raum (Wirkungsbereich) um einen elektrostatisch geladenen Körper werden Kräfte auf andere geladene Körper ausgeübt. Das elektrostatische Feld beschreibt diesen Raum. 
 
-### Das Feldlinienbild Des Elektrischen Feldes
+### Das Feldlinienbild des elektrischen Feldes
 
 ### Homogenes Feld
 
@@ -534,7 +552,7 @@ $C_{ges}=C_1+C_2+C_3+\dots+C_n$
 
 $\frac{1}{C_{ges}}=\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}+\dots+\frac{1}{C_n}$
 
-### Auf Und Entladen Eines Kondensators
+### Auf und Entladen eines Kondensators
 
 #### Aufladungsvorgang
 
@@ -544,7 +562,7 @@ $U_0=U_R+U_C=R*I+\frac{Q}{C}$
 
 $I(t)=\frac{\Delta Q}{\Delta t}$
 
-## Magnete Und Magnetische Felder
+## Magnete und Magnetische Felder
 
 ### Magnetische Körper
 
@@ -655,4 +673,3 @@ Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im
 ## Hall-Effekt
 
 ![Hall-Sonde](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
-
