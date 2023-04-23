@@ -18,6 +18,8 @@ Darauf wurde der Hase mit brauner Farbe gemalt.  Die verschiedenen Fellpartien w
 
 # Reflexion
 
-Im Prozess habe ich festgestellt, was für mich einen Hasen ausmacht, und auf welche Details ich vor allem Wert lege. So denke ich, dass es mir gut gelungen ist, den Hasen selbst kennzeichnen.
+Während des Prozesses habe ich herausgefunden, was für mich einen Hasen ausmacht und auf welche Details ich besonderen Wert lege. So denke ich, dass es mir gut gelungen ist, die wichtigsten Elemente des Hasen selbst darzustellen.
+Was ich allerdings noch verbessern möchte, sind die Farbabstufungen. So finde ich, dass die Abstufungen im Fell kaum einen Kontrast bilden und somit schwer zu erkennen sind. Dasselbe gilt für die Lichtverhältnisse im Hintergrund. Ein weiterer Punkt ist, dass ich bei einem erneuten Versuch den Hasen etwas größer malen würde, um das Blatt besser auszufüllen.
+Ich hätte gerne mehr Zeit gehabt, um verschiedene Dinge beim Abstrahieren auszuprobieren.
 
-Was ich jedoch gerne noch verbessern würde, währe die Abstufungen der Farben. So empfinde ich, dass die Abstufungen im Fell kaum einen Kontrast ergeben und so nur schwer ersichtlich sind. Das Gleiche gilt für die Lichverhältnisse im Hintergrund. Ein weiterer Punkt ist, dass ich bei einem weiteren Versuch den Hasen etwas größer malen würde, damit das Blatt besser ausgefüllt ist.
+Abschließend bin ich mit meinem Ergebnis zufrieden, da es mir gelungen ist, die Vorlage gut zu abstrahieren und gleichzeitig die wesentlichen Elemente des Hasen zu erhalten. Bei einem weiteren Versuch würde ich jedoch die Farben verbessern und die Größe des Hasen verändern, um das Blatt besser auszunutzen.
