@@ -7,6 +7,8 @@ tags:
 
 # Aufgabenstellung
 
+![](Abstraktion.png)
+
 Abstrahiere die Fotovorlage so, dass wesentliche Elemente des Werkes erhalten bleiben.
 
 # Umsetzung
@@ -15,4 +17,6 @@ Als Vorlage für die Umsetzung diente die Fotovorlage eines Hasens. Das Ziel war
 
 # Reflexion
 
-Im Prozess habe ich vestgestellt, was für mich einen Hasen schlichtweg ausmacht
+Im Prozess habe ich festgestellt, was für mich einen Hasen ausmacht, und auf welche Details ich vor allem Wert lege. So denke ich, dass es mir gut gelungen ist, den Hasen selbst kennzeichnen.
+
+Was ich jedoch gerne noch verbessern würde, währe die Abstufungen der Farben. So empfinde ich, dass die Helligkeit kaum wirklich 
