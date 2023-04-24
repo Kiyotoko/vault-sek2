@@ -629,17 +629,17 @@ bounds: [0,10,-10,0]
 I(x)=(x/10)^2*10-10
 ~~~
 
-## Hysterese Von Ferromagnetischen Stoffen
+### Hysterese von Ferromagnetischen Stoffen
 
 Fläche, die von der Hysteresekurve eingeschlossen wird, ist ein Maß für die Energie, die Für das Ummagnetisieren benötigt wird.
 
-## Magnetfeld Von Elektromagneten
+### Magnetfeld von Elektromagneten
 
 ![](Working%20Materials/Elektrisches%20Feld/Magnetfeld%20von%20Elektromagneten.png)
 
 Das Magnetfeld einer stromdurchflossenen Spule gleicht dem eines Stabmagneten. Im Inneren der Spule herrscht annähernd ein homogenes Magnetfeld.
 
-## Magnetische Flussdichte
+### Magnetische Flussdichte
 
 Die magnetische Flussdichte einer Spule ist direkt proportional zur fließenden Stromstärke und der Windungszahl.
 - Formelzeichen $B$
@@ -662,21 +662,37 @@ $B=\mu_0\mu_r\frac{N*I}{l}$
 
 $\mu_0\approx1.257*10^{-6}\frac{Vs}{Am}=4\pi*10^{-7}\frac{Vs}{Am}$
 
-## Helmholtz-Spulen-Paar
+### Helmholtz-Spulen-Paar
 
 Helmholtz-Spulen-Paar: Zwei kurze Spulen mit dem Radius R werden parallel und im Abstand vom Radius R der Spulen aufgestellt. Die beiden Magnetfelder überlagern sich und ergeben im Bereich zwischen den Spulen ein annähernd homogenes Magnetfeld.
 
 ![](Working%20Materials/Elektrisches%20Feld/Helmholtz-Spulen-Paar.png)
 
-## Regressionsgerade
+### Regressionsgerade
 
 Die Regressionsgerade ist die bestmögliche Gerade, die man in einem Streudiagramm durch alle Daten legen kann, sodass alle Datenpunkte von der Geraden in Summe den kleinsten Abstand haben.
 
 ## Die Lorenzkraft
 
+Ist die Kraft, die auf einzelne bewegte Ladungsträger in einem Magnetfeld wirkt. Unter der Bedingung, dass sich die geladenen Teilchen  senkrecht zum Magnetfeld bewegen, gilt folgende Formel:
+
+$F_{L}=qvB$
+- $q$ Ladung des Teilchens
+- $v$ Geschwindigkeit
+- $B$ magnetische Flussdichte 
+
+Die Lorentzkraft wirkt senkrecht zur Bewegungsrichtung und senkrecht zum Magnetfeld.
+
 Wenn sich die geladenen Teilchen schräg zum Magnetfeld (unter einem Winkel $\alpha\neq90$) bewegen, dann gilt: $F_{L}=qvB*\sin{\alpha}$
 
 ### Die Lorenzkraft als Radialkraft
+
+Die Lorentzkraft zwingt geladenen Teilchen innerhalb eines homogenen Magnetfeldes auf Kreisbahnen, d. h. sie wirkt wie eine Radialkraft:
+$F_{L}=qvB$
+$F_{L}=m\frac{v^{2}}{r}$
+
+Daraus folgt:
+$qvB=m \frac{v^{2}}{r}$
 
 ### Hall-Effekt
 
