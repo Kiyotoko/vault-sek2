@@ -847,6 +847,7 @@ $\delta t=0.01s$
 
 Drei-Finger-Regel: Durch die Bewegung der Leiterschleife bewegen sich auch die Elektronen nach links. Da das Magnetfeld nach oben zeigt wirkt die Lorenzkraft nach unten. Daher ist unter der Minus- und ober der Pluspol.
 
+Über Kräftegleichgewicht
 $F_{l}=qvB$
 $F_{el}=qE$
 
@@ -856,8 +857,20 @@ $qvB=qE$
 $qvB=q \frac{U_{ind}}{l}$
 $U_{ind}=lvB$
 
+Über Anderung der Fläche
 $U_{ind}=\frac{\Delta \Phi}{\Delta t}$
 $U_{ind}=\frac{B\Delta A}{\Delta t}$
 $U_{ind}=\frac{B l\Delta s}{\Delta t}$
 $U_{ind}=Bl\frac{\Delta s}{\Delta t}$
 $U_{ind}=lvB$
+
+- - -
+
+| Nr  | $N_1$ | $N_2$ | $U_1$ | $U_2$ | $\frac{N_1}{N_1}$ | $\frac{U_1}{U_2}$ |
+| --- | ----- | ----- | ----- | ----- | ----------------- | ----------------- |
+| 1   | 200   | 800   | 2.54  | 9.6   | 0.25              | 0.26              |
+| 2   | 400   | 800   | 2.54  | 4.71  | 0.5               | 0.54              |
+| 3   | 600   | 800   | 2.54  | 3.1   | 0.75              | 0.81              |
+| 4   | 600   | 1200  | 2.54  | 4.67  | 0.5               | 0.54              |
+| 5   | 600   | 1200  | 6.72  | 12.6  | 0.5               | 0.53              |
+| 6   | 400   | 400   | 6.72  | 6.33  | 1                 | 1.06              |
