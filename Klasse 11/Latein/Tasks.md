@@ -357,3 +357,7 @@ Alle in der e-Deklination sind weiblich, mit einer Ausnahme. Die Ausnahme ist â€
 
 Spem nun iam habeo.
 Senator nuntium magnae rei aportavit.
+
+## 2023-04-24
+
+- fratre = Bruder
