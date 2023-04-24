@@ -840,4 +840,24 @@ $d=6cm$
 $B=1.2T$
 $\phi=0$
 $\delta t=0.01s$
-$$
+
+## 2023-04-24
+
+![](Working%20Materials/Induktion/Leiterschleife%20Induktion.png)
+
+Drei-Finger-Regel: Durch die Bewegung der Leiterschleife bewegen sich auch die Elektronen nach links. Da das Magnetfeld nach oben zeigt wirkt die Lorenzkraft nach unten. Daher ist unter der Minus- und ober der Pluspol.
+
+$F_{l}=qvB$
+$F_{el}=qE$
+
+Kräfte gleichsetzen, da ein Kräftegleichgewicht auftritt.
+$F_{l}=F_{el}$
+$qvB=qE$
+$qvB=q \frac{U_{ind}}{l}$
+$U_{ind}=lvB$
+
+$U_{ind}=\frac{\Delta \Phi}{\Delta t}$
+$U_{ind}=\frac{B\Delta A}{\Delta t}$
+$U_{ind}=\frac{B l\Delta s}{\Delta t}$
+$U_{ind}=Bl\frac{\Delta s}{\Delta t}$
+$U_{ind}=lvB$

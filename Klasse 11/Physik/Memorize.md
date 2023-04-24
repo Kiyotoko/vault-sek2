@@ -674,8 +674,30 @@ Die Regressionsgerade ist die bestmögliche Gerade, die man in einem Streudiagra
 
 ## Die Lorenzkraft
 
+Wenn sich die geladenen Teilchen schräg zum Magnetfeld (unter einem Winkel $\alpha\neq90$) bewegen, dann gilt: $F_{L}=qvB*\sin{\alpha}$
+
 ### Die Lorenzkraft als Radialkraft
 
-## Hall-Effekt
+### Hall-Effekt
 
 ![Hall-Sonde](Working%20Materials/Elektrisches%20Feld/Hall-Sonde.png)
+
+### Magnetischer Fluss
+
+## Induktion
+
+### Induktion und Lorenzkraft
+
+![Leiterschleife Induktion](Working%20Materials/Induktion/Leiterschleife%20Induktion.png)
+
+#### Änderung der Fläche
+
+Die Leiterschleife wird auseinander gezogen. Dabei wird die Fläche größer. Durch die vergrößerung der Fläche wirkt die Lorenzkraft im Uhrzeigersinn. Somit entsteht unten ein Minus- und oben und Pluspol
+
+#### Änderung der magnetischen Flussdichte
+
+In der Leiterschleife wird das $\vec{B}$-Feld bei konstanter Fläche  stärker. Es werden somit mehr Feldlinien von der Leiterschleife umschlossen. Dies ist gleichbedeutend mit der Vergrößerung der Fläche der Leiterschleife.
+
+### Generator
+
+### Transformator
