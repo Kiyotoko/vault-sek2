@@ -36,7 +36,7 @@ Das Militär wird nach der Reichsgründung 1871 mit der Idee der Deutschen Natio
 
 - Abhaltung vieler Paraden
 - Kindern werden Matrosenuniformen angezogen
-- Wehrpflicht für alle jungen Männer
+- Wehrpflicht für alle jungen Männer von 20 bis 25 Jahren^[https://www.verfassungen.de/preussen/gesetze/kriegsdienstpflichtgesetz14.htm]
 
 ### Bevorzugung^[https://simpleclub.com/lessons/geschichte-militarismus-im-deutschen-kaiserreich]
 
