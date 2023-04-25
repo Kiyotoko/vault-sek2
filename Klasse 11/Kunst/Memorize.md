@@ -173,3 +173,9 @@ tags:
 - 1939 während des zweiten Weltkrieges lebt er in Paris
 - 194 6 zieht er nach Antibes ans Mittelmeer
 - 1949 Friedenstaube als Symbol
+
+## Bridget Riley
+
+- Pointillismus
+- Erhielt eine Reihe von Auszeichnungen
+- 
