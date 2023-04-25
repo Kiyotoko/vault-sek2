@@ -379,5 +379,3 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 - Betrachtung des gesamten Handlungsausmaßes
 → Überwiegt Freude: gute Handlung
 → Überwiegt Leid: schlechte Handlung
-
-## 
