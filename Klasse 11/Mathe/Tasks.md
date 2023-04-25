@@ -1683,3 +1683,13 @@ binomCdf(100, 0.4, 50)
 ~~~
 
 $P(0\leq x\leq50)\approx0.9832$
+
+## 2023-04-25
+
+Zufallsgröße $x$, biniminalverteukt mit $p=0.7$
+$P(10\leq x\leq n)\geq0.95$
+Lösen durch systematisches Probieren
+
+| $n$ | $P(10\leq x\leq n)$ |
+| --- | ------------------- |
+|     |                     |
