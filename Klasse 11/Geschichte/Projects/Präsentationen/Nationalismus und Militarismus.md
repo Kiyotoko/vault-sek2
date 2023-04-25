@@ -27,11 +27,18 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 - Wegbereiter war hier Friedrich Wilhelm I.
 	- Verdopplung des Heeres
 	- Militarisierung des alltäglichen Lebens
+	- Führte das Kantonsystem ein, welche im Jahr 1813 durch die Allgemeine Wehrpflicht ersetzt wurde
+	- Erste Waffenfabriken
 
 ### Wirtschaftliche Veränderungen
 
-- technologische Verbesserungen
-- erste Militärflugzeuge
+- Technologische Erfindungen
+	- Erste Vermittlung für Ortstelefonate
+	- Elektromoteren verdrängten Dampfmaschinen
+	- Erfindung des Autos
+	- Aufschwung der Luftfahrt
+	- Erste Luftschiffe
+ - Folgen waren ein Aufschwung von Wirtschaft, Industrie und Militär
 
 ### Soziale Veränderungen^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
 
