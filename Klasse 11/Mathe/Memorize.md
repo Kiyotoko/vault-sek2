@@ -1023,3 +1023,5 @@ $\mu=np=60 \frac{1}{6}=10$
 
 $V=np(1-p)$
 $\sigma=\sqrt{V}=\sqrt{np(1-p)}$
+
+Die Standartabweichung gibt an, wie stark die Werte einer Zufallsgröße vom Erwartungswert
