@@ -1,4 +1,4 @@
----
+	---
 author: karlz
 tags:
 - Deutsch
@@ -53,17 +53,17 @@ Die zweite Deutungsmöglichkeit hingegen nimmt an, dass durch den Schlaf der Auf
 ---
 1. Vervollständige den Lückentext.
 	1. Literatur
-	1. Dichter
-	1. belehren
-	1. Lehrer
-	1. Welt- und Selbsterkenntnis
-	1. „prodesse et declare“
-	1. Johann Christoph Gottsched
-	1. reformieren
-	1. Klarheit und Moralität
-	1. wahrscheinliche und natürliche
-	1. Ort
-	1. 1730
+	2. Dichter
+	3. belehren
+	4. Lehrer
+	5. Welt- und Selbsterkenntnis
+	6. „prodesse et declare“
+	7. Johann Christoph Gottsched
+	8. reformieren
+	9. Klarheit und Moralität
+	10. wahrscheinliche und natürliche
+	11. Ort
+	12. 1730
 1. Formuliere einen Regelkatalog.
 	1. Die Geschichte sollte möglichst wahrscheinlich und natürlich sein.
 	1. Die Handlung sollte einheitlich sein.
@@ -120,42 +120,42 @@ Zunächst befinden sich im Text einige Personifikationen, wie „\[d\]er Abend w
 
 ## 2022-11-01
 
-|Formulierung|Reihung|Steigerung|Gegensatz|
-|-|-|-|-|
-|Ein weiterer wichtiger Aspekt ist ...|\[x\]|||
-|Demgegenüber aber ist auch zu bedenken, dass|||\[x\]|
-|Trotz all dieser Gründe darf nicht übersehen werden, dass ...|||\[x\]|
-|Als letztes Argument sei angeführt, dass ...|\[x\]|||
-|Am deutlichsten zeigt sich dies im folgenden Argument ...||\[x\]||
-|Besonders wichtig erscheint||\[x\]||
+| Formulierung                                                  | Reihung | Steigerung | Gegensatz |
+| ------------------------------------------------------------- | ------- | ---------- | --------- |
+| Ein weiterer wichtiger Aspekt ist ...                         | \[x\]   |            |           |
+| Demgegenüber aber ist auch zu bedenken, dass                  |         |            | \[x\]     |
+| Trotz all dieser Gründe darf nicht übersehen werden, dass ... |         |            | \[x\]     |
+| Als letztes Argument sei angeführt, dass ...                  | \[x\]   |            |           |
+| Am deutlichsten zeigt sich dies im folgenden Argument ...     |         | \[x\]      |           |
+| Besonders wichtig erscheint                                   |         | \[x\]      |           |
 
 ---
 
-|Erstes Signalwort|Zweites Signalwort|
-|-|-|
-|im Allgemeinen|im Besonderen|
-|einerseits|andererseits|
-|gestern|heute|
-|zuerst|danach|
-|Befürworter|Kritiker|
-|zum einen|zum anderen|
-|pro|kontra|
-|entweder|oder|
-|sowohl|als auch|
+| Erstes Signalwort | Zweites Signalwort |
+| ----------------- | ------------------ |
+| im Allgemeinen    | im Besonderen      |
+| einerseits        | andererseits       |
+| gestern           | heute              |
+| zuerst            | danach             |
+| Befürworter       | Kritiker           |
+| zum einen         | zum anderen        |
+| pro               | kontra             |
+| entweder          | oder               |
+| sowohl            | als auch           |
 
 ---
 
-|Formulierungsbastein|These|Argument|Gegenargument|Schlussfolgerung|
-|-|-|-|-|-|
-|Dagegen lässt sich aber einwenden, dass ...|||\[x\]||
-|Ohne Frage ist nicht zu übersehen, dass ...||\[x\]||
-|Die notwendige Konsequenz ist schließlich ...||||\[x\]|
-|Ein Einwand lässt sich allerdings nicht übersehen ...|||\[x\]||
-|Die Statistik bestätigt zudem, dass ...||\[x\]|||
-|Für mich ist bewiesen, dass ...|\[x\]||||
-|Die Erfahrung zeigt, dass ...||\[x\]|||
-|Ich behaupte, dass ...|\[x\]||||
-|Daraus ergibt sich, dass ...||||\[x\]|
+| Formulierungsbaustein                                  | These | Argument | Gegenargument | Schlussfolgerung |
+| ----------------------------------------------------- | ----- | -------- | ------------- | ---------------- |
+| Dagegen lässt sich aber einwenden, dass ...           |       |          | \[x\]         |                  |
+| Ohne Frage ist nicht zu übersehen, dass ...           |       | \[x\]    |               |                  |
+| Die notwendige Konsequenz ist schließlich ...         |       |          |               | \[x\]            |
+| Ein Einwand lässt sich allerdings nicht übersehen ... |       |          | \[x\]         |                  |
+| Die Statistik bestätigt zudem, dass ...               |       | \[x\]    |               |                  |
+| Für mich ist bewiesen, dass ...                       | \[x\] |          |               |                  |
+| Die Erfahrung zeigt, dass ...                         |       | \[x\]    |               |                  |
+| Ich behaupte, dass ...                                | \[x\] |          |               |                  |
+| Daraus ergibt sich, dass ...                          |       |          |               | \[x\]            |
 
 ---
 1. Z. 1. - 5.: „Schlaflos“
@@ -230,14 +230,14 @@ Nein, ich möcht' in keinem Schrank nicht sein.
 
 ## 2022-12-02
 
-|Figur|Zitatnummer|Funktion des Augenmotives|
-|-|-|-|
-|Clara|17,8,1|Erfreuend|
-|Olympia|2,6,15|Nicht Menschlich|
-|Sandmann|3,13|Bedrohlich|
-|Coppelius|4,|Bedrohlich|
-|Coppola|16,11|Negativ|
-|Nathanael|5,12|Negativ|
+| Figur     | Zitatnummer | Funktion des Augenmotives |
+| --------- | ----------- | ------------------------- |
+| Clara     | 17,8,1      | Erfreuend                 |
+| Olympia   | 2,6,15      | Nicht Menschlich          |
+| Sandmann  | 3,13        | Bedrohlich                |
+| Coppelius | 4,          | Bedrohlich                |
+| Coppola   | 16,11       | Negativ                   |
+| Nathanael | 5,12        | Negativ                   |
 
 ## 2022-12-06
 
@@ -429,11 +429,13 @@ dies ist meine RasberryPi.
 ## 2023-02-03
 
 1. Z. 1 - 22
-1. Z. 23 - 28
-1. Z. 29 - 47
-1. Z. 48 - 68 
-1. Z. 64 - 71
+2. Z. 23 - 28
+3. Z. 29 - 47
+4. Z. 48 - 68 
+5. Z. 64 - 71
+
 - - -
+
 - Literatur, die nach 1945 publiziert wurde
 - Zerstörung
 - Heimkehr
@@ -532,6 +534,10 @@ wolkewolkewolkewole
 	- Durch den Nationalsozialismus musste Brecht ins Exil gehen
 5. Rückkehr nach Berlin
 
-## 2023-04-18
+## 2023-04-25
 
-Körperverbrechen
+1. Im Roman wird von den Figuren in der 3. Person erzählt
+2. Außensicht
+3. allwissenden Erzähler
+4. auktoriales Erzählverhalten
+5. es werden Vorgänge kommentiert
