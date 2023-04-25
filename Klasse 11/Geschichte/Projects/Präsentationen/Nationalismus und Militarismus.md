@@ -20,9 +20,13 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 
 ## Militarismus
 
-### Ursachen
+### Ursachen^[https://www.grin.com/document/32139]
 
-- Vorrangstellung Preußens
+- Vorrangstellung Preußens als europäische Großmacht
+- Preußen war bereits vor dem Kaiserreich militaristisch
+- Wegbereiter war hier Friedrich Wilhelm I.
+	- Verdopplung des Heeres
+	- Militarisierung des alltäglichen Lebens
 
 ### Wirtschaftliche Veränderungen
 
