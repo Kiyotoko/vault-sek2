@@ -1005,3 +1005,12 @@ Wie oft muss dieser Zufallsversuch durchgeführt werden, damit mit einer Wahrsch
 | $\ln{0.02}\geq n*\ln{0.2}$              | $\ln{1-a}\geq n\ln{1-p}$              |
 | $\frac{\ln{0.02}}{\ln{0.2}}\geq n$      | $\frac{\ln{1-a}}{\ln{1-p}}\geq n$     |
 
+#### Mehr als ein Treffer
+
+~~~js
+binomCtf(n, p, x, n)
+~~~
+
+### Erwartungswert, Standardabweichung, und Varianz bei binominalverteilten Zufallsgrößen
+
+#### Standartabweichung

@@ -1686,10 +1686,34 @@ $P(0\leq x\leq50)\approx0.9832$
 
 ## 2023-04-25
 
-Zufallsgröße $x$, biniminalverteukt mit $p=0.7$
+Zufallsgröße $x$, binominalverteilte mit $p=0.7$
 $P(10\leq x\leq n)\geq0.95$
 Lösen durch systematisches Probieren
 
 | $n$ | $P(10\leq x\leq n)$ |
 | --- | ------------------- |
-|     |                     |
+| 18  | 0.9404              |
+| 19  | 0.9674              |
+
+- - -
+
+Zufallsgröße $x$, binominalverteilte mit $p=0.4$
+$P(8\leq x\leq n)\geq0.9$
+Lösen durch systematisches Probieren
+
+| $n$ | $P(10\leq x\leq n)$ |
+| --- | ------------------- |
+| 28  | 0.92599             |
+| 27  | 0.904712            |
+| 26  | 0.878443            |
+
+- - -
+
+Zufallsgröße $x$, binominalverteilte mit $p=0.6$
+$P(12\leq x\leq n)\geq0.85$
+Lösen durch systematisches Probieren
+
+| $n$ | $P(10\leq x\leq n)$ |
+| --- | ------------------- |
+| 24  | 0.8857              |
+| 23  | 0.83657            |
