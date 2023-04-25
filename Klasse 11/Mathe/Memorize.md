@@ -1036,4 +1036,31 @@ In einer Lostrommel sind 20% Gewinnlose und 80% Nieten. Jemand will solange ein 
 
 x Anzahl Lose
 
-|||
+| $x_{1}$ | $P(x=x_{1})$          |
+| ------- | --------------------- |
+| 1       | $0.2$                 |
+| 2       | $0.8*0.2=0.16$        |
+| 3       | $0.8^{2}*0.2=0.128$   |
+| 4       | $0.8^{3}*0.2=0.14024$ |
+| 5       | $0.8^{4}=0.4069$      |
+
+$E(x)=1*0.2+2*0.16+3*0.128+4*0.14024+5*0.4069=3.3481$
+
+Ausgabe: $2\text{€}*3.3481=6.7\text{€}$
+
+**Beispiel**
+Eine Urne enthält 6 Kugeln. 3 davon sind mit „1“ beschriftet, 2 mit „2“ und eine mit „3“. In einem Spiel werden 2 Kugeln ohne zurücklegen gezogen. Die Summe der Nummern kommt man in Euro ausgezahlt.
+
+1) Ermittle, mit welcher Auszahlung langfristig pro Spiel zu rechnen ist.
+2) Bestimme, wie hoch der Einsatz bei diesem Spiel sein muss, damit das Spiel fair ist.
+
+| $x_{i}$ | gez             | $P(x=x_{i})$    |
+| ------- | --------------- | --------------- |
+| 2       | (1,1)           | $\frac{6}{10}$  |
+| 3       | (1,2)(2,1)      | $\frac{12}{30}$ |
+| 4       | (1,3)(3,1)(2,2) | $\frac{8}{30}$  |
+| 5       | (2,3)(3,2)      | $\frac{4}{30}$  |
+
+$E(x)=2 \frac{6}{30}+3 \frac{12}{30}+4 \frac{8}{30}+4 \frac{8}{30}+5 \frac{4}{30}=3.33\text{€}$
+
+$0=(2-y) \frac{6}{30}+(3-y) \frac{12}{30}+(4-y) \frac{8}{30}+(5-y) \frac{4}{30}=3.33\text{€}$

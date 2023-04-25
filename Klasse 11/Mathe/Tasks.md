@@ -1716,4 +1716,4 @@ Lösen durch systematisches Probieren
 | $n$ | $P(10\leq x\leq n)$ |
 | --- | ------------------- |
 | 24  | 0.8857              |
-| 23  | 0.83657            |
+| 23  | 0.83657             |
