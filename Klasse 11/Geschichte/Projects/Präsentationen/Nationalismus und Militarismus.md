@@ -20,20 +20,16 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 
 ## Militarismus
 
-![](Postkarte.png)
+### Ursachen
 
-### Feinde
+- Vorrangstellung Preußens
 
-Das Militär wird nach der Reichsgründung 1871 mit der Idee der Deutschen Nation zur neuen Identität des Kaiserreichs. Grund hierfür ist das militarisierte Preußen und die kriegerische Entstehung des Reiches.
+### Wirtschaftliche Veränderungen
 
-### Aufrüstung
+- technologische Verbesserungen
+- erste Militärflugzeuge
 
-techlogische Verbesserungen
-erste Militärflugzeuge
-
-### Taktische Verbesserungen
-
-### Rekrutierung^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
+### Soziale Veränderungen^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
 
 > **Der Sozialdemokrat Liebknecht über das militärische Wesen der Schule:**^[Aus Wilhelm Liebknecht: Wissen ist Macht. Göttingen 1887, S. 21 und 25]
 > 
@@ -42,8 +38,12 @@ erste Militärflugzeuge
 - Abhaltung vieler Paraden
 - Kindern werden Matrosenuniformen angezogen
 - Wehrpflicht für alle jungen Männer von 20 bis 25 Jahren^[https://www.verfassungen.de/preussen/gesetze/kriegsdienstpflichtgesetz14.htm]
-
-### Bevorzugung^[https://simpleclub.com/lessons/geschichte-militarismus-im-deutschen-kaiserreich]
-
 - Privilegien für Soldaten
 - Nationalfeiertag ist Sedantag (=Erinnert an Schlacht von Sedan gegen Frankreich)
+
+## Historische Quelle
+
+![Postkarte 2](Postkarte%202.jpeg)
+
+- „Der Soldate, der Sol ist der schönste Mann im ganzen Staate“
+- Feldpost, gelaufen 03.10.1917
