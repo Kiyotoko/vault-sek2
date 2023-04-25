@@ -38,7 +38,8 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 	- Erfindung des Autos
 	- Aufschwung der Luftfahrt
 	- Erste Luftschiffe
- - Folgen waren ein Aufschwung von Wirtschaft, Industrie und Militär
+- Folgen waren ein Aufschwung von Wirtschaft, Industrie und Militär
+- Das Militär im Kaiserreich setzte erstmals Flugzeuge, Flammenwerfer und Gas als Waffen ein
 
 ### Soziale Veränderungen^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
 
