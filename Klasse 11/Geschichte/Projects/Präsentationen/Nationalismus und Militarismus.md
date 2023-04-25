@@ -28,6 +28,11 @@ Das Militär wird nach der Reichsgründung 1871 mit der Idee der Deutschen Natio
 
 ### Aufrüstung
 
+techlogische Verbesserungen
+erste Militärflugzeuge
+
+### Taktische Verbesserungen
+
 ### Rekrutierung^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
 
 > **Der Sozialdemokrat Liebknecht über das militärische Wesen der Schule:**^[Aus Wilhelm Liebknecht: Wissen ist Macht. Göttingen 1887, S. 21 und 25]
