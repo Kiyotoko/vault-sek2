@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b05418ad92deead5","x":-140,"y":-40,"width":250,"height":60,"type":"text","text":"Bridget Riley"},
+		{"id":"77547c6152d85204","x":-145,"y":-237,"width":250,"height":60,"type":"text","text":"Stile"},
+		{"id":"bce362f2224b67d4","x":-169,"y":-361,"width":250,"height":60,"type":"text","text":"Pointillismus"}
+	],
+	"edges":[
+		{"id":"586cfb876a4beb9b","fromNode":"b05418ad92deead5","fromSide":"top","toNode":"77547c6152d85204","toSide":"bottom"},
+		{"id":"13dff901f0bba765","fromNode":"77547c6152d85204","fromSide":"top","toNode":"bce362f2224b67d4","toSide":"bottom"}
+	]
+}
