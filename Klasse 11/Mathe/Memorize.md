@@ -1013,15 +1013,27 @@ binomCtf(n, p, x, n)
 
 ### Erwartungswert, Standardabweichung, und Varianz bei binominalverteilten Zufallsgrößen
 
-#### Standartabweichung
+#### Erwartungswert
 
 **Beispiel**
 Ein Würfel wird 60 mal geworfen. Wie oft kann man dabei eine „6“ erwarten=
 $\mu=np=60 \frac{1}{6}=10$
 
-#### Varianz
+#### Varianz und Standartabweichung
 
+Varianz
 $V=np(1-p)$
+
+Standartabweichung
 $\sigma=\sqrt{V}=\sqrt{np(1-p)}$
 
-Die Standartabweichung gibt an, wie stark die Werte einer Zufallsgröße vom Erwartungswert
+Die Standartabweichung gibt an, wie stark die Werte einer Zufallsgröße vom Erwartungswert abweichen. Die Standartabweichung sit die Wurzel aus der Varianz.
+
+### Wahrscheinlichkeitsverteilung und Erwartungswert einer Zufallsgröße
+
+**Beispiel**
+In einer Lostrommel sind 20% Gewinnlose und 80% Nieten. Jemand will solange ein Los ziehen, bis er ein Gewinnlos gezogen hat, maximal jedoch 5 mal. Ermittle, mit welcher Ausgabe er rechnen muss, wenn ein Los 2€ kostet.
+
+x Anzahl Lose
+
+|||
