@@ -229,10 +229,15 @@ Nehmen wir als Beispiel einen Wagon der entweder 5 oder eine Person tötet. Ents
 
 ## 2023-04-19
 
+[Qualitativer Utilitarismus](Working%20Materials/Qualitativer%20Utilitarismus.pdf)
+
 Gedankenexperiment: Stellen Sie sich vor Ihnen würde eine Pille angeboten, die Sie für den Rest Ihres Lebens in einen Zustand vollkommenen Glücks versetzt. Sie müssten diese nur einmal einnehmen und es gibt keine Nebenwirkungen. Würden Sie sie einnehmen? Formulieren Sie Gründe für Ihre Entscheidung.
 
 Ich würde die Pille ablehnen, da ein Zustand dauerhafter und vollkommener Glückseligkeit nicht erstrebenswert ist. Dies liegt daran, dass ich Glück immer dann wertschätze, wenn ich davor Unglück verspürt habe. Wenn ich stets nur Glück verspüre, jedoch kein Unglück, würde ich es nicht mehr wertschätzen. So wären für mich unendlich andauernde Ferien nicht erstrebenswert, da ich die Ferien nur daher wertschätze, weil ich vorher gearbeitet habe. Daher lehne ich einen dauerhafte Glückseligkeit und somit die Pille ab.
 
 - - -
 
-Neben der Quantität des Glücks soll auch die Qualität bewertet werden.
+Arbeiten Sie Mills Vorstellungen zur Weiterentwicklung des klassischen Utilitarismus (Bentham) heraus.
+
+Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genuss die besten Aussichten auf Zufriedenheit, während Wesen mit höheren Fähigkeiten stest das Gefühl haben werden, das alles Glück stets Unvollkommen ist. Da er einen unzufriedenen Menschen einem zufrieden gestelltes Schwein vorzieht, soll
+neben der Quantität des Glücks daher auch die Qualität bewertet werden. Zwischen dem Einzelnen und der Masse muss stest auf grundlage von Qualität und Quantität abgewogen werde. So ist es lobenswert, wenn der Einzelne an Glück verliert, wenn dafür die Masse eine Qualitätssteigerung des Glücks erhält.
