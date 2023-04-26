@@ -2,30 +2,33 @@
 
 ### Nationalismus im Frankreich^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
+- Die Nation war ursprünglich, seit der Französischen Revolution, ein fortschrittliches, gegen Fürstenherrschaft, Aristokratie und feudale Privilegienordnung gerichtetes Prinzip, das auf die nationale Volkssouveränität und die gleichberechtigte Verbindung sich selbst regierender Völker zielte. 
 - Zusammenhalt aufgrund von Gemeinsamkeiten, Patriotismus
 	- Sprache
 	- Kultur
 
-Die Nation war ursprünglich, seit der Französischen Revolution, ein fortschrittliches, gegen Fürstenherrschaft, Aristokratie und feudale Privilegienordnung gerichtetes Prinzip, das auf die nationale Volkssouveränität und die gleichberechtigte Verbindung sich selbst regierender Völker zielte. Zugleich gewann der Nationalismus immer mehr den Charakter einer säkularen Religion, die die überkommenen religiösen Sinnstiftungen in weltliche Orientierungen übertragen konnte und überall in Europa eine hohe Massenwirksamkeit entfaltete. In der zweiten Hälfte des 19. Jahrhunderts entwickelte sich der Nationalismus dabei von einer links- zu einer rechtsorientierten politischen Ideologie, deren ursprünglich emanzipative Zielsetzungen von legitimatorischen Tendenzen abgelöst wurde und die gegen Ende des Jahrhunderts als "integraler Nationalismus" die absolute Vorrangstellung der eigenen Nation nach Außen mit exklusiven Charakterisierungen des Nationalen nach Innen verband. Nationalismus und Patriotismus erschienen nun auch im deutschen Kaiserreich, wie der Liberale Ludwig Bamberger am Ende der Bismarck-Ära urteilte, zunehmend "im Zeichen des Hasses (…) gegen alles, was sich nicht blind unterwirft, daheim oder draußen".
-
 ### Der neue Reichsnationalismus^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
-- die überkommenen partikularstaatlichen Identifikationen durch einen übergreifenden Reichsnationalismus wenn nicht zu ersetzen, so doch zu ergänzen und zu überwölben
-- Deutschland über alles
-- Ehrung der Gefallenen gegen die Erbfeinde
+- Die überkommenen partikularstaatlichen Identifikationen durch einen übergreifenden Reichsnationalismus wenn nicht zu ersetzen, so doch zu ergänzen und zu überwölben
+- „Deutschland über alles“
+	- Ursprüngliche Bedeutung: Die Nation Deutschland ist wichtiger als seine einzelnen Staaten
+	- Später: Deutschland steht über allen anderen Nationen
 - Stelle das Kaisertum als Bezugspunkt an, ergänzt durch die militärischen Erfolge in den Reichsgründungskriegen und die Identifikation mit dem "Reichsgründer" Otto von Bismarck
 - Wegen der preußischen Vorrangstellung im Reich erhielt der deutsche Nationalismus nicht nur eine borussische, sondern zugleich auch eine ausgesprochen protestantische Prägung, die dem neuen Nationalstaat einen geradezu heiligen Charakter verleihen konnte.
+- Ehrung der Gefallenen gegen die Erbfeinde
 
 ### Wilhelminische Radikalisierung des Reichsnationalismus
 
-- In der wilhelminischen Phase des Kaiserreichs kamen zwei neue Faktoren hinzu, die den Reichsnationalismus weiter radikalisierten: 
-	- Im Zeichen des Hochimperialismus ging die Reichspolitik von Konsolidierung und eher zauderndem Kolonialerwerb nun zu einer aggressiven "Weltpolitik" über. Und sie wurde dabei von neuen, bürgerlich geprägten Agitationsverbänden angetrieben, die die monarchische Regierung von rechts propagandistisch unter Druck zu setzen versuchten und dabei eine radikalen Nationalismus entwickelten. Bereits 1887 war die Deutsche Kolonialgesellschaft gegründet worden, es folgten der Deutsche Ostmarkenverein, (1894), der Deutsche Flottenverein (1898), der Reichsverband gegen die Sozialdemokratie (1904) und schließlich der Deutsche Wehrverein (1912). Einen besonders radikalen, pangermanisch-völkischen Nationalismus vertrat bereits seit 1891 der Alldeutsche Verband, dessen Vorsitzender Heinrich Class 1912 unter dem Titel "Wenn ich der Kaiser wäre" eine programmatische Schrift veröffentlichte, die mit ihren Forderungen nicht nur nach einer expansionistischen Außenpolitik, sondern auch nach der Schaffung einer homogenen, national, politisch und rassisch einheitlichen Volksgemeinschaft eindeutig einen präfaschistischen Charakter aufwies.
+- In der wilhelminischen Phase des Kaiserreichs kamen neue Faktoren hinzu, die den Reichsnationalismus weiter radikalisierten: 
+	- Im Zeichen des Hochimperialismus ging die Reichspolitik zu einer aggressiven "Weltpolitik" über
+	- Von neuen, bürgerlich geprägten Agitationsverbänden angetrieben, die die monarchische Regierung von rechts propagandistisch unter Druck zu setzen versuchten und dabei eine radikalen Nationalismus entwickelten
+	- Heinrich Class veröffentlichte unter dem Titel "Wenn ich der Kaiser wäre" eine programmatische Schrift, die mit ihren Forderungen nicht nur nach einer expansionistischen Außenpolitik, sondern auch nach der Schaffung einer homogenen, national, politisch und rassisch einheitlichen Volksgemeinschaft eindeutig einen präfaschistischen Charakter aufwies
 
 ### Nationalismus und Sozialdarwinismus
 
-Als typisch imperialistische Legitimationsideologie gewann schließlich auch der Sozialdarwinismus spezifisch nationalistische Ausprägungen. Nationale Stärke und Kampfbereitschaft sollten die Nation in der als notwendig begriffenen Auseinandersetzung mit anderen Nationen auszeichnen. Der pensionierte Planungsleiter im Preußischen Generalstab Friedrich v. Bernhardi etwa propagierte in seinem Bucherfolg "Deutschland und der nächste Krieg" nicht nur eine aggressive Politik des Kaiserreiches, sondern er bestimmte Krieg zugleich als eine "biologische Notwendigkeit" für die Nation: "Ohne den Krieg aber würden nur allzu leicht minderwertige und verdorbene Rassen durch Masse und Kapitalmacht die gesunden, kernkräftigen Elemente überwuchern, und ein allgemeiner Rückgang müßte die Folge seine. In der Auslese besteht die Schöpferkraft des Krieges."
-
-- Sozialimperialismus
+- Imperialistische Legitimationsideologie gewann schließlich auch der Sozialdarwinismus spezifisch nationalistische Ausprägungen
+- Ideologie, nach der manche Menschen anderen überlegen seien und deshalb mehr Wert wären
+- Wurde genutzt, um die aggressive Weltpolitik und die Vorrangstellung des Kaiserreichs zu rechtfertigen
 
 ## Militarismus
 
