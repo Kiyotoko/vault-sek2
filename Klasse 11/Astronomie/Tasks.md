@@ -213,15 +213,19 @@ $n=\frac{300000 \frac{km}{s}}{230800 \frac{km}{s}}=1.29$
 
 - - -
 
-$c_{Medium}=\frac{c_{Vakuum}}{n}=300000 \frac{\frac{km}{s}}{1.5163}=199164 \frac{km}{s}$
+$c_{Medium}=\frac{c_{Vakuum}}{n}=\frac{300000\frac{km}{s}}{1.5163}=199164 \frac{km}{s}$
 
 - - -
 
-$c=\frac{c_{Vakuum}}{c_{Medium}}=\frac{\lambda*f}{c_{Medium}}$
+$c=\frac{c_{Vakuum}}{c_{Medium}}=\frac{c_{Vakuum}}{\lambda*f}$
 Eine Größere Wellenlänge bedeutet eine größere Brechzahl.
 
 - - -
 
+- Brechung von Licht an der Grenzfläche von Wasser zu Luft
+- Reflexion und Totalreflexion an der Grenzfläche
+
+- - -
 
 Einfallswinkel und Ausfallswinkel sind gleich groß.
 $\alpha=\alpha'=20^\circ$
