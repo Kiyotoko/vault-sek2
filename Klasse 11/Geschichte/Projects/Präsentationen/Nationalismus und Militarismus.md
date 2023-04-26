@@ -74,5 +74,10 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 
 ![Postkarte 2](Postkarte%202.jpeg)
 
-- „Der Soldate, der Soldate, ist der schönste Mann im ganzen Staate“
+>„Der Soldate, der Soldate, ist der schönste Mann im ganzen Staate“
 - Feldpost, gelaufen 03.10.1917
+
+- Beschreibung
+	- Feldpost aus Russland aus dem Jahre 1917
+	- Ein Soldat in kompletter Uniform läuft durch einen Ort
+	- Alle Frauen schauen ihm hinterher
