@@ -388,3 +388,10 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 	1. Reine Sinnlichkeit
 	2. Freude des Verstandes
 - Die Freude des Verstandes ist der Sinnlichkeit vorzuziehen, da sie auch anderen in meiner Umwelt nützen.
+
+### Regelutilitarismus
+
+#### Typen des Regelutilitarismus
+
+1. Handlungen sollen unterlassen werden, wenn sie regelmäßig schlechte Folgen haben.
+2. Handlungen sollen unterlassen werde, wenn die regelmäßige Ausführung dieser Handlung schlechte Folgen hat.
