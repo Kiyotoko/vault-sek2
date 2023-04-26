@@ -240,3 +240,11 @@ Ich würde die Pille ablehnen, da ein Zustand dauerhafter und vollkommener Glüc
 Arbeiten Sie Mills Vorstellungen zur Weiterentwicklung des klassischen Utilitarismus (Bentham) heraus.
 
 Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genus die besten Aussichten auf Zufriedenheit, während Wesen mit höheren Fähigkeiten stest das Gefühl haben werden, das alles Glück stets Unvollkommen ist. Da er einen unzufriedenen Menschen einem zufrieden gestelltes Schwein vorzieht, soll neben der Quantität des Glücks daher auch die Qualität bewertet werden. Zwischen dem Einzelnen und der Masse muss stest auf Grundlage von Qualität und Quantität abgewogen werde. So ist es lobenswert, wenn der Einzelne an Glück verliert, wenn dafür die Masse eine Qualitätssteigerung des Glücks erhält.
+
+## 2023-04-26
+
+| Was ist zu tun?                                                                                                                                                                             | Regel ist Faustregel | Regel ist absolut gültig  | Persönliche Beurteilung |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------- | ----------------------- |
+| Nun möchte aber ein Terrorist das Passwort für die Zündung einer Atombombe. Sollten Sie ihn anlügen?                                                                                        | Sie sollen lügen.    | Sie sollen nicht lügen.   | Sie sollen lügen.       |
+| Nun ist ihnen jedoch das Geld ausgegangen und Sie haben übermäßigen Durst, während dem Großkonzern der Verlust der Wasserflasche praktisch nichts ausmacht… Sollten Sie das Wasser stehlen? | Sie sollen stehlen.  | Sie sollen nicht stehlen. | Sie sollen stehlen.     |
+| Nun verschwiegt ein brutaler Entführer das Versteck eines Opfers. Sollten Sie ihn foltern?                                                                                                  | Sie sollen foltern.  | Sie sollen nicht foltern. | Sie sollen nichts tun.  |
