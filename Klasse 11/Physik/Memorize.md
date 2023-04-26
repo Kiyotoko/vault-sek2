@@ -717,3 +717,5 @@ In der Leiterschleife wird das $\vec{B}$-Feld bei konstanter Fläche  stärker. 
 ### Generator
 
 ### Transformator
+
+#### Hochspannungsübertragung ohne Umspannwerke
