@@ -25,20 +25,25 @@ Die Nation war ursprünglich, seit der Französischen Revolution, ein fortschrit
 
 Als typisch imperialistische Legitimationsideologie gewann schließlich auch der Sozialdarwinismus spezifisch nationalistische Ausprägungen. Nationale Stärke und Kampfbereitschaft sollten die Nation in der als notwendig begriffenen Auseinandersetzung mit anderen Nationen auszeichnen. Der pensionierte Planungsleiter im Preußischen Generalstab Friedrich v. Bernhardi etwa propagierte in seinem Bucherfolg "Deutschland und der nächste Krieg" nicht nur eine aggressive Politik des Kaiserreiches, sondern er bestimmte Krieg zugleich als eine "biologische Notwendigkeit" für die Nation: "Ohne den Krieg aber würden nur allzu leicht minderwertige und verdorbene Rassen durch Masse und Kapitalmacht die gesunden, kernkräftigen Elemente überwuchern, und ein allgemeiner Rückgang müßte die Folge seine. In der Auslese besteht die Schöpferkraft des Krieges."
 
+- Sozialimperialismus
+
 ## Militarismus
 
 ### Ursachen^[https://www.grin.com/document/32139]
 
-- Vorrangstellung Preußens als europäische Großmacht
-- Preußen war bereits vor dem Kaiserreich militaristisch
-- Wegbereiter war hier Friedrich Wilhelm I.
-	- Verdopplung des Heeres
-	- Militarisierung des alltäglichen Lebens
-	- Führte das Kantonsystem ein, welche im Jahr 1813 durch die Allgemeine Wehrpflicht ersetzt wurde
-	- Erste Waffenfabriken
+- Vorrangstellung Preußens im späteren Kaiserreich
+	- Preußen war bereits vor dem Kaiserreich militaristisch
+	- Wegbereiter war hier Friedrich Wilhelm I.
+		- Verdopplung des Heeres
+		- Militarisierung des alltäglichen Lebens
+		- Führte das Kantonsystem ein, welche im Jahr 1813 durch die Allgemeine Wehrpflicht ersetzt wurde
+		- Erste Waffenfabriken
+- Ausbau der Militärstruktur und dauerhafte Armeen
+- Erfolge im Krieg
 
-### Wirtschaftliche Veränderungen
+### Wirtschaftliche Veränderungen^[https://www.dhm.de/lemo/kapitel/kaiserreich/industrie-und-wirtschaft/gruenderkrach.html]
 
+- Globalisierung
 - Technologische Erfindungen
 	- Erste Vermittlung für Ortstelefonate
 	- Elektromoteren verdrängten Dampfmaschinen
@@ -46,6 +51,11 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 	- Aufschwung der Luftfahrt
 	- Erste Luftschiffe
 - Folgen waren ein Aufschwung von Wirtschaft, Industrie und Militär
+- Französische Reperationszahlungen an Deutschland und Kolonien verbesserten die wirtschaftliche Situation
+- Großbetriebe (Krupp)^[https://www.preussen-im-rheinland.de/geschichte/die-preussischen-rheinlande-1815-1918/die-preussische-rheinprovinz-im-deutschen-kaiserreich-politik-wirtschaft-und-gesellschaft/kaiser-wilhelm-ii-und-das-krupp-imperium/]
+	- Ausbau der Schwerindustrie und dem Maschinenbau → Erhöhter verbrauch von Roheisen
+	- Fördermenge an Eisen wurde erhöht
+	- Förderung von Krupp durch Wilhelm II → Produktion technologisch überlegender Waffen
 - Das Militär im Kaiserreich setzte erstmals Flugzeuge, Flammenwerfer und Gas als Waffen ein
 
 ### Soziale Veränderungen^[https://www.lehrerfreund.de/schule/1s/bismarckzeit-militarismus-arbeitsblatt/2261]
