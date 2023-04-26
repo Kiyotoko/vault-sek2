@@ -6,7 +6,12 @@
 
 ### Nationalismus in Frankreich
 
+- fortschrittliches, gegen Fürstenherrschaft, Aristrokratie und feudale Privilegienordnung gerichtetes Prinzip
+- Zusammenhalt aufgrund von Gemeinsamkeiten, wie Sprache oder Kultur
+
 ### Reichsnationalismus
+
+- Das Kaiserreich war eine Monarchie, daher musste sich das Nationalverständnis ändern
 
 ### Wilhelminische Radikalisierung
 
