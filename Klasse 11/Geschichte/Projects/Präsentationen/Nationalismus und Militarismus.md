@@ -1,13 +1,15 @@
 ## Nationalismus
 
-### Alldeutscher Verband^[https://www.dhm.de/lemo/kapitel/kaiserreich]
+### Nationalismus im Frankreich
 
-- Agitationsverband
-→ Agitation (lateinisch agitare: „aufregen, aufwiegeln“) ist die meist aggressive Beeinflussung Anderer in politischer Hinsicht
-- Verband, der für expansionistische, pangermanische, militaristische, nationalistische sowie rassistische und antisemitische Politik warb
+- Zusammenhalt aufgrund von Gemeinsamkeiten, Patriotismus
+	- Sprache
+	- Kultur
 
 ### Der neue Reichsnationalismus^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
+- Deutschland über alles
+- Ehrung der Gefallenen gegen die Erbfeinde
 Nach der Reichsgründung war es erst einmal notwendig, die überkommenen partikularstaatlichen Identifikationen durch einen übergreifenden Reichsnationalismus wenn nicht zu ersetzen, so doch zu ergänzen und zu überwölben. Dafür bot sich an erster Stelle das Kaisertum als Bezugspunkt an, ergänzt durch die militärischen Erfolge in den Reichsgründungskriegen und die Identifikation mit dem "Reichsgründer" Otto von Bismarck. Wegen der preußischen Vorrangstellung im Reich erhielt der deutsche Nationalismus nicht nur eine borussische, sondern zugleich auch eine ausgesprochen protestantische Prägung, die dem neuen Nationalstaat einen geradezu heiligen Charakter verleihen konnte.
 
 ### Wilhelminische Radikalisierung des Reichsnationalismus
