@@ -379,3 +379,12 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 - Betrachtung des gesamten Handlungsausmaßes
 → Überwiegt Freude: gute Handlung
 → Überwiegt Leid: schlechte Handlung
+
+### Qualitativer Utilitarismus
+
+- Einige Arten der Freude sind wertvoller und wünschenswerter als andere.
+- Denn der Wert einer Freude ist nicht ausschließlich quantitativ, sondern auch an der Qualität zu messen.
+- Zwei Arten von Qualität:
+	1. Reine Sinnlichkeit
+	2. Freude des Verstandes
+- Die Freude des Verstandes ist der Sinnlichkeit vorzuziehen, da sie auch anderen in meiner Umwelt nützen.
