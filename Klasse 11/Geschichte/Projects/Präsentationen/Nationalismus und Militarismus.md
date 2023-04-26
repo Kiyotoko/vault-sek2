@@ -79,5 +79,4 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 
 - Beschreibung
 	- Feldpost aus Russland aus dem Jahre 1917
-	- Ein Soldat in kompletter Uniform läuft durch einen Ort
-	- Alle Frauen schauen ihm hinterher
+	- In der Bildmitte ist ein verschmitzt grinsender Soldat in Uniform zu erkennen. Mehrere junge Frauen stehen neben oder hinter dem Soldaten und blicken ihn bewundernd an.
