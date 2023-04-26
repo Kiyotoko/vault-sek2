@@ -80,3 +80,5 @@ Als typisch imperialistische Legitimationsideologie gewann schließlich auch der
 - Beschreibung
 	- Feldpost aus Russland aus dem Jahre 1917
 	- In der Bildmitte ist ein verschmitzt grinsender Soldat in Uniform zu erkennen. Mehrere junge Frauen stehen neben oder hinter dem Soldaten und blicken ihn bewundernd an.
+	- Unten im Bild steht „Der Soldate, der Soldate, ist der schönste Mann im Staate“
+	- Der Text stammt aus dem Musikbuch „Immer fester druff!“ von Walter Kollo
