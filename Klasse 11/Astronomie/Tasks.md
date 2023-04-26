@@ -206,3 +206,20 @@ $\cos{89°51'}=\cos{89\frac{51}{60}°}=\cos{89.85°}$
 - - -
 
 $\frac{360°}{7.2°}*5000*157.5m=3.94^{7}$
+
+## 2023-04-26
+
+$n=\frac{300000 \frac{km}{s}}{230800 \frac{km}{s}}=1.29$
+
+- - -
+
+$c_{Medium}=\frac{c_{Vakuum}}{n}=300000 \frac{\frac{km}{s}}{1.5163}=199164 \frac{km}{s}$
+
+- - -
+
+$c=\frac{c_{Vakuum}}{c_{Medium}}=\frac{\lambda*f}{c_{Medium}}$
+Eine Größere Wellenlänge bedeutet eine größere Brechzahl.
+
+- - -
+
+\lambda*f

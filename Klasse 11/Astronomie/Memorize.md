@@ -349,3 +349,14 @@ Bei der Beobachtung des Sterns 𝛿 Orionis, des rechten Gürtelsterns im Sternb
 ### Expansion des Weltalls
 
 Der amerikanische Astronom Milton Humason gilt als Entdecker der galaktischen Rotverschiebung. Letztere zeigt sich in der Verschiebung der Spektrallinien von entfernten Galaxien hinzu längeren Wellenlängen.
+
+## Reflexion und Brechung
+
+### Reflexionsgesetzt
+
+Einfallswinkel und Ausfallswinkel sind gleich groß.
+$\alpha=\alpha'$
+
+### Rund um das Brechungsgesetz
+
+### Bildentstehung an Sammellinsen
