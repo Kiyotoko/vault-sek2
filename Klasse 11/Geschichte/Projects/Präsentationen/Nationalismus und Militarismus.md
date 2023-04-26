@@ -1,22 +1,25 @@
 ## Nationalismus
 
-### Nationalismus im Frankreich
+### Nationalismus im Frankreich^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
 - Zusammenhalt aufgrund von Gemeinsamkeiten, Patriotismus
 	- Sprache
 	- Kultur
+
+Die Nation war ursprünglich, seit der Französischen Revolution, ein fortschrittliches, gegen Fürstenherrschaft, Aristokratie und feudale Privilegienordnung gerichtetes Prinzip, das auf die nationale Volkssouveränität und die gleichberechtigte Verbindung sich selbst regierender Völker zielte. Zugleich gewann der Nationalismus immer mehr den Charakter einer säkularen Religion, die die überkommenen religiösen Sinnstiftungen in weltliche Orientierungen übertragen konnte und überall in Europa eine hohe Massenwirksamkeit entfaltete. In der zweiten Hälfte des 19. Jahrhunderts entwickelte sich der Nationalismus dabei von einer links- zu einer rechtsorientierten politischen Ideologie, deren ursprünglich emanzipative Zielsetzungen von legitimatorischen Tendenzen abgelöst wurde und die gegen Ende des Jahrhunderts als "integraler Nationalismus" die absolute Vorrangstellung der eigenen Nation nach Außen mit exklusiven Charakterisierungen des Nationalen nach Innen verband. Nationalismus und Patriotismus erschienen nun auch im deutschen Kaiserreich, wie der Liberale Ludwig Bamberger am Ende der Bismarck-Ära urteilte, zunehmend "im Zeichen des Hasses (…) gegen alles, was sich nicht blind unterwirft, daheim oder draußen".
 
 ### Der neue Reichsnationalismus^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
 - die überkommenen partikularstaatlichen Identifikationen durch einen übergreifenden Reichsnationalismus wenn nicht zu ersetzen, so doch zu ergänzen und zu überwölben
 - Deutschland über alles
 - Ehrung der Gefallenen gegen die Erbfeinde
-- Dafür bot sich an erster Stelle das Kaisertum als Bezugspunkt an, ergänzt durch die militärischen Erfolge in den Reichsgründungskriegen und die Identifikation mit dem "Reichsgründer" Otto von Bismarck.
+- Stelle das Kaisertum als Bezugspunkt an, ergänzt durch die militärischen Erfolge in den Reichsgründungskriegen und die Identifikation mit dem "Reichsgründer" Otto von Bismarck
 - Wegen der preußischen Vorrangstellung im Reich erhielt der deutsche Nationalismus nicht nur eine borussische, sondern zugleich auch eine ausgesprochen protestantische Prägung, die dem neuen Nationalstaat einen geradezu heiligen Charakter verleihen konnte.
 
 ### Wilhelminische Radikalisierung des Reichsnationalismus
 
-In der wilhelminischen Phase des Kaiserreichs kamen zwei neue Faktoren hinzu, die den Reichsnationalismus weiter radikalisierten: Im Zeichen des Hochimperialismus ging die Reichspolitik von Konsolidierung und eher zauderndem Kolonialerwerb nun zu einer aggressiven "Weltpolitik" über. Und sie wurde dabei von neuen, bürgerlich geprägten Agitationsverbänden angetrieben, die die monarchische Regierung von rechts propagandistisch unter Druck zu setzen versuchten und dabei eine radikalen Nationalismus entwickelten. Bereits 1887 war die Deutsche Kolonialgesellschaft gegründet worden, es folgten der Deutsche Ostmarkenverein, (1894), der Deutsche Flottenverein (1898), der Reichsverband gegen die Sozialdemokratie (1904) und schließlich der Deutsche Wehrverein (1912). Einen besonders radikalen, pangermanisch-völkischen Nationalismus vertrat bereits seit 1891 der Alldeutsche Verband, dessen Vorsitzender Heinrich Class 1912 unter dem Titel "Wenn ich der Kaiser wäre" eine programmatische Schrift veröffentlichte, die mit ihren Forderungen nicht nur nach einer expansionistischen Außenpolitik, sondern auch nach der Schaffung einer homogenen, national, politisch und rassisch einheitlichen Volksgemeinschaft eindeutig einen präfaschistischen Charakter aufwies.
+- In der wilhelminischen Phase des Kaiserreichs kamen zwei neue Faktoren hinzu, die den Reichsnationalismus weiter radikalisierten: 
+	- Im Zeichen des Hochimperialismus ging die Reichspolitik von Konsolidierung und eher zauderndem Kolonialerwerb nun zu einer aggressiven "Weltpolitik" über. Und sie wurde dabei von neuen, bürgerlich geprägten Agitationsverbänden angetrieben, die die monarchische Regierung von rechts propagandistisch unter Druck zu setzen versuchten und dabei eine radikalen Nationalismus entwickelten. Bereits 1887 war die Deutsche Kolonialgesellschaft gegründet worden, es folgten der Deutsche Ostmarkenverein, (1894), der Deutsche Flottenverein (1898), der Reichsverband gegen die Sozialdemokratie (1904) und schließlich der Deutsche Wehrverein (1912). Einen besonders radikalen, pangermanisch-völkischen Nationalismus vertrat bereits seit 1891 der Alldeutsche Verband, dessen Vorsitzender Heinrich Class 1912 unter dem Titel "Wenn ich der Kaiser wäre" eine programmatische Schrift veröffentlichte, die mit ihren Forderungen nicht nur nach einer expansionistischen Außenpolitik, sondern auch nach der Schaffung einer homogenen, national, politisch und rassisch einheitlichen Volksgemeinschaft eindeutig einen präfaschistischen Charakter aufwies.
 
 ### Nationalismus und Sozialdarwinismus
 
