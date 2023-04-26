@@ -9,6 +9,7 @@
 
 ### Der neue Reichsnationalismus^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]
 
+- Das Kaiserreich war eine Monarchie, daher musste sich das Nationalverständnis ändern
 - Die überkommenen partikularstaatlichen Identifikationen durch einen übergreifenden Reichsnationalismus wenn nicht zu ersetzen, so doch zu ergänzen und zu überwölben
 - „Deutschland über alles“
 	- Ursprüngliche Bedeutung: Die Nation Deutschland ist wichtiger als seine einzelnen Staaten
