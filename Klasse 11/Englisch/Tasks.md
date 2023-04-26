@@ -294,3 +294,8 @@ Parents with a good income conceive this to their children and they will also ha
 - Everyone define his "own" American dream
 - The American Dream brings hope
 - It is a unreachable goal for the most people
+
+## 2023-04-26
+
+- I am convinced that ...
+- I would raise another point.
