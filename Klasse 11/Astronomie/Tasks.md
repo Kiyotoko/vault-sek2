@@ -209,23 +209,38 @@ $\frac{360°}{7.2°}*5000*157.5m=3.94^{7}$
 
 ## 2023-04-26
 
+[AB 1 Wiederholung Reflexion und Brechung - Info](Working%20Materials/Geschichte%20der%20Astronomie/AB%201%20Wiederholung%20Reflexion%20und%20Brechung%20-%20Info.pdf)
+[AB 2 Reflexion und Brechung - Aufgaben](Working%20Materials/Geschichte%20der%20Astronomie/AB%202%20Reflexion%20und%20Brechung%20-%20Aufgaben.pdf)
+
+Die Lichtgeschwindigkeit in Wasser beträgt ca. 230 800 km/s. Berechne den Brechungsindex des Mediums.
+
 $n=\frac{300000 \frac{km}{s}}{230800 \frac{km}{s}}=1.29$
 
 - - -
 
-$c_{Medium}=\frac{c_{Vakuum}}{n}=\frac{300000\frac{km}{s}}{1.5163}=199164 \frac{km}{s}$
+Die Lichtgeschwindigkeit in Wasser beträgt ca. 230 800 km/s. Berechne den Brechungsindex des Mediums.
 
-- - -
+$c_{Medium}=\frac{c_{Vakuum}}{n}=\frac{300000\frac{km}{s}}{1.5163}=199164 \frac{km}{s}$
 
 $c=\frac{c_{Vakuum}}{c_{Medium}}=\frac{c_{Vakuum}}{\lambda*f}$
 Eine Größere Wellenlänge bedeutet eine größere Brechzahl.
 
 - - -
 
+Beschreibe, was in folgender Abbildung zu beobachten ist.
+
 - Brechung von Licht an der Grenzfläche von Wasser zu Luft
 - Reflexion und Totalreflexion an der Grenzfläche
 
 - - -
 
-Einfallswinkel und Ausfallswinkel sind gleich groß.
-$\alpha=\alpha'=20^\circ$
+Obwohl die verschiedenen Lichtstrahlen, die von einem Punkt ausgehen, nach einer Zerstreuungslinse auseinanderlaufen, können wir ein scharfes Bild sehen.
+
+Vor der Linse entsteht ein virtuelles Bild. Dies kann von der Linste auf die Netzhaut übertragen werden.
+Ein weiteres Beispiel ist ein Parabolspiegel.
+
+- - -
+
+Wie groß ist bei der Reflexion der Einfallswinkel, wenn der Winkel zwischen reflektiertem Lichtstrahl und ebenem Spiegel 20° beträgt?
+
+$\beta=90^{\circ}-20^{\circ}=70^{\circ}$
