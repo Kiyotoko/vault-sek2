@@ -222,4 +222,6 @@ Eine Größere Wellenlänge bedeutet eine größere Brechzahl.
 
 - - -
 
-\lambda*f
+
+Einfallswinkel und Ausfallswinkel sind gleich groß.
+$\alpha=\alpha'=20^\circ$
