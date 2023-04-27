@@ -1054,12 +1054,12 @@ Eine Urne enthält 6 Kugeln. 3 davon sind mit „1“ beschriftet, 2 mit „2“
 1) Ermittle, mit welcher Auszahlung langfristig pro Spiel zu rechnen ist.
 2) Bestimme, wie hoch der Einsatz bei diesem Spiel sein muss, damit das Spiel fair ist.
 
-| $x_{i}$ | gez             | $P(x=x_{i})$    |
-| ------- | --------------- | --------------- |
-| 2       | (1,1)           | $\frac{6}{10}$  |
-| 3       | (1,2)(2,1)      | $\frac{12}{30}$ |
-| 4       | (1,3)(3,1)(2,2) | $\frac{8}{30}$  |
-| 5       | (2,3)(3,2)      | $\frac{4}{30}$  |
+| $x_{i}$ | Gezogen           | $P(x=x_{i})$    |
+| ------- | ----------------- | --------------- |
+| 2       | (1,1)             | $\frac{6}{10}$  |
+| 3       | (1,2) (2,1)       | $\frac{12}{30}$ |
+| 4       | (1,3) (3,1) (2,2) | $\frac{8}{30}$  |
+| 5       | (2,3) (3,2)       | $\frac{4}{30}$  |
 
 $E(x)=2 \frac{6}{30}+3 \frac{12}{30}+4 \frac{8}{30}+4 \frac{8}{30}+5 \frac{4}{30}=3.33\text{€}$
 
