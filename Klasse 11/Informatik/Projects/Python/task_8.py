@@ -1,5 +1,9 @@
 array = ["Karl", "Carl", "Til", "Philip"]
-print(array[0])
+array.append("Hannah")
+array += ["Cora", "Wilhelm"]
+array.extend(["Max", "Leni", "Mailin"])
+array.sort()
+print(array)
 
 dict = {
     "alter":17,
@@ -8,10 +12,7 @@ dict = {
 }
 print(dict["vorname"])
 
-
-
 tuple = (17, "Carl", "Zimmermann")
-
 print(tuple.index(17))
 
 class Bewohner:
