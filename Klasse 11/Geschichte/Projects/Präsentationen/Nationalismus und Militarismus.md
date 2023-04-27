@@ -96,4 +96,3 @@
 - Deutung
 	- Der Text sagt aus, das dieser Mann per se der Schönste ist, einfach weil er ein Soldat ist
 	- Daher bewundern ihn die Frauen
-	- 
