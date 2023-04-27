@@ -358,6 +358,67 @@ Alle in der e-Deklination sind weiblich, mit einer Ausnahme. Die Ausnahme ist �
 Spem nun iam habeo.
 Senator nuntium magnae rei aportavit.
 
-## 2023-04-24
+## 2023-04-27
 
-- fratre = Bruder
+| Infinitiv   | E-Konjugation | Sonderfall kurz „i“ | Übersetzung | 1.P. Sing. Präsens |
+| ----------- | ------------- | ------------------- | ----------- | ------------------ |
+| agere       |               |                     |             |                    |
+| apparere    |               |                     |             |                    |
+| ardere      |               |                     |             |                    |
+| aspicere    |               |                     |             |                    |
+| bibere      |               |                     |             |                    |
+| cadere      |               |                     |             |                    |
+| canere      |               |                     |             |                    |
+| capere      |               | x                   |             |                    |
+| cavere      |               |                     |             |                    |
+| cognoscere  |               |                     |             |                    |
+| colere      |               |                     |             |                    |
+| constituere |               |                     |             |                    |
+| credere     |               |                     |             |                    |
+| cupere      |               | x                   |             |                    |
+| currere     |               |                     |             |                    |
+| debere      |               |                     |             |                    |
+| depellere   |               |                     |             |                    |
+| desinere    |               |                     |             |                    |
+| dicere      |               |                     |             |                    |
+| discedere   |               |                     |             |                    |
+| ducere      |               |                     |             |                    |
+| emere       |               |                     |             |                    |
+| facere      |               |                     |             |                    |
+| fluere      |               |                     |             |                    |
+| fugere      |               |                     |             |                    |
+| gaudere     |               |                     |             |                    |
+| gerere      |               |                     |             |                    |
+| habere      |               |                     |             |                    |
+| ignoscere   |               |                     |             |                    |
+| incipere    |               |                     |             |                    |
+| intellegere |               |                     |             |                    |
+| ludere      |               |                     |             |                    |
+| manere      |               |                     |             |                    |
+| mittere     |               |                     |             |                    |
+| merere      |               |                     |             |                    |
+| monere      |               |                     |             |                    |
+| movere      |               |                     |             |                    |
+| neglegere   |               |                     |             |                    |
+| nocere      |               |                     |             |                    |
+| nubere      |               |                     |             |                    |
+| opprimere   |               |                     |             |                    |
+| parere      |               | x                   |             |                    |
+| placere     |               |                     |             |                    |
+| praebere    |               |                     |             |                    |
+| quaerere    |               |                     |             |                    |
+| regere      |               |                     |             |                    |
+| respondere  |               |                     |             |                    |
+| ridere      |               |                     |             |                    |
+| scribere    |               |                     |             |                    |
+| sedere      |               |                     |             |                    |
+| studere     |               |                     |             |                    |
+| tacere      |               |                     |             |                    |
+| tangere     |               |                     |             |                    |
+| tenere      |               |                     |             |                    |
+| terrere     |               |                     |             |                    |
+| timere      |               |                     |             |                    |
+| tollere     |               |                     |             |                    |
+| valere      |               |                     |             |                    |
+| vendere     |               |                     |             |                    |
+| videre      |               |                     |             |                    |
