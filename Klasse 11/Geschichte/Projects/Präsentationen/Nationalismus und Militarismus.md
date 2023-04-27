@@ -15,11 +15,10 @@
 	- Ursprüngliche Bedeutung: Die Nation Deutschland ist wichtiger als seine einzelnen Staaten
 	- Später: Deutschland steht über allen anderen Nationen
 - Stelle das Kaisertum als Bezugspunkt an, ergänzt durch die militärischen Erfolge in den Reichsgründungskriegen und die Identifikation mit dem "Reichsgründer" Otto von Bismarck
-- Wegen der preußischen Vorrangstellung im Reich erhielt der deutsche Nationalismus nicht nur eine borussische, sondern zugleich auch eine ausgesprochen protestantische Prägung, die dem neuen Nationalstaat einen geradezu heiligen Charakter verleihen konnte.
-- Ehrung der Gefallenen gegen die Erbfeinde
 
-### Wilhelminische Radikalisierung des Reichsnationalismus
+### Wilhelminische Radikalisierung des Reichsnationalismus^[https://www.zeitklicks.de/kaiserzeit/politik/innenpolitik/warum-heisst-es-wihelminische-epoche]
 
+- Zeitalter, in dem Kaiser Wilhelm II von 1888 bis 1918 regierte
 - In der wilhelminischen Phase des Kaiserreichs kamen neue Faktoren hinzu, die den Reichsnationalismus weiter radikalisierten: 
 	- Im Zeichen des Hochimperialismus ging die Reichspolitik zu einer aggressiven "Weltpolitik" über
 	- Von neuen, bürgerlich geprägten Agitationsverbänden angetrieben, die die monarchische Regierung von rechts propagandistisch unter Druck zu setzen versuchten und dabei eine radikalen Nationalismus entwickelten
@@ -68,11 +67,20 @@
 > 
 > Der dressierende Schulmeister und der drillende Unteroffizier sind die beiden Hauptpfeiler des heutigen Staates … Neben dem drillenden Unteroffizier hat der dressierende Schulmeister … bei Königgrätz 1866 gesiegt … Der Unteroffizier ist die Voraussetzung des Schulmeisters. Die Volksschule ist die Vorschule der Kaserne, die Kaserne die Fortbildungsschule der Volksschule. Ohne den Schulmeister keinen Unteroffizier.
 
-- Abhaltung vieler Paraden
-- Kindern werden Matrosenuniformen angezogen
 - Wehrpflicht für alle jungen Männer von 20 bis 25 Jahren^[https://www.verfassungen.de/preussen/gesetze/kriegsdienstpflichtgesetz14.htm]
-- Privilegien für Soldaten
-- Nationalfeiertag ist Sedantag (=Erinnert an Schlacht von Sedan gegen Frankreich)
+- Armee als Schule der Nation^[https://www.zeitklicks.de/kaiserzeit/politik/innenpolitik/welche-rolle-spielt-das-militaer-in-der-kaiserzeit]
+	- Verteidigung nach außen und innen
+- Kindern werden Matrosenuniformen angezogen
+- Privilegien für Soldaten (Adel erhielt automatisch höhere Ränge)
+	- Militärdienst war Vorraussetzung für viele Berufe
+	- Bessere Chancen bei Heirat
+	- Laufbahn im Militär
+		- Gesellschaftliches Ansehen
+		- Sozialer Aufstieg
+- Abhaltung vieler Paraden
+	- Am Tag des Kaisers werden Paraden abgehalten
+	- Nationalfeiertag ist Sedantag (=Erinnert an Schlacht von Sedan gegen Frankreich)
+- Musiker und Dichter schrieben militärische Texte (Beispiel „Unser Kaiser“)
 
 ## Historische Quelle
 
@@ -80,9 +88,12 @@
 
 >„Der Soldate, der Soldate, ist der schönste Mann im ganzen Staate“
 - Feldpost, gelaufen 03.10.1917
-
 - Beschreibung
 	- Feldpost aus Russland aus dem Jahre 1917
 	- In der Bildmitte ist ein verschmitzt grinsender Soldat in Uniform zu erkennen. Mehrere junge Frauen stehen neben oder hinter dem Soldaten und blicken ihn bewundernd an.
 	- Unten im Bild steht „Der Soldate, der Soldate, ist der schönste Mann im Staate“
 	- Der Text stammt aus dem Musikbuch „Immer fester druff!“ von Walter Kollo
+- Deutung
+	- Der Text sagt aus, das dieser Mann per se der Schönste ist, einfach weil er ein Soldat ist
+	- Daher bewundern ihn die Frauen
+	- 

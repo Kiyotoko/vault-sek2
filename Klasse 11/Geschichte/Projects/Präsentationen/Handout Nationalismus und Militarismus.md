@@ -6,14 +6,24 @@
 
 ### Nationalismus in Frankreich
 
-- fortschrittliches, gegen Fürstenherrschaft, Aristrokratie und feudale Privilegienordnung gerichtetes Prinzip
+- Fortschrittliches, gegen Fürstenherrschaft, Aristrokratie und feudale Privilegienordnung gerichtetes Prinzip
+- Nationale Volkssouveränität und gleichberechtigte Verbindung
 - Zusammenhalt aufgrund von Gemeinsamkeiten, wie Sprache oder Kultur
 
 ### Reichsnationalismus
 
-- Das Kaiserreich war eine Monarchie, daher musste sich das Nationalverständnis ändern
+- Durch den Parukularismus waren die einzelnen Kleinstaaten noch nicht vereint → Soll sich durch Nationalstaat ändern
+- Das Kaiserreich war eine Monarchie, daher musste sich das Nationalverständnis ändern → Widerspruch zum Verständnis in Frankreich
+- Bismarks Zeitalter:
+	- Friedenssicherndes Handeln
+	- Bündnissystem zum Schutz des Kaiserreiches
+	- kein expansionistisches Bestreben
 
 ### Wilhelminische Radikalisierung
+
+- Zeitalter, in dem Kaiser Wilhelm II von 1888 bis 1918 regierte
+- Aggressive Weltpolitik
+- Agitationsverbände beeinflussen Politik (Beispiel: Heinrich Class „Wenn ich der Kaiser wäre“)
 
 ### Sozialdarwinismus
 
