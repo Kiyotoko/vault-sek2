@@ -158,3 +158,15 @@ Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich 
 	- Die geringe Arbeitslosenquote als auch das kostenlose Gesundheitssystem und die kostenlose Kindererziehung zeigen eindeutig, dass der Wohlstand der Bevölkerung zugute kommt.
 	- Ökologisch gesehen ist Norwegen nachhaltig, da es selbst aufgrund von regenerativen Energien nicht auf Erdöl als Energiequelle angewiesen ist. Hinzu kommt, dass Norwegen bis 2030 C 0<sub>2</sub> neutral werden will.
 	- Im großen und ganzen ist Norwegen noch nicht nachhaltig, da zurzeit ein zu großer Teil der Wirtschaft vom Erdöl abhängig ist. Jedoch ist sich Norwegen dieses Problems bewusst, weshalb es selbst durch einen Staatsfond und mit regenerativen Energien versucht, unabhängig zu werden.
+
+## 2023-04-28
+
+- Spurengase
+	- Spurengase nennt man alle Gase, die in der Luft in geringeren Anteilen vorkommen als die drei Hauptbestandteile Stickstoff, Sauerstoff und Argon.
+- Tropopause
+	- Die Tropopause bildet in der Atmosphäre die Grenzschicht zwischen der darunter liegenden Troposphäre und der darüber liegenden Stratosphäre. Die Höhe der Tropopause ist je nach Breitengrad und Jahreszeit unterschiedlich.
+- Solarer und terrestrischer Strahlung
+	- In der Meteorologie wird zwischen solarer Einstrahlung (Wellenlängenbereiche etwa zwischen 0,2 und 2 Mikrometern) und der terrestrischen Ausstrahlung (etwa 3 bis 200 Mikrometer) unterschieden. Die Strahlungskomponenten werden auf ihren Weg durch die Erdatmosphäre wesentlich modifiziert.
+
+
+Weshalb wird es innerhalb der Troposphäre kälter und im Bereich der Stratosphäre wärmer? (Zshg. Druck, Dichte, Temperatur)
