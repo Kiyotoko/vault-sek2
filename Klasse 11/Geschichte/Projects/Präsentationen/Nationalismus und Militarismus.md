@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Geographie
+- FGB
+---
+
 ## Nationalismus
 
 ### Nationalismus im Frankreich^[https://www.bpb.de/themen/kolonialismus-imperialismus/kaiserreich/138915/nation-und-nationalismus/]

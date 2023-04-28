@@ -1,3 +1,10 @@
+---
+author: karlz
+tags:
+- Geographie
+- FGB
+---
+
 # Nationalismus und Militarismus im Kaiserreich
 
 ## Nationalismus

@@ -122,9 +122,9 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 	- Erschließung neuer Quellen
 	- Abnehmende Ölabhängigkeit der Industriestaaten, welche stattdessen auf erneuerbare Energien setzen
 
-## Klima
+# Klima
 
-### Aufbau und Zusammenhang der Atmosphäre
+## Wetter, Witterung und Klima
 
 -  Wetter
 	- Beschreibt die kunrzfristige Beobachtung an einem Ort
@@ -134,3 +134,11 @@ Maximum (Peak Oil) = Hälfte der Lagerstätte verbraucht
 	- Beschreibt das Wetter über einen langen Zeitraum
 	- Generelle Wetterphänomene
 	- Durchschnittswerte der Monate ergeben zusammen das Klimadiagramm
+
+## Aufbau und Zusammenhang der Atmosphäre
+
+![](Working%20Materials/Atmosphärische%20Prozesse/Aufbau%20der%20Atmosphäre.jpg)
+
+## Strahlungshaushalt der Erde
+
+Der Albedowert ist das Verhältnis von einfallender zu ausfallender Strahlung. Die sphärische Albedo liegt stets zwischen 0 und 1. Der Wert 0 entspricht einer vollständigen Absorption und 1 einer vollständigen Reflexion des einfallenden Lichts.

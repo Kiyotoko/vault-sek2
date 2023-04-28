@@ -1,3 +1,9 @@
+---
+author: karlz
+tags:
+- Physik
+- FGB
+---
 
 ![](../../Working%20Materials/Elektrisches%20Feld/Milikan-Versuch.png)
 
