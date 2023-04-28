@@ -161,12 +161,13 @@ Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich 
 
 ## 2023-04-28
 
+![](Working%20Materials/Atmosphärische%20Prozesse/Atmosphäre%20Schichten.png)
+
 - Spurengase
 	- Spurengase nennt man alle Gase, die in der Luft in geringeren Anteilen vorkommen als die drei Hauptbestandteile Stickstoff, Sauerstoff und Argon.
 - Tropopause
 	- Die Tropopause bildet in der Atmosphäre die Grenzschicht zwischen der darunter liegenden Troposphäre und der darüber liegenden Stratosphäre. Die Höhe der Tropopause ist je nach Breitengrad und Jahreszeit unterschiedlich.
 - Solarer und terrestrischer Strahlung
 	- In der Meteorologie wird zwischen solarer Einstrahlung (Wellenlängenbereiche etwa zwischen 0,2 und 2 Mikrometern) und der terrestrischen Ausstrahlung (etwa 3 bis 200 Mikrometer) unterschieden. Die Strahlungskomponenten werden auf ihren Weg durch die Erdatmosphäre wesentlich modifiziert.
-
 
 Weshalb wird es innerhalb der Troposphäre kälter und im Bereich der Stratosphäre wärmer? (Zshg. Druck, Dichte, Temperatur)
