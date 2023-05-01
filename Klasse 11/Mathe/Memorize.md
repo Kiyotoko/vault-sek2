@@ -1016,7 +1016,7 @@ binomCtf(n, p, x, n)
 #### Erwartungswert
 
 **Beispiel**
-Ein Würfel wird 60 mal geworfen. Wie oft kann man dabei eine „6“ erwarten=
+Ein Würfel wird 60 mal geworfen. Wie oft kann man dabei eine „6“ erwarten?
 $\mu=np=60 \frac{1}{6}=10$
 
 #### Varianz und Standartabweichung
