@@ -541,3 +541,15 @@ wolkewolkewolkewole
 3. allwissenden Erzähler
 4. auktoriales Erzählverhalten
 5. es werden Vorgänge kommentiert
+
+## 2023-05-02
+
+Bei Corpus Delicti handelt es sich um einen Modernen Roman, da gebrochene Heldin, Ordnung und Sinn in Frage gestellt werden und nicht chronologisch.
+
+- - -
+
+1. Utopie
+2. Science-Fiction
+3. Zukunftsroman
+4. Dystopie
+5. Fantasy
