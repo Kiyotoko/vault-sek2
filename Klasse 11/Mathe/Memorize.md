@@ -752,6 +752,19 @@ $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 
 # Vektoren
 
+## Kartesiches Koordinatensystem
+
+- Alle Achsen stehen $\perp$ aufeinander
+- Achsen: $x,y,z$ oder $x_{1},x_{2},x_{3}$
+- Koordinatenebenen:
+	- $x-y$-Ebene
+	- $x-z$-Ebene
+	- $y-z$-Ebene
+- Zeichnungen im räumlichen Koordinatensystem
+	- $y-z$-Ebene ist Zeichenebene
+	- $x$-Achse im 45°-Winkel zeichnen
+	- Einheiten auf der $x$-Achse um $\frac{1}{2}\sqrt{2}$ verkürzt
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
