@@ -263,13 +263,16 @@ Für eine Vergrößerung des Bildes beim Kepler-Fernrohr muss die Brennweite des
 
 Vergleiche ein Kepler-Fernrohr und ein Galilei-Fernrohr mit gleicher Objektiv- und gleicher Okularbrennweite.
 
-Beide Fernrohre haben die gleiche Vergrößerung, da die Brennweiten auch gleich sind. Das Galilei-Fernrohr wird jedoch kürzer sein.
+- Gleiche Vergrößerung
+- Keper-Fernrohr erzeugt höhen und seitenverkehrtes Bild
+- Galilei-Fernrohr erzeugt ein höhen und seitenrichtiges Bild
+- Galilei-Fernrohr ist kürzer
 
 - - -
 
 Erkläre die Funktionsweise eines Porroprismas. Welches physikalische Prinzip wird hier genutzt?
 
-Mit einem Porroprisma kann die hervorgerufene Drehung des Originalbildes rückgängig gemacht werden. Dabei wird das Prinzip der Reflexion genutzt.
+Mit einem Porroprisma kann die hervorgerufene Drehung des Originalbildes rückgängig gemacht werden. Dabei wird das Prinzip der Reflexion genutzt, die durch die Totalreflexion an der Grenzfläche entsteht.
 
 - - -
 
