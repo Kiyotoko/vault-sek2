@@ -244,3 +244,23 @@ Ein weiteres Beispiel ist ein Parabolspiegel.
 Wie groß ist bei der Reflexion der Einfallswinkel, wenn der Winkel zwischen reflektiertem Lichtstrahl und ebenem Spiegel 20° beträgt?
 
 $\beta=90^{\circ}-20^{\circ}=70^{\circ}$
+
+## 2023-05-03
+
+Für eine Vergrößerung des Bildes beim Kepler-Fernrohr muss die Brennweite des Objektes möglichst lang sein, und die Brennweite des Okulars möglichst kurz.
+
+- - -
+
+Beide Fernrohre haben die gleiche Vergrößerung, da die Brennweiten auch gleich sind. Das Galilei-Fernrohr wird jedoch kürzer sein.
+
+- - -
+
+Erkläre die Funktionsweise eines Porroprismas. Welches physikalische Prinzip wird hier genutzt?
+
+Mit einem Porroprisma kann die hervorgerufene Drehung des Originalbildes rückgängig gemacht werden. Dabei wird das Prinzip der Reflexion genutzt.
+
+- - -
+
+Zeige durch eine Skizze, dass das Bild hinter einem Reflexionsprisma kopfsteht.
+
+![](Working%20Materials/Geschichte%20der%20Astronomie/Reflexionsprisma.png)
