@@ -299,3 +299,10 @@ Parents with a good income conceive this to their children and they will also ha
 
 - I am convinced that ...
 - I would raise another point.
+
+## 2023-05-03
+
+- x-axis shows the year
+- y-axis shows the weekly earnings
+- there exist a gap between men and woman
+- the gap becomes closer
