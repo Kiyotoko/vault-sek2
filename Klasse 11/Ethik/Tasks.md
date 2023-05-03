@@ -248,3 +248,23 @@ Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genus die besten Aus
 | Nun möchte aber ein Terrorist das Passwort für die Zündung einer Atombombe. Sollten Sie ihn anlügen?                                                                                        | Sie sollen lügen.    | Sie sollen nicht lügen.   | Sie sollen lügen.       |
 | Nun ist ihnen jedoch das Geld ausgegangen und Sie haben übermäßigen Durst, während dem Großkonzern der Verlust der Wasserflasche praktisch nichts ausmacht… Sollten Sie das Wasser stehlen? | Sie sollen stehlen.  | Sie sollen nicht stehlen. | Sie sollen stehlen.     |
 | Nun verschwiegt ein brutaler Entführer das Versteck eines Opfers. Sollten Sie ihn foltern?                                                                                                  | Sie sollen foltern.  | Sie sollen nicht foltern. | Sie sollen nichts tun.  |
+
+## 2023-05-03
+
+[Präferenzutilitarismus](Working%20Materials/Präferenzutilitarismus.pdf)
+
+1. Erarbeite anhand der Zitate den Begriff der Person bei Peter Singer.
+	- Rationales, bewusstes Wesen
+	- Zukunftsorientierte Präferenzen für Interessen
+	- Einzige Wesen mit Präferenzen
+	- Nicht zwingend Menschlich
+2. Suche Beispiele für Tiere, die laut Peter Singer den Status der Person erhalten könnten.
+	- Schimpanse
+	- Delphine
+	- Elefanten
+3. Setze dich mit den Thesen Singers auseinander. Begründe, welchen du zustimmen kannst und welchen nicht.
+	- (c) Es ist moralisch nicht verwerflich, die eigene Spezies höher zu bewerten als andere
+	- (i) Geistige Behinderte sollen nicht die Präferenzen abgesprochen werden 
+	- (k) Neugeborene entwickeln sich zu Personen
+4. Positioniere dich zu Peter Singers Form des Utilitarismus.
+	- 

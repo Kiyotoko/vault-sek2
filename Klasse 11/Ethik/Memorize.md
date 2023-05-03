@@ -395,3 +395,12 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 
 1. Handlungen sollen unterlassen werden, wenn sie regelmäßig schlechte Folgen haben.
 2. Handlungen sollen unterlassen werde, wenn die regelmäßige Ausführung dieser Handlung schlechte Folgen hat.
+
+### Präferenzutilitarismus
+
+#### Zum Begriff der Person bei Singer
+
+- Selbstbewusstsein & Rationalität
+- Besitzt generell Interessen & wünsche für die Zukunft
+- Hat ein Konzept von Vergangenheit und Zukunft
+- Kontinuierliches Identitätsbewusstsein über die Zeit hinweg
