@@ -585,11 +585,11 @@ Zwischen zwei Magnetpolen können anziehende und abstoßende Kräfte auftreten. 
 
 - je größer die Stromstärke des durch die Spule fließenden Stromes ist, desto größer ist die magnetische Kraftwirkung
 
-## $U(t)$ Und $I(t)$ Diagramme: Kondensator
+### $U(t)$ Und $I(t)$ Diagramme: Kondensator
 
 ![Kondensator](Working%20Materials/Elektrisches%20Feld/Kondensator.png)
 
-### Aufladungsvorgang
+#### Aufladungsvorgang
 
 Die obere Platte wurde positiv, und die untere negativ aufgeladen.
 ~~~functionplot
@@ -609,7 +609,7 @@ bounds: [0,10,0,10]
 I(x)=-(x/10)^2*10+10
 ~~~
 
-### Endladungsvorgang
+#### Endladungsvorgang
 
 Der Kondensator wird entladen. Der Strom fließt nun entgegengesetzt.
 
@@ -700,11 +700,31 @@ $qvB=m \frac{v^{2}}{r}$
 
 ### Magnetischer Fluss
 
+![](Working%20Materials/Induktion/Magnetischer%20Fluss.png)
+
+Der magnetische Fluss ist im Sinne des Feldlinienmodells ein Maß für die Anzahl der Feldlinien, die durch eine bestimmte Fläche treten.
+
 ## Induktion
+
+Unter der elektromagnetischen Induktion versteht man das Auftreten eines elektrischen Wirbelfeldes bei Änderung des magnetischen Flusses.
+
+### Änderung des magnetischen Flusses
+
+- Relativbewegung zwischen Quelle eines inhomogenen (z. B. ein Stabmagnet) Feldes und einer Leiterschleife bzw. Spule
+- Veränderung der Magnetfeldstärke (z. B. mithilfe einer Spule)
+- Drehung der Leiterschleife im Magnetfeld
+- Änderung der Richtung des Magnetfelds (z. B. Umpolung eines Elektromagneten)
+- Änderung des Flächeninhalts einer Leiterschleife
+
+Je größer die zeitliche Änderungsrate des magnetischen Flusses ist, desto größer ist die induzierte Spannung.
+
+### Induktionsgesetz
+
+Ändert sich der magnetische Fluss innerhalb einer Leiterschleife (Spule), dann wird in diese eine Spannung  induziert.
 
 ### Induktion und Lorenzkraft
 
-![Leiterschleife Induktion](Working%20Materials/Induktion/Leiterschleife%20Induktion.png)
+![Leiterschleife Induktion](Working%20Materials/Elektrisches%20Feld/Leiterschleife%20Induktion.png)
 
 #### Änderung der Fläche
 
@@ -715,6 +735,12 @@ Die Leiterschleife wird auseinander gezogen. Dabei wird die Fläche größer. Du
 In der Leiterschleife wird das $\vec{B}$-Feld bei konstanter Fläche  stärker. Es werden somit mehr Feldlinien von der Leiterschleife umschlossen. Dies ist gleichbedeutend mit der Vergrößerung der Fläche der Leiterschleife.
 
 ### Generator
+
+#### Einfacher Wechselstromgenerator
+
+Eine Spule dreht sich in einem Magnetfeld. Zwischen den Enden der Spule kann eine Wechselspannung von bis zu 20 000 V gemessen werden. Dabei wird kinetische Energie (Drehbewegung) in elektrische Energie (Wechselspannung) umgewandelt.
+
+Durch die Änderung der vom Magnetfeld durchsetzten wirksamen Spulenfläche (schwarze Schatten), ändert sich der magnetische Fluss und es wird eine Spannung induziert.
 
 ### Transformator
 

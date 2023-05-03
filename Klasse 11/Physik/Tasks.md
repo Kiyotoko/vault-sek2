@@ -843,7 +843,7 @@ $\delta t=0.01s$
 
 ## 2023-04-24
 
-![](Working%20Materials/Induktion/Leiterschleife%20Induktion.png)
+![](Working%20Materials/Elektrisches%20Feld/Leiterschleife%20Induktion.png)
 
 Drei-Finger-Regel: Durch die Bewegung der Leiterschleife bewegen sich auch die Elektronen nach links. Da das Magnetfeld nach oben zeigt wirkt die Lorenzkraft nach unten. Daher ist unter der Minus- und ober der Pluspol.
 
@@ -874,3 +874,27 @@ $U_{ind}=lvB$
 | 4   | 600   | 1200  | 2.54  | 4.67  | 0.5               | 0.54              |
 | 5   | 600   | 1200  | 6.72  | 12.6  | 0.5               | 0.53              |
 | 6   | 400   | 400   | 6.72  | 6.33  | 1                 | 1.06              |
+
+## 2023-05-03
+
+[Aufgaben Induktion Seite 5](Working%20Materials/Induktion/Aufgaben%20Induktion.pdf)
+
+Zwischen Induktionsspule und Magnetfeld erfolgt eine Relativbewegung.
+
+$U_{ind}=N \frac{\mathrm{d\phi}}{\mathrm{dt}}=N \frac{\mathrm{dA}}{\mathrm{dt}}B\cos{\alpha}$
+
+- - -
+
+Magnetfeld ändert sich innerhalb der Spule → Änderung des magnetischen Flusses
+
+$U_{ind}=N \frac{\mathrm{d\phi}}{\mathrm{dt}}=N \frac{\mathrm{dB}}{\mathrm{dt}}A\cos{\alpha}$
+
+- - -
+
+$A_{eff}=A\cos{\alpha}$
+
+Beim Generator ändert sich die vom Magnetfeld effektiv durchsetzte Fläche $A_{eff}$ durch die Drehung der Leiterschleife. Dadurch ändert sich der magnetische Fluss, wodurch wiederum eine Spannung in die Leiterschleife induziert wird.
+
+- - -
+
+Beim Transformator liegt an Spule 1 (Primärspule) ein Wechselstrom an. Dadurch ändert sich das von der Primärspule erzeugte Magnetfeld. Das sich ändernde Magnetfeld wird durch den Eisenkern zur Sekundärspule übertragen.. Somit umschließt die Sekundärspule ein sich veränderndes Magnetfeld. Da sich der magnetische Fluss ändert, wird auch in der Sekundärspule eine Spannung induziert.
