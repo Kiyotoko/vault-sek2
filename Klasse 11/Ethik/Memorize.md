@@ -404,3 +404,10 @@ Bosheit ist, wenn man selbst den Schmerz des Leidens nur von mir aus nicht linde
 - Besitzt generell Interessen & wünsche für die Zukunft
 - Hat ein Konzept von Vergangenheit und Zukunft
 - Kontinuierliches Identitätsbewusstsein über die Zeit hinweg
+
+#### Kritikpunkte
+
+- Säuglinge haben das Potential eine Person zu werden
+- Man müsste zwei verschiedene Arten von Personen unterscheiden
+- Neue Trennlinie zwischen Person und Nicht-Person statt zwischen Mensch und Tier
+- Eigenschaften, die 

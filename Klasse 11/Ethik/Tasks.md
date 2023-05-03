@@ -267,4 +267,4 @@ Nach J. S. Mill haben Wesen mit geringeren Fähigkeiten zum Genus die besten Aus
 	- (i) Geistige Behinderte sollen nicht die Präferenzen abgesprochen werden 
 	- (k) Neugeborene entwickeln sich zu Personen
 4. Positioniere dich zu Peter Singers Form des Utilitarismus.
-	- 
+	- Ich lehne Peter Singers Form des Utilitarismus ab, da ich die externe Bewertung ab
