@@ -745,3 +745,5 @@ Durch die Änderung der vom Magnetfeld durchsetzten wirksamen Spulenfläche (sch
 ### Transformator
 
 #### Hochspannungsübertragung ohne Umspannwerke
+
+### Lenzsche Regel
