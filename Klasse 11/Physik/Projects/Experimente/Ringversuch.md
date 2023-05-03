@@ -22,3 +22,5 @@ Das durch den Strom verursachte magnetische Feld ist dem äußeren Magnetfeld en
 
 **Variante 2**
 Lenzsche Regel: Der Induktionsstrom ist so gerichtet, dass ein Magnetfeld erzeugt wird, welches dem äußeren Feld entgegen wirkt.
+
+Wird der Magnet hinausgezogen, ist der Induktionsstrom so gerichtet, dass ein Magnetfeld erzeugt wird, welches das äußere Feld aufrech erhält.
