@@ -306,3 +306,9 @@ Parents with a good income conceive this to their children and they will also ha
 - y-axis shows the weekly earnings
 - there exist a gap between men and woman
 - the gap becomes closer
+
+- - -
+
+- motivation
+- bad internet connetion
+- not having all working materials
