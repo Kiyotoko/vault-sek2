@@ -247,9 +247,21 @@ $\beta=90^{\circ}-20^{\circ}=70^{\circ}$
 
 ## 2023-05-03
 
+[AB Bildentstehung an Teleskopen](Working%20Materials/Beobachtungstechniken/AB%20Bildentstehung%20an%20Teleskopen.pdf)
+
+Begründe, warum stets davon ausgegangen wird, dass die einfallenden vom Gegenstand kommenden Strahlen parallel sind.
+
+Die Gegenstandsweite ist riesig. Der Winkel zwischen Brennpunktstrahl und Mittelpunktstrahl ist verschwindend klein. Somit treffen die Strahlen nahezu parallel auf das Objekt.
+
+- - -
+
+Was muss für Okular- und Objektivbrennweite gelten, will man eine möglichst große Vergrößerung mit einem Kepler-Fernrohr erzielen?
+
 Für eine Vergrößerung des Bildes beim Kepler-Fernrohr muss die Brennweite des Objektes möglichst lang sein, und die Brennweite des Okulars möglichst kurz.
 
 - - -
+
+Vergleiche ein Kepler-Fernrohr und ein Galilei-Fernrohr mit gleicher Objektiv- und gleicher Okularbrennweite.
 
 Beide Fernrohre haben die gleiche Vergrößerung, da die Brennweiten auch gleich sind. Das Galilei-Fernrohr wird jedoch kürzer sein.
 
