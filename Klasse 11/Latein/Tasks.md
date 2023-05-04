@@ -422,3 +422,18 @@ Senator nuntium magnae rei aportavit.
 | valere      |               |                     |             |                    |
 | vendere     |               |                     |             |                    |
 | videre      |               |                     |             |                    |
+
+## 2023-05-04
+
+| a          | o         | kons  |
+| ---------- | --------- | ----- |
+| terrae     | senatori  | viris |
+| sapientiam | nuntium   | agrum |
+| verba      | equis     | vocum      |
+| regina     | signa     |       |
+|            | hominibus |       |
+|            | reos      |       |
+|            | pueri     |       |
+
+- - -
+
