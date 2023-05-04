@@ -279,3 +279,27 @@ Mit einem Porroprisma kann die hervorgerufene Drehung des Originalbildes rückg�
 Zeige durch eine Skizze, dass das Bild hinter einem Reflexionsprisma kopfsteht.
 
 ![](Working%20Materials/Geschichte%20der%20Astronomie/Reflexionsprisma.png)
+
+- - -
+
+Erkläre den Begriff chromatische Aberration.
+
+Die chromatische Aberration ist ein Abbildungsfehler optischer Linsen, der dadurch entsteht, dass Licht unterschiedlicher Wellenlänge oder Farbe verschieden stark gebrochen wird.
+
+- - -
+
+Beschreibe den Aufbau und die Funktionsweise eines Cassegrain-Teleskops. Warum ist der zweite Spiegel konvex?
+
+Ein Cassegrain-Teleskop sammelt das Licht im Hauptspiegel, wirft dieses auf einen Zweitspiegel, um es dann in einem Brennpunkt zusammenlaufen zu lassen. Der zweite Spiegel ist konvex, damit das Licht in einem kleineren Winkel zusammenlaufen.
+
+- - -
+
+Nenne Vor- und Nachteile von Refraktor- und Reflektorteleskopen.
+
+Bei Refraktorteleskope entstehen Abbildungsfehler, da die Linsen relativ groß und schwer sind. Das Teleskop ist relativ groß.
+
+- - -
+
+1. Newton-Teleskop
+2. Refraktorteleskop
+3. Cassegrain-Teleskop
