@@ -769,7 +769,9 @@ $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 
 Ein dreidimensionaler Vektor ist ein Zahlentripel, das man in Spaltenform schreibt. Der Vektor, der $A$ auf $A'$ abbildet, wird mit $\vec{AA'}$ oder $\vec{a}$ bezeichnet.
 
-Berechnung des Betrages $|\vec{a}|=\sqrt{x_{a}^{2}+y_{a}^{2}+z_{a}^{2}}$
+### Berechnung des Betrages eines Vektors
+
+$|\vec{a}|=\sqrt{x_{a}^{2}+y_{a}^{2}+z_{a}^{2}}$
 
 ### Ortsvektor
 
@@ -780,7 +782,7 @@ Der Ortsvektor eines Punktes P beginnt im Koordinatenursprung $\vec{OP}$.
 $A(-6,5,5)$
 $B(4,-2,0)$
 
-$\vec{AB}=$
+$\vec{AB}=A+B$
 
 # Stochastik
 
