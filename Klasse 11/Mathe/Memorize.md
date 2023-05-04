@@ -784,6 +784,10 @@ $B(4,-2,0)$
 
 $\vec{AB}=A+B$
 
+### Dreiecksregel
+
+$\vec{PQ}+\vec{QR}=\vec{PR}$
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
