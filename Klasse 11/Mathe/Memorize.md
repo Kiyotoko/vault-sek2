@@ -765,6 +765,12 @@ $\begin{pmatrix}1&0&0\\0&1&0\\0&0&1\end{pmatrix}$
 	- $x$-Achse im 45°-Winkel zeichnen
 	- Einheiten auf der $x$-Achse um $\frac{1}{2}\sqrt{2}$ verkürzt
 
+## Dreidimensionaler Vektor
+
+Ein dreidimensionaler Vektor ist ein Zahlentripel, das man in Spaltenform schreibt. Der Vektor, der $A$ auf $A'$ abbildet, wird mit $\vec{AA'}$ oder $\vec{a}$ bezeichnet.
+
+
+
 # Stochastik
 
 ## Klassische Wahrscheinlichkeit
