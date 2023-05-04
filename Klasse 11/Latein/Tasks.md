@@ -437,3 +437,11 @@ Senator nuntium magnae rei aportavit.
 
 - - -
 
+- puerum puerum miserorum
+- com bona matre
+- nautas asperos
+- urbis pulchris
+- spectaculum magnum
+- laetum hominum 
+- iudices
+- pulchris verbis
