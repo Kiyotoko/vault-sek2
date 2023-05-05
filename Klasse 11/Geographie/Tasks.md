@@ -171,3 +171,11 @@ Beurteilen Sie die Nachhaltigkeit der Erdölförderung in Norwegen hinsichtlich 
 	- In der Meteorologie wird zwischen solarer Einstrahlung (Wellenlängenbereiche etwa zwischen 0,2 und 2 Mikrometern) und der terrestrischen Ausstrahlung (etwa 3 bis 200 Mikrometer) unterschieden. Die Strahlungskomponenten werden auf ihren Weg durch die Erdatmosphäre wesentlich modifiziert.
 
 Weshalb wird es innerhalb der Troposphäre kälter und im Bereich der Stratosphäre wärmer? (Zshg. Druck, Dichte, Temperatur)
+
+## 2023-05-05
+
+Kurz vor Sonnenaufgang ist es am kältesten, da die Wärme über die Nacht entweicht. Das maximum der Temperatur ist daher verzögert, da die Luft erst erwärmt werden muss. Die Tagesschwankungen entstehen durch einen anderen Winkel der Sonneneinstrahlung. Da der Tag ein wolkenloser Apriltag ist, wird nur wenig Strahlung durch die Wolken reflektiert.
+
+- - -
+
+Im Winter ist ein anderer Winkel als im Sommer, da der Einfallswinkel aufgrund der Wanderung der Erde sich ändert und somit der 
