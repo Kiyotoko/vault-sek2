@@ -553,3 +553,9 @@ Bei Corpus Delicti handelt es sich um einen Modernen Roman, da gebrochene Heldin
 3. Zukunftsroman
 4. Dystopie
 5. Fantasy
+
+## 2023-05-05
+
+Ich stimme der Aussage zu, dass jeder etwas zu verbergen hat, und man daher auch seine Privatsphäre schützen sollte.
+Ich lehne die Aussage ab, dass es schlecht wäre, das Kindern ein Chip eingepflanzt wird, und halte den Vergleich mit Haustieren verzerrt. Diese Chips lassen sich nicht von einem Satelliten aus Orten. Die Identifikationsnummer ist nur für Tierheime oder Tierärtze bestimmt. Solange dies so bleibt, wäre Chips ein Abbau für die Verwaltung und eine Verbesserung der Versorgung, und nicht das nächste Überwachungssystem.
+Ebenfalls lehne ich die Aussage ab, das man nicht verführerisch einfachen Aussagen glauben sollte. Stattdessen sollte man allgemein alle Aussagen auf ihrer Richtigkeit hinterfragen. 
