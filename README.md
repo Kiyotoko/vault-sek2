@@ -18,9 +18,10 @@ Sollte dies der Fall sein, lade dir bitte [Obsidian](https://obsidian.md/) mit d
 
 Da es häufig ziemlich schwierig für andere sein kann, sich zurecht zu finden, hier ein paar Hinweise:
 - Alle Ordner sind nach Jahr, Klasse und Thema sortiert.
-- In den meisten Fächern befinden sich verschiedene, standartisierte Dateien und Ordner.
-	- `Cheat Cheets` ist einer der interresantesten Teile. Dort sind Datein zu Themen abgespeichert, mit denen ich selbst direkt lernen kann. Dabei sind die Themen möglichst gut und knapp zurechtgeschnitten, um es fürs lernen möglichst einfach zu machen.
+- In den meisten Fächern befinden sich verschiedene, standardisierte Dateien und Ordner.
+	- In `Cheat Cheets` sind Dateien zu Themen abgespeichert, mit denen ich selbst direkt lernen kann.
 	- `Projects` ist der Ordner, indem alle Projekte wie Handouts, Präsentationen, etc. abgespeichert werden.
-	- `Working Materials` ist mein persönliches Müllbecken, in dem alle Bilder und Arbeitsblätter hinkommen
-	- `Memorize` ist die Datei, wo alle später relevante Mitschriften hinkommen. Die Mitschriften sind hierbei immer nach dem Thema sortiert.
-	- `Tasks` ist die Datei, wo ich meine Aufgaben löse. Die Aufgaben sind dabei nach dem Datum sortiert.
+	- `Working Materials` ist mein persönliches Sammelsurium, in dem alle Bilder und Arbeitsblätter hinkommen
+	- `Memo` ist die Datei, wo alle später relevante Mitschriften hinkommen. Die Mitschriften sind hierbei immer nach dem Thema sortiert.
+	- `Task` ist die Datei, wo ich meine Aufgaben löse. Die Aufgaben sind dabei nach dem Datum sortiert.
+-  Alle Dateien haben Tags, die Anzeigen, zu welchem Themenbereich die Mitschriften sind, oder in welcher Schule sie erstellt wurden sind.
