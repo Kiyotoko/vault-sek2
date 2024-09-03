@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0447a28f280b2754","x":-400,"y":-40,"width":250,"height":60,"color":"5","type":"text","text":"Vor-Hauptreihenstadium"},
+		{"id":"49e7524e0f866dd1","x":-130,"y":-40,"width":250,"height":60,"color":"4","type":"text","text":"Hauptreihenstadium"},
+		{"id":"e168db0179076321","x":140,"y":-40,"width":250,"height":60,"color":"3","type":"text","text":"Nach-Hauptreihenstadium"},
+		{"id":"a30f9c03aefaecf5","x":410,"y":-40,"width":250,"height":60,"color":"1","type":"text","text":"Endstadium"},
+		{"id":"657404674939af14","x":140,"y":40,"width":250,"height":60,"type":"text","text":"Roter Zwerg"},
+		{"id":"f1df2f3bbe998ea9","x":140,"y":120,"width":250,"height":60,"type":"text","text":"Pulsate"},
+		{"id":"604c9faa3683906f","x":410,"y":40,"width":250,"height":60,"type":"text","text":"Schwarze Witwe"},
+		{"id":"0f533a2852e2ce4c","x":410,"y":120,"width":250,"height":60,"type":"text","text":"Schwarzes Loch"},
+		{"id":"595a81fd542fa061","x":-400,"y":40,"width":250,"height":60,"type":"text","text":"T-Tauri-Stern"},
+		{"id":"0afb84abb943fd95","x":-400,"y":120,"width":250,"height":60,"type":"text","text":"Brauner Zwerg"},
+		{"id":"29ab31342c98c00a","x":-130,"y":40,"width":250,"height":60,"type":"text","text":"Weißer Zwerg"},
+		{"id":"e8ecf49166dc57fb","x":-130,"y":120,"width":250,"height":60,"type":"text","text":"Neutronsterne"}
+	],
+	"edges":[
+		{"id":"f136e7d69aec5a6d","fromNode":"0447a28f280b2754","fromSide":"right","toNode":"49e7524e0f866dd1","toSide":"left"},
+		{"id":"e68d559099ef0bf6","fromNode":"49e7524e0f866dd1","fromSide":"right","toNode":"e168db0179076321","toSide":"left"},
+		{"id":"ee2b1d3ac2e36a21","fromNode":"e168db0179076321","fromSide":"right","toNode":"a30f9c03aefaecf5","toSide":"left"}
+	]
+}

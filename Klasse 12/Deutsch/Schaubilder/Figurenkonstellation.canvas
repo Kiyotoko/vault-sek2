@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2b5b7a2328aef5dd","x":-375,"y":-180,"width":250,"height":60,"type":"text","text":"Medea"},
+		{"id":"78c0caf9f777cd79","x":-15,"y":-180,"width":250,"height":60,"type":"text","text":"Aigeus"},
+		{"id":"c2752806ffb91515","x":-720,"y":-180,"width":250,"height":60,"type":"text","text":"Amme"},
+		{"id":"f81a506f26a8a032","x":-720,"y":140,"width":250,"height":60,"type":"text","text":"Iason"},
+		{"id":"6fa46646e2fa64b0","x":-375,"y":140,"width":250,"height":60,"type":"text","text":"Glauke"},
+		{"id":"a6b9dc7de4e43845","x":-15,"y":140,"width":250,"height":60,"type":"text","text":"Kreon"}
+	],
+	"edges":[
+		{"id":"f139e62319b7b244","fromNode":"2b5b7a2328aef5dd","fromSide":"right","toNode":"78c0caf9f777cd79","toSide":"left"},
+		{"id":"5ec5dc1b03761d26","fromNode":"78c0caf9f777cd79","fromSide":"left","toNode":"2b5b7a2328aef5dd","toSide":"right","label":"🪢"},
+		{"id":"778f1591377ba24f","fromNode":"2b5b7a2328aef5dd","fromSide":"bottom","toNode":"f81a506f26a8a032","toSide":"top"},
+		{"id":"9e43568718763318","fromNode":"f81a506f26a8a032","fromSide":"top","toNode":"2b5b7a2328aef5dd","toSide":"bottom","label":"❤️⚡"},
+		{"id":"72a7edf97746aceb","fromNode":"6fa46646e2fa64b0","fromSide":"left","toNode":"f81a506f26a8a032","toSide":"right","label":"❤️"},
+		{"id":"a4149f2ee9774549","fromNode":"a6b9dc7de4e43845","fromSide":"top","toNode":"2b5b7a2328aef5dd","toSide":"bottom"},
+		{"id":"d1a9dd32c582e8ce","fromNode":"2b5b7a2328aef5dd","fromSide":"bottom","toNode":"a6b9dc7de4e43845","toSide":"top","label":"⚡"},
+		{"id":"5775be8370ab4a7f","fromNode":"6fa46646e2fa64b0","fromSide":"top","toNode":"2b5b7a2328aef5dd","toSide":"bottom","label":"⚡"},
+		{"id":"bb20a7be69ee306b","fromNode":"2b5b7a2328aef5dd","fromSide":"left","toNode":"c2752806ffb91515","toSide":"right","label":"🪢"},
+		{"id":"49f3bf99aae8447e","fromNode":"a6b9dc7de4e43845","fromSide":"left","toNode":"6fa46646e2fa64b0","toSide":"right","label":"Tochter"},
+		{"id":"eb0f52409c03e7a9","fromNode":"f81a506f26a8a032","fromSide":"right","toNode":"6fa46646e2fa64b0","toSide":"left"}
+	]
+}

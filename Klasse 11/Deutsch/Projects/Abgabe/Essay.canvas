@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Essay","id":"a5b16ae2e929c696","x":-120,"y":-20,"width":250,"height":60},
+		{"type":"text","text":"## Besonderheiten\n\n- Abhandlung über ein Thema mit eigener Meinung/ persönlicher Auseinandersetzung\n- Nicht auf die Kriterien wissenschaftlichen Schreibens angewiesen","id":"429382d0d324625d","x":-212,"y":127,"width":434,"height":293},
+		{"type":"text","text":"## Verwandte Texte\n\n1. Traktat\n2. Aufsatz\n3. Causerie\n4. Glosse\n5. Kolumne\n6. Kommentar","id":"7a6647eecafc3a5a","x":-600,"y":-157,"width":320,"height":334},
+		{"id":"9b7b63e4ef7f52f9","x":300,"y":-228,"width":524,"height":477,"type":"text","text":"## Schreiben eines Essays\n\n### Einleitung\n\n- Warum ist das Thema wichtig?\n- Welche Standpunkte gibt es dazu?\n- Welche Meinung vertrittst du selbst?\n\n### Hauptteil\n\nZentrale Argumente\n\n### Schluss\n\nFazit ziehen und somit persönliche Meinung untermauern\n"}
+	],
+	"edges":[
+		{"id":"04cf710bc104e692","fromNode":"a5b16ae2e929c696","fromSide":"bottom","toNode":"429382d0d324625d","toSide":"top"},
+		{"id":"52d0c1a99b7b4599","fromNode":"a5b16ae2e929c696","fromSide":"left","toNode":"7a6647eecafc3a5a","toSide":"right"},
+		{"id":"1dc31e392049cb55","fromNode":"a5b16ae2e929c696","fromSide":"right","toNode":"9b7b63e4ef7f52f9","toSide":"left"}
+	]
+}

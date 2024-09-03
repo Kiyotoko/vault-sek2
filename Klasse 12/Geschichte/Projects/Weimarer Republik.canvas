@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"5d295fce6c9c0540","x":-220,"y":-60,"width":360,"height":140,"type":"text","text":"# Scheitern der Weimarer Republik"},
+		{"id":"cad9cd2132279547","x":267,"y":-277,"width":250,"height":76,"type":"text","text":"## Gesellschaft "},
+		{"id":"d850234d2e604ec6","x":100,"y":-428,"width":250,"height":60,"type":"text","text":"Hungerstreiks"},
+		{"id":"11d9847d6a3561b9","x":100,"y":-520,"width":250,"height":60,"type":"text","text":"Arbeitslosigkeit"},
+		{"id":"82bc81db5f6f8b56","x":440,"y":-428,"width":250,"height":60,"type":"text","text":"Armut"},
+		{"id":"67cd148936b9296d","x":440,"y":-520,"width":250,"height":60,"type":"text","text":"Aufstände"},
+		{"id":"06670d7374df67fd","x":-540,"y":-277,"width":258,"height":76,"type":"text","text":"## Politik 👮"},
+		{"id":"6715392bc7a79718","x":-290,"y":-428,"width":250,"height":60,"type":"text","text":"Politische Morde"},
+		{"id":"325290b379370e71","x":-282,"y":-580,"width":250,"height":60,"type":"text","text":"Sparen"},
+		{"id":"e5c82bb93086d8fa","x":-282,"y":-720,"width":250,"height":60,"type":"text","text":"Politische Morde"},
+		{"id":"9580abc86e0073e6","x":-772,"y":-720,"width":250,"height":60,"type":"text","text":"Präsidialregierung"},
+		{"id":"cbb977abea53daeb","x":-790,"y":-580,"width":250,"height":60,"type":"text","text":"Zwei Ausrufungen der Republik"},
+		{"id":"b4803059e3814c10","x":-790,"y":-428,"width":250,"height":60,"type":"text","text":"Zu viele Auflösungen"},
+		{"id":"49497167c80491a8","x":-165,"y":140,"width":250,"height":78,"type":"text","text":"## Wirtschaft 🏦"},
+		{"id":"2e6557373ad84e63","x":117,"y":309,"width":250,"height":60,"type":"text","text":"Deflation"},
+		{"id":"92a7eab95ca9e728","x":-439,"y":309,"width":250,"height":60,"type":"text","text":"Versailler Vertrag"},
+		{"id":"8542b0ba9eb87cf2","x":-8,"y":440,"width":250,"height":59,"type":"text","text":"Inflation"},
+		{"id":"9a18ead9a32ee398","x":-314,"y":440,"width":250,"height":60,"type":"text","text":"Weltwirtschaftskrise"}
+	],
+	"edges":[
+		{"id":"e4d5cd77a77b794c","fromNode":"5d295fce6c9c0540","fromSide":"bottom","toNode":"49497167c80491a8","toSide":"top"},
+		{"id":"6153e1678d72bfc4","fromNode":"5d295fce6c9c0540","fromSide":"top","toNode":"06670d7374df67fd","toSide":"bottom"},
+		{"id":"43d82a6dfb80af5d","fromNode":"5d295fce6c9c0540","fromSide":"top","toNode":"cad9cd2132279547","toSide":"bottom"},
+		{"id":"37f317dfd6dcc540","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"9580abc86e0073e6","toSide":"bottom"},
+		{"id":"bc7be8e8c0da662a","fromNode":"cad9cd2132279547","fromSide":"top","toNode":"d850234d2e604ec6","toSide":"bottom"},
+		{"id":"98fcbf08cd58514c","fromNode":"cad9cd2132279547","fromSide":"top","toNode":"67cd148936b9296d","toSide":"bottom"},
+		{"id":"5dc06fcae05950e1","fromNode":"49497167c80491a8","fromSide":"bottom","toNode":"92a7eab95ca9e728","toSide":"top"},
+		{"id":"09b19864b23178ff","fromNode":"49497167c80491a8","fromSide":"bottom","toNode":"9a18ead9a32ee398","toSide":"top"},
+		{"id":"18c8d303f9134d73","fromNode":"49497167c80491a8","fromSide":"bottom","toNode":"8542b0ba9eb87cf2","toSide":"top"},
+		{"id":"c1d23e1821e5af34","fromNode":"49497167c80491a8","fromSide":"bottom","toNode":"2e6557373ad84e63","toSide":"top"},
+		{"id":"0538cd0cb35a4532","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"325290b379370e71","toSide":"bottom"},
+		{"id":"1c45531aeab4d7d7","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"cbb977abea53daeb","toSide":"bottom"},
+		{"id":"6bef6460bc721c42","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"6715392bc7a79718","toSide":"bottom"},
+		{"id":"69666f3af7e5b8bb","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"e5c82bb93086d8fa","toSide":"bottom"},
+		{"id":"25d6227959235ec2","fromNode":"06670d7374df67fd","fromSide":"top","toNode":"b4803059e3814c10","toSide":"bottom"},
+		{"id":"cdd28dfdd7fac4ae","fromNode":"cad9cd2132279547","fromSide":"top","toNode":"82bc81db5f6f8b56","toSide":"bottom"},
+		{"id":"4474170f24544fb3","fromNode":"cad9cd2132279547","fromSide":"top","toNode":"11d9847d6a3561b9","toSide":"bottom"}
+	]
+}

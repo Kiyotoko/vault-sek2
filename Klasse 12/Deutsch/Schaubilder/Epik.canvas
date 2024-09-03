@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"baa8e26d3241df94","x":-220,"y":-380,"width":250,"height":60,"type":"text","text":"# Epik"},
+		{"id":"f67e568f6be7520b","x":-590,"y":-176,"width":250,"height":60,"type":"text","text":"Großepik"},
+		{"id":"226aabf58f79fe58","x":-760,"y":-16,"width":250,"height":240,"type":"text","text":"- umfangreiche Texte\n- verschiedene Handlungen\n- Orte und Zeiten\n- Verschiedene Figuren"},
+		{"id":"ae17818a25cc3f60","x":-420,"y":-16,"width":250,"height":120,"type":"text","text":"Epos\n-  besondere Form\n- in Versen verfasst"},
+		{"id":"6d969abcde25c3ff","x":220,"y":-198,"width":250,"height":60,"type":"text","text":"Kleinepik"},
+		{"id":"e2bb22736ea534e2","x":60,"y":-16,"width":250,"height":163,"type":"text","text":"- nicht zu lang\n- unter 20 Seiten\n- eine Haupthandlung\n- wenige Figuren"},
+		{"id":"cbe6fb720cbf419e","x":380,"y":-16,"width":340,"height":316,"type":"text","text":"Kurzgeschichte\n- geringer Umfang\n- alltägliche Situation mit Wendung\n- wenige Personen\n- Merkmale\n\t- kein Ortswechsel\n\t- kurze erzählte Zeitspanne\n\t- ein Handlungsstrang\n- offenes Ende"}
+	],
+	"edges":[
+		{"id":"e10b2f0e7a32026f","fromNode":"baa8e26d3241df94","fromSide":"bottom","toNode":"f67e568f6be7520b","toSide":"top"},
+		{"id":"b11812509633cf96","fromNode":"f67e568f6be7520b","fromSide":"bottom","toNode":"226aabf58f79fe58","toSide":"top"},
+		{"id":"aeb88d7b5e16344b","fromNode":"f67e568f6be7520b","fromSide":"bottom","toNode":"ae17818a25cc3f60","toSide":"top"},
+		{"id":"015d4a6e787485ec","fromNode":"baa8e26d3241df94","fromSide":"bottom","toNode":"6d969abcde25c3ff","toSide":"top"},
+		{"id":"4e135245686520b0","fromNode":"6d969abcde25c3ff","fromSide":"bottom","toNode":"e2bb22736ea534e2","toSide":"top"},
+		{"id":"84adeebf9e299f56","fromNode":"6d969abcde25c3ff","fromSide":"bottom","toNode":"cbe6fb720cbf419e","toSide":"top"}
+	]
+}

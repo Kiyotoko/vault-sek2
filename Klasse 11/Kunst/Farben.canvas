@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Kontraste\n- Komplementär\n- Quantität-Qualität\n- Hell-Dunkel\n- Simultan\n- Farbe-an-Sich\n- Warm-Kalt","id":"39f94dda285c7b09","x":140,"y":-640,"width":312,"height":300},
+		{"type":"text","text":"<h1 align=center>Farben</h1>","id":"893b852788eb1584","x":-40,"y":-200,"width":250,"height":80},
+		{"type":"text","text":"## Malwerkzeuge\n- Pinsel\n- Schwamm\n- Hände\n- Sprühdose\n- Wachsmalstift","id":"5a901c720b7bb507","x":220,"y":40,"width":310,"height":320},
+		{"type":"text","text":"### Bindemittel\n- Öl\n- Wachs","id":"8f929dd0f4e0a555","x":-67,"y":200,"width":250,"height":228},
+		{"type":"text","text":"### Pigment\n- tierisch\n- pflanzlich\n- mineralisch","id":"63aead52798efadf","x":-613,"y":200,"width":250,"height":228},
+		{"type":"text","text":"### Lösemittel\n- Wasser","id":"3fe44cb6906b0cfe","x":-340,"y":200,"width":250,"height":228},
+		{"type":"text","text":"## Farbherstellung","id":"cdec9ed63e13a7ae","x":-363,"y":40,"width":296,"height":60},
+		{"type":"text","text":"## Maltechniken\n- Aquarell\n- Ölfarbe\n- Acryl","id":"a3b9b1b7a59a6cd8","x":-300,"y":-560,"width":298,"height":200},
+		{"type":"text","text":"## Farbornungen\n- RGB\n- HSV\n- Adaptiv\n- Subtraktiv","id":"24deeef54dc5e201","x":-503,"y":-279,"width":280,"height":238},
+		{"type":"text","text":"## Maler\n- Kasper David Friedrich\n- Van Gogh\n- Michelangelo\n- Leonardo da Vinci","id":"710c23aba67d8542","x":375,"y":-279,"width":320,"height":260}
+	],
+	"edges":[
+		{"id":"c832ad3684b09223","fromNode":"893b852788eb1584","fromSide":"right","toNode":"710c23aba67d8542","toSide":"left"},
+		{"id":"281014d71339a8b3","fromNode":"5a901c720b7bb507","fromSide":"top","toNode":"893b852788eb1584","toSide":"bottom"},
+		{"id":"b88f18d782e166ce","fromNode":"893b852788eb1584","fromSide":"left","toNode":"24deeef54dc5e201","toSide":"right"},
+		{"id":"e33847ff03393538","fromNode":"cdec9ed63e13a7ae","fromSide":"bottom","toNode":"63aead52798efadf","toSide":"top"},
+		{"id":"a6bdd63bf2ea3c40","fromNode":"cdec9ed63e13a7ae","fromSide":"bottom","toNode":"3fe44cb6906b0cfe","toSide":"top"},
+		{"id":"ed12f3515c36f817","fromNode":"cdec9ed63e13a7ae","fromSide":"bottom","toNode":"8f929dd0f4e0a555","toSide":"top"},
+		{"id":"8428059d04fcc818","fromNode":"893b852788eb1584","fromSide":"top","toNode":"39f94dda285c7b09","toSide":"bottom"},
+		{"id":"ac2cf35dfa77ea5d","fromNode":"893b852788eb1584","fromSide":"top","toNode":"a3b9b1b7a59a6cd8","toSide":"bottom"},
+		{"id":"63304f1a57f175a0","fromNode":"893b852788eb1584","fromSide":"bottom","toNode":"cdec9ed63e13a7ae","toSide":"top"}
+	]
+}

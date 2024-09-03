@@ -1,0 +1,19 @@
+---
+author: karlz
+tags:
+  - Deutsch
+  - FGB
+---
+
+
+## Corpus Delicti - Ein Roman, der zu viel will?
+
+Juli Zehs Romanversion ihres gleichnamigen Theaterstückes „Copus Delicti“ ist sowohl Dystopie, Justizdrama, Politikthriller als auch Science-Fiction. Die für ihr Engagement in der Politik bekannt Schriftstellerin versucht vieles in ihrem Roman zu verpacken. Doch gelingt es auch?
+
+Im Buch geht es um eine Gesundheitsdiktatur, in der die Methode an der Tagesordnung ist. Die Methode kümmert sich um die vollkommene Gesundheit eines jeden einzelnen – ob er es möchte oder nicht – und ist unfehlbar. Doch nachdem Mia Holl einen schwerer Schicksalsschlag erlebt, beginnt sie an der Methode zu zweifeln, und entwickelt sich von der Methodenverfechterin zur Methodenkritikerin.
+Jedoch verpasst Corpus Delicti die Chance, die Spannung gut aufzubauen, obwohl das Potenzial gegeben wäre. So wird das Urteil dieses Gerichtsdramas bereits am Anfang verkündet, und der Schicksalsschlag ereignet sich, bevor die Handlung überhaupt begonnen hat. Dieses Buch hat exakt zwei große Wendungen. Das Problem hierbei ist, das zwei Wendungen nicht reichen, um die Spannung über 264 Seiten zu ziehen und Aufrecht zu erhalten. Besonders niederschmetternd für die Spannung sind die Analepsen, die die Geschichte eines toten Charakters erzählen, und somit nichts mehr neues erzählen oder zur Charakterentwicklung beitragen.
+Das Problem dieses Buches ist schlichtweg seinen Länge. Die Wendungen sind gut, jedoch nicht gut genug, um die Handlung über so viele Seiten und Gerichtsverhandlungen zu tragen. Häufig sind Kapitel eingebaut, die kaum zu den Charakteren, der Handlung oder dem Worldbuilding beitragen.
+Dies führt auch zu den Problemen als Dystopie oder Justizdrama. Für eine Dystopie fehlt es schlichtweg an inhaltlichen Tiefgang. So wird die Methode, die Gesellschaft darin und die damit verbundenen Folgen nur oberflächlich ausgearbeitet. So wird zum Beispiel die Terror-Organisation „Recht auf Krankheit“ immer erwähnt, darüber hinaus geht es aber nicht. Ein Gegenbeispiel hierzu ist „Brave New World“, welches durch seine orthodoxen Lösungsansätze und die Tiefgehenden Veränderungen der Gesellschaft überzeugt. Dies ist sehr Schade, da vor allem „Animal Farm“ mit seinen nur rund 50 Seiten zeigt, das Dystopie keine ewigen Erzählungen braucht, um überzeugend die Probleme darzustellen. Auf der anderen Seite ist das Drama für ein Justizdrama schlichtweg uninteressant. Während man in einem Justizdrama einen Schlagabtausch zwischen beiden Seiten sieht, der von immer neu aufkommenden Fakten und Zeugen an Spannung gewinnt, fehlt es diesem Roman an allem. Die Zeugen sind ein Haufen lästernder Nachbarn, und nur ein einziger aufkommender Fakt stellt die einzige und damit schon größte Wendung im gesamten Roman dar. Auch als Politikthriller fehl es ihm schlichtweg an Intrigien, Korruption und Skandalen, die, gelinde gesagt, einfach kaum vorhanden sind.
+Sprachlich überzeugt das Werk meistens. Jedoch Stärke und Schwäche zugleich sind seine vielen Metaphern und Fremdwörter. Während einige gut ausgewählt und passend sind, geben andere keinen Mehrwert und stellen eine unnötige Unterbrechung des Leseflusses dar. Hierbei gilt: weniger ist manchmal mehr.
+
+Das Buch möchte vieles sein: Dystopie, Justizdrama, Politikthriller – und scheitert dabei an allem Gleichzeitig. Statt sich auf vieles gleichzeitig zu fokussieren, wäre ein Fokus auf ein oder zwei Aspekte deutlich angenehmer gewesen und hätte vielleicht auch zu einer deutlich konsistenteren Geschichte verholfen. Dabei hatte die Geschichte durchaus durch ihre überzeugenden Wendungen und ihrer Hauptcharakterin potenzial, nur um es dann in den endlosen Seiten der Belanglosigkeit wieder zu verlieren. So kann ich nur jeden dazu raten, abstand vom Buch zu nehmen und eher zum Theaterstück zu greifen, welches in seiner zwei Stunden Fassung deutlich fokussierter ist.
