@@ -1,0 +1,4 @@
+# Reclassifie `.m` files as Matlab
+*.m linguist-language=MATLAB
+*.matlab linguist-language=MATLAB
+.pdf filter=lfs diff=lfs merge=lfs -text
